@@ -1957,6 +1957,7 @@ footer ul li a:hover {
 }
 footer .copyright {
   padding: 15px 0;
+  text-align: center;
 }
 footer .copyright .material-icons {
   font-size: 18px;
@@ -2780,20 +2781,17 @@ h2.title {
 }
 
 .carousel .carousel-control {
-  width: 50%;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  margin: 0 30px;
 }
 .carousel .carousel-control.left, .carousel .carousel-control.right {
   background-image: none;
 }
 .carousel .carousel-control .material-icons,
 .carousel .carousel-control .fa {
-  display: none;
-}
-.carousel .left {
-  cursor: url("../img/arrow-left.png"), url("../img/arrow-left.cur"), default !important;
-}
-.carousel .right {
-  cursor: url("../img/arrow-right.png"), url("../img/arrow-right.cur"), default !important;
+  font-size: 50px;
 }
 .carousel .carousel-indicators {
   bottom: 50px;

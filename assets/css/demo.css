@@ -117,9 +117,8 @@
 
 .logo-container .logo{
     overflow: hidden;
-    border-radius: 50%;
-    border: 1px solid #333333;
-    width: 50px;
+    border-radius: 15%;
+    width: 60px;
     float: left;
 }
 
@@ -395,4 +394,9 @@
 .components-page .title,
 .tutorial-page .title{
     color: #FFFFFF;
+}
+.carousel-control{
+  bottom: auto;
+  left: auto;
+  width: auto;
 }
