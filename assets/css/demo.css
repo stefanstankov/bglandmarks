@@ -398,5 +398,6 @@
 }
 
 .col-md-3{
-	background-image : src{assets/img/side-pic.png};
+	background-image : src(assets/img/side-pic.png);
+	background-repeat: no-repeat;
 }
