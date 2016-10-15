@@ -396,3 +396,7 @@
 .tutorial-page .title{
     color: #FFFFFF;
 }
+
+.col-md-3{
+	background-image : src{assets/img/side-pic.png};
+}
