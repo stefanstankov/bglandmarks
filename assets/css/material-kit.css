@@ -2820,6 +2820,9 @@ h2.title {
   padding-bottom: 75px;
   text-shadow: 2px 2px 4px #000000;
 }
+.carousel .carousel-caption a {
+  color: #fff;
+}
 .carousel .carousel-caption .material-icons {
   position: relative;
   top: 5px;
