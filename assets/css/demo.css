@@ -400,3 +400,21 @@
   left: auto;
   width: auto;
 }
+div.img {
+    margin: 5px;
+    width: 180;px;
+    float: left;
+
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+div.desc {
+    padding: 5px;
+    text-align: center;
+    color: #000;
+}
