@@ -418,3 +418,40 @@ div.desc {
     text-align: center;
     color: #000;
 }
+
+.navbar-brand{
+  font-size: 20px;
+  font-family:'Roboto Slab';
+  height: 40px;
+  text-align: left;
+  float:left;
+  margin-top: 0px;
+}
+
+#bs-example-navbar-collapse-1 li{
+ font-size: 20px;
+}
+
+#bs-example-navbar-collapse-1 :hover{
+  background: none;
+}
+
+body{
+  margin-top: 73px!important;
+}
+
+#nav-color{
+    background: #F0F8FF;
+}
+
+#info{
+  vertical-align: middle;
+}
+
+#bs-example-navbar-collapse-1 :focus{
+  background: none;
+}
+
+.section-basic{
+  background: #F0F8FF;
+}
