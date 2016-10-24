@@ -455,3 +455,7 @@ body{
 .section-basic{
   background: #F0F8FF;
 }
+
+#menu-center{
+  left: 106px;
+}
