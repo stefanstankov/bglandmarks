@@ -1,4 +1,8 @@
 <?php
+//* TODO remove debug infoo after deployment */
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 	$pageTitle = 'Начало';
 ?>
 <?php require '../includes/header.php' ?>
