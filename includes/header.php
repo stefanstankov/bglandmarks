@@ -40,7 +40,7 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-      <a class="navbar-brand" href="#"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
+      <a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
