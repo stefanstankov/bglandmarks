@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 
 	$pageTitle = 'Начало';
 ?>
-<?php require '../includes/header.php' ?>
+<?php require 'includes/header.php' ?>
 	<!-- End Navbar -->
 	<div class="main main-raised">
 		<div class="section section-basic">
@@ -62,4 +62,4 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
-<?php ../includes/footer.php>
+<?php includes/footer.php>
