@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 ?>
 <?php require 'includes/header.php' ?>
 	<!-- End Navbar -->
-	<div class="main main-raised">
+	<div class="main main-raised onemarkpage">
 		<div class="section section-basic">
 			<div class="container-fluid">
 				<div class="row">
@@ -62,4 +62,4 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
-<?php 'includes/footer.php'?>
+<?php require 'includes/footer.php'?>
