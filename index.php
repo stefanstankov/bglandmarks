@@ -30,7 +30,7 @@ ini_set('display_errors', 1);
 
 <body class="index-page">
 
-	<?php require 'includes/deader.php'; ?>
+	<?php require 'includes/header.php'; ?>
 
 
 	<div class="container-fluid">
