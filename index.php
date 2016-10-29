@@ -29,7 +29,7 @@
 </head>
 
 <body class="index-page">
-	<?php include 'includes/header.php'; ?>
+	<?php require 'includes/header.php'; ?>
 	<div class="container-fluid">
 		<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
 			<!-- Carousel indicators -->
@@ -174,7 +174,7 @@
 			</div>
 		</div>
 	</div>
-	<?php require 'includes/sooter.php' ?>
+	<?php require 'includes/footer.php' ?>
 	</div>
 
 	<!-- Sart Modal -->
