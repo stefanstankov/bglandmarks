@@ -174,7 +174,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include 'includes/sooter.php' ?>
+	<?php require 'includes/sooter.php' ?>
 	</div>
 
 	<!-- Sart Modal -->
