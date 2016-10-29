@@ -30,7 +30,7 @@ ini_set('display_errors', 1);
 
 <body class="index-page">
 
-	<?php require 'includes/deader.php'; ?>
+	<?php include 'includes/deader.php'; ?>
 
 	<div class="container-fluid">
 		<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
