@@ -80,7 +80,7 @@
 				<div class="row">
 					<div class="col-md-3">
 						<div class="img">
-							<a href="/landmarks/museum.php">
+							<a href="museum.php">
 								<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
 							</a>
 							<div class="desc">Музея в Кърджали</div>
