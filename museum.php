@@ -62,4 +62,4 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
-<?php includes/footer.php>
+<?php 'includes/footer.php'?>
