@@ -67,16 +67,4 @@ $().ready(function() {
   }
 
 }); </script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-		<script>
-		  $(document).ready(function(){
-			$('.imgs').hover(function() {
-				$(this).addClass('transition');
-
-			}, function() {
-				$(this).removeClass('transition');
-			});
-		  });
-		</script>
 </html>

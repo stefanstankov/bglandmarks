@@ -47,13 +47,13 @@ ini_set('display_errors', 1);
 				<hr/>
 				<div class="row">
 					<div class="col-md-3">
-						<div class="img img-zoom">
-							<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
+						<div class="img">
+							<img src="assets/img/museum.jpg" class="responsive img-zoom" alt="Museum">
 						</div>
 					</div>
 						<div class="col-md-3">
-							<div class="img img-zoom">
-								<img src="assets/img/museum1.jpg" class="responsive" alt="Museum">
+							<div class="img">
+								<img  src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
 							</div>
 						</div>
 						</div>
@@ -77,4 +77,16 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+			<script>
+			  $(document).ready(function(){
+				$('.imgs').hover(function() {
+					$(this).addClass('transition');
+
+				}, function() {
+					$(this).removeClass('transition');
+				});
+			  });
+			</script>
 <?php require 'includes/footer.php'?>
