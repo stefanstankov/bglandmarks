@@ -56,6 +56,7 @@
 		</button>
 
 						</div>
+            	<!--
 						<div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
 							<ul class="nav row text-center">
 								<li class="col-md-3"><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
@@ -63,20 +64,36 @@
 								</a></li>
 								<li class="col-md-3"><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
 								<li class="col-md-3 dropdown">
-
 									<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i aria-hidden="true" class="fa fa-picture-o"></i> Галерия <b class="caret"></b>
 												</a>
 									<ul id="menu-center" class="dropdown-menu">
 										<li><a href="#">Исторически</a></li>
 										<li><a href="#">Природни</a></li>
 										<li><a href="#">Архитектурни</a></li>
-
 									</ul>
 								</li>
 						</div>
 					</div>
 					</nav>
 				</div>
+        -->
+        <div class="navbar navbar-inverse navbar-fixed-left">
+  <a class="navbar-brand" href="#">Brand</a>
+  <ul class="nav navbar-nav">
+   <li><a href="#">Link2</a></li>
+   <li><a href="#">Link3</a></li>
+   <li><a href="#">Link4</a></li>
+   <li><a href="#">Link5</a></li>
+      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+     <ul class="dropdown-menu" role="menu">
+      <li><a href="#">Sub Menu1</a></li>
+      <li><a href="#">Sub Menu2</a></li>
+      <li><a href="#">Sub Menu3</a></li>
+     </ul>
+   </li>
+  </ul>
+</div>
+
 				<div class="row">
 					<div class="col-md-3">
 						<div class="img">
