@@ -93,7 +93,7 @@
    </li>
   </ul>
 </div>
-
+	<!--
 				<div class="row">
 					<div class="col-md-3">
 						<div class="img">
@@ -165,4 +165,5 @@
 			</div>
 		</div>
 	</div>
+      -->
 	<?php require 'includes/footer.php' ?>
