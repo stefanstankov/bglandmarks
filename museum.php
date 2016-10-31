@@ -77,4 +77,14 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
+	<script>
+	  $(document).ready(function(){
+	  $('.img-zoom').hover(function() {
+	    $(this).addClass('transition');
+
+	  }, function() {
+	    $(this).removeClass('transition');
+	  });
+	  });
+	</script>
 <?php require 'includes/footer.php'?>

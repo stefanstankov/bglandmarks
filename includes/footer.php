@@ -67,15 +67,4 @@ $().ready(function() {
   }
 
 }); </script>
-
-<script>
-  $(document).ready(function(){
-  $('.imgs').hover(function() {
-    $(this).addClass('transition');
-
-  }, function() {
-    $(this).removeClass('transition');
-  });
-  });
-</script>
 </html>
