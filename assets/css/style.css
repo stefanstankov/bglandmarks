@@ -465,6 +465,10 @@ body{
     margin-bottom: 90px;
 
 }
+
+#img-position{
+  margin-left: 237px;
+}
 .img-zoom {
 			width:310px;
 			-webkit-transition: all .2s ease-in-out;
