@@ -8,7 +8,7 @@ ini_set('display_errors', 1);
 <?php require 'includes/header.php' ?>
 	<!-- End Navbar -->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>s
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<div class="main main-raised museumpage">
 		<div class="section section-basic">
 			<div class="container-fluid">
@@ -46,12 +46,12 @@ ini_set('display_errors', 1);
 				</div>
 				<hr/>
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<img src="assets/img/museum.jpg" class="responsive img-zoom" alt="Museum">
 						</div>
 					</div>
-						<div class="col-md-3">
+						<div class="col-md-4">
 							<div class="img">
 								<img  src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
 							</div>
