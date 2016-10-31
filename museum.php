@@ -8,6 +8,7 @@ ini_set('display_errors', 1);
 <?php require 'includes/header.php' ?>
 	<!-- End Navbar -->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<div class="main main-raised museumpage">
 		<div class="section section-basic">
 			<div class="container-fluid">
