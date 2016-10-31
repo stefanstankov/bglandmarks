@@ -469,8 +469,12 @@ body{
 #img-position{
   margin-left: 237px;
 }
+#img-position1{
+  margin-left: 249px;
+}
+
 .img-zoom {
-			width:310px;
+			width:210px;
 			-webkit-transition: all .2s ease-in-out;
 			-moz-transition: all .2s ease-in-out;
 			-o-transition: all .2s ease-in-out;

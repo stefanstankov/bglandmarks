@@ -53,7 +53,7 @@ ini_set('display_errors', 1);
 					</div>
 						<div class="col-md-4">
 							<div class="img">
-								<img  src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
+								<img  id="img-position1" src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
 							</div>
 						</div>
 						</div>
