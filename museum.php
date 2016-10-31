@@ -44,12 +44,12 @@ ini_set('display_errors', 1);
 				</div>
 				<hr/>
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-3">
 						<div class="img">
 							<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
 						</div>
 					</div>
-						<div class="col-md-6">
+						<div class="col-md-3">
 							<div class="img">
 								<img src="assets/img/museum1.jpg" class="responsive" alt="Museum">
 							</div>
