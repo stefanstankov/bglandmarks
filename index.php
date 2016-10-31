@@ -93,9 +93,8 @@
    </li>
   </ul>
 </div>
-	<!--
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="museum.php">
 								<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
@@ -103,7 +102,7 @@
 							<div class="desc">Регионален исторически музей Кърджали</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/orfei.jpg" class="responsive" alt="statue">
@@ -111,7 +110,7 @@
 							<div class="desc">Статуята на Орфей</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/perperikon.jpg" class="responsive" alt="perperikon">
@@ -119,7 +118,7 @@
 							<div class="desc">Перперикон</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/ustra.jpg" class="responsive" alt="ustra">
@@ -129,7 +128,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/forest.jpg" class="responsive" alt="stone forest">
@@ -137,7 +136,7 @@
 							<div class="desc">Вкаменената гора</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/stone_mushrooms.jpg" class="responsive" alt="stone mushrooms">
@@ -145,7 +144,7 @@
 							<div class="desc">Каменните гъби</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/rilski_ezera.jpg" class="responsive" alt="rila">
@@ -153,7 +152,7 @@
 							<div class="desc">Рилските езера</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/dam_wall.jpg" class="responsive" alt="dam wall">
@@ -165,5 +164,4 @@
 			</div>
 		</div>
 	</div>
-      -->
 	<?php require 'includes/footer.php' ?>
