@@ -56,7 +56,6 @@
 		</button>
 
 						</div>
-            	<!--
 						<div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
 							<ul class="nav row text-center">
 								<li class="col-md-3"><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
@@ -76,25 +75,8 @@
 					</div>
 					</nav>
 				</div>
-        -->
-        <div class="navbar navbar-inverse navbar-fixed-left">
-  <a class="navbar-brand" href="#">Brand</a>
-  <ul class="nav navbar-nav">
-   <li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-   <li><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-   </a></li>
-   <li><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
-      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Галерия<span class="caret"></span></a>
-     <ul class="dropdown-menu" role="menu">
-      <li><a href="#">Sub Menu1</a></li>
-      <li><a href="#">Sub Menu2</a></li>
-      <li><a href="#">Sub Menu3</a></li>
-     </ul>
-   </li>
-  </ul>
-</div>
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="museum.php">
 								<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
@@ -102,7 +84,7 @@
 							<div class="desc">Регионален исторически музей Кърджали</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/orfei.jpg" class="responsive" alt="statue">
@@ -110,7 +92,7 @@
 							<div class="desc">Статуята на Орфей</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/perperikon.jpg" class="responsive" alt="perperikon">
@@ -118,7 +100,7 @@
 							<div class="desc">Перперикон</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/ustra.jpg" class="responsive" alt="ustra">
@@ -128,7 +110,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/forest.jpg" class="responsive" alt="stone forest">
@@ -136,7 +118,7 @@
 							<div class="desc">Вкаменената гора</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/stone_mushrooms.jpg" class="responsive" alt="stone mushrooms">
@@ -144,7 +126,7 @@
 							<div class="desc">Каменните гъби</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/rilski_ezera.jpg" class="responsive" alt="rila">
@@ -152,7 +134,7 @@
 							<div class="desc">Рилските езера</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="img">
 							<a href="#">
 								<img src="assets/img/dam_wall.jpg" class="responsive" alt="dam wall">
