@@ -55,6 +55,7 @@ ini_set('display_errors', 1);
 							</div>
 						</div>
 						</div>
+						<hr/>
 						<div class="row">
 							<div class="col-md-12">
 						<div id="museum">
