@@ -45,12 +45,12 @@ ini_set('display_errors', 1);
 				<hr/>
 				<div class="row">
 					<div class="col-md-3">
-						<div id="museum_pics" class="img">
+						<div class="img img-zoom">
 							<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
 						</div>
 					</div>
 						<div class="col-md-3">
-							<div class="img">
+							<div class="img img-zoom">
 								<img src="assets/img/museum1.jpg" class="responsive" alt="Museum">
 							</div>
 						</div>
