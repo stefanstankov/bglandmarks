@@ -80,11 +80,11 @@
         <div class="navbar navbar-inverse navbar-fixed-left">
   <a class="navbar-brand" href="#">Brand</a>
   <ul class="nav navbar-nav">
-   <li><a href="#">Link2</a></li>
-   <li><a href="#">Link3</a></li>
-   <li><a href="#">Link4</a></li>
-   <li><a href="#">Link5</a></li>
-      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+   <li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
+   <li><a href="#"><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
+   </a></li>
+   <li><a href="#"><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Галерия<span class="caret"></span></a>
      <ul class="dropdown-menu" role="menu">
       <li><a href="#">Sub Menu1</a></li>
       <li><a href="#">Sub Menu2</a></li>
