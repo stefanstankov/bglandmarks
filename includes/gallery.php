@@ -1,27 +1,3 @@
-<link href="/assets/css/style.css" rel="stylesheet" />
-<link href="/assets/css/gallery.css" rel="stylesheet" />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="../assets/js/lightslider.js"></script>
-<script>
-   $(document).ready(function() {
-  $("#content-slider").lightSlider({
-            loop:true,
-            keyPress:true
-        });
-        $('#image-gallery').lightSlider({
-            gallery:true,
-            item:1,
-            thumbItem:9,
-            slideMargin: 0,
-            speed:500,
-            auto:true,
-            loop:true,
-            onSliderLoad: function() {
-                $('#image-gallery').removeClass('cS-hidden');
-            }
-        });
-});
-</script>
 <div class="demo">
         <div class="item">
             <div class="clearfix" style="max-width:474px;">
