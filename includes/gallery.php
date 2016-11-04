@@ -1,26 +1,5 @@
 <link href="/assets/css/style.css" rel="stylesheet" />
-<style>
-  ul{
-  list-style: none outside none;
-    padding-left: 0;
-        margin: 0;
-}
-    .demo .item{
-        margin-bottom: 60px;
-    }
-.content-slider li{
-    background-color: #ed3020;
-    text-align: center;
-    color: #FFF;
-}
-.content-slider h3 {
-    margin: 0;
-    padding: 70px 0;
-}
-.demo{
-  width: 800px;
-}
-</style>
+<link href="/assets/css/gallery.css" rel="stylesheet" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="../assets/js/lightslider.js"></script>
 <script>
