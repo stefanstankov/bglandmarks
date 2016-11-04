@@ -1,3 +1,4 @@
+<link href="/assets/css/style.css" rel="stylesheet" />
 <style>
   ul{
   list-style: none outside none;
@@ -21,7 +22,7 @@
 }
 </style>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="../assets/js/lightslider.js"></script> 
+<script src="../assets/js/lightslider.js"></script>
 <script>
    $(document).ready(function() {
   $("#content-slider").lightSlider({
@@ -46,8 +47,8 @@
         <div class="item">
             <div class="clearfix" style="max-width:474px;">
                 <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
-                    <li data-thumb="img/thumb/cS-1.jpg">
-                        <img src="img/cS-1.jpg" />
+                    <li data-thumb="../img/thumb/cS-1.jpg">
+                        <img src="../img/cS-1.jpg" />
                          </li>
                     <li data-thumb="../img/thumb/cS-2.jpg">
                         <img src="../img/cS-2.jpg" />
