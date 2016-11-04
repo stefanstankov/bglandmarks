@@ -48,12 +48,12 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<div class="col-md-4">
 						<div class="img">
-							<img id="img-position" src="assets/img/museum.jpg" class="responsive img-zoom" alt="Museum">
+							<img src="assets/img/museum.jpg" class="responsive img-zoom" alt="Museum">
 						</div>
 					</div>
 						<div class="col-md-4">
 							<div class="img">
-								<img  id="img-position1" src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
+								<img src="assets/img/museum1.jpg" class="responsive img-zoom" alt="Museum">
 							</div>
 						</div>
 						</div>
@@ -77,14 +77,4 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
-	<script>
-	  $(document).ready(function(){
-	  $('.img-zoom').hover(function() {
-	    $(this).addClass('transition');
-
-	  }, function() {
-	    $(this).removeClass('transition');
-	  });
-	  });
-	</script>
 <?php require 'includes/footer.php'?>
