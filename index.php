@@ -77,11 +77,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-3">
-						<div class="img">
-							<a href="museum.php">
-								<img src="assets/img/museum.jpg" class="responsive" alt="Museum">
-							</a>
-							<div class="desc">Регионален исторически музей Кърджали</div>
+						
 						</div>
 					</div>
 			</div>
