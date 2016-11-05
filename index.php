@@ -76,7 +76,7 @@
 					</nav>
 				</div>
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-12">
             <div class="container-fluid">
           		<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
           			<!-- Carousel indicators -->
