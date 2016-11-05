@@ -6,25 +6,25 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-12">
-      <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
-        <ul class="nav row text-center">
-          <li class="col-md-3"><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-          <li class="col-md-3"><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-          </a></li>
-          <li class="col-md-3"><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
-          <li class="col-md-3 dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i aria-hidden="true" class="fa fa-picture-o"></i> Галерия <b class="caret"></b>
-                  </a>
-            <ul id="menu-center" class="dropdown-menu">
-              <li><a href="#">Исторически</a></li>
-              <li><a href="#">Природни</a></li>
-              <li><a href="#">Архитектурни</a></li>
-            </ul>
-          </li>
-      </div>
+    <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Me</a>
     </div>
-    </nav>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">WHO</a></li>
+        <li><a href="#">WHAT</a></li>
+        <li><a href="#">WHERE</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
   </div>
 	</div>
 	<div class="main main-raised">
