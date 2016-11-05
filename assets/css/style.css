@@ -453,7 +453,8 @@ body{
 }
 
 .section-basic{
-  background: #F0F8FF;
+  margin-top: 72px;
+  background: #1abc9c;
 }
 
 #menu-center{
@@ -858,3 +859,7 @@ body{
   cursor: -ms-grabbing;
   cursor: grabbing;
 }
+
+#myNavbar li a:hover{
+      color: #1abc9c !important;
+  }
