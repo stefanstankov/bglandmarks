@@ -3,12 +3,6 @@
 
  		require 'includes/header.php';
 ?>
-
-<div class="container-fluid">
-  <div class="row">
-    <?php require 'includes/navbar.php' ?>
-  </div>
-	</div>
 	<div class="main main-raised">
 		<div class="section section-basic">
 				<div class="row">

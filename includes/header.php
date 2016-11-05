@@ -39,7 +39,9 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-      <a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
+					<a href="#" data-toggle="modal" data-target="#aboutus">
+						<i id="info" class="material-icons">info_outline</i> За нас
+					</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
@@ -64,11 +66,6 @@ ini_set('display_errors', 1);
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
           </li>
-          <li>
-            <a href="#" data-toggle="modal" data-target="#aboutus">
-              <i id="info" class="material-icons">info_outline</i> За нас
-            </a>
-          </li>
         </ul>
     </div>
     <!--/.nav-collapse -->
@@ -82,7 +79,7 @@ ini_set('display_errors', 1);
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
   </button>
-  <a class="navbar-brand" href="#">Me</a>
+	<a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
 </div>
 <div class="collapse navbar-collapse" id="myNavbar">
   <ul class="nav navbar-nav navbar-right">
