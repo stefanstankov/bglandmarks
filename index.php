@@ -47,15 +47,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-		</button>
-
-						</div>
+						
 						<div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
 							<ul class="nav row text-center">
 								<li class="col-md-3"><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
