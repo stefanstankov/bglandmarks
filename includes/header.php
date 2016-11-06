@@ -71,7 +71,7 @@ ini_set('display_errors', 1);
     <!--/.nav-collapse -->
   </div>
 </nav>
-<nav id="second-nav" class="navbar navbar-default navbar-fixed-top"">
+<nav class="navbar navbar-default navbar-fixed-top second-nav">
 <div class="container">
 <div class="navbar-header">
 	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
