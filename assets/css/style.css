@@ -474,3 +474,11 @@ body{
   .first-nav{
     margin-top: 65px;
   }
+
+  .main-pic{
+    display: inline;
+    width: 350;
+    height: 350;
+    background-color: #1abc9c;
+     color: #ffffff;
+  }
