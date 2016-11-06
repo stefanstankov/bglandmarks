@@ -57,18 +57,11 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<button type="button" toggle="collapse" data-target="#demo">
+					<a href="#" data-toggle="modal" data-target="#aboutus">
 						<i id="info" class="material-icons">info_outline</i> За нас
-						</button>
-						<div id="demo" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </div>
 					</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse navbar-right">
-      <ul class="nav navbar-nav">
         <ul class="nav navbar-nav navbar-right">
           <li>
             <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
