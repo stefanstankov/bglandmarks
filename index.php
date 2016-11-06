@@ -6,9 +6,13 @@
 				<div class="row">
 					<div class="col-md-12">
             <div class="container-fluid bg-1 text-center main-pic">
+              <span>
               <h3>България</h3>
+              <span/>
               <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
+              <span>
               <h3>ДОБРЕ ДОШЛИ</h3>
+              <span/>
             </div>
 						</div>
 					</div>
