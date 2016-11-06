@@ -48,7 +48,7 @@ ini_set('display_errors', 1);
 	</div>
 	</div>
 	</nav>
-<nav id="nav-color" class="navbar navbar-default navbar-fixed-top">
+<nav id="nav-color" class="navbar navbar-default navbar-fixed-top first-nav">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
