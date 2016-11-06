@@ -32,6 +32,25 @@ ini_set('display_errors', 1);
 
 <nav id="nav-color" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
+		<nav class="navbar navbar-default">
+		<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="landmarks.php">Забележителности</a></li>
+				<li><a href="#">WHAT</a></li>
+				<li><a href="#">Галерия</a></li>
+			</ul>
+		</div>
+		</div>
+		</nav>
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -39,25 +58,6 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<nav class="navbar navbar-default">
-					<div class="container">
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
-					</div>
-					<div class="collapse navbar-collapse" id="myNavbar">
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="landmarks.php">Забележителности</a></li>
-							<li><a href="#">WHAT</a></li>
-							<li><a href="#">Галерия</a></li>
-						</ul>
-					</div>
-					</div>
-					</nav>
 					<a href="#" data-toggle="modal" data-target="#aboutus">
 						<i id="info" class="material-icons">info_outline</i> За нас
 					</a>
