@@ -48,7 +48,6 @@ ini_set('display_errors', 1);
 	</div>
 	</div>
 	</nav>
-</nav>
 <nav id="nav-color" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -89,3 +88,4 @@ ini_set('display_errors', 1);
     </div>
     <!--/.nav-collapse -->
   </div>
+</nav>
