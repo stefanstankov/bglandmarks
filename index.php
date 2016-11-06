@@ -6,9 +6,7 @@
         <div class="conteiner-fluid">
 				<div class="row">
 					<div class="col-md-4">
-            <div class="container-fluid bg-1 text-center main-pic">
                <h3>ДОБРЕ ДОШЛИ</H3>
-            </div>
 						</div>
             <div class="col-md-4">
               <div class="container-fluid bg-1 text-center main-pic">
@@ -16,9 +14,7 @@
               </div>
   						</div>
               <div class="col-md-4">
-                <div class="container-fluid bg-1 text-center main-pic">
                  <h3>в България</H3>
-                </div>
     						</div>
 					</div>
           <div class="row">
