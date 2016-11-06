@@ -485,7 +485,8 @@ body{
   height: 350px;
 }
 
-.main-pic span, img {
+.main-pic span,
+.main-pic img {
     display: inline-block;
     vertical-align: middle;
 }​
