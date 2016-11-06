@@ -470,3 +470,7 @@ body{
 #myNavbar li a:hover{
       color: #1abc9c !important;
   }
+
+  .second-nav{
+    top: 50px;
+  }
