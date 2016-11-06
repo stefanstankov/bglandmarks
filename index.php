@@ -3,7 +3,7 @@
 
  		require 'includes/header.php';
 ?>
-	<div class="main main-raised">
+	<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12">
             <div class="container-fluid bg-1 text-center main-pic">
