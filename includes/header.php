@@ -81,7 +81,7 @@ ini_set('display_errors', 1);
   </button>
 	<a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
 </div>
-<div class="collapse navbar-collapse navbar-fixed" id="myNavbar">
+<div class="collapse navbar-collapse navbar-static-top" id="myNavbar">
   <ul class="nav navbar-nav navbar-right">
     <li><a href="landmarks.php">Забележителности</a></li>
     <li><a href="#">WHAT</a></li>
