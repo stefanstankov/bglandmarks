@@ -486,10 +486,10 @@ body{
   height: 350px;
 }
 
-img.pic::before{
+.pic img::before{
   content: "ДОБРЕ ДОШЛИ";
 }
 
-img.pic::after{
+.pic img::after{
   content: "БЪЛГАРИЯ";
 }
