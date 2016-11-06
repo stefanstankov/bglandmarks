@@ -485,9 +485,9 @@ body{
   height: 350px;
 }
 
-.central-pic ::before{
+.central-pic::before{
   content: " ДОБРЕ ДОШЛИ";
 }
-.central-pic ::after{
+.central-pic::after{
   content: "БЪЛГАРИЯ";
 }
