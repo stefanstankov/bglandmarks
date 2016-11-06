@@ -32,9 +32,8 @@ ini_set('display_errors', 1);
 
 <nav id="nav-color" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
-		  <div class="container-fluid">
 		<nav class="navbar navbar-default">
-		<div class="container">
+		<div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 				<span class="icon-bar"></span>
@@ -52,7 +51,6 @@ ini_set('display_errors', 1);
 		</div>
 		</div>
 		</nav>
-		</div>
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
