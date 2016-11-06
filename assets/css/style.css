@@ -485,6 +485,6 @@ body{
   height: 350px;
 }
 
-.about{
-  padding-top: 5px;
+.modal-content .modal-footer button {
+    padding-top: 5px;
 }
