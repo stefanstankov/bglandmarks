@@ -9,7 +9,7 @@
               <span>
               <h3>в</h3>
               <span/>
-              <img src="assets/img/main.JPG" class="img-responsive img-circle margin central-pic" style="display:inline" alt="RILA">
+              <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
             </div>
 						</div>
 					</div>
