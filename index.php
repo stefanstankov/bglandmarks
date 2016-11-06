@@ -3,6 +3,7 @@
 
  		require 'includes/header.php';
 ?>
+        <div class="conteiner-fluid">
 				<div class="row">
 					<div class="col-md-12">
             <div class="container-fluid bg-1 text-center main-pic">
@@ -55,4 +56,5 @@
             	</div>
   						</div>
   					</div>
+            </div>
 	<?php require 'includes/footer.php' ?>
