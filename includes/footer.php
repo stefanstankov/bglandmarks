@@ -5,7 +5,7 @@
     </div>
   </div>
 </footer>
-<!-- Sart Modal -->
+<!-- Sart Modal
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -27,6 +27,7 @@
   </div>
 </div>
 <!--  End Modal -->
+-->
 </div>
 
 
