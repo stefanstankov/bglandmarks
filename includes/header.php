@@ -57,7 +57,7 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<a href="#" data-toggle="modal" data-target="#aboutus">
+					<a href="#" clss="about" data-toggle="modal" data-target="#aboutus">
 						<i id="info" class="material-icons">info_outline</i> За нас
 					</a>
     </div>
