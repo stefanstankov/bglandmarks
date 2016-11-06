@@ -486,5 +486,7 @@ body{
   height: 350px;
 }
 .second-nav{
-  clear: both;
+  left:0;
+  right: 0;
+  position: fixed;
 }
