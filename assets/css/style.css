@@ -485,10 +485,3 @@ body{
   width: 350px;
   height: 350px;
 }
-
-.main-pic img::before{
-  content: " ДОБРЕ ДОШЛИ";
-}
-.main-pic img::after{
-  content: "БЪЛГАРИЯ";
-}
