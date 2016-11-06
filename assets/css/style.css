@@ -485,8 +485,9 @@ body{
   height: 350px;
 }
 
-.main-pic span,
-.main-pic img {
-    display: inline-block;
-    vertical-align: middle;
-}​
+.central-pic ::before{
+  content: " ДОБРЕ ДОШЛИ";
+}
+.central-pic ::after{
+  content: "БЪЛГАРИЯ";
+}
