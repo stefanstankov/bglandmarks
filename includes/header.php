@@ -83,9 +83,9 @@ ini_set('display_errors', 1);
 </div>
 <div class="collapse navbar-collapse" id="myNavbar">
   <ul class="nav navbar-nav navbar-right">
-    <li><a href="#">WHO</a></li>
+    <li><a href="landmarks.php">Забележителности</a></li>
     <li><a href="#">WHAT</a></li>
-    <li><a href="#">WHERE</a></li>
+    <li><a href="#">Галерия</a></li>
   </ul>
 </div>
 </div>
