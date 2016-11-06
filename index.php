@@ -5,17 +5,17 @@
 ?>
         <div class="conteiner-fluid">
 				<div class="row">
-					<div class="col-sm-4">
+					<div class="col-md-4">
             <div class="container-fluid bg-1 text-center main-pic">
                <h3>ДОБРЕ ДОШЛИ</H3>
             </div>
 						</div>
-            <div class="col-sm-4">
+            <div class="col-md-4">
               <div class="container-fluid bg-1 text-center main-pic">
                 <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
               </div>
   						</div>
-              <div class="col-sm-4">
+              <div class="col-md-4">
                 <div class="container-fluid bg-1 text-center main-pic">
                  <h3>в България</H3>
                 </div>
