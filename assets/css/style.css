@@ -478,6 +478,7 @@ body{
 .main-pic{
   background-color: #1abc9c;
       color: #ffffff;
+      margin-top: 57px;
 }
 
 .main-pic img{
@@ -485,9 +486,9 @@ body{
   height: 350px;
 }
 
-.central-pic::before{
+.central-pic :before{
   content: " ДОБРЕ ДОШЛИ";
 }
-.central-pic::after{
+.central-pic :after{
   content: "БЪЛГАРИЯ";
 }
