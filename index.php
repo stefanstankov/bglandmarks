@@ -7,11 +7,10 @@
 		<div class="section section-basic">
 				<div class="row">
 					<div class="col-md-12">
-            <div class="container-fluid bg-1 text-center">
-  <h3 class="margin">Who Am I?</h3>
-  <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
-  <h3>I'm an adventurer</h3>
-</div>
+            <div class="container-fluid bg-1 text-center main-pic">
+              <img src="assets/img/main.JPGS" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
+              <h3>ДОБРЕ ДОШЛИ</h3>
+            </div>
 						</div>
 					</div>
           <div class="row">
