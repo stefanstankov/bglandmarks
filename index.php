@@ -5,17 +5,14 @@
 ?>
         <div class="conteiner-fluid">
 				<div class="row">
-					<div class="col-md-4">
-               <h3>ДОБРЕ ДОШЛИ</H3>
+					<div class="col-md-12">
+            <div class="container-fluid bg-1 text-center main-pic">
+              <span>
+              <h3>в</h3>
+              <span/>
+              <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
+            </div>
 						</div>
-            <div class="col-md-4">
-              <div class="container-fluid bg-1 text-center main-pic">
-                <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
-              </div>
-  						</div>
-              <div class="col-md-4">
-                 <h3>в България</H3>
-    						</div>
 					</div>
           <div class="row">
   					<div class="col-md-12">
@@ -59,5 +56,4 @@
             	</div>
   						</div>
   					</div>
-            </div>
 	<?php require 'includes/footer.php' ?>
