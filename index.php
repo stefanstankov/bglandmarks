@@ -7,7 +7,7 @@
 		<div class="section section-basic">
 				<div class="row">
 					<div class="col-md-12">
-            <div class="container-fluid main-pic">
+            <div class="container-fluid">
               <h3 class="margin">Who Am I?</h3>
         <img src="assets/img/main.jpg" class="img-responsive img-circle margin" alt="Bird">
         <h3>I'm an adventurer</h3>
