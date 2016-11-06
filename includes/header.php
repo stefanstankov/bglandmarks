@@ -57,7 +57,7 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<a href="#" toggle="collapse" data-target="#demo">
+					<a href="#" type="button" toggle="collapse" data-target="#demo">
 						<i id="info" class="material-icons">info_outline</i> За нас
 						<div id="demo" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
