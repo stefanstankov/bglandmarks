@@ -4,11 +4,10 @@
  		require 'includes/header.php';
 ?>
 	<div class="main main-raised">
-		<div class="section section-basic">
 				<div class="row">
 					<div class="col-md-12">
             <div class="container-fluid bg-1 text-center main-pic">
-              <img src="assets/img/main.JPGS" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
+              <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
               <h3>ДОБРЕ ДОШЛИ</h3>
             </div>
 						</div>
@@ -56,6 +55,5 @@
   						</div>
   					</div>
 			</div>
-		</div>
 	</div>
 	<?php require 'includes/footer.php' ?>
