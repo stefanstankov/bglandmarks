@@ -485,3 +485,6 @@ body{
   width: 350px;
   height: 350px;
 }
+.second-nav{
+  clear: both;
+}
