@@ -82,7 +82,7 @@ ini_set('display_errors', 1);
 		<div id="navbar" class="navbar-collapse collapse navbar-right">
 <ul class="nav navbar-nav navbar-right">
 <li class="dropdown">
-			<a id="menu-center" class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
+			<a id="menu-center"s class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
 						</a>
 			<ul id="menu-center" class="dropdown-menu">
 				<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
