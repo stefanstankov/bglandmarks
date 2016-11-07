@@ -8,7 +8,7 @@
               <div class="col-md-12">
                 <div class="container-fluid text-center">
                 <hr/>
-                <h2>ДОБРЕ ДОШЛИ</h2>
+                <h2><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i><i class="fa fa-angle-double-left" aria-hidden="true"></i>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                 <hr/>
