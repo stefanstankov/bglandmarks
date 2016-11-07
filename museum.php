@@ -47,7 +47,24 @@ ini_set('display_errors', 1);
 				<hr/>
 				<div class="row">
 					<div class="col-md-4">
-							<?php require 'includes/gallery.php'?>
+						<div class="demo">
+						        <div class="item">
+						            <div class="clearfix" style="max-width:474px;">
+						                <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
+						                    <li data-thumb="../img/museum/thumb/cS-1.jpg">
+						                        <img src="../img/museum/cS-1.jpg" />
+						                         </li>
+						                    <li data-thumb="../img/museum/thumb/cS-2.jpg">
+						                        <img src="../img/museum/cS-2.jpg" />
+						                         </li>
+						                    <li data-thumb="../img/museum/thumb/cS-3.jpg">
+						                        <img src="../img/museum/cS-3.jpg" />
+						                         </li>
+						                </ul>
+						            </div>
+						        </div>
+						    </div>
+
 					</div>
 					<div class="col-md-8">
 				<div id="museum">
