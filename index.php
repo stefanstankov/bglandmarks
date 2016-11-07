@@ -8,12 +8,11 @@
               <div class="col-md-12">
                 <div class="container-fluid text-center">
                 <hr/>
-                <h3>ДОБРЕ ДОШЛИ</h3>
+                <h2>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                 <hr/>
-                <h3>В БЪЛГАРИЯ</h3>
-                <hr/>
+                <h2>В БЪЛГАРИЯ</h2>
                 </div>
     						</div>
     					</div>
