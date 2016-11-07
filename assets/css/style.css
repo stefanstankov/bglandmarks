@@ -469,12 +469,6 @@ body{
     font-family:'Roboto Slab';
   }
 
-.main-pic{
-  background-color: #1abc9c;
-      color: #ffffff;
-      margin-top: 57px;
-}
-
 .main-pic img{
   width: 350px;
   height: 350px;
