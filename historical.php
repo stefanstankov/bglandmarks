@@ -70,7 +70,7 @@
           <div class="col-md-4">
 						<div class="img">
 							<a href="#">
-								<img src="assets/img/.jpg" class="responbridgesive" alt="ustra">
+								<img src="assets/img/bridge.jpg" class="responbridgesive" alt="bridge">
 							</a>
 							<div class="desc">Дяволксия мост</div>
 						</div>
