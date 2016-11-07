@@ -53,6 +53,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="img">
+                	<a href="devil_bridge.php">
               <img src="assets/img/bridge.jpg" class="responsive" alt="bridge">
             </a>
             <div class="desc">Дяволксия мост</div>
