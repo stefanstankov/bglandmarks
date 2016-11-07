@@ -449,7 +449,7 @@ body{
 }
 
 .section-basic{
-  margin-top: 72px;
+  margin-top: 135px;
   background: #e5e5e5;
 }
 
@@ -475,7 +475,4 @@ body{
   margin-top: 135px;
   color: #ffffff;
   font-family:'Roboto Slab';
-}
-.section-basic db{
-  margin-top: 140px;
 }
