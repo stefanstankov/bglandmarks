@@ -41,20 +41,28 @@ ini_set('display_errors', 1);
 	          </button>
 						<a class="navbar-brand" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Bulgarian landmarks</a>
 	    </div>
-	    <div id="navbar" class="navbar-collapse collapse navbar-right">
+			<div id="navbar" class="navbar-collapse collapse navbar-right">
 	        <ul class="nav navbar-nav navbar-right">
-						<li class="dropdown">
-										<a class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
-													</a>
-										<ul id="menu-center" class="dropdown-menu">
-											<li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-											<li><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-									</a></li>
-											<li><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
-										</ul>
-									</li>
-				<li><a href="#">WHAT</a></li>
-				<li><a href="#">Галерия</a></li>
+	          <li>
+	            <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+	              <i class="fa fa-facebook-square"></i>
+	            </a>
+	          </li>
+	          <li>
+	            <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+	              <i class="fa fa-instagram"></i>
+	            </a>
+	          </li>
+	          <li>
+	            <a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+	              <i class="fa fa-mobile" aria-hidden="true"></i>
+	            </a>
+	          </li>
+	          <li>
+	            <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+	              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+	            </a>
+	          </li>
 	        </ul>
 	    </div>
 	    <!--/.nav-collapse -->
@@ -73,30 +81,21 @@ ini_set('display_errors', 1);
 						<i id="info" class="material-icons">info_outline</i> За нас
 					</a>
     </div>
-    <div id="navbar" class="navbar-collapse collapse navbar-right">
-        <ul class="nav navbar-nav navbar-right">
-          <li>
-            <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-facebook-square"></i>
-            </a>
-          </li>
-          <li>
-            <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-instagram"></i>
-            </a>
-          </li>
-          <li>
-            <a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-mobile" aria-hidden="true"></i>
-            </a>
-          </li>
-          <li>
-            <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-envelope-o" aria-hidden="true"></i>
-            </a>
-          </li>
-        </ul>
-    </div>
-    <!--/.nav-collapse -->
+		<div id="navbar" class="navbar-collapse collapse navbar-right">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+			<a class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
+						</a>
+			<ul id="menu-center" class="dropdown-menu">
+				<li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
+				<li><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
+		</a></li>
+				<li><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+			</ul>
+		</li>
+<li><a href="#">WHAT</a></li>
+<li><a href="#">Галерия</a></li>
+</ul>
+</div>
   </div>
 </nav>
