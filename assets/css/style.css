@@ -485,7 +485,7 @@ body{
   width: 350px;
   height: 350px;
 }
-.second-nav{
+#myNavbar{
   left:0;
   right: 0;
   position: fixed;
