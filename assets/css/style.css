@@ -426,7 +426,6 @@ div.desc {
   text-align: left;
   float:left;
   margin-top: 0px;
-  left:0;
 }
 
 #bs-example-navbar-collapse-1 li{
@@ -490,4 +489,5 @@ body{
   left: 0;
   right: 0;
   position: fixed;
+  clear: both;
 }
