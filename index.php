@@ -19,7 +19,7 @@
       <div class="row text-center">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="assets/img/bridge.jpg" alt="Paris" width="400" height="300">
+            <img src="assets/img/dam_wall.jpg" alt="Paris" width="400" height="300">
             <p><strong>Paris</strong></p>
             <p>Friday 27 November 2015</p>
             <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
@@ -35,7 +35,7 @@
         </div>
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="assets/img/dam_wall.jpg" alt="San Francisco" width="400" height="300">
+            <img src="assets/img/bridge.jpg" alt="San Francisco" width="400" height="300">
             <p><strong>San Francisco</strong></p>
             <p>Sunday 29 November 2015</p>
             <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
