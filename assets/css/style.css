@@ -479,8 +479,6 @@ body{
   background-color: #1abc9c;
       color: #ffffff;
       margin-top: 57px;
-      right: 0px;
-      left: 0px;
 }
 
 .main-pic img{
@@ -493,7 +491,7 @@ margin-right: auto;
 padding-left: 15px;
 padding-right: 15px;
 }
-.carousel-slide{
-  right: 0px;
-  left: 0px;
-}
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
