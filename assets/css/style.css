@@ -479,3 +479,7 @@ body{
   margin-left: 0px;
   margin-right: 0px;
 }
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+    }
