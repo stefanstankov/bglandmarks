@@ -485,7 +485,7 @@ body{
   width: 350px;
   height: 350px;
 }
-#myNavbar{
+.second-nav{
 margin-left: auto;
 margin-right: auto;
 padding-left: 15px;
