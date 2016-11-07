@@ -459,6 +459,7 @@ body{
 
 #menu-center{
   left: 106px;
+   z-index: 100;
 }
 
 .museumpage {

@@ -44,7 +44,7 @@ ini_set('display_errors', 1);
 	    <div id="navbar" class="navbar-collapse collapse navbar-right">
 	        <ul class="nav navbar-nav navbar-right">
 						<li class="dropdown">
-										<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i aria-hidden="true" class="fa fa-picture-o"></i>Забележителности<b class="caret"></b>
+										<a class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
 													</a>
 										<ul id="menu-center" class="dropdown-menu">
 											<li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
