@@ -77,9 +77,6 @@ ini_set('display_errors', 1);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<a href="#" data-toggle="modal" data-target="#aboutus">
-						<i id="info" class="material-icons">info_outline</i> За нас
-					</a>
     </div>
 		<div id="navbar" class="navbar-collapse collapse navbar-right">
 <ul class="nav navbar-nav navbar-right">
@@ -95,6 +92,9 @@ ini_set('display_errors', 1);
 		</li>
 <li><a href="#">WHAT</a></li>
 <li><a href="#">Галерия</a></li>
+<li><a href="#" data-toggle="modal" data-target="#aboutus">
+	<i id="info" class="material-icons">info_outline</i> За нас
+</a>
 </ul>
 </div>
   </div>
