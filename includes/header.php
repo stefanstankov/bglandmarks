@@ -84,10 +84,10 @@ ini_set('display_errors', 1);
 			<a class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
 						</a>
 			<ul id="menu-center" class="dropdown-menu">
-				<li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-				<li><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
+				<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
+				<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни
 		</a></li>
-				<li><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+				<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
 			</ul>
 		</li>
 <li><a href="#">WHAT</a></li>
