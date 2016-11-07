@@ -13,9 +13,9 @@
                 <h3>ДОБРЕ ДОШЛИ</h3>
                 <br>
                 <br>
-                </hr>
+                <hr>
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
-                </hr>
+                <hr>
                 <br>
                 <br>
                 <h3>В БЪЛГАРИЯ</h3>
