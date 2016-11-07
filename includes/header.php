@@ -91,11 +91,12 @@ ini_set('display_errors', 1);
 				<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
 			</ul>
 		</li>
-<li><a href="#">WHAT</a></li>
 <li><a href="#">Галерия</a></li>
 <li><a href="#" data-toggle="modal" data-target="#aboutus">
 	<i id="info" class="material-icons">info_outline</i> За нас
 </a>
+</li>
+<li><a href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Начало</a></li>
 </ul>
 </div>
   </div>
