@@ -453,11 +453,6 @@ body{
   background: #e5e5e5;
 }
 
-#menu-center{
-  left: 106px;
-  background: none;
-}
-
 .museumpage {
     margin-top: 75px;
     margin-bottom: 90px;
@@ -480,8 +475,4 @@ body{
   margin-top: 135px;
   color: #ffffff;
   font-family:'Roboto Slab';
-}
-
-#menu-center :focus{
-  background: none;
 }
