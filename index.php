@@ -3,10 +3,10 @@
 
  		require 'includes/header.php';
 ?>
-        <div class="conteiner-fluid">
-          <div class="row">
-  					<div class="col-md-12">
-              <div class="container-fluid bg-1">
+        <div class="conteiner-fluid bg-1">
+          <div class="row bg-1">
+  					<div class="col-md-12 bg-1">
+              <div class="container-fluid">
             		<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
             			<!-- Carousel indicators -->
             			<ol class="carousel-indicators">
@@ -46,8 +46,8 @@
             	</div>
   						</div>
   					</div>
-            <div class="row main-pic">
-              <div class="col-md-12">
+            <div class="row main-pic bg-1">
+              <div class="col-md-12 bg-1">
                 <div class="container-fluid bg-1 text-center">
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                 </div>
