@@ -6,7 +6,7 @@
         <div class="conteiner-fluid">
           <div class="row">
   					<div class="col-md-12">
-              <div class="container-fluid">
+              <div class="container-fluid bg-1">
             		<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
             			<!-- Carousel indicators -->
             			<ol class="carousel-indicators">
