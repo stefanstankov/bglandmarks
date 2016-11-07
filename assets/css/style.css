@@ -485,7 +485,7 @@ body{
   width: 350px;
   height: 350px;
 }
-.#myNavbar li a{
+.#myNavbar li {
 margin-left: auto;
 margin-right: auto;
 padding-left: 15px;
