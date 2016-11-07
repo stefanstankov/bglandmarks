@@ -476,9 +476,6 @@ body{
 
 .main-pic{
   background-color: #1abc9c;
-}
-
-.bg-1{
-  left: 0;
-  right: 0;
+  margin-left: 0px;
+  margin-right: 0px;
 }
