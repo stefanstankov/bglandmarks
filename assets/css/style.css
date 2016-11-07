@@ -486,8 +486,8 @@ body{
   height: 350px;
 }
 #myNavbar{
-  left: 0;
-  right: 0;
-  position: fixed;
-  clear: both;
+margin-left: auto;
+margin-right: auto;
+padding-left: 15px;
+padding-right: 15px;
 }
