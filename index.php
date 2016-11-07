@@ -10,9 +10,9 @@
                 <hr/>
                 <h2>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
-                ::before
+                ::before{<content select="ДОБРЕДОШЛИ"></content>}
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
-                  ::after
+                  ::after{<content select="БЪЛГАРИЯ"></content>}
                 <hr/>
                 <h2>В БЪЛГАРИЯ</h2>
                 </div>
