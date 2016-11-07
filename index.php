@@ -10,7 +10,9 @@
                 <hr/>
                 <h2>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
+                ::before
                   <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
+                  ::after
                 <hr/>
                 <h2>В БЪЛГАРИЯ</h2>
                 </div>
