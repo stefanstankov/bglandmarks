@@ -459,7 +459,7 @@ body{
 
 #menu-center{
   left: 106px;
-   z-index: 3000;
+   z-index: 10;
 }
 
 .museumpage {
@@ -468,12 +468,9 @@ body{
 
 }
 
-#myNavbar li a:hover{
-      color: #1abc9c !important;
-  }
-
   .first-nav{
     margin-top: 65px;
+    z-index: 1;
   }
 
 .main-pic{
