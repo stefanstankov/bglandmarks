@@ -455,6 +455,7 @@ body{
 
 #menu-center{
   left: 106px;
+  background: none;
 }
 
 .museumpage {
@@ -479,4 +480,8 @@ body{
   margin-top: 135px;
   color: #ffffff;
   font-family:'Roboto Slab';
+}
+
+#menu-center :focus{
+  background: none;
 }
