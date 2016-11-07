@@ -55,7 +55,7 @@
               <div class="thumbnail">
                 <img src="assets/img/bridge.jpg" alt="Дяволксия мост" width="400" height="300">
                 <p><strong>Дяволксия мост</strong></p>
-                <p>Friday 27 November 2015</p>
+                <p>Ардино</p>
                 <a id="db" href="devil_bridge.php">
                 <button class="btn" data-toggle="modal" data-target="#db">Научи повече</button>
               </a>
