@@ -23,7 +23,7 @@
 							<a href="#">
 								<img src="assets/img/ustra.jpg" class="responsive" alt="ustra">
 							</a>
-							<div class="desc">Крепостта Устра</div>
+							<div class="desc"><h3>Крепостта Устра</h3></div>
 						</div>
 					</div>
 				</div>
