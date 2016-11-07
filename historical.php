@@ -50,32 +50,32 @@
 	<div class="main main-raised">
 		<div class="section section-basic">
 			<div class="container-fluid">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="img">
-                	<a href="devil_bridge.php">
-              <img src="assets/img/bridge.jpg" class="responsive" alt="bridge">
-            </a>
-            <div class="desc">Дяволксия мост</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="img">
-							<a href="#">
-								<img src="assets/img/ustra.jpg" class="responsive" alt="ustra">
-							</a>
-							<div class="desc">Крепостта Устра</div>
-						</div>
-					</div>
-          <div class="col-md-4">
-						<div class="img">
-              <a href="#">
-								<img src="assets/img/perperikon.jpg" class="responsive" alt="perperikon">
-							</a>
-							<div class="desc">Перперикон</div>
-						</div>
-					</div>
-				</div>
+        <div class="row text-center">
+            <div class="col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/img/bridge.jpg" alt="Дяволксия мост" width="400" height="300">
+                <p><strong>Дяволксия мост</strong></p>
+                <p>Friday 27 November 2015</p>
+                <button class="btn" data-toggle="modal" data-target="devil_bridge.php">Научи повече</button>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/img/ustra.jpg" alt="Крепостта Устра" width="400" height="300">
+                <p><strong>Крепостта Устра</strong></p>
+                <p>Saturday 28 November 2015</p>
+                <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="thumbnail">
+                <img src="assets/img/perperikon.jpg" alt="Перперикон" width="400" height="300">
+                <p><strong>Перперикон</strong></p>
+                <p>Sunday 29 November 2015</p>
+                <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
+              </div>
+            </div>
+          </div>
 			</div>
 		</div>
 	</div>
