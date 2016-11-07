@@ -46,19 +46,19 @@
             	</div>
   						</div>
   					</div>
-            <div class="row">
+            <div class="row main-pic">
               <div class="col-md-4">
-                <div class="container-fluid bg-1 text-center main-pic">
+                <div class="container-fluid bg-1 text-center">
                   <img src="assets/img/main1.jpg" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                 </div>
     						</div>
                 <div class="col-md-4">
-                  <div class="container-fluid bg-1 text-center main-pic">
+                  <div class="container-fluid bg-1 text-center">
                     <img src="assets/img/main.JPG" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                   </div>
       						</div>
                   <div class="col-md-4">
-                    <div class="container-fluid bg-1 text-center main-pic">
+                    <div class="container-fluid bg-1 text-center">
                       <img src="assets/img/main2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="RILA">
                     </div>
         						</div>
