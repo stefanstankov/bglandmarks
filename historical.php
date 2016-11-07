@@ -53,10 +53,9 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="img">
-							<a href="#">
-								<img src="assets/img/perperikon.jpg" class="responsive" alt="perperikon">
-							</a>
-							<div class="desc">Перперикон</div>
+              <img src="assets/img/bridge.jpg" class="responsive" alt="bridge">
+            </a>
+            <div class="desc">Дяволксия мост</div>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -69,10 +68,10 @@
 					</div>
           <div class="col-md-4">
 						<div class="img">
-							<a href="#">
-								<img src="assets/img/bridge.jpg" class="responsive" alt="bridge">
+              <a href="#">
+								<img src="assets/img/perperikon.jpg" class="responsive" alt="perperikon">
 							</a>
-							<div class="desc">Дяволксия мост</div>
+							<div class="desc">Перперикон</div>
 						</div>
 					</div>
 				</div>
