@@ -479,6 +479,6 @@ body{
 }
 
 .bg-1{
-  padding-left: 0px;
-  padding-right: 0px;
+  left: 0;
+  right: 0;
 }
