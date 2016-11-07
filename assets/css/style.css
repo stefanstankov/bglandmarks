@@ -441,7 +441,7 @@ body{
 }
 
 #nav-color{
-    background: #F0F8FF;
+    background: #e5e5e5;
 }
 
 #info{
@@ -484,10 +484,4 @@ body{
 .main-pic img{
   width: 350px;
   height: 350px;
-}
-.#myNavbar li {
-margin-left: auto;
-margin-right: auto;
-padding-left: 15px;
-padding-right: 15px;
 }

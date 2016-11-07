@@ -43,7 +43,16 @@ ini_set('display_errors', 1);
 	    </div>
 	    <div id="navbar" class="navbar-collapse collapse navbar-right">
 	        <ul class="nav navbar-nav navbar-right">
-	          <li><a href="landmarks.php">Забележителности</a></li>
+						<li class="dropdown">
+										<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i aria-hidden="true" class="fa fa-picture-o"></i>Забележителности<b class="caret"></b>
+													</a>
+										<ul id="menu-center" class="dropdown-menu">
+											<li><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
+											<li><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
+									</a></li>
+											<li><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+										</ul>
+									</li>
 				<li><a href="#">WHAT</a></li>
 				<li><a href="#">Галерия</a></li>
 	        </ul>
