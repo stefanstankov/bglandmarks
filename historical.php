@@ -55,7 +55,7 @@
               <div class="thumbnail">
                 <img src="assets/img/bridge.jpg" alt="Дяволксия мост" width="400" height="300">
                 <p><strong>Дяволксия мост</strong></p>
-                <p>Ардино</p>
+                <p>община Ардино/област Кърджали</p>
                 <a id="db" href="devil_bridge.php">
                 <button class="btn" data-toggle="modal" data-target="#db">Научи повече</button>
               </a>
@@ -64,8 +64,8 @@
             <div class="col-sm-4">
               <div class="thumbnail">
                 <img src="assets/img/ustra.jpg" alt="Крепостта Устра" width="400" height="300">
-                <p><strong>Крепостта Устра</strong></p>
-                <p>Saturday 28 November 2015</p>
+                <p><strong>Крепост Устра</strong></p>
+                <p>с. Устрен/община Джебел/област Кърджали</p>
                 <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
               </div>
             </div>
@@ -73,7 +73,7 @@
               <div class="thumbnail">
                 <img src="assets/img/perperikon.jpg" alt="Перперикон" width="400" height="300">
                 <p><strong>Перперикон</strong></p>
-                <p>Sunday 29 November 2015</p>
+                <p>област Кърджали</p>
                 <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
               </div>
             </div>
