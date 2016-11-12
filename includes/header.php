@@ -93,8 +93,10 @@ ini_set('display_errors', 1);
   </div>
 </nav>
 	<nav class="pushy pushy-left">
-		<a class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian landmarks</a>
             <ul>
+							<li>
+							<a class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian landmarks</a>
+							</li>
                 <li class="pushy-submenu">
                     <a href="#">Забележителности</a>
 										<hr color="black"/>
