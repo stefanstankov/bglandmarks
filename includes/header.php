@@ -29,6 +29,7 @@ ini_set('display_errors', 1);
 	<link href="/assets/css/gallery.css" rel="stylesheet" />
 	<link rel="stylesheet" href="assets/css/pushy.css">
 	<link rel="stylesheet" href="assets/css/normalize.css">
+	<link rel="stylesheet" href="assets/css/main.css">
 </head>
 
 <body class="index-page">

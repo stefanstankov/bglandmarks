@@ -50,7 +50,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="../assets/js/lightslider.js"></script>
  <script src="../assets/js/pushy.min.js"></script>
- <script src="../assets/js/zoomify.min.js"></script>
+ <script src="../assets/js/main.js"></script>
 
 <div id="fb-root"></div>
 <script>
