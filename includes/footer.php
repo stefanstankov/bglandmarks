@@ -52,7 +52,7 @@
 <div id="fb-root"></div>
 <script>
 window.onload = function() {
-    zoomwall.create(document.getElementById('zoomit'));
+    zoomwall.create(document.getElementById('gallery'));
 };
 </script>
 <script>(function(d, s, id) {

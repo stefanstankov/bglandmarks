@@ -14,10 +14,10 @@ ini_set('display_errors', 1);
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-6">
-						<div>
-	    <img class="col-md-2 zoomwall zoomit" src="../img/devil_bridge/cS-1.jpg" data-highres="../img/devil_bridge/cS-1.jpg" />
-	    <img class="col-md-2 zoomwall zoomit" src="../img/devil_bridge/cS-2.jpg" data-highres="../img/devil_bridge/cS-2.jpg" />
-		<img class="col-md-2 zoomwall zoomit" src="../img/devil_bridge/cS-3.jpg" data-highres="../img/devil_bridge/cS-3.jpg" />
+						<div id="gallery" class="zoomwall">
+	    <img class="col-md-2" src="../img/devil_bridge/cS-1.jpg" data-highres="../img/devil_bridge/cS-1.jpg" />
+	    <img class="col-md-2 " src="../img/devil_bridge/cS-2.jpg" data-highres="../img/devil_bridge/cS-2.jpg" />
+		<img class="col-md-2" src="../img/devil_bridge/cS-3.jpg" data-highres="../img/devil_bridge/cS-3.jpg" />
 						</div>
 					</div>
 					<div class="col-md-6">
