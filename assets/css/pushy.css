@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: #1abc9c;
+  background: rgb(146, 137, 255);
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -21,10 +21,13 @@
   padding: 15px 30px;
   text-decoration: none;
   outline: 0;
+  font-family:'Roboto Slab';
 }
+/*
 .pushy a:hover {
   color: #b3b3b1;
 }
+*/
 .pushy ul:first-child {
   margin-top: 10px;
 }
