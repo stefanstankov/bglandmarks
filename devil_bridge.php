@@ -14,11 +14,7 @@ ini_set('display_errors', 1);
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-6">
-						<div class="photoset-grid-basic" data-layout="12">
-  <img src="../img/devil_bridge/cS-1.jpg" width="1280" height="960">
-  <img src="../img/devil_bridge/cS-2.jpg" width="500" height="375">
-  <img src="../img/devil_bridge/cS-3.jpg" width="500" height="667">
-</div>
+						
 					</div>
 					<div class="col-md-6">
 
