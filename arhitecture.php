@@ -76,7 +76,7 @@
                 <img src="assets/img/dam_wall.jpg" alt="язовирната стена Кърджали" width="400" height="300">
                 <p><strong>язовирна стена</strong></p>
                 <p>град Кърджали</p>
-                <a id="dw" href="dam_wall.php">
+                <a id="dw" href="dam_walls.php">
                 <button class="btn" data-toggle="modal" data-target="#dw">Научи повече</button>
               </a>
               </div>

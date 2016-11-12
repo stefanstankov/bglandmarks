@@ -27,6 +27,7 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 	<link href="/assets/css/gallery.css" rel="stylesheet" />
+	<link rel="stylesheet" href="assets/css/pushy.css">
 </head>
 
 <body class="index-page">
@@ -81,17 +82,46 @@ ini_set('display_errors', 1);
     </div>
 		<div id="navbar" class="navbar-collapse collapse navbar-right">
 <ul class="nav navbar-nav navbar-right">
-<li class="dropdown">
-			<a id="menu-center"s class="dropdown-toggle" data-toggle="dropdown" href="#">Забележителности<b class="caret"></b>
-						</a>
-			<ul id="menu-center" class="dropdown-menu">
-				<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-				<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-		</a></li>
-				<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
-			</ul>
-		</li>
-<li><a href="#">Галерия</a></li>
+<li>
+<ul>
+	<li class="pushy-submenu">
+                    <a href="#">Submenu 1</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 2</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 3</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 4</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-link"><a href="#">Item 1</a></li>
+                <li class="pushy-link"><a href="#">Item 2</a></li>
+                <li class="pushy-link"><a href="#">Item 3</a></li>
+                <li class="pushy-link"><a href="#">Item 4</a></li>
+	<ul>
+</li>
 <li><a href="#" data-toggle="modal" data-target="#aboutus">
 	<i id="info" class="material-icons">info_outline</i> За нас
 </a>
