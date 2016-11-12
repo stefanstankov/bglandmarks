@@ -32,46 +32,6 @@ ini_set('display_errors', 1);
 </head>
 
 <body class="index-page">
-	<nav class="pushy pushy-left">
-            <ul>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 1</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 2</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 3</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 4</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-link"><a href="#">Item 1</a></li>
-                <li class="pushy-link"><a href="#">Item 2</a></li>
-                <li class="pushy-link"><a href="#">Item 3</a></li>
-                <li class="pushy-link"><a href="#">Item 4</a></li>
-            </ul>
-        </nav>
 	<nav class="navbar navbar-default navbar-fixed-top second-nav">
 		<div class="container-fluid">
 	    <div class="navbar-header">
@@ -136,4 +96,44 @@ ini_set('display_errors', 1);
   </div>
 </nav>
 <ul>
+	<nav class="pushy pushy-right">
+            <ul>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 1</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 2</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 3</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-submenu">
+                    <a href="#">Submenu 4</a>
+                    <ul>
+                        <li class="pushy-link"><a href="#">Item 1</a></li>
+                        <li class="pushy-link"><a href="#">Item 2</a></li>
+                        <li class="pushy-link"><a href="#">Item 3</a></li>
+                    </ul>
+                </li>
+                <li class="pushy-link"><a href="#">Item 1</a></li>
+                <li class="pushy-link"><a href="#">Item 2</a></li>
+                <li class="pushy-link"><a href="#">Item 3</a></li>
+                <li class="pushy-link"><a href="#">Item 4</a></li>
+            </ul>
+        </nav>
 </hr>
