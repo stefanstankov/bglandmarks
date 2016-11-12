@@ -83,44 +83,46 @@ ini_set('display_errors', 1);
 		<div id="navbar" class="navbar-collapse collapse navbar-right">
 <ul class="nav navbar-nav navbar-right">
 <li>
-<ul>
-	<li class="pushy-submenu">
-                    <a href="#">Submenu 1</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 2</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 3</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 4</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-link"><a href="#">Item 1</a></li>
-                <li class="pushy-link"><a href="#">Item 2</a></li>
-                <li class="pushy-link"><a href="#">Item 3</a></li>
-                <li class="pushy-link"><a href="#">Item 4</a></li>
-	<ul>
+	<nav class="pushy pushy-left">
+	            <ul>
+	                <li class="pushy-submenu">
+	                    <a href="#">Submenu 1</a>
+	                    <ul>
+	                        <li class="pushy-link"><a href="#">Item 1</a></li>
+	                        <li class="pushy-link"><a href="#">Item 2</a></li>
+	                        <li class="pushy-link"><a href="#">Item 3</a></li>
+	                    </ul>
+	                </li>
+	                <li class="pushy-submenu">
+	                    <a href="#">Submenu 2</a>
+	                    <ul>
+	                        <li class="pushy-link"><a href="#">Item 1</a></li>
+	                        <li class="pushy-link"><a href="#">Item 2</a></li>
+	                        <li class="pushy-link"><a href="#">Item 3</a></li>
+	                    </ul>
+	                </li>
+	                <li class="pushy-submenu">
+	                    <a href="#">Submenu 3</a>
+	                    <ul>
+	                        <li class="pushy-link"><a href="#">Item 1</a></li>
+	                        <li class="pushy-link"><a href="#">Item 2</a></li>
+	                        <li class="pushy-link"><a href="#">Item 3</a></li>
+	                    </ul>
+	                </li>
+	                <li class="pushy-submenu">
+	                    <a href="#">Submenu 4</a>
+	                    <ul>
+	                        <li class="pushy-link"><a href="#">Item 1</a></li>
+	                        <li class="pushy-link"><a href="#">Item 2</a></li>
+	                        <li class="pushy-link"><a href="#">Item 3</a></li>
+	                    </ul>
+	                </li>
+	                <li class="pushy-link"><a href="#">Item 1</a></li>
+	                <li class="pushy-link"><a href="#">Item 2</a></li>
+	                <li class="pushy-link"><a href="#">Item 3</a></li>
+	                <li class="pushy-link"><a href="#">Item 4</a></li>
+	            </ul>
+	        </nav>
 </li>
 <li><a href="#" data-toggle="modal" data-target="#aboutus">
 	<i id="info" class="material-icons">info_outline</i> За нас
