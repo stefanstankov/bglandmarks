@@ -118,7 +118,7 @@
   /* Submenu Icon */
 }
 .pushy-submenu ul {
-  padding-left: 15px;
+  padding-left: 0px;
   transition: max-height 0.2s ease-in-out;
 }
 .pushy-submenu ul .pushy-link {
