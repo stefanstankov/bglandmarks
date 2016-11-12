@@ -84,7 +84,9 @@ ini_set('display_errors', 1);
 		<div id="navbar" class="navbar-collapse collapse navbar-right">
 <ul class="nav navbar-nav navbar-right">
 <li>
-	<div class="menu-btn">&#9776; Menu</div>
+	<div id="container">
+	    <div class="menu-btn">&#9776; Menu</div>
+	</div>
 </li>
 <li><a href="#" data-toggle="modal" data-target="#aboutus">
 	<i id="info" class="material-icons">info_outline</i> За нас
