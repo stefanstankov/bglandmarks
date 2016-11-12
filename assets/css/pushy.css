@@ -118,7 +118,7 @@
 }
 .pushy-submenu ul {
   padding-left: 0px;
-  background: #f5e7de;
+  background: #fff;
   transition: max-height 0.2s ease-in-out;
 }
 .pushy-submenu ul .pushy-link {
@@ -172,6 +172,6 @@
 }
 
 .pushy hr{
-  color: #000000;
+  background: #000000;
 }
 /*# sourceMappingURL=pushy.css.map */
