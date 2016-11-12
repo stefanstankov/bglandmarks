@@ -17,12 +17,12 @@ ini_set('display_errors', 1);
             <div class="demo">
                     <div class="item">
                         <div class="clearfix" style="max-width:474px;">
-                            <ul id="image-gallery" class="gallery list-unstyled cS-hidden zoomimg">
+                            <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
                                 <li data-thumb="../img/devil_bridge/thumb/cS-1.jpg">
                                     <img src="../img/devil_bridge/cS-1.jpg" />
                                      </li>
                                 <li data-thumb="../img/devil_bridge/thumb/cS-2.jpg">
-                                    <img src="../img/devil_bridge/cS-2.jpg" />
+                                    <img  src="../img/devil_bridge/cS-2.jpg" />
                                      </li>
                                 <li data-thumb="../img/devil_bridge/thumb/cS-3.jpg">
                                     <img src="../img/devil_bridge/cS-3.jpg" />
