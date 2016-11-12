@@ -97,7 +97,6 @@ ini_set('display_errors', 1);
 							<hr/>
                 <li class="pushy-submenu">
                     <a href="#">Забележителности</a>
-										ccc
                     <ul>
                         <li class="pushy-link"><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
 												<hr/>

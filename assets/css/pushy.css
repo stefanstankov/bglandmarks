@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: #fff;
+  background: #eeeeee;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -118,7 +118,7 @@
 }
 .pushy-submenu ul {
   padding-left: 0px;
-  background: #eeeeee;
+  background: #fff;
   transition: max-height 0.2s ease-in-out;
 }
 .pushy-submenu ul .pushy-link {
