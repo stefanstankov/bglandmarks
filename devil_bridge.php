@@ -58,8 +58,8 @@ ini_set('display_errors', 1);
 	</div>
 	</div>
 	<script>
-	$('#cS-1.png').zoomify();
-	$('#cS-2.png').zoomify();
-	$('#cS-3.png').zoomify();
+	$('../img/devil_bridge/cS-1.jpg').zoomify();
+	$('../img/devil_bridge/cS-2.jpg').zoomify();
+	$('../img/devil_bridge/cS-3.jpg').zoomify();
 	</script>
 <?php require 'includes/footer.php'?>
