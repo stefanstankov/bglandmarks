@@ -95,11 +95,11 @@ ini_set('display_errors', 1);
 	<nav class="pushy pushy-left">
             <ul>
 							<li  class="pushy-link">
-							<a id="pushy-logo" class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian landmarks</a>
+							<a href="http://www.bglandmarks.com">Bulgarian landmarks</a>
 							</li>
                 <li class="pushy-submenu">
                     <a href="#">Забележителности</a>
-										<hr color="black"/>
+										<hr/>
                     <ul>
                         <li class="pushy-link"><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
 												<hr/>

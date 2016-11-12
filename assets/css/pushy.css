@@ -170,7 +170,8 @@
   max-height: none;
   display: none;
 }
-#pushy-logo{
-  margin-bottom: : 50px;
+
+hr{
+  border: 3px solid #000000;
 }
 /*# sourceMappingURL=pushy.css.map */
