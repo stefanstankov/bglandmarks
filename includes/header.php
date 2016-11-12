@@ -85,7 +85,7 @@ ini_set('display_errors', 1);
 <ul class="nav navbar-nav navbar-right">
 <li>
 	<div id="container">
-	    <div class="menu-btn">&#9776; Menu</div>
+	    <div class="menu-btn">Menu</div>
 	</div>
 </li>
 <li><a href="#" data-toggle="modal" data-target="#aboutus">
@@ -97,7 +97,7 @@ ini_set('display_errors', 1);
 </div>
   </div>
 </nav>
-	<nav class="pushy pushy-right">
+	<nav class="pushy pushy-left">
             <ul>
                 <li class="pushy-submenu">
                     <a href="#">Submenu 1</a>
