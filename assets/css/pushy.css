@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: #e2efd1;
+  background: #e7e7e7;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -172,6 +172,6 @@
 }
 
 .pushy hr{
-  color: #000000
+  color: #000000;
 }
 /*# sourceMappingURL=pushy.css.map */
