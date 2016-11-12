@@ -4,6 +4,9 @@
 * by Christopher Yee */
 /* Menu Appearance */
 .pushy {
+  list-style: outside none none;
+  margin-bottom: 0;
+  padding-left: 0;
   position: fixed;
   width: 200px;
   height: 100%;
@@ -16,12 +19,24 @@
   /* enables momentum scrolling in iOS overflow elements */
 }
 .pushy a {
-  display: block;
-  color:#ffffff;
-  left: 0;
-  right: 0;
-  text-decoration: none;
-  font-family:'Roboto Slab';
+      display: block;
+      padding: 10px 15px;
+      position: relative;
+      font-family:'Roboto Slab';
+}
+a {
+    color: #e91e63;
+    text-decoration: none;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+* {
+    box-sizing: border-box;
 }
 /*
 .pushy a:hover {
