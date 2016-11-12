@@ -57,4 +57,9 @@ ini_set('display_errors', 1);
 		</div>
 	</div>
 	</div>
+	<script>
+	$('#cS-1.png').zoomify();
+	$('#cS-2.png').zoomify();
+	$('#cS-3.png').zoomify();
+	</script>
 <?php require 'includes/footer.php'?>
