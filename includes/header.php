@@ -97,7 +97,6 @@ ini_set('display_errors', 1);
 </div>
   </div>
 </nav>
-<ul>
 	<nav class="pushy pushy-right">
             <ul>
                 <li class="pushy-submenu">
@@ -108,34 +107,9 @@ ini_set('display_errors', 1);
                         <li class="pushy-link"><a href="#">Item 3</a></li>
                     </ul>
                 </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 2</a>
-                    <ul>
                         <li class="pushy-link"><a href="#">Item 1</a></li>
                         <li class="pushy-link"><a href="#">Item 2</a></li>
                         <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 3</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-submenu">
-                    <a href="#">Submenu 4</a>
-                    <ul>
-                        <li class="pushy-link"><a href="#">Item 1</a></li>
-                        <li class="pushy-link"><a href="#">Item 2</a></li>
-                        <li class="pushy-link"><a href="#">Item 3</a></li>
-                    </ul>
-                </li>
-                <li class="pushy-link"><a href="#">Item 1</a></li>
-                <li class="pushy-link"><a href="#">Item 2</a></li>
-                <li class="pushy-link"><a href="#">Item 3</a></li>
-                <li class="pushy-link"><a href="#">Item 4</a></li>
-            </ul>
+												  </ul>
         </nav>
 </hr>
