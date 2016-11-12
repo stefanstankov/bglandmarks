@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: #e7e7e7;
+  background: #fff;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -169,9 +169,5 @@
 .no-csstransforms3d .pushy-submenu-closed ul {
   max-height: none;
   display: none;
-}
-
-.pushy hr{
-  background: #000000;
 }
 /*# sourceMappingURL=pushy.css.map */
