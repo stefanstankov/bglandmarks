@@ -51,26 +51,10 @@
 <script src="../assets/js/lightslider.js"></script>
  <script src="../assets/js/pushy.min.js"></script>
  <script src="../assets/js/main.js"></script>
+ <script src="../assets/viewer.js"></script>
+
 
 <div id="fb-root"></div>
-<script>
-   $(document).ready(function() {
-  $("#content-slider").lightSlider({
-            loop:true,
-            keyPress:true
-        });
-        $('#image-gallery').lightSlider({
-            gallery:true,
-            item:1,
-            thumbItem:9,
-            slideMargin: 0,
-            loop:true,
-            onSliderLoad: function() {
-                $('#image-gallery').removeClass('cS-hidden');
-            }
-        });
-});
-</script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
