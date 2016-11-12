@@ -20,7 +20,6 @@
   color:#ffffff;
   left: 0;
   text-decoration: none;
-  outline: 0;
   font-family:'Roboto Slab';
 }
 /*
@@ -29,7 +28,7 @@
 }
 */
 .pushy ul:first-child {
-  margin-top: 60px;
+  margin-top: 160px;
 }
 .pushy.pushy-left {
   left: 0;
