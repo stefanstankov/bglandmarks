@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: rgb(146, 137, 255);
+  background: #f4d2f0;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -28,7 +28,7 @@
 }
 */
 .pushy ul:first-child {
-  margin-top: 150px;
+  margin-top: 155px;
 }
 .pushy.pushy-left {
   left: 0;
@@ -92,7 +92,6 @@
   bottom: 0;
   left: 0;
   z-index: 9998;
-  background-color: #CCCCCCs;
   -webkit-animation: fade 500ms;
   animation: fade 500ms;
 }
@@ -119,7 +118,7 @@
 }
 .pushy-submenu ul {
   padding-left: 0px;
-  background: #e5e5e5;
+  background: #f5e7de;
   transition: max-height 0.2s ease-in-out;
 }
 .pushy-submenu ul .pushy-link {
