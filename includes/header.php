@@ -112,7 +112,6 @@ ini_set('display_errors', 1);
                         <li class="pushy-link"><a href="#">Item 2</a></li>
 												<hr/>
                         <li class="pushy-link"><a href="#">Bulgarian landmarks</a></li>
-												<hr/>
 												  </ul>
         </nav>
 </hr>
