@@ -110,7 +110,7 @@ ini_set('display_errors', 1);
 												<hr color="black" />
                         <li class="pushy-link"><a href="#">Item 2</a></li>
 												<hr/>
-                        <li id="custom-li" class="pushy-link"><a href="#">Bulgarian landmarks</a></li>
+                        <li class="pushy-link"><a href="#">Bulgarian landmarks</a></li>
 												<hr/>
 												  </ul>
         </nav>
