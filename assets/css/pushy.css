@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: #CCCCCC;
+  background: #1abc9c;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -17,7 +17,7 @@
 }
 .pushy a {
   display: block;
-  color:#FFF;
+  color:#ffffff;
   padding: 15px 30px;
   text-decoration: none;
   outline: 0;
