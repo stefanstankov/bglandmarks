@@ -94,9 +94,10 @@ ini_set('display_errors', 1);
 </nav>
 	<nav class="pushy pushy-left">
             <ul>
+							<hr/>
                 <li class="pushy-submenu">
                     <a href="#">Забележителности</a>
-										<hr/>
+										ccc
                     <ul>
                         <li class="pushy-link"><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
 												<hr/>
