@@ -14,23 +14,14 @@ ini_set('display_errors', 1);
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-6">
-            <div class="demo">
-                    <div class="item">
-                        <div class="clearfix" style="max-width:474px;">
-                            <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
-                                <li data-thumb="../img/devil_bridge/thumb/cS-1.jpg">
-                                    <img src="../img/devil_bridge/cS-1.jpg" />
-                                     </li>
-                                <li data-thumb="../img/devil_bridge/thumb/cS-2.jpg">
-                                    <img  src="../img/devil_bridge/cS-2.jpg" />
-                                     </li>
-                                <li data-thumb="../img/devil_bridge/thumb/cS-3.jpg">
-                                    <img src="../img/devil_bridge/cS-3.jpg" />
-                                     </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+						<div class="docs-galley">
+	          <ul class="docs-pictures clearfix">
+	            <li><img  src="../img/devil_bridge/cS-1.jpg" alt="Cuo Na Lake"></li>
+	            <li><img src="../img/devil_bridge/cS-2.jpg" alt="Tibetan Plateau"></li>
+	            <li><img src="../img/devil_bridge/cS-3.jpg" alt="Jokhang Temple"></li>
+	          </ul>
+	        </div>
+	      </div>
 					</div>
 					<div class="col-md-6">
 
