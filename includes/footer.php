@@ -45,12 +45,18 @@
 
 <!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
 <script src="/assets/js/material-kit.js" type="text/javascript"></script>
+<script src="/assets/js/sszoomwall.js"></script>
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="../assets/js/lightslider.js"></script>
  <script src="../assets/js/pushy.min.js"></script>
 <div id="fb-root"></div>
+<script>
+window.onload = function() {
+    zoomwall.create(document.getElementById('gallery'));
+};
+</script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;

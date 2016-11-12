@@ -14,14 +14,11 @@ ini_set('display_errors', 1);
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-6">
-						<div class="docs-galley">
-	          <ul class="docs-pictures clearfix">
-	            <li><img  src="../img/devil_bridge/cS-1.jpg" alt="Cuo Na Lake"></li>
-	            <li><img src="../img/devil_bridge/cS-2.jpg" alt="Tibetan Plateau"></li>
-	            <li><img src="../img/devil_bridge/cS-3.jpg" alt="Jokhang Temple"></li>
-	          </ul>
-	        </div>
-	      </div>
+						<div id="gallery" class="zoomwall">
+	    <img src="../img/devil_bridge/cS-1.jpg" data-highres="../img/devil_bridge/cS-1.jpg" />
+	    <img src="../img/devil_bridge/cS-2.jpg" data-highres="../img/devil_bridge/cS-2.jpg" />
+		<img src="../img/devil_bridge/cS-3.jpg" data-highres="../img/devil_bridge/cS-3.jpg" />
+						</div>
 					</div>
 					<div class="col-md-6">
 
