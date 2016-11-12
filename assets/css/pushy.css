@@ -18,7 +18,7 @@
 .pushy a {
   display: block;
   color:#ffffff;
-  padding: 15px 30px;
+  
   text-decoration: none;
   outline: 0;
   font-family:'Roboto Slab';
@@ -29,7 +29,7 @@
 }
 */
 .pushy ul:first-child {
-  margin-top: 10px;
+  margin-top: 40px;
 }
 .pushy.pushy-left {
   left: 0;

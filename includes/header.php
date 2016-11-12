@@ -99,14 +99,19 @@ ini_set('display_errors', 1);
                     <a href="#">Забележителности</a>
                     <ul>
                         <li class="pushy-link"><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-                        <li class="pushy-link"><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-		</a></li>
+												<hr/>
+                        <li class="pushy-link"><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни</a></li>
+												<hr/>
                         <li class="pushy-link"><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+												<hr/>
                     </ul>
                 </li>
                         <li class="pushy-link"><a href="#">Галерия</a></li>
+												<hr/>
                         <li class="pushy-link"><a href="#">Item 2</a></li>
+												<hr/>
                         <li class="pushy-link"><a href="#">Item 3</a></li>
+												<hr/>
 												  </ul>
         </nav>
 </hr>
