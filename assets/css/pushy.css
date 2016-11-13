@@ -28,7 +28,7 @@
 }
 */
 .pushy ul:first-child {
-  margin-top:150px;
+  margin-top:155px;
 }
 .pushy.pushy-left {
   left: 0;
@@ -173,5 +173,9 @@
 
  .pushy hr{
   border: 1px solid #1abc9c;
+}
+#pushy-logo{
+  background: #fff;
+  color: solid #00000 2px;
 }
 /*# sourceMappingURL=pushy.css.map */

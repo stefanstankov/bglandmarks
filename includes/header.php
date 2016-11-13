@@ -94,7 +94,7 @@ ini_set('display_errors', 1);
 </nav>
 	<nav class="pushy pushy-left">
             <ul>
-							  <li class="pushy-link"><a href="#">Bulgarian landmarks</a></li>
+							  <li id="pushy-logo" class="pushy-link"><a href="#">Bulgarian landmarks</a></li>
 							<hr/>
                 <li class="pushy-submenu">
                     <a href="#">Забележителности</a>
