@@ -9,7 +9,7 @@
   height: 100%;
   top: 0;
   z-index: 9999;
-  background: rgb(153,102,153);
+  background:#fff;;
   overflow: auto;
   visibility: hidden;
   -webkit-overflow-scrolling: touch;
@@ -17,15 +17,10 @@
 }
 .pushy a {
       color: #000000;
-      background:#fff;
       display: block;
       padding: 10px 15px;
       position: relative;
       font-family:'Roboto Slab';
-}
-
-.pushy li{
-  background:#fff;
 }
 /*
 .pushy a:hover {
