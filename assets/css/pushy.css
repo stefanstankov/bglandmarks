@@ -16,11 +16,15 @@
   /* enables momentum scrolling in iOS overflow elements */
 }
 .pushy a {
-      color: #777799;
+      color: #000000;
       display: block;
       padding: 10px 15px;
       position: relative;
       font-family:'Roboto Slab';
+}
+
+.pushy li{
+  background:#777799;
 }
 /*
 .pushy a:hover {
