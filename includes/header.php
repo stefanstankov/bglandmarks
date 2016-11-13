@@ -107,7 +107,7 @@ ini_set('display_errors', 1);
                 </li>
 								<hr/>
                         <li class="pushy-link"><a href="#">Галерия</a></li>
-												<hr color="black" />
+												<hr />
                         <li class="pushy-link"><a href="#">Полезни линкове</a></li>
 												<hr/>
 												  </ul>
