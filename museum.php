@@ -30,7 +30,7 @@ ini_set('display_errors', 1);
 				</div>
 				<hr/>
 				<div class="row">
-					<div class="col-md-12">
+					<div class="col-md-4">
 				<div id="museum">
 					<p>
 						<h3 class="title_position">Допълнителна информация</h3></p>
@@ -38,6 +38,8 @@ ini_set('display_errors', 1);
 						Кърджалийския край. Експозицията е открита през 1987 година, разположена е на 1800 м2 и е разделена на три секции - отдел „Археология“, отдел „Етнография“ и отдел „Природа“. За всеки един от тях е отделен по един етаж.</p>
 				</div>
 				</div>
+				<div class="col-md-4">
+			</div>
 			</div>
 						<hr/>
 						<div class="row">
