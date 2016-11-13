@@ -177,5 +177,9 @@
 #pushy-logo{
   background: #fff;
   color: solid #00000 2px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-family:'Roboto Slab';
 }
 /*# sourceMappingURL=pushy.css.map */
