@@ -52,7 +52,7 @@ ini_set('display_errors', 1);
         </div>
 				</div>
 							</div>
-						<div class="row">
+						<div class="row row-color1">
 					<div class="col-md-12">
 						<hr/>
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
