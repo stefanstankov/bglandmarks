@@ -450,7 +450,7 @@ body{
 
 .section-basic{
   margin-top: 135px;
-  background: #e5e5e5;
+  background: #fff;
 }
 
 .museumpage {
@@ -489,9 +489,4 @@ body{
 
 .links{
   padding-left: 100px;
-}
-
-.d-div{
-  background-color: #fff;
-  font-family:'Roboto Slab';
 }
