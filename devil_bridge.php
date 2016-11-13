@@ -51,13 +51,13 @@ ini_set('display_errors', 1);
 					</ul>
         </div>
 				</div>
+							</div>
 						<div class="row">
 					<div class="col-md-12">
 						<hr/>
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 				</div>
-			</div>
 		</div>
 	</div>
 	</div>
