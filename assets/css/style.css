@@ -490,3 +490,8 @@ body{
 .links{
   padding-left: 100px;
 }
+
+#museum{
+  background-color: #fff;
+  font-family:'Roboto Slab';
+}
