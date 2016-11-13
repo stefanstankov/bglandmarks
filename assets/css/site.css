@@ -42,7 +42,7 @@ h1 strong {
 }
 
 #slider img {
-    height: 474px;
+    height: 476px;
     width: 338px;
     margin: 0;
     position: relative;
@@ -53,8 +53,8 @@ h1 strong {
 
 .slider-container {
     border: 1px solid #222;
-    width: 958px;
-    height: 298px;
+    width: 476px;
+    height: 338px;
     overflow: hidden;
 }
 
