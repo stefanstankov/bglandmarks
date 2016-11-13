@@ -491,9 +491,10 @@ body{
   padding-left: 100px;
 }
 .row-color{
+  color: #fff;
   background: #a4a4a4;
 }
 
 body{
-  background: #a4a4a4;
+  background-color: #a4a4a4;
 }
