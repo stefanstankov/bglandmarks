@@ -29,7 +29,7 @@ ini_set('display_errors', 1);
 				</div>
 			</div>
 						<hr/>
-            <div class="row">
+            <div class="row d-div">
 					<div class="col-md-4">
             <div class="d-div">
               <p>
@@ -39,7 +39,7 @@ ini_set('display_errors', 1);
             </div>
           </div>
 					<div class="col-md-4">
-						<div class="d-div">
+						<div>
 						<p><h3 align="center">Линкове по темата</h3></p>
 						<ul class="links" style="list-style-type:circle">
 							<li>
