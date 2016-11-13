@@ -47,8 +47,8 @@
 <script src="/assets/js/material-kit.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
  <script src="../assets/js/pushy.min.js"></script>
- <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/miniSlider.js"></script>
+ <script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/miniSlider.js"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
