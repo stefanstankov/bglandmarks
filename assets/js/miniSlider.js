@@ -242,7 +242,7 @@ $(function() {
       nextBtnClass: 'next-btn',
       previousBtnContent: '&lsaquo;',
       nextBtnContent: '&rsaquo;',
-      showPagination: true,
+      showPagination: false,
       paginationClass: 'pagination',
       currentPaginationClass: 'current-pagination',
       onLoad: function() {},
