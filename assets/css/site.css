@@ -18,13 +18,13 @@ h1 strong {
 }
 
 #container {
-    width: 338px;
+    width: 600px;
     font-weight: 100;
     margin:  0 auto;
 }
 
 #main {
-    width: 338px;
+    width: 600px;
     margin:  0 auto;
 }
 
@@ -33,17 +33,17 @@ h1 strong {
 #main-inner {
     position: relative;
     height: 476px;
-    width: 338px;
+    width: 600px;
 }
 
 #slider {
     height: 476px;
-    width: 338px;
+    width: 600px;
 }
 
 #slider img {
     height: 476px;
-    width: 338px;
+    width: 600px;
     margin: 0;
     position: relative;
 }
@@ -54,7 +54,7 @@ h1 strong {
 .slider-container {
     border: 1px solid #222;
     width: 476px;
-    height: 338px;
+    height: 600px;
     overflow: hidden;
 }
 
