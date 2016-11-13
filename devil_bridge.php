@@ -17,9 +17,9 @@ ini_set('display_errors', 1);
 						<div id="main">
 					<div id="main-inner">
 					<div id="slider">
-					<img src="img/devil_bridge/cS-1.jpg" width="474" height="338" />
-					<img src="img/devil_bridge/cS-2.jpg" width="474" height="338" />
-					<img src="img/devil_bridge/cS-3.jpg" width="474" height="338" />
+					<img src="img/devil_bridge/cS-1.jpg"/>
+					<img src="img/devil_bridge/cS-2.jpg"/>
+					<img src="img/devil_bridge/cS-3.jpg"/>
 					</div>
 					</div>
 					</div>
