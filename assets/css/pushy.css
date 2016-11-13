@@ -17,6 +17,7 @@
 }
 .pushy a {
       color: #000000;
+      background:#fff;
       display: block;
       padding: 10px 15px;
       position: relative;
@@ -24,7 +25,7 @@
 }
 
 .pushy li{
-  background:#777799;
+  background:#fff;
 }
 /*
 .pushy a:hover {
