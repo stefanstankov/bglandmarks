@@ -29,7 +29,7 @@ ini_set('display_errors', 1);
 				</div>
 			</div>
 						<hr/>
-            <div class="row">
+            <div class="row row-color">
 					<div class="col-md-8">
             <div style="border-right:1px solid #e7e7e7;">
               <p>

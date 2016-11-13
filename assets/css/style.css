@@ -490,3 +490,10 @@ body{
 .links{
   padding-left: 100px;
 }
+.row-color{
+  background: #a4a4a4;
+}
+
+body{
+  background: #a4a4a4;
+}
