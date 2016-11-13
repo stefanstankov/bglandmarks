@@ -39,6 +39,7 @@ ini_set('display_errors', 1);
 				</div>
 				</div>
 				<div class="col-md-4">
+					<p><h3 class="title_position">Линкове по темата</h3></p>
 			</div>
 			</div>
 						<hr/>
