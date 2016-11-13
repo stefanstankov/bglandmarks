@@ -17,7 +17,15 @@ ini_set('display_errors', 1);
 
 					</div>
 					<div class="col-md-6">
-
+						<div id="main">
+      <div id="main-inner">
+        <div id="slider">
+          <img src="img/devil_bridge/cS-1.jpg" width="958" height="298" />
+          <img src="img/devil_bridge/cS-2.jpg" width="958" height="298" />
+          <img src="img/devil_bridge/cS-3.jpg" width="958" height="298" />
+        </div>
+      </div>
+    </div>
 				</div>
 			</div>
 						<hr/>
@@ -42,8 +50,8 @@ ini_set('display_errors', 1);
 	</div>
 	</div>
 	<script>
-	$('../img/devil_bridge/cS-1.jpg').zoomify();
-	$('../img/devil_bridge/cS-2.jpg').zoomify();
-	$('../img/devil_bridge/cS-3.jpg').zoomify();
+	$(function() {
+      $('#slider').miniSlider();
+    });
 	</script>
 <?php require 'includes/footer.php'?>
