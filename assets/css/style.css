@@ -495,3 +495,7 @@ body{
   color: #fff;
   background: #494949;
 }
+
+.row-color li a {
+  color: #fff;
+}
