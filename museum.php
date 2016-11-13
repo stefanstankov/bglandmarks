@@ -13,36 +13,18 @@ ini_set('display_errors', 1);
 		<div class="section section-basic">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-12">
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-		</button>
-
-						</div>
-						<div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
-							<ul class="nav row text-center">
-								<li class="col-md-3"><a href="#"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-								<li class="col-md-3"><a href="#"><i class="fa fa-tree" aria-hidden="true"></i>Природни
-								</a></li>
-								<li class="col-md-3"><a href="#"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
-								<li class="col-md-3 dropdown">
-
-									<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i aria-hidden="true" class="fa fa-picture-o"></i> Галерия <b class="caret"></b>
-												</a>
-									<ul id="menu-center" class="dropdown-menu">
-										<li><a href="#">Исторически</a></li>
-										<li><a href="#">Природни</a></li>
-										<li><a href="#">Архитектурни</a></li>
-
-									</ul>
-								</li>
-						</div>
+					<div class="col-md-6">
+						<div id="main">
+					<div id="main-inner">
+					<div id="slider">
+					<img src="img/museum/cS-1.jpg"/>
+					<img src="img/museum/cS-2.jpg"/>
+					<img src="img/museum/cS-3.jpg"/>
 					</div>
-					</nav>
+					</div>
+					</div>
+
+				</div>
 				</div>
 				<hr/>
 				<div class="row">
@@ -84,6 +66,5 @@ ini_set('display_errors', 1);
 				</div>
 			</div>
 		</div>
-	</div>
 	</div>
 <?php require 'includes/footer.php'?>
