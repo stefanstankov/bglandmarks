@@ -481,3 +481,7 @@ body{
   padding-right: 5px;
   padding-left: 1px;
 }
+
+.links li{
+  padding-left: 20px;
+}
