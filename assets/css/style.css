@@ -476,3 +476,8 @@ body{
   color: #ffffff;
   font-family:'Roboto Slab';
 }
+
+.fa-wikipedia-w{
+  padding-right: 5px;
+  padding-left: 1px;
+}
