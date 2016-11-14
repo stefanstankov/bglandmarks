@@ -4,7 +4,7 @@
  		require 'includes/header.php';
 ?>
         <div class="conteiner-fluid">
-            <div id="bla" class="row main-pic">
+            <div class="row main-pic">
               <div class="col-md-12">
                 <div class="container-fluid text-center">
                 <hr/>
