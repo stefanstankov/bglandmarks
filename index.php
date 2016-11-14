@@ -4,9 +4,9 @@
  		require 'includes/header.php';
 ?>
         <div class="conteiner-fluid">
-            <div id="bla" class="row main-pic">
+            <div class="row main-pic">
               <div class="col-md-12">
-                <div class="container-fluid text-center">
+                <div id="bla"  class="container-fluid text-center">
                 <hr/>
                 <h2>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
