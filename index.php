@@ -5,8 +5,8 @@
 ?>
         <div class="conteiner-fluid">
             <div class="row main-pic">
-              <div id="bla" class="col-md-12">
-                <div class="container-fluid text-center">
+              <div class="col-md-12">
+                <div id="bla" class="container-fluid text-center">
                 <hr/>
                 <h2>ДОБРЕ ДОШЛИ</h2>
                 <hr/>
