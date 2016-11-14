@@ -29,7 +29,7 @@
 }
 */
 .pushy ul:first-child {
-  margin-top:140px;
+  margin-top:-7px;
 }
 .pushy.pushy-left {
   left: 0;
@@ -177,6 +177,7 @@
 }
 #pushy-logo{
   background: #fff;
+  text-align: center;
   color: solid #00000 2px;
   margin-bottom: 0px;
   margin-top: 0px;
