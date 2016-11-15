@@ -3,8 +3,6 @@
 
  		require 'includes/header.php';
 ?>
-  <div class="container-fluid">
-  <div class="row text-center">
           <div class="list-group">
 <a href="#" class="list-group-item active">
 <h2>Природни</h2>
@@ -64,6 +62,4 @@
 </div>
   </div>
   </div>
-</div>
-</div>
 	<?php require 'includes/footer.php' ?>
