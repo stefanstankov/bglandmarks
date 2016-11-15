@@ -4,7 +4,7 @@
  		require 'includes/header.php';
 ?>
 <div class="jumbotron">
-<div class="container">
+<div class="container-fluid">
 <div class="row main-pic">
     <div class="col-md-12">
 <div class="container-fluid text-center">
