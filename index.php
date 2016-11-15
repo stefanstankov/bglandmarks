@@ -6,7 +6,7 @@
         <div class="conteiner-fluid">
           <div class="list-group">
 <a href="#" class="list-group-item active">
-<h2>Природни</h2>
+<h2>Bulgarian landmarks</h2>
 </a>
 <div class="container-fluid text-center">
       <hr/>
@@ -15,8 +15,6 @@
         <img src="assets/img/main.JPG" class="img-responsive img-circle margin main-div" style="display:inline" alt="RILA">
       <hr/>
       <h2>В БЪЛГАРИЯ</h2>
-      </div>
-      </div>
     </div>
     <div class="row">
       <div class="col-md-12">
@@ -57,6 +55,7 @@
               <i class="material-icons">keyboard_arrow_right</i>
             </a>
           </div>
+        </div>
         </div>
 </div>
     </div>
