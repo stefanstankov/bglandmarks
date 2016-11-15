@@ -176,8 +176,8 @@
   border: 1px solid #1abc9c;
 }
 #pushy-logo{
-  background-image: url("../assets/img/icon.jpg");
   text-align: center;
+  background: #fff;
   color: solid #00000 2px;
   margin-bottom: 0px;
   margin-top: 0px;
