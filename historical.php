@@ -11,7 +11,7 @@
         <div class="row text-center">
           <div class="list-group">
       	  <a href="#" class="list-group-item active">
-      	    <h2>Допълнителна информация</h2>
+      	    <h2><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</h2>
       	  </a>
       	    <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
