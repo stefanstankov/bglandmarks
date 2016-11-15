@@ -9,32 +9,37 @@
 		<div class="section section-basic">
 			<div class="container-fluid">
         <div class="row text-center">
-            <div class="col-sm-4">
-              <div class="thumbnail">
-                <img src="assets/img/bridge.jpg" alt="Дяволксия мост" width="400" height="300">
-                <p><strong>Дяволксия мост</strong></p>
-                <p>община Ардино/област Кърджали</p>
-                <a id="db" href="devil_bridge.php">
-                <button class="btn" data-toggle="modal" data-target="#db">Научи повече</button>
-              </a>
-              </div>
-            </div>
-            <div class="col-sm-4">
-              <div class="thumbnail">
-                <img src="assets/img/ustra.jpg" alt="Крепостта Устра" width="400" height="300">
-                <p><strong>Крепост Устра</strong></p>
-                <p>с. Устрен/община Джебел/област Кърджали</p>
-                <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
-              </div>
-            </div>
-            <div class="col-sm-4">
-              <div class="thumbnail">
-                <img src="assets/img/perperikon.jpg" alt="Перперикон" width="400" height="300">
-                <p><strong>Перперикон</strong></p>
-                <p>област Кърджали</p>
-                <button class="btn" data-toggle="modal" data-target="#myModal">Научи повече</button>
-              </div>
-            </div>
+          <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="assets/img/bridge.jpg" alt="...">
+      <div class="caption">
+        <h3>Дяволксия мост</h3>
+        <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+        <p><a id="db" href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="assets/img/bridge.jpg" alt="...">
+      <div class="caption">
+        <h3>Дяволксия мост</h3>
+        <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+        <p><a id="db" href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="assets/img/bridge.jpg" alt="...">
+      <div class="caption">
+        <h3>Дяволксия мост</h3>
+        <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+        <p><a id="db" href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      </div>
+    </div>
+  </div>
+
           </div>
 			</div>
 		</div>
