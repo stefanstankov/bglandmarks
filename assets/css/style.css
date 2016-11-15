@@ -450,7 +450,7 @@ body{
 
 .section-basic{
   margin-top: 135px;
-  background: #d0bbe8;
+  background: #fff;
 }
 
 .museumpage {
@@ -490,7 +490,4 @@ body{
 .links{
   color: #fff;
   padding-left: 100px;
-}
-.second-nav{
-  background-color: #d0bbe8;
 }
