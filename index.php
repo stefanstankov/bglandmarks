@@ -61,5 +61,6 @@
       </div>
 </div>
   </div>
+  </a>
   </div>
 	<?php require 'includes/footer.php' ?>
