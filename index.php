@@ -4,12 +4,12 @@
  		require 'includes/header.php';
 ?>
         <div class="conteiner-fluid">
-          <div class="row">
-            <div class="col-md-12">
           <div class="list-group">
 <a href="#" class="list-group-item active">
 <h2>Bulgarian landmarks</h2>
 </a>
+<div class="row">
+  <div class="col-md-12">
 <div class="container-fluid text-center">
       <hr/>
       <h2>ДОБРЕ ДОШЛИ</h2>
