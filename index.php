@@ -3,8 +3,8 @@
 
  		require 'includes/header.php';
 ?>
-<div class="jumbotron">
-<div class="container-fluid">
+<div class="jumbotron container-fluid">
+<div class="container">
 <div class="row main-pic">
     <div class="col-md-12">
 <div class="container-fluid text-center">
