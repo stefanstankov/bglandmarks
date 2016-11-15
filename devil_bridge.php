@@ -39,17 +39,13 @@ ini_set('display_errors', 1);
             </div>
           </div>
 					<div class="col-md-4">
-						<div>
-						<p><h2 align="center">Линкове по темата</h2></p>
-						<ul class="links" style="list-style-type:circle">
-							<li>
-						<a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)" target="_blank">
-						<i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></p></li>
-						<li>
-								<a href="https://www.youtube.com/watch?v=8JwftffRd64" target="_blank">
-								<i class="fa fa-youtube" aria-hidden="true"></i>Дяволски мост (видео)</a></p></li>
-					</ul>
-        </div>
+						<div class="list-group">
+	  <a href="#" class="list-group-item active">
+	    Линкове по темата
+	  </a>
+	  <a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)" class="list-group-item"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a>
+	    <a href="https://www.youtube.com/watch?v=8JwftffRd64" class="list-group-item"><i class="fa fa-youtube" aria-hidden="true"></i>Дяволски мост (видео)</a>
+	</div>
 				</div>
 							</div>
 						<div class="row row-color1">
