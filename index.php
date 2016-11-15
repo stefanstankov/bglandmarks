@@ -6,7 +6,6 @@
           <div class="list-group">
 <a href="#" class="list-group-item active">
 <h2>Природни</h2>
-</a>
 <div class="row main-pic">
   <div class="col-md-12">
 <div class="container-fluid text-center">
