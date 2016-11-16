@@ -16,7 +16,7 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-md-12">
+              <div id="carousel1" class="col-md-12">
                 <div class="container-fluid">
                   <div  class="carousel slide" data-interval="3000" data-ride="carousel">
                     <!-- Carousel indicators -->
