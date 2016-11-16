@@ -15,10 +15,10 @@
               </div>
               </div>
             </div>
-            <div class="row">
+            <div id="myCarousel" class="row">
               <div class="col-md-12">
                 <div class="container-fluid">
-                  <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+                  <div  class="carousel slide" data-interval="3000" data-ride="carousel">
                     <!-- Carousel indicators -->
                     <ol class="carousel-indicators">
                       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
