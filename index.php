@@ -9,7 +9,7 @@
               <hr/>
               <h2>ДОБРЕ ДОШЛИ</h2>
               <hr/>
-                <img src="assets/img/main.JPG" class="img-responsive img-circle margin main-div" style="display:inline" alt="RILA">
+                <img src="assets/img/main.JPG" class="img-responsive img-circle margin main-div" alt="язовир Кърджали">
               <hr/>
               <h2>В БЪЛГАРИЯ</h2>
               </div>

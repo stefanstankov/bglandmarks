@@ -468,6 +468,7 @@ body{
 .main-pic img{
   width: 350px;
   height: 350px;
+  display:inline;
 }
 
 .main-pic{
@@ -475,8 +476,6 @@ body{
   margin-top: 135px;
   color: #ffffff;
   font-family:'Roboto Slab';
-  width: 100%;
-  padding: 0;
 }
 
 .fa-wikipedia-w{
