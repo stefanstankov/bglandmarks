@@ -476,7 +476,6 @@ body{
   margin-top: 135px;
   color: #ffffff;
   font-family:'Roboto Slab';
-  padding: 0;
 }
 
 .fa-wikipedia-w{
@@ -499,4 +498,7 @@ body{
 }
 .carousel-slide{
   width: 100%;
+}
+.text-center{
+  padding: 0;
 }
