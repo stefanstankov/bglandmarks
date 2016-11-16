@@ -495,5 +495,7 @@ body{
   padding-left: 100px;
 }
 #mycarousel{
+  padding: 0;
+  overflow-x: hidden;
   width: 100%;
 }
