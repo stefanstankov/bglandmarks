@@ -6,14 +6,13 @@ ini_set('display_errors', 1);
 	$pageTitle = 'Начало';
 ?>
 <?php require 'includes/header.php' ?>
-	<!-- End Navbar					 -->
+	<!-- End Navbar -->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<div class="main main-raised museumpage">
 		<div class="section section-basic db">
 			<div class="container-fluid">
 				<div class="row">
-						<!--
 					<div class="col-md-6">
 						<div id="main">
 					<div id="main-inner">
@@ -25,47 +24,6 @@ ini_set('display_errors', 1);
 					</div>
 					</div>
 					</div>
-					-->
-					<div id="carousel1" class="col-md-12">
-						<div class="container-fluid">
-							<div  class="carousel slide" data-interval="3000" data-ride="carousel">
-								<!-- Carousel indicators -->
-								<ol class="carousel-indicators">
-									<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-									<li data-target="#myCarousel" data-slide-to="1"></li>
-									<li data-target="#myCarousel" data-slide-to="2"></li>
-								</ol>
-								<!-- Wrapper for carousel items -->
-								<div class="carousel-inner">
-									<div class="active item">
-										<img src="img/devil_bridge/cS-1.jpg" alt="First Slide">
-										<div class="carousel-caption">
-											<h4><a href="http://maps.google.com/?q=kardzhali" target="__blank"><i class="material-icons">location_on</i>Кърджали</a></h4>
-										</div>
-									</div>
-									<div class="item">
-										<img src="img/devil_bridge/cS-2.jpg" alt="Second Slide">
-										<div class="carousel-caption">
-											<h4><a href="http://maps.google.com/?q=ravadinovo" target="__blank"><i class="material-icons">location_on</i>Равадиново</h4>
-										</div>
-									</div>
-									<div class="item">
-										<img src="assets/img/melnik.jpg" alt="Third Slide" />
-										<div class="carousel-caption">
-											<h4><a href="http://maps.google.com/?q=melnik" target="__blank"><i class="material-icons">location_on</i>Мелник</h4>
-										</div>
-									</div>
-								</div>
-								<!-- Carousel controls -->
-								<a data-slide="prev" href="#myCarousel" class="left carousel-control">
-									<i class="material-icons">keyboard_arrow_left</i>
-								</a>
-								<a data-slide="next" href="#myCarousel" class="right carousel-control">
-									<i class="material-icons">keyboard_arrow_right</i>
-								</a>
-							</div>
-						</div>
-						</div>
 					<div class="col-md-6">
 
 				</div>
