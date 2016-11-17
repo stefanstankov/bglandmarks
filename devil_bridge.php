@@ -6,13 +6,14 @@ ini_set('display_errors', 1);
 	$pageTitle = 'Начало';
 ?>
 <?php require 'includes/header.php' ?>
-	<!-- End Navbar
+	<!-- End Navbar					 -->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<div class="main main-raised museumpage">
 		<div class="section section-basic db">
 			<div class="container-fluid">
 				<div class="row">
+						<!--
 					<div class="col-md-6">
 						<div id="main">
 					<div id="main-inner">
@@ -24,7 +25,7 @@ ini_set('display_errors', 1);
 					</div>
 					</div>
 					</div>
-					 -->
+					-->
 					<div id="carousel1" class="col-md-12">
 						<div class="container-fluid">
 							<div  class="carousel slide" data-interval="3000" data-ride="carousel">
@@ -49,7 +50,7 @@ ini_set('display_errors', 1);
 										</div>
 									</div>
 									<div class="item">
-										<img src="img/devil_bridge/cS-3.jpg" alt="Third Slide" />
+										<img src="assets/img/melnik.jpg" alt="Third Slide" />
 										<div class="carousel-caption">
 											<h4><a href="http://maps.google.com/?q=melnik" target="__blank"><i class="material-icons">location_on</i>Мелник</h4>
 										</div>
