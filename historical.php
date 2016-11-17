@@ -11,10 +11,10 @@
         <div class="row text-center">
           <div class="panel panel-info">
             <div class="panel-heading panel-info"><h2>Исторически</h2></div>
-            <br>
+      	    <div class="col-lg-4">
               <br>
                 <br>
-      	    <div class="col-lg-4">
+                  <br>
             <img src="assets/img/bridge.jpg" alt="Дяволксия мост" width="304" height="236">
             <div class="caption">
               <h3><strong>Дяволксия мост</strong></h3>
