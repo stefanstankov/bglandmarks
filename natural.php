@@ -9,10 +9,8 @@
 		<div class="section section-basic">
 			<div class="container-fluid">
         <div class="row text-center">
-          <div class="list-group">
-  <a href="#" class="list-group-item active">
-    <h2>Природни</h2>
-  </a>
+          <div class="panel panel-info">
+            <div class="panel-heading panel-info"><h2>Природни</h2></div>
     <div class="col-lg-4 aricle">
       <br>
         <br>
@@ -21,7 +19,7 @@
     <div class="caption">
       <h3><strong>Вкаменената гора</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="forest.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      <p><a id="db" href="forest.php" class="btn btn-info" role="button">Научи повече</a></p>
     </div>
 </div>
 <div class="col-lg-4 aricle">
@@ -32,7 +30,7 @@
     <div class="caption">
       <h3><strong>Каменните гъби</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="stone_mushrooms.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      <p><a id="db" href="stone_mushrooms.php" class="btn btn-info" role="button">Научи повече</a></p>
     </div>
   </div>
 <div class="col-lg-4 aricle">
@@ -43,7 +41,7 @@
     <div class="caption">
       <h3><strong>Рилските езера</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="rila.php" class="btn btn-primary" role="button">Научи повече</a></p>
+      <p><a id="db" href="rila.php" class="btn btn-info" role="button">Научи повече</a></p>
     </div>
   </div>
 </div>
