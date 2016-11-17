@@ -9,7 +9,7 @@
 		<div class="section section-basic">
 			<div class="container-fluid">
         <div class="row text-center">
-          <div class="list-group">
+          <div class="panel panel-info">
       	  <a href="#" class="list-group-item active">
       	    <h2>Исторически</h2>
       	  </a>
