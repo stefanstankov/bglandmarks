@@ -496,13 +496,14 @@ body{
 body{
   overflow-x: hidden;
 }
-.carousel-slide{
-  width: 100%;
-}
 .text-center{
   padding: 0;
 }
 
 #carousel1{
   padding: 0;
+}
+
+.main-panel{
+  margin-top: -8px;
 }

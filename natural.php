@@ -10,7 +10,7 @@
 			<div class="container-fluid">
         <div class="row text-center">
           <div class="panel panel-info">
-            <div class="panel-heading panel-info"><h2>Природни</h2></div>
+            <div class="panel-heading panel-info main-panel"><h2>Природни</h2></div>
     <div class="col-lg-4 aricle">
       <br>
         <br>
