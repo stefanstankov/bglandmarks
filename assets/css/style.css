@@ -123,3 +123,8 @@ footer{
   margin-right: 10px;
   margin-left: 10px;
 }
+
+.panel-size{
+  padding-right: 160px;
+  padding-left: 160px;
+}

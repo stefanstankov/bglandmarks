@@ -9,7 +9,7 @@
 		<div class="section section-basic">
 			<div class="container-fluid">
         <div class="row text-center">
-          <div class="panel panel-info main-panel">
+          <div class="panel panel-info main-panel panel-size">
             <div class="panel-heading panel-info"><h2>Исторически</h2></div>
       	    <div class="col-lg-4">
               <br>
