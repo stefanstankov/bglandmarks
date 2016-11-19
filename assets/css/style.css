@@ -44,8 +44,9 @@
   margin-top: -16px;
 }
 body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
   margin-top: 73px;
-  background-color: #9d9d9d;
   padding-top: 20px;
   padding-bottom: 40px;
 }
