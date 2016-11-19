@@ -1,10 +1,8 @@
-<footer class="footer">
-  <div class="container">
-    <div class="copyright">
-      &copy; 2016, Copyright Stefan Stankov Stankov
-    </div>
-  </div>
-</footer>
+<hr class="featurette-divider">
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2016 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
