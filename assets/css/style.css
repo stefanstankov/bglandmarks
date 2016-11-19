@@ -11,12 +11,6 @@
     margin-bottom: 90px;
 
 }
-
-  .first-nav{
-    margin-top: 65px;
-    font-size: 20px!important;
-    font-family:'Roboto Slab';
-  }
 .fa-wikipedia-w{
   padding-right: 5px;
   padding-left: 1px;
@@ -37,7 +31,6 @@
 }
 
 .index-page{
-  background-color: #df8fe0;
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
