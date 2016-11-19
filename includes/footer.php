@@ -1,13 +1,14 @@
   <footer>
     <hr/>
-    <p class="pull-right"><a href="#">Back to top</a></p>
-      <p>&copy; 2016 Company, Inc. &middot; <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+      <p>&copy; Bulgarian landmarks <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-facebook-square"></i>
             </a> &middot; <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-instagram"></i>
-            </a>&middot;<a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+            </a>
+            <a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-mobile" aria-hidden="true"></i>
-            </a>&middot;<a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+            </a>
+            <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a></p>
       </footer>
