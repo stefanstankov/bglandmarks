@@ -50,8 +50,6 @@ ini_set('display_errors', 1);
 					 <div id="navbar" class="navbar-collapse collapse">
 						 <ul class="nav navbar-nav">
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Начало</a></li>
-							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
-							 <li><a href="#contact">Contact</a></li>
 							 <li class="dropdown">
 								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
 								 <ul class="dropdown-menu">
@@ -64,6 +62,7 @@ ini_set('display_errors', 1);
 								<li><a href="#">Полезни връзки</a></li>
 								 </ul>
 							 </li>
+							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
 						 </ul>
 					 </div>
 				 </div>
