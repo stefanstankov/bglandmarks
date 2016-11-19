@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian landmarks</a>
+          <a>&copy; 2016 Bulgarian landmarks</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse navbar-right">
         <ul class="nav navbar-nav navbar-right">
