@@ -34,40 +34,39 @@ ini_set('display_errors', 1);
 <body class="index-page">
 
 	<div class="navbar-wrapper">
-       <div class="container">
+		 <div class="container">
 
-         <nav class="navbar navbar-inverse navbar-static-top">
-           <div class="container">
-             <div class="navbar-header">
-               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                 <span class="sr-only">Toggle navigation</span>
-                 <span class="icon-bar"></span>
-                 <span class="icon-bar"></span>
-                 <span class="icon-bar"></span>
-               </button>
-               <a class="navbar-brand" href="#">Project name</a>
-             </div>
-             <div id="navbar" class="navbar-collapse collapse">
-               <ul class="nav navbar-nav">
-                 <li class="active"><a href="#">Home</a></li>
-                 <li><a href="#about">About</a></li>
-                 <li><a href="#contact">Contact</a></li>
-                 <li class="dropdown">
-                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                   <ul class="dropdown-menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another action</a></li>
-                     <li><a href="#">Something else here</a></li>
-                     <li role="separator" class="divider"></li>
-                     <li class="dropdown-header">Nav header</li>
-                     <li><a href="#">Separated link</a></li>
-                     <li><a href="#">One more separated link</a></li>
-                   </ul>
-                 </li>
-               </ul>
-             </div>
-           </div>
-         </nav>
-
-       </div>
-     </div>
+			 <nav class="navbar navbar-inverse navbar-static-top">
+				 <div class="container">
+					 <div class="navbar-header">
+						 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+							 <span class="sr-only">Toggle navigation</span>
+							 <span class="icon-bar"></span>
+							 <span class="icon-bar"></span>
+							 <span class="icon-bar"></span>
+						 </button>
+						 <a class="navbar-brand" href="#">Bulgarian landmarks</a>
+					 </div>
+					 <div id="navbar" class="navbar-collapse collapse">
+						 <ul class="nav navbar-nav">
+							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Начало</a></li>
+							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
+							 <li><a href="#contact">Contact</a></li>
+							 <li class="dropdown">
+								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+									 <li class="dropdown-header">Забележителности</li>
+									 <li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
+										<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни</a></li>
+										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+									 <li role="separator" class="divider"></li>
+									 <li><a href="#">Галерия</a></li>
+								<li><a href="#">Полезни връзки</a></li>
+								 </ul>
+							 </li>
+						 </ul>
+					 </div>
+				 </div>
+			 </nav>
+		 </div>
+	 </div>
