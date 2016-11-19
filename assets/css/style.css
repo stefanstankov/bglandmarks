@@ -55,6 +55,8 @@ body{
 }
 body {
   padding-top: 20px;
+  padding-bottom: 40px;
+color: #5a5a5a;
 }
 .navbar-wrapper {
   position: absolute;
