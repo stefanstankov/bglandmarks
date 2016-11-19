@@ -3,13 +3,10 @@
 
  		require 'includes/header.php';
 ?>
-	<div class="container-fluid">
-	<div class="main main-raised">
-		<div class="section section-basic">
+		<div class="section section-basic section-size">
 			<div class="container-fluid">
         <div class="row text-center">
-          <div class="panel panel-info main-panel">
-            <div class="panel-heading panel-info"><h2>Архитектурни</h2></div>
+      <h2>Архитектурни</h2>
 <div class="col-lg-4 aricle">
   <br>
     <br>
@@ -44,9 +41,6 @@
       </div>
     </div>
   </div>
-  </div>
           </div>
 			</div>
-		</div>
-	</div>
 	<?php require 'includes/footer.php' ?>
