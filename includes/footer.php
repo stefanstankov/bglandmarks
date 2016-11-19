@@ -50,6 +50,7 @@
  <script src="../assets/js/libs/jquery.min.js"></script>
 <script src="../assets/js/miniSlider.js"></script>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="../assets/js/ie-emulation-modes-warning.js"></script>
 <div id="fb-root"></div>
 <script>
    $(function() {
