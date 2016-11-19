@@ -495,6 +495,8 @@ body{
 
 body{
   overflow-x: hidden;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .text-center{
   padding: 0;
@@ -507,10 +509,7 @@ body{
 .main-panel{
   margin-top: -16px;
 }
-
-body,
-.footer,
-{
+.footer{
   padding-left: 15px;
   padding-right: 15px;
 }
