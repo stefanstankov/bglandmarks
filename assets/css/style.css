@@ -507,3 +507,10 @@ body{
 .main-panel{
   margin-top: -16px;
 }
+
+.header,
+.footer,
+{
+  padding-left: 15px;
+  padding-right: 15px;
+}
