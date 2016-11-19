@@ -465,6 +465,18 @@ body{
     font-family:'Roboto Slab';
   }
 
+.main-pic img{
+  width: 350px;
+  height: 350px;
+  display:inline;
+}
+
+.main-pic{
+  background-color: #1abc9c;
+  margin-top: 135px;
+  color: #ffffff;
+  font-family:'Roboto Slab';
+}
 
 .fa-wikipedia-w{
   padding-right: 5px;
