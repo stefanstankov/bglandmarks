@@ -1,16 +1,43 @@
   <footer>
     <hr/>
-    <p class="pull-right"><a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+    <nav class="navbar navbar-default navbar-fixed-top second-nav">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian landmarks</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse navbar-right">
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-facebook-square"></i>
             </a>
-      <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+          </li>
+          <li>
+            <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-instagram"></i>
             </a>
-      <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+          </li>
+          <li>
+            <a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+              <i class="fa fa-mobile" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
+            <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
-      </p>
-      <p>&copy; 2016 Bulgarian landmarks</p>
+          </li>
+        </ul>
+    </div>
+    <!--/.nav-collapse -->
+  </div>
+</nav>
       </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
