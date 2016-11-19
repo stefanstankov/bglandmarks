@@ -116,10 +116,5 @@ footer{
 }
 
 hr{
-  height: 15px;
-  border-color: #000000;
-}
-
-.btn-simple{
-  font-size: 24px;
+  background-color: #000000;
 }
