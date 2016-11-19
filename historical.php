@@ -8,6 +8,7 @@
 			<div class="container-fluid">
         <div class="row text-center">
           <h2>Исторически</h2>
+            <hr/>
       	    <div class="col-lg-4">
               <br>
                 <br>

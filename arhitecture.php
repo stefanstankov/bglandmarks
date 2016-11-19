@@ -7,6 +7,7 @@
 			<div class="container-fluid">
         <div class="row text-center">
       <h2>Архитектурни</h2>
+        <hr/>
 <div class="col-lg-4 aricle">
   <br>
     <br>
