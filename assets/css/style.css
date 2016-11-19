@@ -36,15 +36,8 @@
   padding: 0;
 }
 
-#carousel1{
-  padding: 0;
-}
-
-.main-panel{
-  margin-top: -16px;
-}
 .index-page{
-  background-color: #9d9d9d;
+  background-color: #df8fe0;
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
@@ -131,5 +124,5 @@ footer{
 
 hr{
   height: 15px;
-  color: #000;
+  background-color: #000000;
 }
