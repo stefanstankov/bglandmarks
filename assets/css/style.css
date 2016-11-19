@@ -44,7 +44,6 @@
   margin-top: -16px;
 }
 body {
-  padding-bottom: 40px;
   color: #5a5a5a;
   margin-top: 73px;
   padding-top: 20px;
@@ -116,11 +115,4 @@ body {
 
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  letter-spacing: -1px;
 }
