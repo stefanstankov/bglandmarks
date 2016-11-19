@@ -1,16 +1,16 @@
   <footer>
     <hr/>
+    <p class="pull-right"><a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+              <i class="fa fa-facebook-square"></i>
+            </a>
+      <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
+              <i class="fa fa-instagram"></i>
+            </a>
+      <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+      </p>
       <p>&copy; 2016 Bulgarian landmarks</p>
-      <p class="pull-right"><a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-                <i class="fa fa-facebook-square"></i>
-              </a>&middot;
-        <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-                <i class="fa fa-instagram"></i>
-              </a>&middot;
-        <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i>
-              </a>&middot;
-        </p>
       </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
