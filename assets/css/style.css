@@ -99,6 +99,7 @@ footer{
   padding-left: 160px;
   margin-left: auto;
   margin-right: auto;
+  display: block;
 }
 
 .col-lg-4 {
@@ -113,11 +114,4 @@ footer{
 .section-size{
   padding-right: 160px;
   padding-left: 160px;
-}
-
-hr{
-height:1px;
-border:none;
-color:#000;
-background-color:#000; 
 }
