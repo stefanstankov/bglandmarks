@@ -105,6 +105,6 @@ body {
   }
 }
 
-.navbar-brand{
+.navbar-inverse .navbar-brand{
   padding-right: 624px;
 }
