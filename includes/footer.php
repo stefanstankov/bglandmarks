@@ -1,25 +1,16 @@
   <footer>
     <hr/>
-    <ul>
-      <li>
     <p class="pull-right"><a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-facebook-square"></i>
             </a>
-          </li>
-          <li>
       <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-instagram"></i>
             </a>
-          </li>
-              <li>
       <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
-          </li>
-          <li>
       </p>
       <p>&copy; 2016 Bulgarian landmarks</p>
-    </li>
       </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
