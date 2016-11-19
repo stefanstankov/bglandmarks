@@ -116,15 +116,12 @@ footer{
 }
 
 .col-lg-4 {
+  padding-right: 160px;
+  padding-left: 160px;
   margin-bottom: 20px;
   text-align: center;
 }
 .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
-}
-
-.panel-size{
-  padding-right: 160px;
-  padding-left: 160px;
 }
