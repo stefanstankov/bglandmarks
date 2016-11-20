@@ -41,7 +41,6 @@
   right: 0;
   left: 0;
   z-index: 20;
-  color: #fff;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -118,4 +117,7 @@ footer{
 }
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
+}
+.navbar-static-top{
+        color: #fff;
 }
