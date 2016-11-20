@@ -117,5 +117,7 @@ footer{
 }
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
-  color: #ffffff;
+}
+inverse .navbar-brand{
+    color: #fff;
 }
