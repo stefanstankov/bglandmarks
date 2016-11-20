@@ -1,21 +1,8 @@
-#container {
-    width: 600px;
-    font-weight: 100;
-    margin:  0 auto;
-    padding-left: 50px;
-}
-
-#main {
-    width: 600px;
-    margin:  0 auto;
-}
-
-/* SLIDER */
-
 #main-inner {
     position: relative;
     height: 476px;
     width: 600px;
+    padding-left: 50px;
 }
 
 #slider {
