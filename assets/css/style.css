@@ -119,7 +119,7 @@ footer{
   height: 500px;
   margin-bottom: 60px;
   padding-left: 160px;
-  padding-left: 160px;
+  padding-right: 160px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
