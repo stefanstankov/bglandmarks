@@ -115,3 +115,6 @@ footer{
   padding-right: 160px;
   padding-left: 160px;
 }
+.navbar-wrapper .navbar .container{
+  background-color: #c6c2c2;
+}
