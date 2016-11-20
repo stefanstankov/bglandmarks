@@ -41,6 +41,7 @@
   right: 0;
   left: 0;
   z-index: 20;
+  color: #fff;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -65,7 +66,6 @@
     padding-left: 15px;
   }
   .navbar-wrapper .navbar {
-      color: #fff;
     padding-right: 0;
     padding-left: 0;
   }
