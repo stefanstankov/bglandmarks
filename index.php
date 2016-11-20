@@ -4,12 +4,7 @@
  		require 'includes/header.php';
 ?>
       	<div class="section section-basic section-size">
-          <div class="row">
-            <div class="col-md-12">
-              <img src="assets/img/melnik1.jpg" alt="град Мелник"
-
-                </div>
-                </div>
+          
           <div class="row">
            <div class="col-md-4">
              <h2>Дяволския мост</h2>
