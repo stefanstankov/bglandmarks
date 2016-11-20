@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 		<div class="section section-basic db section-size">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-lg-4">
 						<div id="main">
 					<div id="main-inner">
 					<div id="slider">
