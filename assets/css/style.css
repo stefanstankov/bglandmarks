@@ -31,6 +31,7 @@
 }
 
 .index-page{
+  background-color: #8f8c91!important;
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
@@ -76,7 +77,6 @@
   .featurette-heading {
     font-size: 50px;
   }
-}
 
 @media (min-width: 992px) {
   .featurette-heading {
@@ -127,8 +127,4 @@ footer{
 
 .section-basic{
   background-color: #fff;
-}
-
-body{
-  background-color: #8f8c91;
 }

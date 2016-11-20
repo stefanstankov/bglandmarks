@@ -1,9 +1,10 @@
 <?php
   	$pageTitle = 'Начало';
 
- 		require 'includes/header.php';
-?>
 
+?>
+<div clas="main-backgroung">
+   	<?php	require 'includes/header.php';?>
 		<div class="section section-basic section-size">
 			<div class="container-fluid">
         <div class="row text-center">
@@ -44,5 +45,6 @@
         </div>
 			</div>
     </div>
+</div>
 </div>
 	<?php require 'includes/footer.php' ?>
