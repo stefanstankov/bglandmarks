@@ -5,6 +5,11 @@
 ?>
       	<div class="section section-basic section-size">
           <div class="row">
+            <div class="col-lg-12">
+                <img src="assets/img/melnik.jpg" alt="Град Мелник"
+              </div>
+                </div>
+          <div class="row">
            <div class="col-lg-4">
              <h2>Дяволския мост</h2>
              <p class="text-danger">As of v9.1.2, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>
