@@ -13,11 +13,11 @@
       <br>
         <br>
           <br>
-    <img src="assets/img/forest.jpg" alt="Вкаменената гора" width="304" height="236">
+    <img src="assets/img/utroba_cave.jpg" alt=">Пещера утробата" width="304" height="236">
     <div class="caption">
-      <h3><strong>Вкаменената гора</strong></h3>
+      <h3><strong>Пещера утробата</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="forest.php" class="btn alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="utroba_cave.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
 </div>
 <div class="col-lg-4 aricle">
@@ -35,11 +35,11 @@
   <br>
     <br>
       <br>
-    <img src="assets/img/rilski_ezera.jpg" alt="Рилските езера" width="304" height="236">
+    <img src="assets/img/eagle_rocks.jpg" alt="Орлови скали" width="304" height="236">
     <div class="caption">
-      <h3><strong>Рилските езера</strong></h3>
+      <h3><strong>Орлови скали</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="rila.php" class="btn alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="eagle_rocks.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
   </div>
           </div>
