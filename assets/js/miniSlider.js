@@ -238,8 +238,6 @@ $(function() {
       transitionEasing: '',
       pauseOnHover: false,
       showNavigation: true,
-      previousBtnClass: 'previous-btn',
-      nextBtnClass: 'next-btn',
       previousBtnContent: '&lsaquo;',
       nextBtnContent: '&rsaquo;',
       showPagination: false,
