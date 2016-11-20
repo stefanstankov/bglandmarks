@@ -5,7 +5,7 @@
 ?>
       	<div class="section section-basic section-size">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 section-size">
               <img src="assets/img/melnik.jpg" alt="град Мелник"
                 </div>
                 </div>
