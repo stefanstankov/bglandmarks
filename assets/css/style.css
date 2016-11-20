@@ -31,7 +31,7 @@
 }
 
 .index-page{
-  background-color: rgba(0,0,0,0.7);
+  background-color: rgba(0,0,0,0.7)!important;
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
