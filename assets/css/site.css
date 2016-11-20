@@ -25,6 +25,7 @@
     width: 600px;
     height: 476px;
     overflow: hidden;
+    padding-left: 75px;
 }
 .previous-btn, .next-btn {
     position: absolute;
@@ -57,5 +58,3 @@
 .next-btn {
     right: 10px;
 }
-
-/* PAGiNATION */
