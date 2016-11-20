@@ -16,7 +16,7 @@
       <div class="caption">
         <h3><strong>Регионален исторически музей Кърджали</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="museum.php" class="btn btn-info" role="button">Научи повече</a></p>
+        <p><a id="db" href="museum.php" class="btn alert-danger" role="button">Научи повече</a></p>
       </div>
     </div>
 <div class="col-lg-4 aricle">
@@ -27,7 +27,7 @@
       <div class="caption">
         <h3><strong>Статуята на Орфей</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="statue.php" class="btn btn-info" role="button">Научи повече</a></p>
+        <p><a id="db" href="statue.php" class="btn alert-danger" role="button">Научи повече</a></p>
       </div>
     </div>
 <div class="col-lg-4 aricle">
@@ -38,7 +38,7 @@
       <div class="caption">
         <h3><strong>язовирната стена Кърджали</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="dam_wall.php" class="btn btn-info" role="button">Научи повече</a></p>
+        <p><a id="db" href="dam_wall.php" class="btn alert-danger" role="button">Научи повече</a></p>
       </div>
     </div>
   </div>
