@@ -65,6 +65,7 @@
     padding-left: 15px;
   }
   .navbar-wrapper .navbar {
+      color: #fff;
     padding-right: 0;
     padding-left: 0;
   }
@@ -117,5 +118,4 @@ footer{
 }
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
-  color: #fff;
 }
