@@ -17,7 +17,7 @@
     <div class="caption">
       <h3><strong>Пещера утробата</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="utroba_cave.php" class="btn alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="utroba_cave.php" class="btn btn-primary" role="button">Научи повече</a></p>
     </div>
 </div>
 <div class="col-md-4 aricle">
@@ -28,7 +28,7 @@
     <div class="caption">
       <h3><strong>Каменните гъби</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="stone_mushrooms.php" class="btn alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="stone_mushrooms.php" class="btn btn-primary" role="button">Научи повече</a></p>
     </div>
   </div>
 <div class="col-md-4 aricle">
@@ -39,7 +39,7 @@
     <div class="caption">
       <h3><strong>Тракийско скално светилище Орлови скали</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="eagle_rocks.php" class="btn alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="eagle_rocks.php" class="btn btn-primary" role="button">Научи повече</a></p>
     </div>
   </div>
   <div class="col-md-4 aricle">
