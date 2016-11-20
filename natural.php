@@ -28,7 +28,7 @@
     <div class="caption">
       <h3><strong>Каменните гъби</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a id="db" href="stone_mushrooms.php" class="btn btn-alert-danger" role="button">Научи повече</a></p>
+      <p><a id="db" href="stone_mushrooms.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
   </div>
 <div class="col-lg-4 aricle">
