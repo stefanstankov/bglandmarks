@@ -8,6 +8,9 @@
             <div class="col-xs-6">
                 <img src="assets/img/melnik.jpg" alt="Град Мелник"
               </div>
+              <div class="col-xs-6">
+                  <img src="assets/img/melnik.jpg" alt="Град Мелник"
+                </div>
                 </div>
           <div class="row">
            <div class="col-xs-4">
