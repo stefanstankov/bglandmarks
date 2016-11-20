@@ -119,5 +119,5 @@ footer{
   background-color:#79589F;
 }
 .navbar-inverse .navbar-nav > li > a{
-  color: #fff;
+  color: #fff!important;
 }
