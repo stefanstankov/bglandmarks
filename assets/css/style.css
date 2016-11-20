@@ -118,6 +118,6 @@ footer{
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
 }
-.navbar-static-top{
-        color: #fff;
+.navbar-inverse .navbar-nav > li > a{
+  color: #fff;
 }
