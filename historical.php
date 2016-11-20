@@ -3,14 +3,13 @@
 
 
 ?>
-<div clas="main-backgroung">
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic section-size">
 			<div class="container-fluid">
         <div class="row text-center">
           <h2>Исторически</h2>
             <hr/>
-      	    <div class="col-lg-4">
+      	    <div class="col-md-4">
               <br>
                 <br>
                   <br>
@@ -21,7 +20,7 @@
               <p><a href="devil_bridge.php" class="btn alert-danger" role="button">Научи повече</a></p>
             </div>
         </div>
-        <div class="col-lg-4 aricle">
+        <div class="col-md-4 aricle">
           <br>
             <br>
               <br>
@@ -32,7 +31,7 @@
               <p><a href="ustra.php" class="btn alert-danger" role="button">Научи повече</a></p>
             </div>
         </div>
-    	    <div class="col-lg-4 aricle">
+    	    <div class="col-md-4 aricle">
             <br>
               <br>
                 <br>

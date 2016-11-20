@@ -9,7 +9,7 @@
         <div class="row text-center">
     <h2>Природни</h2>
       <hr/>
-    <div class="col-lg-4 aricle">
+    <div class="col-md-4 aricle">
       <br>
         <br>
           <br>
@@ -20,7 +20,7 @@
       <p><a id="db" href="utroba_cave.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
 </div>
-<div class="col-lg-4 aricle">
+<div class="col-md-4 aricle">
   <br>
     <br>
       <br>
@@ -31,7 +31,7 @@
       <p><a id="db" href="stone_mushrooms.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
   </div>
-<div class="col-lg-4 aricle">
+<div class="col-md-4 aricle">
   <br>
     <br>
       <br>
@@ -42,7 +42,7 @@
       <p><a id="db" href="eagle_rocks.php" class="btn alert-danger" role="button">Научи повече</a></p>
     </div>
   </div>
-  <div class="col-lg-4 aricle">
+  <div class="col-md-4 aricle">
     <br>
       <br>
         <br>
