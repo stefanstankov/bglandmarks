@@ -125,6 +125,10 @@ footer{
   color:#fff!important;
 }
 
-#db{
-  background-color: #79589F;
+.section-basic{
+  background-color: #fff;
+}
+
+body{
+  background-color: #8f8c91;
 }
