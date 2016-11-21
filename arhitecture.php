@@ -8,7 +8,7 @@
         <div class="row section-size">
       <h2>Архитектурни</h2>
         <hr/>
-<div class="col-mg-4">
+<div class="col-md-4">
   <br>
     <br>
       <br>
