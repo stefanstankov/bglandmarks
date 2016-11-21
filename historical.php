@@ -4,8 +4,7 @@
 
 ?>
    	<?php	require 'includes/header.php';?>
-		<div class="section section-basic text-center article-color">
-			<div class="container-fluid">
+		<div class="section section-basic text-center article-color container">
         <div class="row">
           <h2>Исторически</h2>
             <hr/>
@@ -44,6 +43,5 @@
         </div>
 			</div>
         	<?php require 'includes/footer.php' ?>
-    </div>
 </div>
 </div>

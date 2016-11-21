@@ -38,7 +38,7 @@
     rgba(255,53,123, 0.45),
     rgba(255,53,123, 0.45)
   ),
-  url("../img/main2.jpg") no-repeat center center fixed; 
+  url("../img/main2.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -125,8 +125,6 @@ footer{
 .article-color{
   background-color: #fff;
   border-radius:25px;
-  margin-left: 220px;
-  margin-right: 220px;
 }
 i.fa-facebook-square,
 i.fa-instagram,
