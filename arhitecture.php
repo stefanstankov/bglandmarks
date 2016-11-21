@@ -41,7 +41,7 @@
         <p><a id="db" href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
-    <?php require 'includes/footer.php' ?>
   </div>
+      <?php require 'includes/footer.php' ?>
           </div>
 			</div>
