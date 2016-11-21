@@ -49,4 +49,3 @@ ini_set('display_errors', 1);
 				</div>
 				</div>
 				<?php require 'includes/footer.php'?>
-			</div>
