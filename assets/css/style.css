@@ -132,5 +132,6 @@ i.fa-envelope-o
 }
 
 #f-name{
-float:left;
+float:left!important;
+left: 0!important;
 }
