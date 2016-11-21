@@ -4,9 +4,9 @@
  		require 'includes/header.php';
 ?>
 
-		<div class="section section-basic section-size">
+		<div class="section section-basic section-size text-center article-color">
 			<div class="container-fluid">
-        <div class="row text-center article-color">
+        <div class="row">
     <h2>Природни</h2>
       <hr/>
     <div class="col-md-4">
@@ -43,7 +43,7 @@
     </div>
   </div>
   </div>
-  <div class="row text-center article-color">
+  <div class="row">
   <div class="col-md-4 aricle">
     <br>
       <br>
