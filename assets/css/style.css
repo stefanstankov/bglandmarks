@@ -127,5 +127,7 @@ footer{
 
 .article-color{
   background-color: #fff;
-  border: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius:25px;
 }
