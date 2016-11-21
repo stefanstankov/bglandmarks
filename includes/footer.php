@@ -13,6 +13,7 @@
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a></p>
       </footer>
+      </div>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
