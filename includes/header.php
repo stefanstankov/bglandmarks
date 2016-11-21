@@ -29,6 +29,8 @@ ini_set('display_errors', 1);
 </head>
 
 <body class="index-page">
+	<div id="overlay">
+	</div>
 		<div class="navbar-wrapper">
 		 <div class="container">
  		 	<nav class="navbar navbar-inverse navbar-static-top">

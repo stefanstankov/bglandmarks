@@ -30,8 +30,6 @@
   padding: 0;
 }
 .index-page{
-  background-image: url("../img/main2.jpg");
-  background-color: fade(#ff357b;, 50%);
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
@@ -134,4 +132,13 @@ i.fa-envelope-o
 footer hr{
   font-size: 50px;
   position: absolute;
+}
+#overlay{
+  background:
+  linear-gradient(
+    rgba(255,53,123, 0.45),
+    rgba(255,53,123, 0.45)
+  ),
+  url("../img/main2.jpg");
+}
 }
