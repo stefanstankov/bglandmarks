@@ -128,8 +128,8 @@ i.fa-instagram,
 i.fa-mobile,
 i.fa-envelope-o
 {
-  border-left: 10px solid #79589F;
-  border-right: 10px solid #79589F;
+  border-left:  #79589F;
+  border-right: #79589F;
   font-size: 40px;
   color:#79589F;
 }
