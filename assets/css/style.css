@@ -50,6 +50,7 @@
   right: 0;
   left: 0;
   z-index: 20;
+  border-radius: 10px;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -63,7 +64,6 @@
 }
 .navbar-wrapper .navbar .container {
   width: auto;
-  border-radius: 25%;
 }
 @media (min-width: 768px) {
   /* Navbar positioning foo */
