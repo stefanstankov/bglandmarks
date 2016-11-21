@@ -3,9 +3,9 @@
 
  		require 'includes/header.php';
 ?>
-		<div class="section section-basic section-size text-center article-color">
+		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-        <div class="row">
+        <div class="row section-size">
       <h2>Архитектурни</h2>
         <hr/>
 <div class="col-lg-4 aricle">

@@ -9,9 +9,9 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-		<div class="section section-basic section-size text-center article-color">
+		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row section-size">
 					<h2>Дяволския мост</h2>
 			      <hr/>
 					<div class="col-md-6">
@@ -30,7 +30,7 @@ ini_set('display_errors', 1);
 				</div>
 				</div>
 						<hr/>
-            <div class="row">
+            <div class="row section-size">
 					<div class="col-md-8">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
@@ -46,7 +46,7 @@ ini_set('display_errors', 1);
 	</div>
 				</div>
 							</div>
-						<div class="row">
+						<div class="row section-size">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
