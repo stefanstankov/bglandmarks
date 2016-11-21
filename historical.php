@@ -20,7 +20,7 @@
               <p><a href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
             </div>
         </div>
-        <div class="col-md-4 aarticle-color">
+        <div class="col-md-4 article-color">
           <br>
             <br>
               <br>
