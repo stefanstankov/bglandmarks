@@ -123,7 +123,11 @@ footer{
   margin-left: 200px;
   margin-right: 200px;
 }
-i.fa {
-  font-size: 60px;
+i.fa-facebook-square,
+i.fa-instagram,
+i.fa-mobile,
+i.fa-envelope-o
+{
+  font-size: 40px;
   color:#79589F;
 }
