@@ -95,12 +95,10 @@
 }
 footer{
   margin-top: 15px;
-  padding-right: 160px;
-  padding-left: 160px;
   margin-left: auto;
   margin-right: auto;
   float: left;
-
+  left: 0;
 }
 
 .col-lg-4 {
