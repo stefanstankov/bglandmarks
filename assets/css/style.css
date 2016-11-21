@@ -63,6 +63,7 @@
 }
 .navbar-wrapper .navbar .container {
   width: auto;
+  border-radius: 25%;
 }
 @media (min-width: 768px) {
   /* Navbar positioning foo */
