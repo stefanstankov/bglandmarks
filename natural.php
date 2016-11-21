@@ -6,7 +6,7 @@
 
 		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-        <div class="row section-size">
+        <div class="row">
     <h2>Природни</h2>
       <hr/>
     <div class="col-md-4">
@@ -43,7 +43,7 @@
     </div>
   </div>
   </div>
-  <div class="row section-size">
+  <div class="row">
   <div class="col-md-4">
     <br>
       <br>

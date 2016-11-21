@@ -120,6 +120,6 @@ footer{
 .article-color{
   background-color: #fff;
   border-radius:25px;
-  padding-left: 160px;
-  padding-right: 160px;
+  margin-left: 160px;
+  margin-right: 160px;
 }

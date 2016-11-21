@@ -6,7 +6,7 @@
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-        <div class="row section-size">
+        <div class="row">
           <h2>Исторически</h2>
             <hr/>
       	    <div class="col-md-4">

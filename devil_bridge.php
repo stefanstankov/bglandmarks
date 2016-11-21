@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 
 		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-				<div class="row section-size">
+				<div class="row">
 					<h2>Дяволския мост</h2>
 			      <hr/>
 					<div class="col-md-6">
@@ -30,7 +30,7 @@ ini_set('display_errors', 1);
 				</div>
 				</div>
 						<hr/>
-            <div class="row section-size">
+            <div class="row">
 					<div class="col-md-8">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
@@ -46,7 +46,7 @@ ini_set('display_errors', 1);
 	</div>
 				</div>
 							</div>
-						<div class="row section-size">
+						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>

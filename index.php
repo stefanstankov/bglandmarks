@@ -4,7 +4,7 @@
  		require 'includes/header.php';
 ?>
       	<div class="section section-basic text-center article-color ">
-          <div class="row section-size">
+          <div class="row">
            <div class="col-md-4 ">
              <h2>Дяволския мост</h2>
              <div class="caption">

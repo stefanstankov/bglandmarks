@@ -5,7 +5,7 @@
 ?>
 		<div class="section section-basic text-center article-color">
 			<div class="container-fluid">
-        <div class="row section-size">
+        <div class="row">
       <h2>Архитектурни</h2>
         <hr/>
 <div class="col-md-4">
