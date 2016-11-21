@@ -121,3 +121,8 @@ footer{
   background-color: #fff;
   border-radius:25px;
 }
+
+.section-size{
+  padding-left: 160px;
+  padding-right: 160px;
+}
