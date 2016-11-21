@@ -30,6 +30,7 @@
   padding: 0;
 }
 .index-page{
+  background-image: url("../imd/main2.jpg");
   background-color: #ff357b!important;
   margin-top: 73px;
   padding-top: 20px;
