@@ -33,6 +33,12 @@
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
+  background:
+  linear-gradient(
+    rgba(255,53,123, 0.45),
+    rgba(255,53,123, 0.45)
+  ),
+  url("../img/main2.jpg");
 }
 .navbar-wrapper {
   position: absolute;
