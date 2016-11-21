@@ -52,12 +52,12 @@ ini_set('display_errors', 1);
 								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
 								 <ul class="dropdown-menu">
 									 <li class="dropdown-header">Забележителности</li>
+									  <li role="separator" class="divider"></li>
 									 <li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
 										<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни</a></li>
 										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
 									 <li role="separator" class="divider"></li>
 									 <li><a href="#">Галерия</a></li>
-								<li><a href="#">Полезни връзки</a></li>
 								 </ul>
 							 </li>
 							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
