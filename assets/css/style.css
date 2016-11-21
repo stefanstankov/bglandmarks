@@ -123,3 +123,8 @@ footer{
 .navbar-inverse .navbar-brand{
   color:#fff!important;
 }
+
+.article-color{
+  background-color: #fff;
+  border: 0;
+}
