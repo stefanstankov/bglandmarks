@@ -91,7 +91,7 @@
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
 footer{
-  margin-top: 25px;
+  padding-top: 50px;
   position: relative;
 }
 
@@ -128,4 +128,9 @@ i.fa-envelope-o
   padding-right: 5px;
   font-size: 25px;
   color:#79589F;
+}
+
+footer hr{
+  font-size: 10px;
+  position: absolute;
 }
