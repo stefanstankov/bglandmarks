@@ -55,7 +55,7 @@
         <p><a href="eagle_rocks.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
-    	<?php require 'includes/footer.php' ?>
           </div>
 			</div>
+        <?php require 'includes/footer.php' ?>
 		</div>
