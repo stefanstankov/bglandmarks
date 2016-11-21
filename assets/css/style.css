@@ -88,6 +88,8 @@
 }
 .section-basic{
   margin-top: 90px;
+  padding-right: 160px;
+  padding-left: 160px;
 }
 
 .featurette-divider {
@@ -109,11 +111,6 @@ footer{
 .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
-}
-
-.row{
-  padding-right: 160px;
-  padding-left: 160px;
 }
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
