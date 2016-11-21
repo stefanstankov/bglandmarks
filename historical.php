@@ -4,9 +4,9 @@
 
 ?>
    	<?php	require 'includes/header.php';?>
-		<div class="section section-basic section-size">
+		<div class="section section-basic">
 			<div class="container-fluid">
-        <div class="row text-center">
+        <div class="row text-center section-size">
           <h2>Исторически</h2>
             <hr/>
       	    <div class="col-md-4">
