@@ -44,7 +44,7 @@
   </div>
   </div>
   <div class="row section-size">
-  <div class="col-md-4 aricle">
+  <div class="col-md-4">
     <br>
       <br>
         <br>

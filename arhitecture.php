@@ -8,7 +8,7 @@
         <div class="row section-size">
       <h2>Архитектурни</h2>
         <hr/>
-<div class="col-lg-4 aricle">
+<div class="col-mg-4">
   <br>
     <br>
       <br>
@@ -19,7 +19,7 @@
         <p><a id="db" href="museum.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
-<div class="col-lg-4 aricle">
+<div class="col-md-4">
   <br>
     <br>
       <br>
@@ -30,7 +30,7 @@
         <p><a id="db" href="statue.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
-<div class="col-lg-4 aricle">
+<div class="col-md-4">
   <br>
     <br>
       <br>
