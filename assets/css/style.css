@@ -94,9 +94,9 @@ footer{
   margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
   float: left;
   padding-left: 15px;
-  right: 0;
 }
 
 .col-lg-4 {
