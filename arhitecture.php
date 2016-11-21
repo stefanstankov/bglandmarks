@@ -3,7 +3,7 @@
 
  		require 'includes/header.php';
 ?>
-		<div class="section section-basic section-style">
+		<div class="section section-basic section-size">
 			<div class="container-fluid">
         <div class="row text-center">
       <h2>Архитектурни</h2>

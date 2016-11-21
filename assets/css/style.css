@@ -111,11 +111,9 @@ footer{
   margin-left: 10px;
 }
 
-.section-style{
+.section-size{
   padding-right: 160px;
   padding-left: 160px;
-  background-color: #fff;
-  border-radius:25px;
 }
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
@@ -129,5 +127,7 @@ footer{
 
 .article-color{
   background-color: #fff;
+  padding-left: 60px;
+  padding-right: 60px;
   border-radius:25px;
 }
