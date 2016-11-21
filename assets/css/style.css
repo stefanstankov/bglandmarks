@@ -32,6 +32,7 @@
 .index-page{
   background-image: url("../imd/main2.jpg");
   background-color: #ff357b!important;
+  opacity: 0.6;
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
