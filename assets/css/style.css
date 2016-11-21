@@ -93,7 +93,6 @@
 footer{
   margin-top: 25px;
   position: relative;
-  float:right;
 }
 
 .col-lg-4 {
@@ -129,9 +128,4 @@ i.fa-envelope-o
   padding-right: 5px;
   font-size: 25px;
   color:#79589F;
-}
-
-#f-name{
-float:left!important;
-left: 0!important;
 }
