@@ -26,9 +26,8 @@ ini_set('display_errors', 1);
 					<div class="col-md-6">
 
 				</div>
-			</div>
 						<hr/>
-            <div>
+            <div class="row text-center article-color">
 					<div class="col-md-8">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
@@ -44,10 +43,12 @@ ini_set('display_errors', 1);
 	</div>
 				</div>
 							</div>
-						<div class="row">
+						<div class="row class="row text-center article-color"">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
+				</div>
+				<?php require 'includes/footer.php'?>
 				</div>
 		</div>
 	</div>
@@ -56,4 +57,3 @@ ini_set('display_errors', 1);
       $('#slider').miniSlider();
     });
 	</script>
-<?php require 'includes/footer.php'?>
