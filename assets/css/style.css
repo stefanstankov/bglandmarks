@@ -35,8 +35,8 @@
   padding-bottom: 40px;
   background:
   linear-gradient(
-    rgba(255,53,123, 0.45),
-    rgba(255,53,123, 0.45)
+    rgba(121,88,159, 0.45),
+    rgba(121,88,159, 0.45)
   ),
   url("../img/main2.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -140,12 +140,4 @@ i.fa-envelope-o
 footer hr{
   font-size: 50px;
   position: absolute;
-}
-#overlay{
-  background:
-  linear-gradient(
-    rgba(255,53,123, 0.45),
-    rgba(255,53,123, 0.45)
-  ),
-  url("../img/main2.jpg");
 }
