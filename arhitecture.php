@@ -5,7 +5,7 @@
 ?>
 		<div class="section section-basic section-size">
 			<div class="container-fluid">
-        <div class="row text-center">
+        <div class="row text-center article-color">
       <h2>Архитектурни</h2>
         <hr/>
 <div class="col-lg-4 aricle">
@@ -41,7 +41,7 @@
         <p><a id="db" href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
+    <?php require 'includes/footer.php' ?>
   </div>
           </div>
 			</div>
-	<?php require 'includes/footer.php' ?>
