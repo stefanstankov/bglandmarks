@@ -9,9 +9,9 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-		<div class="section section-basic section-size">
+		<div class="section section-basic section-size text-center article-color">
 			<div class="container-fluid">
-				<div class="row text-center article-color">
+				<div class="row">
 					<div class="col-md-6">
 						<div id="main">
 					<div id="main-inner">
@@ -26,8 +26,9 @@ ini_set('display_errors', 1);
 					<div class="col-md-6">
 
 				</div>
+				</div>
 						<hr/>
-            <div class="row text-center article-color">
+            <div class="row">
 					<div class="col-md-8">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
@@ -43,15 +44,14 @@ ini_set('display_errors', 1);
 	</div>
 				</div>
 							</div>
-						<div class="row class="row text-center article-color"">
+						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 				</div>
 				<?php require 'includes/footer.php'?>
 				</div>
-		</div>
-	</div>
+				</div>
 	<script>
 	$(function() {
       $('#slider').miniSlider();
