@@ -42,6 +42,8 @@
       <p><a  href="eagle_rocks.php" class="btn btn-primary" role="button">Научи повече</a></p>
     </div>
   </div>
+  </div>
+  <div class="row text-center article-color">
   <div class="col-md-4 aricle">
     <br>
       <br>
