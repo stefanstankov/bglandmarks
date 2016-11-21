@@ -31,7 +31,7 @@
 }
 .index-page{
   background-image: url("../img/main2.jpg");
-  background-color: #ff357b!important;
+  background-color: fade(#ff357b;, 50%);
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
