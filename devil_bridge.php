@@ -12,6 +12,8 @@ ini_set('display_errors', 1);
 		<div class="section section-basic section-size text-center article-color">
 			<div class="container-fluid">
 				<div class="row">
+					<h2>Дяволския мост</h2>
+			      <hr/>
 					<div class="col-md-6">
 						<div id="main">
 					<div id="main-inner">
