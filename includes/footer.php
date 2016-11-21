@@ -1,4 +1,4 @@
-  <footer class="article-color">
+  <footer class="article-color section-size">
     <hr/>
       <p>&copy; Bulgarian landmarks <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-facebook-square"></i>
