@@ -3,8 +3,8 @@
 
  		require 'includes/header.php';
 ?>
-      	<div class="section section-basic text-center article-color ">
-          <div class="container-fluid">
+      	<div class="section section-basic text-center article-color container">
+
           <div class="row">
            <div class="col-md-4 ">
             <p> <h2>Дяволския мост</h2></p>
@@ -29,5 +29,5 @@
            </div>
          </div>
             	<?php require 'includes/footer.php' ?>
-    </div>
+
         </div>
