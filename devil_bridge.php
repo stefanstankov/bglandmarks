@@ -53,10 +53,32 @@ ini_set('display_errors', 1);
 							</div>
 						<div class="row">
 					<div class="col-md-12">
+
+				 <div id="map"></div>
+
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 				</div>
 				<?php require 'includes/footer.php'?>
+
+				<script>
+		 function initMap() {
+			 var uluru = {lat: -25.363, lng: 131.044};
+			 var map = new google.maps.Map(document.getElementById('map'), {
+				 zoom: 7,
+				 center: uluru
+			 });
+			 var marker = new google.maps.Marker({
+				 position: uluru,
+				 map: map
+			 });
+		 }
+	 </script>
+
+	 <script async defer
+	 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
+	 </script>
+	 
 	<script>
 
 	$(window).load(function() {
