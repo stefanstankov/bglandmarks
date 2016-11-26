@@ -129,14 +129,7 @@ html[xmlns] .flexslider .slides {
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-.flex-direction-nav a:before {
-  font-family: "font-awesome";
-  font-size: 40px;
-  display: inline-block;
-  content: '\f054';
-  color: rgba(0, 0, 0, 0.8);
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-}
+
 .flex-direction-nav a.flex-next:before {
   content: '\f053';
 }
