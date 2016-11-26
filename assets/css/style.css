@@ -144,9 +144,7 @@ footer hr{
     /* Extra Small Devices, Phones */
     @media only screen and (min-width : 480px) {
 
-      .index-page{
-        background: #fff;
-      }
+
     }
 
     /* Small Devices, Tablets */
@@ -163,3 +161,32 @@ footer hr{
     @media only screen and (min-width : 1200px) {
 
     }
+
+
+
+    /* Large Devices, Wide Screens */
+      @media only screen and (max-width : 1200px) {
+
+      }
+
+      /* Medium Devices, Desktops */
+      @media only screen and (max-width : 992px) {
+
+      }
+
+      /* Small Devices, Tablets */
+      @media only screen and (max-width : 768px) {
+        .index-page{
+          background: #fff;
+        }
+      }
+
+      /* Extra Small Devices, Phones */
+      @media only screen and (max-width : 480px) {
+
+      }
+
+      /* Custom, iPhone Retina */
+      @media only screen and (max-width : 320px) {
+
+      }
