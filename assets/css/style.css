@@ -135,9 +135,10 @@ footer hr{
   min-height: 300px;
 }
 
+
       /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-        body.index-page{
+      .index-page {
           background: #fff;
         }
 }
