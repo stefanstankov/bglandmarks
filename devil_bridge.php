@@ -13,8 +13,7 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<h2>Дяволския мост</h2>
 			      <hr/>
-					<div class="col-md-6">
-
+					<div class="col-md-12">
 
 							<div class="flexslider">
 							  <ul class="slides">
@@ -62,8 +61,10 @@ ini_set('display_errors', 1);
 
 	$(window).load(function() {
 	  $('.flexslider').flexslider({
-	    animation: "slide"
+	    animation: "slide",
+			prevText: "<i class="fa fa-chevron-left" aria-hidden="true"></i>",           //String: Set the text for the "previous" directionNav item
+			nextText: "<i class="fa fa-chevron-right" aria-hidden="true"></i>"               //String: Set the text for the "next" directionNav item
 	  });
 	});
-	
+
 	</script>

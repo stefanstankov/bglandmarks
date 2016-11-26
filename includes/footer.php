@@ -61,11 +61,7 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
 <div id="fb-root"></div>
-<script>
-   $(function() {
-     $('#slider').miniSlider();
-   });
-   </script>
+
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;

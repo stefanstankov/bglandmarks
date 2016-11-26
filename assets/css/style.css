@@ -101,14 +101,6 @@ footer{
   position: relative;
 }
 
-.col-lg-4 {
-  margin-bottom: 20px;
-  text-align: center;
-}
-.col-lg-4 p {
-  margin-right: 10px;
-  margin-left: 10px;
-}
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
 }
