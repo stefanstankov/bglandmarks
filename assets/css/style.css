@@ -135,30 +135,9 @@ footer hr{
   min-height: 300px;
 }
 
-
-    /* Large Devices, Wide Screens */
-      @media only screen and (max-width : 1200px) {
-
-      }
-
-      /* Medium Devices, Desktops */
-      @media only screen and (max-width : 992px) {
-
-      }
-
       /* Small Devices, Tablets */
-      @media only screen and (max-width : 768px) {
+@media only screen and (max-width : 768px) {
         body.index-page{
           background: #fff;
         }
-      }
-
-      /* Extra Small Devices, Phones */
-      @media only screen and (max-width : 480px) {
-
-      }
-
-      /* Custom, iPhone Retina */
-      @media only screen and (max-width : 320px) {
-
-      }
+}
