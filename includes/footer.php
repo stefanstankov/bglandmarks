@@ -57,7 +57,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
  <script src="../assets/js/pushy.min.js"></script>
  <script src="../assets/js/libs/jquery.min.js"></script>
-<script src="../assets/js/miniSlider.js"></script>
+<script src="../assets/js/jquery.flexslider-min.js"></script>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
 <div id="fb-root"></div>
@@ -74,17 +74,4 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<script type="text/javascript">
-$().ready(function() {
-  // the body of this function is in assets/material-kit.js
-  materialKit.initSliders();
-  window_width = $(window).width();
-
-  if (window_width >= 992) {
-    big_image = $('.wrapper > .header');
-
-    $(window).on('scroll', materialKitDemo.checkScrollForParallax);
-  }
-
-}); </script>
 </html>

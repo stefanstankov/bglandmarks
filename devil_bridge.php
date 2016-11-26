@@ -14,15 +14,22 @@ ini_set('display_errors', 1);
 					<h2>Дяволския мост</h2>
 			      <hr/>
 					<div class="col-md-6">
-						<div id="main">
-					<div id="main-inner">
-					<div id="slider">
-					<img src="img/devil_bridge/cS-1.jpg"/>
-					<img src="img/devil_bridge/cS-2.jpg"/>
-					<img src="img/devil_bridge/cS-3.jpg"/>
-					</div>
-					</div>
-					</div>
+
+
+							<div class="flexslider">
+							  <ul class="slides">
+							    <li>
+							    	<img src="img/devil_bridge/cS-1.jpg"/>
+							    </li>
+							    <li>
+							    	<img src="img/devil_bridge/cS-2.jpg"/>
+							    </li>
+							    <li>
+							  		<img src="img/devil_bridge/cS-3.jpg"/>
+							    </li>
+							  </ul>
+							</div>
+
 					</div>
 					<div class="col-md-6">
 
@@ -52,7 +59,11 @@ ini_set('display_errors', 1);
 				</div>
 				<?php require 'includes/footer.php'?>
 	<script>
-	$(function() {
-      $('#slider').miniSlider();
-    });
+
+	$(window).load(function() {
+	  $('.flexslider').flexslider({
+	    animation: "slide"
+	  });
+	});
+	
 	</script>
