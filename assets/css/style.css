@@ -33,16 +33,7 @@
   margin-top: 73px;
   padding-top: 20px;
   padding-bottom: 40px;
-  background:
-  linear-gradient(
-    rgba(121,88,159, 0.45),
-    rgba(121,88,159, 0.45)
-  ),
-  url("../img/main2.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
 }
 .navbar-wrapper {
   position: absolute;
@@ -134,6 +125,23 @@ footer hr{
 #map {
   min-height: 300px;
 }
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  .index-page{
+  background:
+  linear-gradient(
+    rgba(121,88,159, 0.45),
+    rgba(121,88,159, 0.45)
+  ),
+  url("../img/main2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
+
 
 
       /* Small Devices, Tablets */
