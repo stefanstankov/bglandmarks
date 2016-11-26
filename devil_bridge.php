@@ -58,35 +58,37 @@ ini_set('display_errors', 1);
 
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
-				</div>
-				<?php require 'includes/footer.php'?>
+			</div>
 
-				<script>
-		 function initMap() {
-			 var uluru = {lat: -25.363, lng: 131.044};
-			 var map = new google.maps.Map(document.getElementById('map'), {
-				 zoom: 7,
-				 center: uluru
-			 });
-			 var marker = new google.maps.Marker({
-				 position: uluru,
-				 map: map
-			 });
-		 }
-	 </script>
+			<script>
+	 function initMap() {
+		 var uluru = {lat: -25.363, lng: 131.044};
+		 var map = new google.maps.Map(document.getElementById('map'), {
+			 zoom: 7,
+			 center: uluru
+		 });
+		 var marker = new google.maps.Marker({
+			 position: uluru,
+			 map: map
+		 });
+	 }
+ </script>
 
-	 <script async defer
-	 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
-	 </script>
-	 
-	<script>
+ <script async defer
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
+ </script>
 
-	$(window).load(function() {
-	  $('.flexslider').flexslider({
-	    animation: "slide",
-			prevText: '<i class="fa fa-chevron-left" aria-hidden="true"></i>',           //String: Set the text for the "previous" directionNav item
-			nextText: '<i class="fa fa-chevron-right" aria-hidden="true"></i>'               //String: Set the text for the "next" directionNav item
-	  });
+<script>
+
+$(window).load(function() {
+	$('.flexslider').flexslider({
+		animation: "slide",
+		prevText: '<i class="fa fa-chevron-left" aria-hidden="true"></i>',           //String: Set the text for the "previous" directionNav item
+		nextText: '<i class="fa fa-chevron-right" aria-hidden="true"></i>'               //String: Set the text for the "next" directionNav item
 	});
+});
 
-	</script>
+</script>
+
+
+				<?php require 'includes/footer.php'?>
