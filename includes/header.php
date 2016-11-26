@@ -43,7 +43,7 @@ ini_set('display_errors', 1);
 						 <a class="navbar-brand" href="#">Bulgarian landmarks</a>
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
-						 <ul class="nav navbar-nav">
+						 <ul class="nav navbar-nav navbar-right">
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Начало</a></li>
 							 <li class="dropdown">
 								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
