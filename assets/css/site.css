@@ -13,9 +13,7 @@
  * FONT-FACE
  * ====================================================================================================================*/
 @font-face {
-  font-family: 'flexslider-icon';
-  src: url('fonts/flexslider-icon.eot');
-  src: url('fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('fonts/flexslider-icon.woff') format('woff'), url('fonts/flexslider-icon.ttf') format('truetype'), url('fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+  font-family: 'font-awesome';
   font-weight: normal;
   font-style: normal;
 }
@@ -53,7 +51,8 @@
   display: block;
 }
 .flexslider .slides:after {
-  content: "\0020";
+
+  content: "\f054";
   display: block;
   clear: both;
   visibility: hidden;
@@ -131,15 +130,15 @@ html[xmlns] .flexslider .slides {
   transition: all 0.3s ease-in-out;
 }
 .flex-direction-nav a:before {
-  font-family: "flexslider-icon";
+  font-family: "font-awesome";
   font-size: 40px;
   display: inline-block;
-  content: '\f001';
+  content: '\f054';
   color: rgba(0, 0, 0, 0.8);
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
 }
 .flex-direction-nav a.flex-next:before {
-  content: '\f002';
+  content: '\f053';
 }
 .flex-direction-nav .flex-prev {
   left: -50px;
