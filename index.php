@@ -5,7 +5,7 @@
       include 'bg.php';
     }
 
-    if(isset($_GET['language'])){
+    if(isset($_GET['language']) && ($_GET['language'] == 'en' || $_GET['language'] == 'bg')){
     $_SESSION['language'] = $_GET['language'];
     }
 
