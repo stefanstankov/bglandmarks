@@ -1,4 +1,17 @@
 <?php
+    session_start();
+    if(!isset($_SESSION['language'])){
+      include('bg.php');
+    }
+
+    if(isset($_GET['language'])){
+    $_SESSION['language'] = $_GET['language'];
+    }
+
+    if(isset($_SESSION['language'])){
+    include($_SESSION['language'].'.php');
+    }
+
   	$pageTitle = 'Начало';
 
  		require 'includes/header.php';
