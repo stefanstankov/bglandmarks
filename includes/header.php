@@ -58,6 +58,8 @@ ini_set('display_errors', 1);
 								 </ul>
 							 </li>
 							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
+							 <li><a href='/?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
+							 	 <li><a href='/?language=en'><img src="/assets/img/en_new.png"/></a></li>
 						 </ul>
 					 </div>
 				 </div>
