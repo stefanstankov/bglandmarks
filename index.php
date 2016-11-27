@@ -1,7 +1,8 @@
 <?php
     session_start();
+
     if(!isset($_SESSION['language'])){
-      include('bg.php');
+      include 'bg.php';
     }
 
     if(isset($_GET['language'])){

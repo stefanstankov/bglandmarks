@@ -44,7 +44,7 @@ ini_set('display_errors', 1);
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
 						 <ul class="nav navbar-nav navbar-right">
-							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i>Начало</a></li>
+							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
 							 <li class="dropdown">
 								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
 								 <ul class="dropdown-menu">
