@@ -19,7 +19,7 @@
       	<div class="section section-basic text-center article-color container">
 
           <div class="row">
-            <h2>Избрани от редактора</h2>
+            <h2><?= EDITORS_CHOISE;?></h2>
             <hr/>
            <div class="col-md-4 ">
             <p> <h2>Дяволския мост</h2></p>
