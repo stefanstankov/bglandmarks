@@ -150,3 +150,9 @@ footer hr{
           background: #fff;
         }
 }
+
+hr.vertical
+{
+   width: 0px;
+   height: 100%;
+}
