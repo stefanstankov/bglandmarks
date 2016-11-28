@@ -13,7 +13,7 @@
             <div class="flexslider">
               <ul class="slides">
                 <li>
-                  <img src="/assets/img/main.jpg"/>
+                  <img src="/assets/img/main.JPG"/>
                 </li>
                 <li>
                   <img src="/assets/img/main1.jpg"/>
