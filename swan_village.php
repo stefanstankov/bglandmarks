@@ -27,9 +27,6 @@ ini_set('display_errors', 1);
 							</div>
 
 					</div>
-					<div class="col-md-6">
-
-				</div>
 				</div>
 						<hr/>
             <div class="row">
