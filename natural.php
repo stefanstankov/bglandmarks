@@ -51,7 +51,7 @@
       <div class="caption">
         <h3><strong>Езерата край село Лебед</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a href="eagle_rocks.php" class="btn btn-primary" role="button">Научи повече</a></p>
+        <p><a href="swan_village.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
           </div>
