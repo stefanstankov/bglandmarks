@@ -14,13 +14,13 @@
                   <img src="/assets/img/main.jpg"/>
                 </li>
                 <li>
-                  <img src="/assets/img/bridge1.jpg"/>
+                  <img src="/assets/img/main1.jpg"/>
                 </li>
                 <li>
-                  <img src="/assets/img/bridge2.jpg"/>
+                  <img src="/assets/img/main2.jpg"/>
                 </li>
                 <li>
-                  <img src="/assets/img/bridge3.jpg"/>
+                  <img src="/assets/img/main3.jpg"/>
                 </li>
               </ul>
             </div>
