@@ -46,18 +46,18 @@ ini_set('display_errors', 1);
 						 <ul class="nav navbar-nav navbar-right">
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
 							 <li class="dropdown">
-								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Меню<span class="caret"></span></a>
+								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
 								 <ul class="dropdown-menu">
-									 <li class="dropdown-header">Забележителности</li>
+									 <li class="dropdown-header"><?= LANDMARKS;?></li>
 									  <li role="separator" class="divider"></li>
-									 <li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span>Исторически</a></li>
-										<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i>Природни</a></li>
-										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i>Архитектурни</a></li>
+										<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><?= NATURAL;?></a></li>
+										<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><?= HISTORICAL;?></a></li>
+										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><?= ARCHITECTURAL;?></a></li>
 									 <li role="separator" class="divider"></li>
-									 <li><a href="#">Галерия</a></li>
+									 <li><a href="#"><?= GALLERY;?></a></li>
 								 </ul>
 							 </li>
-							 <li><a href="#" data-toggle="modal" data-target="#aboutus">За нас</a></li>
+							 <li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
 							 <li><a href='/?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
 							 	 <li><a href='/?language=en'><img src="/assets/img/en_new.png"/></a></li>
 						 </ul>
