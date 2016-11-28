@@ -18,13 +18,10 @@ ini_set('display_errors', 1);
 							<div class="flexslider">
 							  <ul class="slides">
 							    <li>
-							    	<img src="img/devil_bridge/cS-1.jpg"/>
+							    	<img src="/assets/img/bridge.jpg"/>
 							    </li>
 							    <li>
-							    	<img src="img/devil_bridge/cS-2.jpg"/>
-							    </li>
-							    <li>
-							  		<img src="img/devil_bridge/cS-3.jpg"/>
+							    	<img src="/assets/img/bridge1.jpg"/>
 							    </li>
 							  </ul>
 							</div>
@@ -34,7 +31,6 @@ ini_set('display_errors', 1);
 						<div id="map"></div>
 				</div>
 				</div>
-						<hr/>
             <div class="row">
 					<div class="col-md-12">
 						<div class="panel">

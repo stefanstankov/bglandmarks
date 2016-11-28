@@ -18,10 +18,10 @@ ini_set('display_errors', 1);
 						<div class="flexslider">
 							<ul class="slides">
 								<li>
-									<img src="img/museum/cS-1.jpg"/>
+									<img src="/assets/img/museum.jpg"/>
 								</li>
 								<li>
-									<img src="img/museum/cS-2.jpg"/>
+									<img src="/assets/img/museum1.jpg"/>
 								</li>
 							</ul>
 						</div>
