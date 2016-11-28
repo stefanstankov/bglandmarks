@@ -95,4 +95,16 @@
             </div>
          </div>
        </div>
+       <script>
+
+       $(window).load(function() {
+       	$('.flexslider').flexslider({
+       		animation: "slide",
+       		prevText: '<i class="fa fa-chevron-left" aria-hidden="true"></i>',           //String: Set the text for the "previous" directionNav item
+       		nextText: '<i class="fa fa-chevron-right" aria-hidden="true"></i>'               //String: Set the text for the "next" directionNav item
+       	});
+       });
+
+       </script>
+
             	<?php require 'includes/footer.php' ?>
