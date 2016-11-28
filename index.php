@@ -4,10 +4,29 @@
  		require 'includes/header.php';
 ?>
       	<div class="section section-basic text-center article-color container">
-
+          <h2><?= EDITORS_CHOISE;?></h2>
+          <hr/>
           <div class="row">
-            <h2><?= EDITORS_CHOISE;?></h2>
-            <hr/>
+            <div class="col-md-12">
+            <div class="flexslider">
+              <ul class="slides">
+                <li>
+                  <img src="/assets/img/main.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/bridge1.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/bridge2.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/bridge3.jpg"/>
+                </li>
+              </ul>
+            </div>
+            </div>
+                </div>
+          <div class="row">
            <div class="col-md-4 ">
             <p> <h2>Дяволския мост</h2></p>
              <div class="caption">
