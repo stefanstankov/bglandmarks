@@ -150,3 +150,7 @@ footer hr{
           background: #fff;
         }
 }
+
+.breadcrumb{
+  float: left;
+}
