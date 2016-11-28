@@ -20,7 +20,7 @@ ini_set('display_errors', 1);
 							    <li>
 							    	<img src="/assets/img/stone_mushrooms.jpg"/>
 							    </li>
-							    <li>
+                  <li>
 							    	<img src="/assets/img/stone_mushrooms1.jpg"/>
 							    </li>
 							  </ul>
