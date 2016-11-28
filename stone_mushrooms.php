@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<h2>Каменните гъби</h2>
 			      <hr/>
-					<div class="col-md-8">
+					<div class="col-md-6">
 
 							<div class="flexslider">
 							  <ul class="slides">
@@ -30,6 +30,9 @@ ini_set('display_errors', 1);
 							</div>
 
 					</div>
+          <div class="col-md-6">
+          	 <div id="map"></div>
+             </div>
 				</div>
 						<hr/>
             <div class="row">
@@ -51,7 +54,7 @@ ini_set('display_errors', 1);
 						<div class="row">
 					<div class="col-md-12">
 
-				 <div id="map"></div>
+
 
 
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
