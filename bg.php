@@ -7,5 +7,5 @@ define('NATURAL', 'Природни');
 define('HISTORICAL', 'Исторически');
 define('ARCHITECTURAL', 'Архитектурни');
 define('GALLERY', 'Галерия');
-define('ABOUT_US', 'Забележителности');
+define('ABOUT_US', 'За нас');
 ?>
