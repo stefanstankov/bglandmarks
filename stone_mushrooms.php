@@ -11,9 +11,7 @@ ini_set('display_errors', 1);
 
 		<div class="section section-basic text-center article-color container">
 				<div class="row">
-          <div class="alert-danger">
 					<h2>Каменните гъби</h2>
-        </div>
 			      <hr/>
 					<div class="col-md-6">
 
