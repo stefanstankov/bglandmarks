@@ -63,7 +63,6 @@
 <script src="../assets/js/jquery.flexslider-min.js"></script>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <div id="fb-root"></div>
 
 <script>(function(d, s, id) {
