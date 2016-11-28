@@ -21,7 +21,7 @@ ini_set('display_errors', 1);
 							    	<img src="/assets/img/bridge.jpg"/>
 							    </li>
 							    <li>
-							    	<img src="/assets/img/bridge1.JPG"/>
+							    	<img src="/assets/img/bridge1.jpg"/>
 							    </li>
 							  </ul>
 							</div>
