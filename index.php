@@ -8,8 +8,8 @@
       	<div class="section section-basic text-center article-color container">
           <h2><?= EDITORS_CHOISE;?></h2>
           <hr/>
-          <div class="row pic-position">
-            <div class="col-md-8">
+          <div class="row">
+            <div class="col-md-8 pic-position">
             <div class="flexslider">
               <ul class="slides">
                 <li>
