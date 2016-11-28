@@ -34,7 +34,6 @@ ini_set('display_errors', 1);
             <div id="map"></div>
              </div>
 				</div>
-						<hr/>
             <div class="row">
 					<div class="col-md-12">
 						<div class="panel">

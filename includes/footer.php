@@ -1,3 +1,4 @@
+<hr/>
   <footer>
       <p class="text-center">&copy; Bulgarian landmarks  </p>
       <p class="text-center">
