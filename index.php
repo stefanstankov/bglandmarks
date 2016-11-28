@@ -19,7 +19,7 @@
                   <img src="/assets/img/main1.jpg"/>
                 </li>
                 <li>
-                  <img src="/assets/img/main2.jpg"/>
+                  <img src="/assets/img/main4.jpg"/>
                 </li>
                 <li>
                   <img src="/assets/img/main3.jpg"/>
