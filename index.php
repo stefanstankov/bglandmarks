@@ -9,8 +9,8 @@
           <h2><?= EDITORS_CHOISE;?></h2>
           <hr/>
           <div class="row">
-            <div class="col-md-8 pic-position">
-            <div class="flexslider">
+            <div class="col-md-8">
+            <div class="flexslider pic-position">
               <ul class="slides">
                 <li>
                   <img src="/assets/img/main.JPG"/>
