@@ -37,5 +37,3 @@
                   </div>
 			</div>
         	<?php require 'includes/footer.php' ?>
-</div>
-</div>
