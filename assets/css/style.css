@@ -110,8 +110,8 @@ footer{
 .footer-ul i { margin-right:10px;}
 
 .container{
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 0!important;
+  padding-left: 0!important;
 }
 
 /* Medium Devices, Desktops */
