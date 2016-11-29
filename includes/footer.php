@@ -16,13 +16,16 @@
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
         </p>-->
-        <div class="text-center center-block">
-            <p class="txt-railway">- bglandmarks.com-</p>
-            <br />
-            <a href="https://www.instagram.com/bglandmarks"><i class="fa fa-instagram fa-3x social"></i></a>
-            <a href="https://plus.google.com/+Bootsnipp-page"><i class="fa fa-mobile fa-3x social"></i></a>
-            <a href="mailto:bglandmarks@gmail.com"><i class="fa fa-envelope-square fa-3x social"></i></a>
-</div>
+        <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-6 footerleft ">
+        <div class="logofooter">Bulgarian landmarks</div>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+        <p><i class="fa fa-map-pin"></i>6600 Кърджали, България</p>
+        <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
+        <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
+        <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>      
+      </div>
       </footer>
       </div>
 <!-- Sart Modal -->
