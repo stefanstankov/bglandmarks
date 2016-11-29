@@ -123,6 +123,12 @@ footer hr{
   min-height: 370px;
 }
 
+
+.footer-ul {padding-left:0px; margin-left:2px; float: left;}
+.footer-ul li { line-height:29px;font-size:12px; left: 0;}
+.footer-ul li a { color:#000;}
+.footer-ul i { margin-right:10px;}
+
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
@@ -139,19 +145,13 @@ footer hr{
 }
 }
 
-
-
-      /* Small Devices, Tablets */
+/* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-      .index-page {
-          background: #fff;
-        }
-        .footer-ul {padding-left:0px; margin-left:2px;}
-        .footer-ul li { line-height:29px;font-size:12px; left: 0;}
-        .footer-ul li a { color:#000;}
-        .footer-ul i { margin-right:10px;}
+.index-page {
+    background: #fff;
+  }
+  .footer-ul {padding-left:0px; margin-left:2px;}
+  .footer-ul li { line-height:29px;font-size:12px; left: 0;}
+  .footer-ul li a { color:#000;}
+  .footer-ul i { margin-right:10px;}
 }
-.footer-ul {padding-left:0px; margin-left:2px; float: left;}
-.footer-ul li { line-height:29px;font-size:12px; left: 0;}
-.footer-ul li a { color:#000;}
-.footer-ul i { margin-right:10px;}
