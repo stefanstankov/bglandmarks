@@ -146,25 +146,12 @@ footer hr{
       .index-page {
           background: #fff;
         }
+        .footer-ul {padding-left:0px; margin-left:2px;}
+        .footer-ul li { line-height:29px;font-size:12px; left: 0;}
+        .footer-ul li a { color:#000;}
+        .footer-ul i { margin-right:10px;}
 }
-.footerleft{text-align: left;}
-.footer-ul { list-style-type:none;  padding-left:0px; margin-left:2px; float: left;}
+.footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px; left: 0;}
-.footer-ul li a { color:#000; transition: color 0.2s linear 0s, background 0.2s linear 0s; }
-.footer-ul i { margin-right:10px;}
-
-@media only screen and (max-width : 768px) {
-.footerleft{text-align: left;}
-}
-@media only screen and (max-width : 768px) {
-.footer-ul { list-style-type:none;  padding-left:0px; margin-left:2px; float: left;}
-}
-@media only screen and (max-width : 768px) {
-.footer-ul li { line-height:29px;font-size:12px; left: 0;}
-}
-@media only screen and (max-width : 768px) {
 .footer-ul li a { color:#000;}
-}
-@media only screen and (max-width : 768px) {
 .footer-ul i { margin-right:10px;}
-}

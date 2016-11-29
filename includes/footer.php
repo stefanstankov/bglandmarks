@@ -3,7 +3,7 @@
         <div class="container">
     <div class="row">
       <div class="col-lg-4 footerleft">
-        <ul class="footer-ul">
+        <ul class="footer-ul list-unstyled text-left">
         <li><strong><h3>Контакти</h3></strong></li>
         <li><i class="fa fa-map-pin"></i>България</li>
         <li><i class="fa fa-phone"></i> Телефон : +359 899 001 504</li>
