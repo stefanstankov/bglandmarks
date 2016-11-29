@@ -7,14 +7,10 @@
         <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
       <li><i class="fa fa-envelope"></i><?= MAIL;?> : bglandmarks@gmail.com</li>
         <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
+        <li>&copy; Bulgarian landmarks</li>
       </ul>
         </div>
         </div>
-      <div class="row">
-    <div class="col-md-12">
-      <p>&copy; Bulgarian landmarks  </p>
-    </div>
-  </div>
       </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
