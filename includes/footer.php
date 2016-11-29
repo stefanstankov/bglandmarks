@@ -15,7 +15,7 @@
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
         </p>
-        <button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="bglandmarks@gmail.com">
+        <button type="button" class="btn btn-default f-icons" data-container="body" data-toggle="popover" data-placement="top" data-content="bglandmarks@gmail.com">
             <i class="fa fa-envelope-o" aria-hidden="true"></i>
 </button>
       </footer>
@@ -67,7 +67,9 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
 <div id="fb-root"></div>
-
+<script>
+$('.f-icons').popover(options)
+</script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
