@@ -1,13 +1,15 @@
 <hr/>
   <footer>
         <div class="container">
-    <div class="row footerleft">
-      <div class="col-md-4 col-sm-4">
-        <p>Контакти</p>
-        <p><i class="fa fa-map-pin"></i>България</p>
-        <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
-        <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
-        <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>
+    <div class="row">
+      <div class="col-md-4 col-sm-4 footerleft">
+        <ul>
+        <li>Контакти</li>
+        <li><i class="fa fa-map-pin"></i>България</li>
+        <li><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</li>
+      <li><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</li>
+        <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></li>
+      </ul>
         </div>
         </div>
       <div class="row">
