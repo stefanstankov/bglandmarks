@@ -157,5 +157,5 @@ footer hr{
   float: left;
 }
 
-footer p { color:#000; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}
+footer li p { color:#000; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}
 footer p i { width:20px; color:#999;}
