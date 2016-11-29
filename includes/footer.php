@@ -2,7 +2,7 @@
   <footer>
         <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 footerleft">
+      <div class="col-md-4 footerleft">
         <ul class="footer-ul">
         <li>Контакти</li>
         <li><i class="fa fa-map-pin"></i>България</li>
