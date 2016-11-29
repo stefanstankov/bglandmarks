@@ -1,30 +1,15 @@
 <hr/>
   <footer>
-    <!--
-      <p class="text-center">&copy; Bulgarian landmarks  </p>
-      <p class="text-center">
-            <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-facebook-square"></i>
-            </a>
-            <a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-instagram"></i>
-            </a>
-            <a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-mobile" aria-hidden="true"></i>
-            </a>
-            <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-              <i class="fa fa-envelope-o" aria-hidden="true"></i>
-            </a>
-        </p>-->
         <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 footerleft">
+      <div class="col-md-12 col-sm-6 footerleft">
         <p>Контакти</p>
         <p><i class="fa fa-map-pin"></i>България</p>
         <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
         <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
         <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>
-      </div>
+        </div>
+        </div>
       <div class="row">
     <div class="col-md-12">
       <p>&copy; Bulgarian landmarks  </p>
