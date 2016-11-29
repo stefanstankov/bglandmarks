@@ -55,4 +55,5 @@
       </div>
     </div>
           </div>
+          </div>
                 <?php require 'includes/footer.php' ?>

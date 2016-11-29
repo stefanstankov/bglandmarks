@@ -53,6 +53,7 @@ ini_set('display_errors', 1);
 			</ol>
 				</div>
 			</div>
+			</div>
 
 			<script>
 	 function initMap() {
