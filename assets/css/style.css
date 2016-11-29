@@ -108,6 +108,7 @@ footer{
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
 .footer-ul i { margin-right:10px;}
+.dropdown-menu > li > a{color:#fff;}
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
