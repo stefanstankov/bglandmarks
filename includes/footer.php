@@ -1,5 +1,4 @@
-  <footer>
-        <div class="container">
+  <footer class="container">
     <div class="row">
       <div class="col-md-4 col-md-offset-1">
         <ul class="footer-ul list-unstyled text-left">
@@ -15,7 +14,6 @@
     <div class="col-md-12">
       <p>&copy; Bulgarian landmarks  </p>
     </div>
-  </div>
   </div>
       </footer>
 <!-- Sart Modal -->
