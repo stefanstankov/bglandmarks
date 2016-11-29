@@ -139,6 +139,7 @@ footer{
   .footer-ul i { margin-right:10px;}
   .footer-ul li a { color:#000;}
   .navbar-nav li a{color:#fff!important;}
+  .dropdown-header{color:#fff!important;}
 }
 
 @media (min-width: 768px) {
