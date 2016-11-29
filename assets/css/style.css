@@ -108,8 +108,6 @@ footer{
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
 .footer-ul i { margin-right:10px;}
-.dropdown-menu li a{color:#fff;}
-
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
@@ -140,6 +138,7 @@ footer{
   .footer-ul li { line-height:29px;font-size:12px; left: 0;}
   .footer-ul i { margin-right:10px;}
   .footer-ul li a { color:#000;}
+  .navbar-right .dropdown-menu li{color:#fff!important;}
 }
 
 @media (min-width: 768px) {
