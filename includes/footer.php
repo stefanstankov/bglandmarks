@@ -5,16 +5,16 @@
       <div class="col-md-4 col-md-offset-1">
         <ul class="footer-ul list-unstyled text-left">
         <li><strong><h2><?= CONTACTS;?></h2></strong></li>
-        <li><i class="fa fa-map-pin"></i><strong><?= COUNTRY;?><s/trong></li>
-        <li><i class="fa fa-phone"></i><strong> <?= PHONE;?>: +359 899 001 504</strong></li>
-      <li><i class="fa fa-envelope"><strong></i><?= MAIL;?> : bglandmarks@gmail.com</strong></li>
-        <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><strong><?= INSTAGRAM;?></strong></a></li>
+        <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
+        <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
+      <li><i class="fa fa-envelope"></i><?= MAIL;?> : bglandmarks@gmail.com</li>
+        <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
       </ul>
         </div>
         </div>
       <div class="row">
     <div class="col-md-12">
-      <p>&copy; <strong>Bulgarian landmarks</strong>  </p>
+      <p>&copy; Bulgarian landmarks  </p>
     </div>
   </div>
   </div>
