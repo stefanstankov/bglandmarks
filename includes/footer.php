@@ -1,8 +1,8 @@
 <hr/>
   <footer>
         <div class="container">
-    <div class="row">
-      <div class="col-md-4 col-sm-4 footerleft">
+    <div class="row footerleft">
+      <div class="col-md-4 col-sm-4">
         <p>Контакти</p>
         <p><i class="fa fa-map-pin"></i>България</p>
         <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
