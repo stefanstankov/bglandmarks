@@ -14,7 +14,7 @@
         </div>
       <div class="row">
     <div class="col-md-12">
-      <p>&copy; Bulgarian landmarks  </p>
+      <p class="f-color">&copy; Bulgarian landmarks  </p>
     </div>
   </div>
   </div>
