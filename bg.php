@@ -8,4 +8,9 @@ define('HISTORICAL', 'Исторически');
 define('ARCHITECTURAL', 'Архитектурни');
 define('GALLERY', 'Галерия');
 define('ABOUT_US', 'За нас');
+define('CONTACTS', 'Контакти');
+define('COUNTRY', 'България');
+define('PHONE', 'Телефон');
+define('MAIL', 'Имейл');
+define('INSTAGRAM', 'Последвайте ни в Instagram');
 ?>

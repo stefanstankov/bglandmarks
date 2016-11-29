@@ -8,4 +8,9 @@ define('HISTORICAL', 'Historical');
 define('ARCHITECTURAL', 'Arhitectural');
 define('GALLERY', 'Gallery');
 define('ABOUT_US', 'About us');
+define('CONTACTS', 'Contacts');
+define('COUNTRY', 'Bulgaria');
+define('PHONE', 'Phone');
+define('MAIL', 'E-mail');
+define('INSTAGRAM', 'Follow us on instagram');
 ?>
