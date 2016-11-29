@@ -110,8 +110,8 @@ footer{
 .footer-ul i { margin-right:10px;}
 
 .section-basic{
-  padding-left: 0;
-  padding-right: 0;
+  padding-left: 0px!important;
+  padding-right: 0px!important;
 }
 
 /* Medium Devices, Desktops */
