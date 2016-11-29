@@ -1,6 +1,6 @@
   <footer>
-        <div>
-    <div class="row container">
+        <div class="container">
+    <div class="row">
       <div class="col-md-4 col-md-offset-1">
         <ul class="footer-ul list-unstyled text-left">
         <li><strong><h2><?= CONTACTS;?></h2></strong></li>
