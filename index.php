@@ -97,6 +97,7 @@
             </div>
          </div>
        </div>
+       </div>
        <script>
 
        $(window).load(function() {
