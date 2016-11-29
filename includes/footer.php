@@ -68,7 +68,7 @@
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
 <div id="fb-root"></div>
 <script>
-$('#example').popover(options)
+$('#example').popover(options);
 </script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
