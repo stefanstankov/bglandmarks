@@ -2,11 +2,11 @@
   <footer>
         <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 footerleft">
+      <div class="col-lg-4 footerleft">
         <ul class="footer-ul">
-        <li><strong>Контакти</strong></li>
+        <li><strong><h3>Контакти</h3></strong></li>
         <li><i class="fa fa-map-pin"></i>България</li>
-        <li><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</li>
+        <li><i class="fa fa-phone"></i> Телефон : +359 899 001 504</li>
       <li><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</li>
         <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></li>
       </ul>
