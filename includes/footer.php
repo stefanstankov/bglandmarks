@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-md-4">
         <ul class="footer-ul list-unstyled text-left">
-        <li><strong><h3>Контакти</h3></strong></li>
+        <li><strong><h2>Контакти</h2></strong></li>
         <li><i class="fa fa-map-pin"></i>България</li>
         <li><i class="fa fa-phone"></i> Телефон : +359 899 001 504</li>
       <li><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</li>
