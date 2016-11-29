@@ -162,8 +162,8 @@ footer hr{
   color:#999;
   padding-right: 5px;
  }
-.footerleft-ul { list-style-type:none;  padding-left:0px; margin-left:2px;}
-.footer-ul li { line-height:29px; font-size:12px;}
-.footerleft--ul li a { color:#a0a3a4; transition: color 0.2s linear 0s, background 0.2s linear 0s; }
-.footerleft--ul i { margin-right:10px;}
+.footerleft ul { list-style-type:none;  padding-left:0px; margin-left:2px;}
+.footer ul li { line-height:29px; font-size:12px;}
+.footerleft ul li a { color:#a0a3a4; transition: color 0.2s linear 0s, background 0.2s linear 0s; }
+.footerleft ul i { margin-right:10px;}
 .footerleft--ul li a:hover {transition: color 0.2s linear 0s, background 0.2s linear 0s; color:#ff670f; }
