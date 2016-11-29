@@ -15,6 +15,7 @@
       <p>&copy; Bulgarian landmarks  </p>
     </div>
   </div>
+  </div>
       </footer>
       </div>
 <!-- Sart Modal -->
