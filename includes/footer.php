@@ -26,13 +26,11 @@
         <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
         <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>
       </div>
-      <div class="copyright">
-  <div class="container">
-    <div class="col-md-6">
+      <div class="row">
+    <div class="col-md-12">
       <p>&copy; Bulgarian landmarks  </p>
     </div>
   </div>
-</div>
       </footer>
       </div>
 <!-- Sart Modal -->
