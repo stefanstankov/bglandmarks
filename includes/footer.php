@@ -19,12 +19,12 @@
         <div class="container">
     <div class="row">
       <div class="col-md-4 col-sm-6 footerleft ">
-        <div class="logofooter">Bulgarian landmarks</div>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+        <div class="logofooter"><h1>Bulgarian landmarks</h1></div>
+        <p><h2>Контакти</a></p>
         <p><i class="fa fa-map-pin"></i>6600 Кърджали, България</p>
         <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
         <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
-        <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>      
+        <p><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks">Последвайте ни в Instagram</a></p>
       </div>
       </footer>
       </div>
