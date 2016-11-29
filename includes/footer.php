@@ -18,9 +18,8 @@
         </p>-->
         <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 footerleft ">
-        <div class="logofooter"><h1>Bulgarian landmarks</h1></div>
-        <p><h2>Контакти</a></p>
+      <div class="col-md-4 col-sm-6 footerleft">
+        <p>Контакти</p>
         <p><i class="fa fa-map-pin"></i>България</p>
         <p><i class="fa fa-phone"></i> Телефон (България) : +359 899 001 504</p>
         <p><i class="fa fa-envelope"></i>Имейл : bglandmarks@gmail.com</p>
