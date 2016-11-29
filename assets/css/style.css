@@ -87,11 +87,6 @@
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
-footer{
- margin-top:50px;
- padding:0 36px;
-}
-
 .navbar-wrapper .navbar .container{
   background-color:#79589F;
 }
@@ -157,5 +152,5 @@ footer hr{
   float: left;
 }
 
-footer li p { color:#000; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}
-footer p i { width:20px; color:#999;}
+.footerleft p { color:#000; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}
+.footerleft p i { width:20px; color:#999;}
