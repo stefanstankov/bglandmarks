@@ -1,6 +1,5 @@
 <hr/>
   <footer>
-    <!--
       <p class="text-center">&copy; Bulgarian landmarks  </p>
       <p class="text-center">
             <a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
@@ -15,28 +14,12 @@
             <a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
               <i class="fa fa-envelope-o" aria-hidden="true"></i>
             </a>
-        </p> -->
-        <button type="button" class="btn btn-default btn-lg">
-        <span><a rel="tooltip" title="Харесайте ни във Facebook" data-placement="bottom" href="https://www.facebook.com/" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-          <i class="fa fa-facebook-square"></i>
-        </a></span>
-        </button>
-        <button type="button" class="btn btn-default btn-lg">
-        <span><a rel="tooltip" title="Последвайте ни в Instagram" data-placement="bottom" href="https://www.instagram.com/bglandmarks" target="_blank" class="btn btn-white btn-simple btn-just-icon">
-          <i class="fa fa-instagram"></i>
-        </a></span>
-        </button>
-        <button type="button" class="btn btn-default btn-lg">
-        <span><a rel="tooltip" title="+359 899 001 504" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-          <i class="fa fa-mobile" aria-hidden="true"></i>
-        </a></span>
-        </button>
-        <button type="button" class="btn btn-default btn-lg">
-        <span><a rel="tooltip" title="bglandmarks@gmail.com" data-toggle="tooltip" data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
-          <i class="fa fa-envelope-o" aria-hidden="true"></i>
-        </a></span>
-        </button>
-
+        </p>
+        <button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="bglandmarks@gmail.com">
+          <a data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
+            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+          </a>
+</button>
       </footer>
       </div>
 <!-- Sart Modal -->
