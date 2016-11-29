@@ -16,9 +16,7 @@
             </a>
         </p>
         <button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="bglandmarks@gmail.com">
-          <a data-placement="bottom" href="#" class="btn btn-white btn-simple btn-just-icon">
             <i class="fa fa-envelope-o" aria-hidden="true"></i>
-          </a>
 </button>
       </footer>
       </div>
