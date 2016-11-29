@@ -109,11 +109,6 @@ footer{
 .footer-ul li a { color:#fff;}
 .footer-ul i { margin-right:10px;}
 
-.section-basic{
-  padding-left: 0px!important;
-  padding-right: 0px!important;
-}
-
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
