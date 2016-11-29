@@ -53,5 +53,15 @@
     <p><a href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
   </div>
 </div>
+<div class="col-md-4">
+  <br>
+    <br>
+      <br>
+      </div>
+      <div class="col-md-4">
+        <br>
+          <br>
+            <br>
+</div>
 </div>
       <?php require 'includes/footer.php' ?>
