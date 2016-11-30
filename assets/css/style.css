@@ -109,6 +109,10 @@ footer{
   color:#fff;
 }
 
+.breadcrumb{
+  float: left;
+}
+
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
