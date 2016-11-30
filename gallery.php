@@ -22,6 +22,7 @@
     <a class="fancybox-thumb" rel="fancybox-thumb" href="/assets/img/eagle_rocks2.jpg" title="(Eric Goncalves (cathing up again!))">
     	<img src="/assets/thumbs/img/eagle_rocks2.jpg" alt="" />
     </a>
+  </div>
 <script>
 $(document).ready(function() {
 	$(".fancybox-thumb").fancybox({
