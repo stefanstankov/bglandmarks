@@ -2,7 +2,8 @@
   	$pageTitle = 'Начало';
  		require 'includes/header.php';
 ?>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <div class="section section-basic text-center article-color container">
 <div id="galleryTab">
   <a data-rel="all"  href="javascript:;" class="filter active">View all</a>
   <a data-rel="anim" href="javascript:;" class="filter">Animals</a>
@@ -16,6 +17,7 @@
   <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/image/eagle_rocks.jpg"><img src="/assets/image/eagle_rocks.jpg" alt="" /></a>
   <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/image/eagle_rocks1.jpg"><img src="/assets/image/eagle_rocks1.jpg" alt="" /></a>
   <a class="fancybox" data-fancybox-group="gallery" data-filter="arch" href="/assets/image/eagle_rocks2.jpg"><img src="/assets/image/eagle_rocks2.jpg" alt="" /></a>
+</div>
 </div>
 <script>
 jQuery(function($){
