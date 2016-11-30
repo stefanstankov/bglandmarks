@@ -12,11 +12,11 @@
 </div>
 
 <div class="galleryWrap">
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/image/bridge.jpg"><img src="/img/thumbs/bridge.jpg" alt="" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/image/bridge1.jpg"><img src="/img/thumbs/bridge1.jpg" alt="" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/image/eagle_rocks.jpg"><img src="/assets/image/eagle_rocks.jpg" alt="" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/image/eagle_rocks1.jpg"><img src="/assets/image/eagle_rocks1.jpg" alt="" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="arch" href="/assets/image/eagle_rocks2.jpg"><img src="/assets/image/eagle_rocks2.jpg" alt="" /></a>
+  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge.jpg"><img src="/assets/thumbs/bridge.jpg" alt="" /></a>
+  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge1.jpg"><img src="/assets/thumbs/bridge1.jpg" alt="" /></a>
+  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks.jpg"><img src="/assets/thumbs/image/eagle_rocks.jpg" alt="" /></a>
+  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks1.jpg"><img src="/assets/thumbs/image/eagle_rocks1.jpg" alt="" /></a>
+  <a class="fancybox" data-fancybox-group="gallery" data-filter="arch" href="/assets/img/eagle_rocks2.jpg"><img src="/assets/thumbs/image/eagle_rocks2.jpg" alt="" /></a>
 </div>
 </div>
 <script>
