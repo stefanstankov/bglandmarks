@@ -4,7 +4,8 @@
 <?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color article-color1 container">
       <h2>Архитектурни</h2>
-        <hr/>
+      <br/>
+        <br/>
         <div class="row">
 <div class="col-md-4">
       <img src="assets/img/museum.jpg" class="img-responsive" alt="Регионален исторически музей Кърджали" width="304" height="236">
@@ -31,6 +32,8 @@
       </div>
     </div>
   </div>
+  <br/>
+    <br/>
   <div class="row">
   <div class="col-md-4">
   <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост" width="304" height="236">
