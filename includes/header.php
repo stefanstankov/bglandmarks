@@ -67,7 +67,7 @@ ini_set('display_errors', 1);
 										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><?= ARCHITECTURAL;?></a></li>
 										<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><?= HISTORICAL;?></a></li>
 									 <li role="separator" class="divider"></li>
-									 <li><a href="#"><?= GALLERY;?></a></li>
+									 <li><a href="gallery.php"><?= GALLERY;?></a></li>
 								 </ul>
 							 </li>
 							 <li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
