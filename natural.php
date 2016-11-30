@@ -30,8 +30,8 @@
     </div>
   </div>
   </div>
+          <hr/>
   <div class="row">
-  </hr>
   <div class="col-md-4">
       <img src="assets/img/swan_village.jpg" class="img-responsive" alt="Езерата край село Лебед" width="304" height="236">
       <div class="caption">
