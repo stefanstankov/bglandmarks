@@ -2,9 +2,9 @@
   	$pageTitle = 'Начало';
  		require 'includes/header.php';
 ?>
-<script type="text/javascript" src="../lib/jquery-1.10.1.min.js"></script>
-<script type="text/javascript" src="../source/jquery.fancybox.js?v=2.1.5"></script>
-<link rel="stylesheet" type="text/css" href="/source/jquery.fancybox.css?v=2.1.5" media="screen" />
+<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css?v=2.1.5" media="screen" />
   <div class="section section-basic text-center article-color container">
     <div class="row">
       <div class="col-md-3">
