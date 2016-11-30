@@ -2,6 +2,9 @@
   	$pageTitle = 'Начало';
  		require 'includes/header.php';
 ?>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <div class="section section-basic text-center article-color container">
 <div id="galleryTab">
