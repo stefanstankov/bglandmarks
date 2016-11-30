@@ -15,7 +15,7 @@
     </div>
 </div>
 <div class="col-md-4">
-    <img src="assets/img/stone_mushrooms.jpg" alt="Каменните гъби" width="304" height="236">
+    <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="Каменните гъби" width="304" height="236">
     <div class="caption">
       <h3><strong>Каменните гъби</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
@@ -33,7 +33,7 @@
   </div>
   <div class="row">
   <div class="col-md-4">
-      <img src="assets/img/swan_village.jpg" alt="Езерата край село Лебед" width="304" height="236">
+      <img src="assets/img/swan_village.jpg" class="img-responsive" alt="Езерата край село Лебед" width="304" height="236">
       <div class="caption">
         <h3><strong>Езерата край село Лебед</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
