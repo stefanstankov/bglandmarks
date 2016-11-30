@@ -88,7 +88,7 @@
 
 .article-color{
   background-color: #fff;
-  padding-left: 55px;
+  padding-left: 55px!important;
 }
 
 footer hr{
