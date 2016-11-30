@@ -88,9 +88,10 @@
 
 .article-color{
   background-color: #fff;
+}
+.article-color1{
   padding-left: 55px!important;
 }
-
 footer hr{
   font-size: 50px;
   position: absolute;
