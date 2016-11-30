@@ -15,7 +15,7 @@
       </div>
     </div>
 <div class="col-md-4">
-      <img src="assets/img/orfei.jpg" alt="Статуята на Орфей" width="304" height="236">
+      <img src="assets/img/orfei.jpg" class="img-responsive" alt="Статуята на Орфей" width="304" height="236">
       <div class="caption">
         <h3><strong>Статуята на Орфей</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>

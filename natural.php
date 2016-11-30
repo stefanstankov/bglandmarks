@@ -7,7 +7,7 @@
         <hr/>
         <div class="row">
     <div class="col-md-4">
-    <img src="assets/img/utroba_cave.jpg" alt=">Пещера утробата" width="304" height="236">
+    <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="304" height="236">
     <div class="caption">
       <h3><strong>Пещера утробата</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
@@ -23,7 +23,7 @@
     </div>
   </div>
 <div class="col-md-4">
-    <img src="assets/img/eagle_rocks.jpg" alt="Орлови скали" width="304" height="236">
+    <img src="assets/img/eagle_rocks.jpg" class="img-responsive" alt="Орлови скали" width="304" height="236">
     <div class="caption">
       <h3><strong>Тракийско скално светилище Орлови скали</strong></h3>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
