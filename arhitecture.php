@@ -4,13 +4,10 @@
  		require 'includes/header.php';
 ?>
 		<div class="section section-basic text-center article-color container">
-        <div class="row">
       <h2>Архитектурни</h2>
         <hr/>
+        <div class="row">
 <div class="col-md-4">
-  <br>
-    <br>
-      <br>
       <img src="assets/img/museum.jpg" alt="Регионален исторически музей Кърджали" width="304" height="236">
       <div class="caption">
         <h3><strong>Регионален исторически музей Кърджали</strong></h3>
@@ -19,9 +16,6 @@
       </div>
     </div>
 <div class="col-md-4">
-  <br>
-    <br>
-      <br>
       <img src="assets/img/orfei.jpg" alt="Статуята на Орфей" width="304" height="236">
       <div class="caption">
         <h3><strong>Статуята на Орфей</strong></h3>
@@ -30,9 +24,6 @@
       </div>
     </div>
 <div class="col-md-4">
-  <br>
-    <br>
-      <br>
       <img src="assets/img/dam_wall.jpg" alt="язовирната стена Кърджали" width="304" height="236">
       <div class="caption">
         <h3><strong>язовирната стена Кърджали</strong></h3>
@@ -43,9 +34,6 @@
   </div>
   <div class="row">
   <div class="col-md-4">
-    <br>
-      <br>
-        <br>
   <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост" width="304" height="236">
   <div class="caption">
     <h3><strong>Дяволксия мост</strong></h3>

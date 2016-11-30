@@ -5,9 +5,9 @@
 ?>
 
 		<div class="section section-basic text-center article-color container">
+      <h2>Природни</h2>
+        <hr/>
         <div class="row">
-    <h2>Природни</h2>
-      <hr/>
     <div class="col-md-4">
       <br>
         <br>
