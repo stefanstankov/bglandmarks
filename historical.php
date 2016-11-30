@@ -1,7 +1,5 @@
 <?php
   	$pageTitle = 'Начало';
-
-
 ?>
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color container">

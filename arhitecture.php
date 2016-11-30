@@ -1,8 +1,7 @@
 <?php
   	$pageTitle = 'Начало';
-
- 		require 'includes/header.php';
 ?>
+<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color container">
       <h2>Архитектурни</h2>
         <hr/>
@@ -12,7 +11,7 @@
       <div class="caption">
         <h3><strong>Регионален исторически музей Кърджали</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="museum.php" class="btn btn-primary" role="button">Научи повече</a></p>
+        <p><a href="museum.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
 <div class="col-md-4">
@@ -20,7 +19,7 @@
       <div class="caption">
         <h3><strong>Статуята на Орфей</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="statue.php" class="btn btn-primary" role="button">Научи повече</a></p>
+        <p><a href="statue.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
 <div class="col-md-4">
@@ -28,7 +27,7 @@
       <div class="caption">
         <h3><strong>язовирната стена Кърджали</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a id="db" href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
+        <p><a href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
   </div>
