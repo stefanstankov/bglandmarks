@@ -10,13 +10,12 @@
   <a data-rel="land" href="javascript:;" class="filter">Landscapes</a>
   <a data-rel="arch" href="javascript:;" class="filter">Architecture</a>
 </div>
-
 <div class="galleryWrap">
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge.jpg"><img src="/assets/thumbs/bridge.jpg" class="img-responsive" alt="Каменните гъби" width="304" height="236" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge1.jpg"><img src="/assets/thumbs/bridge1.jpg" class="img-responsive" alt="Каменните гъби" width="304" height="236" /></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks.jpg"><img src="/assets/thumbs/image/eagle_rocks.jpg"class="img-responsive" alt="Каменните гъби" width="304" height="236"/></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks1.jpg"><img src="/assets/thumbs/image/eagle_rocks1.jpg" class="img-responsive" alt="Каменните гъби" width="304" height="236"/></a>
-  <a class="fancybox" data-fancybox-group="gallery" data-filter="arch" href="/assets/img/eagle_rocks2.jpg"><img src="/assets/thumbs/image/eagle_rocks2.jpg" class="img-responsive" alt="Каменните гъби" width="304" height="236" /></a>
+  <a class="fancybox img-responsive" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge.jpg"><img src="/assets/thumbs/bridge.jpg"  width="304" height="236" /></a>
+  <a class="fancybox img-responsive" data-fancybox-group="gallery" data-filter="anim" href="/assets/img/bridge1.jpg"><img src="/assets/thumbs/bridge1.jpg"  width="304" height="236" /></a>
+  <a class="fancybox img-responsive" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks.jpg"><img src="/assets/thumbs/image/eagle_rocks.jpg" width="304" height="236"/></a>
+  <a class="fancybox img-responsive" data-fancybox-group="gallery" data-filter="land" href="/assets/img/eagle_rocks1.jpg"><img src="/assets/thumbs/image/eagle_rocks1.jpg"  width="304" height="236"/></a>
+  <a class="fancybox img-responsive" data-fancybox-group="gallery" data-filter="arch" href="/assets/img/eagle_rocks2.jpg"><img src="/assets/thumbs/image/eagle_rocks2.jpg" width="304" height="236" /></a>
 </div>
 </div>
 <script>
