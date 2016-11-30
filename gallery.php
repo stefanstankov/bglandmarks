@@ -23,6 +23,11 @@
     	<img src="/assets/thumbs/img/eagle_rocks2.jpg" alt="" />
     </a>
   </div>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
 <script>
 $(document).ready(function() {
 	$(".fancybox-thumb").fancybox({
