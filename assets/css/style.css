@@ -65,6 +65,9 @@
     padding-left: 0;
   }
 
+.navbar-nav > li > a {
+  line-height: 23px;
+}
   /* The navbar becomes detached from the top, so we round the corners */
   .navbar-wrapper .navbar {
     border-radius: 4px;
