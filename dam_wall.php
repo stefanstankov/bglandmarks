@@ -20,6 +20,12 @@ ini_set('display_errors', 1);
 							    <li>
 							    	<img src="/assets/img/dam_wall.jpg"/>
 							    </li>
+									<li>
+							    	<img src="/assets/img/dam_wall1.jpg"/>
+							    </li>
+									<li>
+							    	<img src="/assets/img/dam_wall2.jpg"/>
+							    </li>
 							  </ul>
 							</div>
 

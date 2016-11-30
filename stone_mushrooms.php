@@ -48,8 +48,8 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
           <ol class="breadcrumb">
         <li><strong>Линкове по темата</strong></li>
-        <li><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8_%D0%B3%D1%8A%D0%B1%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></li>
-        <li> <a href="https://www.youtube.com/watch?v=1_HJ1DxDojE"><i class="fa fa-youtube" aria-hidden="true"></i>Дяволски мост (видео)</a></li>
+        <li><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8_%D0%B3%D1%8A%D0%B1%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Каменните гъби</a></li>
+        <li> <a href="https://www.youtube.com/watch?v=1_HJ1DxDojE"><i class="fa fa-youtube" aria-hidden="true"></i>Каменните гъби (видео)</a></li>
       </ol>
 				</div>
 			</div>
