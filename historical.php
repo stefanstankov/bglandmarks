@@ -4,8 +4,6 @@
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color article-color1 container">
           <h2>Исторически</h2>
-            <br/>
-              <br/>
               <div class="row">
         <div class="col-md-4">
             <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра" width="304" height="236">
