@@ -18,7 +18,7 @@
       <div class="caption">
         <h3><strong>Статуята на Орфей</strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a href="statue.php" class="img-responsive" class="btn btn-primary" role="button">Научи повече</a></p>
+        <p><a href="statue.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
     </div>
 <div class="col-md-4">
