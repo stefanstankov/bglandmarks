@@ -4,7 +4,6 @@
 <?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color article-color1 container">
       <h2>Природни</h2>
-        <hr/>
         <div class="row">
     <div class="col-md-4">
     <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="304" height="236">
@@ -32,6 +31,7 @@
   </div>
   </div>
   <div class="row">
+  </hr>
   <div class="col-md-4">
       <img src="assets/img/swan_village.jpg" class="img-responsive" alt="Езерата край село Лебед" width="304" height="236">
       <div class="caption">
