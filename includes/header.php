@@ -39,6 +39,7 @@ ini_set('display_errors', 1);
  <link rel="stylesheet" href="assets/css/site.css" />
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css?v=2.1.5" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox-thumbs.css" media="screen" />
 </head>
 
 <body class="index-page">
