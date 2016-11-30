@@ -38,8 +38,6 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
  <link rel="stylesheet" href="assets/css/site.css" />
 	<link rel="stylesheet" href="assets/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox-thumbs.css" media="screen" />
 </head>
 
 <body class="index-page">
