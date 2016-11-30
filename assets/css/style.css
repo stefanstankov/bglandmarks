@@ -137,7 +137,7 @@ footer{
   .footer-ul {padding-left:0px; margin-left:2px;}
   .footer-ul li { line-height:29px;font-size:12px; left: 0;}
   .footer-ul i { margin-right:10px;}
-  .footer-ul li a { color:#000;}
+  .footer-ul li a { color:#fff;}
   .navbar-nav li a{color:#fff!important;}
   .dropdown-header{color:#fff!important;}
 }
