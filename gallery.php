@@ -2,28 +2,13 @@
   	$pageTitle = 'Начало';
  		require 'includes/header.php';
 ?>
-<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.fancybox.js?v=2.1.5"></script>
-<link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.css?v=2.1.5" media="screen" />
   <div class="section section-basic text-center article-color container">
-    <div class="row">
-      <div class="col-md-3">
-	  <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="/assets/thumbs/img/bridge.jpg" alt="" /></a>
-   </div>
-    <div class="col-md-3">
-	<a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="Etiam quis mi eu elit temp"><img src="/assets/thumbs/img/bridge1.jpg" alt="" /></a>
-   </div>
-    <div class="col-md-3">
-	<a class="fancybox" href="/assets/img/eagle_rocks.jpg" data-fancybox-group="gallery" title="Cras neque mi, semper leon"><img src="/assets/thumbs/img/eagle_rocks.jpg" alt="" /></a>
-    </div>
-    <div class="col-md-3">
+  <p>
+	   <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="/assets/thumbs/img/bridge.jpg" alt="" /></a>
+	   <a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="Etiam quis mi eu elit temp"><img src="/assets/thumbs/img/bridge1.jpg" alt="" /></a>
+	  <a class="fancybox" href="/assets/img/eagle_rocks.jpg" data-fancybox-group="gallery" title="Cras neque mi, semper leon"><img src="/assets/thumbs/img/eagle_rocks.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title="Sed vel sapien vel sem uno"><img src="/assets/thumbs/img/eagle_rocks1.jpg" alt="" /></a>
-	</div></div>
-      <div class="row">
-            <div class="col-md-3">
     <a class="fancybox" href="/assets/img/eagle_rocks2.jpg" data-fancybox-group="gallery" title="Sed vel sapien vel sem uno"><img src="/assets/thumbs/img/eagle_rocks2.jpg" alt="" /></a>
-  </div>
-  </div>
     </div>
   <script type="text/javascript">
   		$(document).ready(function() {

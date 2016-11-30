@@ -58,6 +58,8 @@
 <script src="../assets/js/jquery.flexslider-min.js"></script>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="../assets/js/ie-emulation-modes-warning.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fancybox.js?v=2.1.5"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
