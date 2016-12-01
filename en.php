@@ -13,7 +13,7 @@ define('COUNTRY', 'Bulgaria');
 define('PHONE', 'Phone');
 define('MAIL', 'E-mail');
 define('INSTAGRAM', 'Follow us on instagram');
-define('MOST', 'Дяволският мост');
+define('MOST', 'The devil\'s bridge');
 define('EAGLE_ROCKS', 'Thracian cult complex (Eagle Rocks)');
 define('Kardzhali_Dam', 'Kardzhali Dam');
 define('MELNIK', 'Melnik');
