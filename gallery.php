@@ -11,10 +11,12 @@
 	  <a class="fancybox" href="/assets/img/eagle_rocks.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks1.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/eagle_rocks2.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks2.jpg" alt="" /></a>
+
+  </p>
     </div>
 
 	<?php require 'includes/footer.php' ?>
-  
+
   <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
   <script type="text/javascript" src="/assets/js/jquery.fancybox.js"></script>
 
