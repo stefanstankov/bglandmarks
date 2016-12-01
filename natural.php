@@ -3,7 +3,7 @@
 ?>
 <?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color article-color1 container">
-      <h2>Природни</h2>
+      <h2><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
     <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="304" height="236">

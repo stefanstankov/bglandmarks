@@ -3,7 +3,7 @@
 ?>
 <?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color article-color1 container">
-      <h2>Архитектурни</h2>
+      <h2><?= ARCHITECTURAL;?></h2>
         <div class="row">
 <div class="col-md-4">
       <img src="assets/img/museum.jpg" class="img-responsive" alt="Регионален исторически музей Кърджали" width="304" height="236">
