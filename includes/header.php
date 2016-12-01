@@ -42,7 +42,7 @@ ini_set('display_errors', 1);
 
 <body class="index-page">
 		<div class="navbar-wrapper">
-		 <div class="container">
+		 <div class="container custom-contss">
  		 	<nav class="navbar navbar-inverse navbar-static-top">
 				 <div class="container">
 					 <div class="navbar-header">
