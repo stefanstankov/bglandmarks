@@ -15,7 +15,7 @@
     <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
-    <a class="fancybox" href="/assets/img/main.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/main.jpg" alt="" /></a>
+    <a class="fancybox" href="/assets/img/main.JPG" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/main.jpg" alt="" /></a>
     </p>
     <p>
   <a class="fancybox" href="/assets/img/main1.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/main1.jpg" alt="" /></a>
