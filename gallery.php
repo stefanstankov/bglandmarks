@@ -10,8 +10,9 @@
 	   <a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
 	  <a class="fancybox" href="/assets/img/eagle_rocks.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks1.jpg" alt="" /></a>
+      </p>
+    <p>
     <a class="fancybox" href="/assets/img/eagle_rocks2.jpg" data-fancybox-group="gallery" title=""><img src="/assets/img/thumbs/eagle_rocks2.jpg" alt="" /></a>
-
   </p>
     </div>
 
