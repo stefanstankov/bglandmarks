@@ -12,6 +12,11 @@
   background-color: #79589F;
 }
 
+.custom-navss{
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
 .museumpage {
     margin-top: 75px;
     margin-bottom: 90px;
