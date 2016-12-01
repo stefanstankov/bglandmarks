@@ -13,4 +13,18 @@ define('COUNTRY', 'Bulgaria');
 define('PHONE', 'Phone');
 define('MAIL', 'E-mail');
 define('INSTAGRAM', 'Follow us on instagram');
+define('MOST', 'Дяволският мост');
+define('EAGLE_ROCKS', 'Thracian cult complex (Eagle Rocks)');
+define('Kardzhali_Dam', 'Kardzhali Dam');
+define('MELNIK', 'Melnik');
+define('Kardzhali_Dam', 'Kardzhali Dam');
+define('FOREST', 'The petrified forest');
+define('RILA', 'Rila lakes');
+define('MUSEUM', 'Regional museum of history, Kardzhali');
+define('PERPERIKON', 'Perperikon archeological complex');
+define('STATUE', 'The statue of Orpheus');
+define('SWAN_VILLAGE', 'Lakes near Lebed village(Swan village)');
+define('STONE', 'The stone mushrooms');
+define('USTRA', 'Ustra medieval fortress');
+define('UTROBA', 'Utroba cave (The womb cave)');
 ?>

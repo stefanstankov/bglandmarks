@@ -13,4 +13,19 @@ define('COUNTRY', 'България');
 define('PHONE', 'Телефон');
 define('MAIL', 'Имейл');
 define('INSTAGRAM', 'Последвайте ни в Instagram');
+define('MOST', 'Дяволският мост');
+define('EAGLE_ROCKS', 'Тракийско скално светилище Орлови скали');
+define('Kardzhali_Dam', 'Язовир, "Кърджали"');
+define('MELNIK', 'град Мелник');
+define('Kardzhali_Dam', 'Язовир, "Кърджали"');
+define('FOREST', 'Вкаменената гора');
+define('RILA', 'Рилските езера');
+define('MUSEUM', 'Регионален исторически музей, Кърджали');
+define('PERPERIKON', 'Археологически комплекс Перперикон');
+define('STATUE', 'Паметник на Орфей');
+define('SWAN_VILLAGE', 'Езерата край село Лебед');
+define('STONE', 'каммените гъби');
+define('USTRA', 'Средновековна крепост устра');
+define('UTROBA', 'Пещера Утробата');
+
 ?>
