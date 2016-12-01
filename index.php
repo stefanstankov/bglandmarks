@@ -24,6 +24,36 @@
                 <li>
                   <img src="/assets/img/main3.jpg"/>
                 </li>
+                <li>
+                  <img src="/assets/img/bridge.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/eagle_rocks.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/dam_wall.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/museum.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/perperikon.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/orfei.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/swan_village.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/stone_mushrooms.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/ustra.jpg"/>
+                </li>
+                <li>
+                  <img src="/assets/img/utroba_cave.jpg"/>
+                </li>
               </ul>
             </div>
             </div>
