@@ -8,7 +8,7 @@
 <div class="col-md-4">
       <img src="assets/img/museum.jpg" class="img-responsive" alt="Регионален исторически музей Кърджали" width="304" height="236">
       <div class="caption">
-        <h3><strong><?= MUSEUM;?>"></strong></h3>
+        <h3><strong><?= MUSEUM;?></strong></h3>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
         <p><a href="museum.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
