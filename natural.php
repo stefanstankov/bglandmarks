@@ -7,7 +7,7 @@
         <div class="row">
     <div class="col-md-4">
       <div class="card">
-    <img src="assets/img/utroba_cave.jpg" class="card-img-top img-responsive" alt=">Пещера утробата" width="318" height="180">
+    <img src="assets/img/utroba_cave.jpg" class="card-img-top" alt=">Пещера утробата" width="318" height="180">
     <div class="card-block">
       <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
       <hr>
