@@ -42,7 +42,9 @@
 
 <div class="col-md-4">
 <div class="card">
-    <img src="assets/img/swan_village.jpg" class="img-fluid img-responsive" alt="" width="304" height="236">
+  <div>
+    <img src="assets/img/swan_village.jpg" class="img-fluid" alt="" width="304" height="236">
+  </div>
     <div class="card-block">
         <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
