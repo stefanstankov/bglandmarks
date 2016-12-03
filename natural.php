@@ -11,7 +11,7 @@
       <h3><strong><?= UTROBA;?></strong></h3>
       <hr>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
 </div>
 <div class="col-md-4">
@@ -20,7 +20,7 @@
       <h3><strong><?= STONE;?></strong></h3>
       <hr>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      <p class="text-center"><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
   </div>
 <div class="col-md-4">
@@ -29,7 +29,7 @@
       <h3><strong><?= EAGLE_ROCKS;?></strong></h3>
       <hr>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-      <p><a  href="eagle_rocks.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      <p class="text-center"><a  href="eagle_rocks.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
   </div>
   </div>
@@ -40,7 +40,7 @@
         <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-        <p><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        <p class="text-center"><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
           </div>
