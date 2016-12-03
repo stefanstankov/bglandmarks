@@ -42,7 +42,7 @@
 
 <div class="col-md-4">
 <div class="card">
-  <div>
+  <div class="view overlay hm-white-slight">
     <img src="assets/img/swan_village.jpg" class="img-fluid" alt="" width="304" height="236">
   </div>
     <div class="card-block">
