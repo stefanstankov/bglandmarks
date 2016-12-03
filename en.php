@@ -22,7 +22,7 @@ define('RILA', 'Rila Lakes');
 define('MUSEUM', 'Regional Museum of History, Kardzhali');
 define('PERPERIKON', 'Perperikon Archeological Complex');
 define('STATUE', 'The Statue of Orpheus');
-define('SWAN_VILLAGE', 'Lakes Near Lebed Village(Swan Village)');
+define('SWAN_VILLAGE', 'Lakes near Lebed Village (Swan Village)');
 define('STONE', 'The Stone Mushrooms');
 define('USTRA', 'Ustra Medieval Fortress');
 define('UTROBA', 'Utroba Cave (The Womb Cave)');
