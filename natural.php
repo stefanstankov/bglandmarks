@@ -43,7 +43,7 @@
 <div class="col-md-4">
 <div class="card card-dark">
     <div class="view overlay hm-white-slight">
-        <img src="assets/img/swan_village.jpg" class="img-fluid" alt="" width="304" height="236">
+        <img src="assets/img/swan_village.jpg" class="img-fluid img-responsive" alt="" width="304" height="236">
         <a href="#">
         </a>
     </div>
@@ -51,7 +51,7 @@
         <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="" class="link-text"><h5><?= READ_MORE;?><i class="fa fa-chevron-right"></i></h5></a>
+        <p><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
 </div>
       </div>
