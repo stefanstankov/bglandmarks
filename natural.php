@@ -18,11 +18,11 @@
 </div>
 <div class="col-md-4">
   <div class=" card">
-    <img class="card-img-top" src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="Каменните гъби" width="318" height="180">
+    <img src="assets/img/stone_mushrooms.jpg" class="card-img-top img-responsive" alt="Каменните гъби" width="318" height="180">
     <div class="card-block">
       <h3 class="card-title"><strong><?= STONE;?></strong></h3>
       <hr>
-      <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
       <p class="text-center"><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
     </div>
@@ -33,7 +33,7 @@
     <div class="card-block">
       <h3 class="card-title"><strong><?= EAGLE_ROCKS;?></strong></h3>
       <hr>
-      <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
       <p class="text-center"><a  href="eagle_rocks.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
   </div>
@@ -46,7 +46,7 @@
       <div class="card-block">
         <h3 class="card-title"><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
-        <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+        <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
         <p class="text-center"><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </div>
