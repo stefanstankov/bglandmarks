@@ -43,15 +43,6 @@
                   <img src="/assets/img/orfei.jpg"/>
                 </li>
                 <li>
-                  <img src="/assets/img/swan_village.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/stone_mushrooms.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/ustra.jpg"/>
-                </li>
-                <li>
                   <img src="/assets/img/utroba_cave.jpg"/>
                 </li>
               </ul>
