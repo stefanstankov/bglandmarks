@@ -26,4 +26,6 @@ define('SWAN_VILLAGE', 'Lakes near Lebed village(Swan village)');
 define('STONE', 'The stone mushrooms');
 define('USTRA', 'Ustra medieval fortress');
 define('UTROBA', 'Utroba cave (The womb cave)');
+define('READ_MORE', 'Read more');
+
 ?>

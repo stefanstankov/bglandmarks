@@ -41,34 +41,19 @@
     </div>
 
 <div class="col-md-4">
-    <!--Card Dark-->
 <div class="card card-dark">
-
-    <!--Card image-->
     <div class="view overlay hm-white-slight">
-        <img src="http://mdbootstrap.com/images/reg/reg%20(55).jpg" class="img-fluid" alt="" width="304" height="236">
+        <img src="assets/img/swan_village.jpg" class="img-fluid" alt="" width="304" height="236">
         <a href="#">
-            <div class="mask"></div>
         </a>
     </div>
-    <!--/.Card image-->
-
-    <!--Social shares button-->
-    <a class="activator"><i class="fa fa-share-alt"></i></a>
-
-    <!--Card content-->
     <div class="card-block">
-        <!--Title-->
-        <h4 class="card-title">Card title</h4>
+        <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
-        <!--Text-->
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="" class="link-text"><h5>Read more <i class="fa fa-chevron-right"></i></h5></a>
+        <a href="" class="link-text"><h5><?= READ_MORE;?><i class="fa fa-chevron-right"></i></h5></a>
     </div>
-    <!--/.Card content-->
-
 </div>
-<!--/.Card Dark-->
       </div>
           </div>
           </div>

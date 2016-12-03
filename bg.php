@@ -26,5 +26,5 @@ define('SWAN_VILLAGE', 'Езерата край село Лебед');
 define('STONE', 'каммените гъби');
 define('USTRA', 'Средновековна крепост устра');
 define('UTROBA', 'Пещера Утробата');
-
+define('READ_MORE', 'Научи повече');
 ?>
