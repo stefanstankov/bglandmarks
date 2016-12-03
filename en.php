@@ -1,5 +1,5 @@
 <?php
-define('EDITORS_CHOISE', 'Autor\'s choise');
+define('EDITORS_CHOISE', 'Autor\'s choice');
 define('HOME', 'Home');
 define('CATEGORIES', 'Categories');
 define('LANDMARKS', 'Landmarks');
