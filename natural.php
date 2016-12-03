@@ -6,15 +6,18 @@
       <h2><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
+      <div class="card-border">
     <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
     <div class="text-left">
       <h3><strong><?= UTROBA;?></strong></h3>
       <hr>
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
       <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </div>
     </div>
 </div>
 <div class="col-md-4">
+  <div class="card-border">
     <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="Каменните гъби" width="318" height="180">
     <div class="text-left">
       <h3><strong><?= STONE;?></strong></h3>
@@ -22,8 +25,10 @@
       <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
       <p class="text-center"><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
+    </div>
   </div>
 <div class="col-md-4">
+  <div class="card-border">
     <img src="assets/img/eagle_rocks.jpg" class="img-responsive" alt="Орлови скали" width="318" height="180">
     <div class="text-left">
       <h3><strong><?= EAGLE_ROCKS;?></strong></h3>
@@ -33,14 +38,17 @@
     </div>
   </div>
   </div>
+  </div>
   <div class="row">
   <div class="col-md-4">
+    <div class="card-border">
       <img src="assets/img/swan_village.jpg" class="img-responsive" alt=<?= SWAN_VILLAGE;?> width="318" height="180">
       <div class="text-left">
         <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
         <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
         <p class="text-center"><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </div>
       </div>
     </div>
           </div>
