@@ -2,6 +2,35 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
+<!--Card Dark-->
+<div class="card card-dark">
+
+    <!--Card image-->
+    <div class="view overlay hm-white-slight">
+        <img src="http://mdbootstrap.com/images/reg/reg%20(55).jpg" class="img-fluid" alt="">
+        <a href="#">
+            <div class="mask"></div>
+        </a>
+    </div>
+    <!--/.Card image-->
+
+    <!--Social shares button-->
+    <a class="activator"><i class="fa fa-share-alt"></i></a>
+
+    <!--Card content-->
+    <div class="card-block">
+        <!--Title-->
+        <h4 class="card-title">Card title</h4>
+        <hr>
+        <!--Text-->
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="" class="link-text"><h5>Read more <i class="fa fa-chevron-right"></i></h5></a>
+    </div>
+    <!--/.Card content-->
+
+</div>
+<!--/.Card Dark-->
+
 		<div class="section section-basic text-center article-color article-color1 container">
       <h2><?= NATURAL;?></h2>
         <div class="row">
