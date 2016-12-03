@@ -159,7 +159,7 @@ footer{
   .footer-ul li a { color:#fff;}
   .navbar-nav li a{color:#fff!important;}
   .dropdown-header{color:#fff!important;}
-  .article-color1{padding-left: 0!important; margin-left: 0!important;}
+  .article-color1{padding-left: 0!important; margin-left: 0!important;padding-right: 0!important; margin-right: 0!important; }
 }
 
 @media (min-width: 768px) {
