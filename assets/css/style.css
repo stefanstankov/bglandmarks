@@ -124,10 +124,6 @@ footer{
   float: left;
 }
 
-.card-border {
-    border-style: solid;
-    border-width: 1px;
-}
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
