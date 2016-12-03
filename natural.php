@@ -46,7 +46,7 @@
 
     <!--Card image-->
     <div class="view overlay hm-white-slight">
-        <img src="http://mdbootstrap.com/images/reg/reg%20(55).jpg" class="img-fluid" alt="">
+        <img src="http://mdbootstrap.com/images/reg/reg%20(55).jpg" class="img-fluid" alt="" width="304" height="236">
         <a href="#">
             <div class="mask"></div>
         </a>
