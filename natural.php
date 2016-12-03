@@ -58,7 +58,7 @@
           <h3 class="card-title"><strong><?= FOREST;?></strong></h3>
           <hr>
           <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-          <p class="text-center"><a href="FOREST.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+          <p class="text-center"><a href="forest.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </div>
         </div>
       </div>
