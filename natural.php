@@ -51,6 +51,17 @@
       </div>
       </div>
     </div>
+    <div class="col-md-4">
+      <div class="card">
+        <img src="assets/img/main3.jpg" class="card-img-top" alt=<?= FOREST;?> width="318" height="180">
+        <div class="card-block">
+          <h3 class="card-title"><strong><?= FOREST;?></strong></h3>
+          <hr>
+          <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+          <p class="text-center"><a href="FOREST.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        </div>
+        </div>
+      </div>
           </div>
           </div>
                 <?php require 'includes/footer.php' ?>
