@@ -41,12 +41,8 @@
     </div>
 
 <div class="col-md-4">
-<div class="card card-dark">
-    <div class="view overlay hm-white-slight">
-        <img src="assets/img/swan_village.jpg" class="img-fluid img-responsive" alt="" width="304" height="236">
-        <a href="#">
-        </a>
-    </div>
+<div class="card">
+    <img src="assets/img/swan_village.jpg" class="img-fluid img-responsive" alt="" width="304" height="236">
     <div class="card-block">
         <h3><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
