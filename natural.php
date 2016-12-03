@@ -6,12 +6,12 @@
       <h2><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
-      <div class="card-border">
-    <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
-    <div class="text-left">
-      <h3><strong><?= UTROBA;?></strong></h3>
+      <div class="card card-border">
+    <img class="card-img-top" src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
+    <div class="card-block">
+      <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
       <hr>
-      <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
       <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
