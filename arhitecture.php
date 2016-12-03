@@ -34,7 +34,7 @@
   <div class="col-md-4">
   <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост" width="304" height="236">
   <div class="caption">
-    <h3><strong><?= BRIDGE;?>"></strong></h3>
+    <h3><strong><?= BRIDGE;?></strong></h3>
     <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
     <p><a href="devil_bridge.php" class="btn btn-primary" role="button">Научи повече</a></p>
   </div>
