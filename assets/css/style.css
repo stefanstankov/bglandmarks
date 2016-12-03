@@ -123,7 +123,6 @@ footer{
 .breadcrumb{
   float: left;
 }
-
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
@@ -160,7 +159,7 @@ footer{
   .footer-ul li a { color:#fff;}
   .navbar-nav li a{color:#fff!important;}
   .dropdown-header{color:#fff!important;}
-  .article-color1{padding-left: 15!important;}
+  .article-color1{padding-left: 0!important; margin-left: 0!important;}
 }
 
 @media (min-width: 768px) {
