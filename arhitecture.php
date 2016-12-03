@@ -7,7 +7,7 @@
         <div class="row">
 <div class="col-md-4">
   <div class="card">
-      <img src="assets/img/museum.jpg" class="card-img-top" alt="Регионален исторически музей Кърджали" width="304" height="236">
+      <img src="assets/img/museum.jpg" class="card-img-top" alt="Регионален исторически музей Кърджали" width="318" height="180">
       <div class="card-block">
         <h3 class="card-title"><strong><?= MUSEUM;?></strong></h3>
         <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
@@ -17,7 +17,7 @@
     </div>
 <div class="col-md-4">
   <div class="card">
-      <img src="assets/img/orfei.jpg" class="card-img-top" alt="Статуята на Орфей" width="304" height="236">
+      <img src="assets/img/orfei.jpg" class="card-img-top" alt="Статуята на Орфей" width="318" height="180">
       <div class="card-block">
         <h3 class="card-title"><strong><?= STATUE;?></strong></h3>
         <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
@@ -27,7 +27,7 @@
     </div>
 <div class="col-md-4">
   <div class="card">
-      <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="304" height="236">
+      <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="318" height="180">
       <div class="card-block">
         <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
         <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
@@ -39,7 +39,7 @@
   <div class="row">
   <div class="col-md-4">
     <div class="card">
-  <img src="assets/img/bridge.jpg" class="card-img-top" alt="Дяволксия мост" width="304" height="236">
+  <img src="assets/img/bridge.jpg" class="card-img-top" alt="Дяволксия мост" width="318" height="180">
   <div class="card-block">
     <h3 class="card-title"><strong><?= BRIDGE;?></strong></h3>
     <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
