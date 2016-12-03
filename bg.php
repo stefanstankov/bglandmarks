@@ -14,7 +14,7 @@ define('PHONE', 'Телефон');
 define('MAIL', 'Имейл');
 define('INSTAGRAM', 'Последвайте ни в Instagram');
 define('BRIDGE', 'Дяволският мост');
-define('EAGLE_ROCKS', 'Тракийско скално светилище Орлови скали');
+define('EAGLE_ROCKS', 'Тракийско светилище Орлови скали');
 define('Kardzhali_Dam', 'Язовир, Кърджали');
 define('MELNIK', 'град Мелник');
 define('FOREST', 'Вкаменената гора');
