@@ -38,7 +38,7 @@ ini_set('display_errors', 1);
 					<div class="col-md-12">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
- 								<p><?= UTROBA;?></p></a>
+ 								<p><?= UTROBA_ARTICLE;?></p></a>
 	</div>
           </div>
 							</div>
