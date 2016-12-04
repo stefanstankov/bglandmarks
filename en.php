@@ -27,6 +27,7 @@ define('STONE', 'The Stone Mushrooms');
 define('USTRA', 'Ustra Medieval Fortress');
 define('UTROBA', 'Utroba Cave (The Womb Cave)');
 define('READ_MORE', 'Read more');
+define('MORE_INFO', 'More information');
 define('UTROBA_ARTICLE', 'Location - it is situated in the rocky area of Tangradak Kaya, close to to Nenkovo village, 20 kilometres away from Kardzhali.
 Accessibility of site - To reach the cave, a visitors should make a return from the road Kardzhali - Haskovo towards Padartsi and Dazhdovnitsa villages. Following a scenic
 route along Kardzhali Dam, a kilometre after Borovitsa cotage, a gravel turn is reached. A signposted trail, inaccessible for vehicles, begins from there. The trail is wide but very steep. There are three big gazebos located along the it, several benches, as well as a shelter and fireplace beneath the summit.
