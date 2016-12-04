@@ -31,15 +31,15 @@ ini_set('display_errors', 1);
 
 					</div>
 					<div class="col-md-6">
-						<div id="map"></div>
-				</div>
-				</div>
-            <div class="row">
-					<div class="col-md-12">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3>Допълнителна информация</h3></div>
  								<p><?= UTROBA_ARTICLE;?></p></a>
 	</div>
+				</div>
+				</div>
+            <div class="row">
+					<div class="col-md-12">
+						<div id="map"></div>
           </div>
 							</div>
 						<div class="row">
