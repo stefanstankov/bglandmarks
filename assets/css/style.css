@@ -27,10 +27,21 @@
   padding-left: 1px;
 }
 
-.fa-home, .fa-tree:before , .fa-university:before , .glyphicon-tower:before , .fa-phone, .fa-envelope, .fa-instagram,{
+.fa-phone, .fa-envelope, .fa-instagram,{
   margin-right: 5px!important;
 }
-
+.fa-tree:before{
+  margin-right: 5px!important;
+}
+.fa-university:before{
+  margin-right: 5px!important;
+}
+.glyphicon-towe:before{
+  margin-right: 5px!important;
+}
+.fa-home:before{
+  margin-right: 5px!important;
+}
  .co{
   padding-left: 5px;
 }
