@@ -7,7 +7,7 @@
         <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
       <li><i class="fa fa-envelope"></i><?= MAIL;?>: bglandmarks@gmail.com</li>
         <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
-        <li><span class="fa-copy">&copy;</span> Bulgarian Landmarks</li>
+        <li>&copy; <span class="fa-copy">Bulgarian Landmarks</span></li>
       </ul>
         </div>
         </div>

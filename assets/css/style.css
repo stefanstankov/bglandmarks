@@ -27,9 +27,17 @@
   padding-left: 1px;
 }
 
-.fa-home, .fa-tree, .fa-university, .glyphicon-tower, .fa-map-pin, .fa-phone, .fa-envelope, .fa-instagram, .fa-copy{
+.fa-home, .fa-tree, .fa-university, .glyphicon-tower,.fa-phone, .fa-envelope, .fa-instagram,{
   padding-right: 5px;
 }
+
+.fa-copy{
+  padding-left: 5px;
+}
+
+ .fa-map-pin {
+   padding-right: 7px;
+ }
 
 .text-center{
   padding: 0;
