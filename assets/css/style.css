@@ -17,11 +17,6 @@
   margin-bottom: 0 !important;
 }
 
-.museumpage {
-    margin-top: 75px;
-    margin-bottom: 90px;
-
-}
 .fa-wikipedia-w{
   padding-right: 5px;
   padding-left: 1px;
@@ -32,9 +27,8 @@
   padding-left: 1px;
 }
 
-.links{
-  color: #fff;
-  padding-left: 100px;
+.fa-home, .fa-tree, .fa-university, .glyphicon-tower{
+  padding-right: 5px;
 }
 
 .text-center{
@@ -116,6 +110,10 @@ footer hr{
 footer{
   background-color: #999;
   color:#fff;
+}
+
+.links_color{
+  color: #000;
 }
 
 .breadcrumb{

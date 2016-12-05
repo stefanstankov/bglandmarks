@@ -6,7 +6,7 @@
           <h2><?= HISTORICAL;?></h2>
               <div class="row">
         <div class="col-md-4">
-          <a href="ustra.php">
+          <a  class="link_color" href="ustra.php">
             <div class="card">
             <img src="assets/img/ustra.jpg" class="card-img-top" alt="Крепостта Устра" width="318" height="180">
             <div class="card-block">
@@ -18,7 +18,7 @@
               </a>
         </div>
     	    <div class="col-md-4">
-            <a href="perperikon.php">
+            <a class="link_color" href="perperikon.php">
               <div class="card">
             <img src="assets/img/perperikon.jpg" class="card-img-top" alt="Перперикон" width="318" height="180">
             <div class="card-block">
