@@ -6,6 +6,7 @@
       <h2><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
+      <a href="utroba_cave.php">
       <div class="card">
     <img src="assets/img/utroba_cave.jpg" class="card-img-top" alt=">Пещера утробата" width="318" height="180">
     <div class="card-block">
@@ -15,6 +16,7 @@
       <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
+  </a>
 </div>
 <div class="col-md-4">
   <div class=" card">
