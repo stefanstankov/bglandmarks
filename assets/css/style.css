@@ -27,7 +27,7 @@
   padding-left: 1px;
 }
 
-.fa-home, .fa-tree, .fa-university, .glyphicon-tower,.fa-phone, .fa-envelope, .fa-instagram,{
+.fa .fa-home, .fa .fa-tree, .fa .fa-university, .glyphicon .glyphicon-tower,.fa-phone, .fa-envelope, .fa-instagram,{
   padding-right: 5px!important;
 }
 
