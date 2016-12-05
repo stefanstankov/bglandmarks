@@ -19,7 +19,7 @@
   </a>
 </div>
 <div class="col-md-4">
-  <a>
+  <a href="stone_mushrooms.php">
   <div class=" card">
     <img src="assets/img/stone_mushrooms.jpg" class="card-img-top" alt="Каменните гъби" width="318" height="180">
     <div class="card-block">
@@ -32,7 +32,7 @@
   </a>
   </div>
 <div class="col-md-4">
-  <a>
+  <a href="eagle_rocks.php">
   <div class="card">
     <img src="assets/img/eagle_rocks.jpg" class="card-img-top" alt="Орлови скали" width="318" height="180">
     <div class="card-block">
@@ -46,7 +46,7 @@
   </div>
   </div>
   <div class="row">
-    <a>
+    <a href="swan_village.php">
   <div class="col-md-4">
     <div class="card">
       <img src="assets/img/swan_village.jpg" class="card-img-top" alt=<?= SWAN_VILLAGE;?> width="318" height="180">
@@ -60,7 +60,7 @@
       </a>
     </div>
     <div class="col-md-4">
-      <a>
+      <a href="forest.php">
       <div class="card">
         <img src="assets/img/main3.jpg" class="card-img-top" alt=<?= FOREST;?> width="318" height="180">
         <div class="card-block">

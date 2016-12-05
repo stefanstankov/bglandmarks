@@ -6,7 +6,7 @@
       <h2><?= ARCHITECTURAL;?></h2>
         <div class="row">
 <div class="col-md-4">
-  <a>
+  <a href="mueseum.php">
   <div class="card">
       <img src="assets/img/museum.jpg" class="card-img-top" alt="Регионален исторически музей Кърджали" width="318" height="180">
       <div class="card-block">
@@ -18,7 +18,7 @@
         </a>
     </div>
 <div class="col-md-4">
-  <a>
+  <a href="statue.php">
   <div class="card">
       <img src="assets/img/orfei.jpg" class="card-img-top" alt="Статуята на Орфей" width="318" height="180">
       <div class="card-block">
@@ -30,7 +30,7 @@
         </a>
     </div>
 <div class="col-md-4">
-  <a>
+  <a href="dam_wall.php">
   <div class="card">
       <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="318" height="180">
       <div class="card-block">
@@ -44,7 +44,7 @@
   </div>
   <div class="row">
   <div class="col-md-4">
-    <a>
+    <a href="devil_bride.php">
     <div class="card">
   <img src="assets/img/bridge.jpg" class="card-img-top" alt="Дяволксия мост" width="318" height="180">
   <div class="card-block">
