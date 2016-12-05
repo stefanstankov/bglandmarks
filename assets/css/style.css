@@ -27,8 +27,8 @@
   padding-left: 1px;
 }
 
-.fa .fa-home, .fa .fa-tree, .fa .fa-university, .glyphicon .glyphicon-tower,.fa-phone, .fa-envelope, .fa-instagram,{
-  padding-right: 5px!important;
+.fa-home, .fa-tree, .fa-university, .glyphicon-tower, .fa-phone, .fa-envelope, .fa-instagram,{
+  margin-right: 5px!important;
 }
 
  .co{
