@@ -11,7 +11,7 @@
             <img src="assets/img/ustra.jpg" class="card-img-top" alt="Крепостта Устра" width="318" height="180">
             <div class="card-block">
               <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
-              <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button">Научи повече</a></p>
+              <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
             </div>
               </div>
               </a>
@@ -22,7 +22,7 @@
             <img src="assets/img/perperikon.jpg" class="card-img-top" alt="Перперикон" width="318" height="180">
             <div class="card-block">
               <h3 class="card-title"><strong><?= PERPERIKON;?></strong></h3>
-              <p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button">Научи повече</a></p>
+              <p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
             </div>
               </div>
               </a>
