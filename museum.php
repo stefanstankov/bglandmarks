@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<div class="section section-basic text-center article-color container">
 				<div class="row">
-						<h2><?= MUSEUM;?>"></h2>
+						<h2><?= MUSEUM;?></h2>
 					<hr/>
 				<div class="col-md-12">
 
