@@ -12,7 +12,7 @@
     <div class="card-block">
       <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
       <hr>
-      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text"><?= UTROBA_SHORT;?></p>
       <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="card-block">
       <h3 class="card-title"><strong><?= STONE;?></strong></h3>
       <hr>
-      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text"><?= STONE_SHORT;?></p>
       <p class="text-center"><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
     </div>
@@ -38,7 +38,7 @@
     <div class="card-block">
       <h3 class="card-title"><strong><?= EAGLE_ROCKS;?></strong></h3>
       <hr>
-      <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+      <p class="card-text"><?= ROCKS_SHORT;?></p>
       <p class="text-center"><a  href="eagle_rocks.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
     </div>
   </div>
@@ -53,7 +53,7 @@
       <div class="card-block">
         <h3 class="card-title"><strong><?= SWAN_VILLAGE;?></strong></h3>
         <hr>
-        <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+        <p class="card-text"><?= SWAN_SHORT;?></p>
         <p class="text-center"><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </div>
@@ -66,7 +66,7 @@
         <div class="card-block">
           <h3 class="card-title"><strong><?= FOREST;?></strong></h3>
           <hr>
-          <p class="card-text">Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
+          <p class="card-text"><?= FOREST_SHORT;?></p>
           <p class="text-center"><a href="forest.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </div>
         </div>
