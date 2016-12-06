@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<h2><?= STATUE;?></h2>
 			      <hr/>
-					<div class="col-md-6">
+					<div class="col-md-12">
 
 							<div class="flexslider">
 							  <ul class="slides">
@@ -28,12 +28,8 @@ ini_set('display_errors', 1);
 							    </li>
 							  </ul>
 							</div>
-
+</div>
 					</div>
-					<div class="col-md-6">
-						<div id="map"></div>
-				</div>
-				</div>
             <div class="row">
 					<div class="col-md-12">
 						<div class="panel">
@@ -42,6 +38,11 @@ ini_set('display_errors', 1);
 	</div>
           </div>
 					</div>
+					<div class="row">
+				<div class="col-md-12">
+					<div id="map"></div>
+			</div>
+			</div>
 						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
