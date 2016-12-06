@@ -60,6 +60,7 @@
              </div>
            </div>
          </a>
+          </div>
            <div class="col-md-4">
              <a class="link_color" href="dam_wall.php">
              <div class="card">
