@@ -51,25 +51,36 @@
                 </div>
           <div class="row">
            <div class="col-md-4 ">
-            <p> <h2><?= UTROBA;?></h2></p>
-             <div class="caption">
-               <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-               <p><a href="utroba_cave.php" class="btn btn-primary" role="button">Научи повече</a></p>
+             <a class="link_color" href="utroba_cave.php">
+             <div class="card">
+           <img src="assets/img/utroba_cave.jpg" class="card-img-top" alt=">Пещера утробата" width="318" height="180">
+           <div class="card-block">
+             <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
+             <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
              </div>
            </div>
+         </a>
            <div class="col-md-4">
-             <p> <h2><?= Kardzhali_Dam;?></h2></p>
-              <div class="caption">
-                <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-                <p><a href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
-              </div>
+             <a class="link_color" href="dam_wall.php">
+             <div class="card">
+                 <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="318" height="180">
+                 <div class="card-block">
+                   <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
+                   <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
+                 </div>
+                   </div>
+                   </a>
           </div>
            <div class="col-md-4">
-             <p> <h2><?= PERPERIKON;?></h2></p>
-              <div class="caption">
-                <p>Открит е през 1965 година със задачата да проучва, съхранява и популяризира културно-историческото наследство в Източни Родопи...</p>
-                <p><a href="perperikon.php" class="btn btn-primary" role="button">Научи повече</a></p>
-              </div>
+             <a  class="link_color" href="ustra.php">
+               <div class="card">
+               <img src="assets/img/ustra.jpg" class="card-img-top" alt="Крепостта Устра" width="318" height="180">
+               <div class="card-block">
+                 <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
+                 <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button">Научи повече</a></p>
+               </div>
+                 </div>
+                 </a>
            </div>
          </div>
        </div>
