@@ -35,7 +35,7 @@
       <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="318" height="180">
       <div class="card-block">
         <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
-        <p class="card-text"><?= Dam_SHORT;?></p>
+        <p class="card-text"><?= DAM_SHORT;?></p>
         <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button">Научи повече</a></p>
       </div>
         </div>

@@ -29,16 +29,16 @@ define('UTROBA', 'Utroba Cave (The Womb Cave)');
 define('READ_MORE', 'Read more');
 define('MORE_INFO', 'More information');
 define('PERPERIKON_SHORT', '<p class="text-left">Monument of national importance...</p>');
-define('USTRA_SHORT', '<p class="text-left"><strong>Name of site</strong> - Ustra Medieval Fortress, an archeological monument of national importance...</p>');
-define('BRIDGE_SHORT', '<p class="text-left"><strong>Name of site</strong> - the Devils Bridge over the Arda River, a monument of national importance...</p>');
+define('USTRA_SHORT', '<p class="text-left"><strong>Name of site</strong> - Ustra Medieval Fortress...</p>');
+define('BRIDGE_SHORT', '<p class="text-left"><strong>Name of site</strong> - the Devils Bridge...</p>');
 define('DAM_SHORT', '<p class="text-left">Kardzhali dam, along with Ivaylovgrad dam and Studen Kladenets dam are the three...</p>');
-define('STATUE_SHORT', '<p class="text-left"><strong>Location</strong> - at entrance of the town of Kardzhali...</p>');
-define('MUSEUM_SHORT', '<p class="text-left"><strong>Location</strong> - Republicanska Str.№4, Kardzhali...</p>');
-define('FOREST_SHORT', '<p class="text-left"><strong>Name of site</strong> - The Petrified Forest, declared a protected landmark...</p>');
+define('STATUE_SHORT', '<p class="text-left"><strong>Location</strong> - at entrance of the town...</p>');
+define('MUSEUM_SHORT', '<p class="text-left"><strong>Location</strong> - Republicanska Str.№4...</p>');
+define('FOREST_SHORT', '<p class="text-left"><strong>Name of site</strong> - The Petrified Forest...</p>');
 define('SWAN_SHORT', '<p class="text-left"><strong>Name of site</strong> - lakes by Lebed village, a natural landmark...</p>');
 define('ROCKS_SHORT', '<p class="text-left"><strong>Name of site</strong> - Orlovi skali Thracian sanctuary is a cultural...</p>');
 define('STONE_SHORT', '<p class="text-left"><strong>Location</strong> - village of Beli Plast, Kardzhali district...</p>');
-define('UTROBA_SHORT', '<p class="text-left"><strong>Location</strong> - it is situated in the rocky area of Tangradak Kaya, close to to Nenkovo village...</p>');
+define('UTROBA_SHORT', '<p class="text-left"><strong>Location</strong> - it is situated...</p>');
 define('PERPERIKON_ARTICLE', '<p class="text-left">Monument of national importance</p>
 <p class="text-left"><strong>Location</strong> - It is located 15 km northeast of Kardzhali, next to "Gorna Krepost" village (Upper Fortress).</p>
 <p class="text-left"><strong>Access to site</strong> - Visitors may reach it by car from the Stremtsi village (north of Kardzhali) or from Shiroko Pole (east of Kardzhali). There is a markec hiking trail from Bolyartsi village that leads directly to the Tower of Perperikon.</p>
