@@ -7,13 +7,14 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color1 article-color container">
           <div class="row">
-               <div class="col-md-8 col-md-offset-2">
+               <div class="col-md-12">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
         <?= ABOUT_BG;?>
       </div>
       </div>
       </div>
+        <hr/>
           <h2><?= EDITORS_CHOISE;?></h2>
           <hr/>
           <div class="row">
