@@ -23,7 +23,7 @@
   </div>
   </div>
           <div class="row">
-            <div class="col-md-12>
+            <div class="col-md-12 custom_jumbo">
             <div class="flexslider">
               <ul class="slides">
                 <li>
