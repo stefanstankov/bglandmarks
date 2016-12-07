@@ -17,11 +17,6 @@
       <hr/>
         <h2><?= LOCATION;?></h2>
         <hr/>
-      <div class="row">
-    <div class="col-md-12 custom_jumbo">
-      <div id="map"></div>
-  </div>
-  </div>
           <div class="row">
             <div class="col-md-6">
             <div class="flexslider">
