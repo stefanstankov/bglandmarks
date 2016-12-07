@@ -7,8 +7,8 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color1 article-color container">
           <div class="container-fluid">
-          <div class="row container">
-               <div class="col-md-12">
+          <div class="row ">
+               <div class="container-fluid">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
         <?= ABOUT_BG;?>
