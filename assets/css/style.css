@@ -138,6 +138,17 @@ footer{
 .breadcrumb{
   float: left;
 }
+.jumbotron {
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+  background-color:#79589F;
+}
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
