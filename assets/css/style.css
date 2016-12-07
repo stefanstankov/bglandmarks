@@ -143,6 +143,10 @@ footer{
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
+  .custom_jumbo{
+    padding-left: 0!important;
+    padding-right: 0!important;
+  }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
