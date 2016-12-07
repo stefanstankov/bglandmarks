@@ -14,6 +14,11 @@
       </div>
       </div>
       </div>
+      <div class="row">
+    <div class="col-md-12">
+      <div id="map"></div>
+  </div>
+  </div>
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
             <div class="flexslider">
@@ -94,6 +99,25 @@
            </div>
          </div>
        </div>
+       <script>
+    function initMap() {
+      var uluru = {lat: 42.734322, lng: 25.485588};
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 12,
+        center: uluru
+      });
+      var marker = new google.maps.Marker({
+        position: uluru,
+        map: map
+      });
+    }
+   </script>
+
+   <script async defer
+   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
+   </script>
+
+  <script>
        <script>
 
        $(window).load(function() {
