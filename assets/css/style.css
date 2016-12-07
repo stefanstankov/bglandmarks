@@ -147,9 +147,9 @@ footer{
   font-size: 21px;
   background-color:#79589F;
 }
-.btn-success:focus, .btn-success:hover {
+.btn-success{
     background-color:#79589F;
-    background-image: linear-gradient(to bottom,#79589F 0,#79589F 100%);
+    background-image: #79589F;
   }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
