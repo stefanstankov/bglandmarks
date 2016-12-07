@@ -23,7 +23,7 @@
   </div>
   </div>
           <div class="row">
-            <div class="col-md-12 custom_jumbo">
+            <div class="col-md-6">
             <div class="flexslider">
               <ul class="slides">
                 <li>
@@ -62,6 +62,9 @@
               </ul>
             </div>
             </div>
+            <div class="col-md-6">
+              <div id="map"></div>
+          </div>
                 </div>
                 <hr/>
                   <h2><?= EDITORS_CHOISE;?></h2>
