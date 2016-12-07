@@ -139,8 +139,6 @@ footer{
   float: left;
 }
 .jumbotron {
-  margin-left: : 0!important;
-  margin-right: : 0!important;
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -149,6 +147,9 @@ footer{
   font-size: 21px;
   background-color:#79589F;
 }
+.btn-success:focus, .btn-success:hover {
+    background-color:#79589F;
+  }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#fff;}
