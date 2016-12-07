@@ -28,6 +28,7 @@ define('USTRA', 'Ustra Medieval Fortress');
 define('UTROBA', 'Utroba Cave (The Womb Cave)');
 define('READ_MORE', 'Read more');
 define('MORE_INFO', 'More information');
+define('WELCOME', 'Welcome');
 define('PERPERIKON_ARTICLE', '<p class="text-left">Monument of national importance</p>
 <p class="text-left"><strong>Location</strong> - It is located 15 km northeast of Kardzhali, next to "Gorna Krepost" village (Upper Fortress).</p>
 <p class="text-left"><strong>Access to site</strong> - Visitors may reach it by car from the Stremtsi village (north of Kardzhali) or from Shiroko Pole (east of Kardzhali). There is a markec hiking trail from Bolyartsi village that leads directly to the Tower of Perperikon.</p>
