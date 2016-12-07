@@ -19,7 +19,7 @@
           <h2><?= EDITORS_CHOISE;?></h2>
           <hr/>
           <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="container">
             <div class="flexslider">
               <ul class="slides">
                 <li>
