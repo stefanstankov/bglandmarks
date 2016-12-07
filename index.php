@@ -6,11 +6,16 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color1 article-color container">
-        <hr/>
-          <h2><?= EDITORS_CHOISE;?></h2>
-          <hr/>
           <div class="row">
-            <div class="col-md-6">
+               <div class="col-md-12">
+          <div class="jumbotron">
+        <h1><?= WELCOME;?></h1>
+        <?= ABOUT_BG;?>
+      </div>
+      </div>
+      </div>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
             <div class="flexslider">
               <ul class="slides">
                 <li>
@@ -49,12 +54,6 @@
               </ul>
             </div>
             </div>
-            <div class="col-md-6">
-       <div class="jumbotron">
-     <h1><?= WELCOME;?></h1>
-     <?= ABOUT_BG;?>
-   </div>
-   </div>
                 </div>
                 <hr/>
                   <h2><?= EDITORS_CHOISE;?></h2>
