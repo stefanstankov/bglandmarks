@@ -7,7 +7,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color1 article-color container">
           <div class="row">
-               <div class="col-md-12">
+               <div class="col-md-12 container-fluid">
           <div class="jumbotron">
         <h1>Jumbotron heading</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
