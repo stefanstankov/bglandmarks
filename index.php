@@ -6,13 +6,15 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color1 article-color container">
-          <div class="row container-fluid">
+          <div class="container-fluid">
+          <div class="row">
                <div class="col-md-12">
           <div class="jumbotron">
         <h1>Jumbotron heading</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
       </div>
+      <div>
       </div>
       </div>
           <h2><?= EDITORS_CHOISE;?></h2>
