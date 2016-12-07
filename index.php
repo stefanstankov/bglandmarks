@@ -15,7 +15,7 @@
       </div>
       </div>
       <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-12 custom_jumbo">
       <div id="map"></div>
   </div>
   </div>
@@ -101,7 +101,7 @@
        </div>
        <script>
     function initMap() {
-      var uluru = {lat: 42.734322, lng: 25.485588};
+      var uluru = {lat: 42.697626, lng: 23.322284};
       var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 12,
         center: uluru
