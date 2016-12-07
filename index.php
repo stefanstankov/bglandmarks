@@ -8,7 +8,7 @@
       	<div class="section section-basic text-center article-color1 article-color container">
           <div class="container-fluid">
           <div class="row">
-               <div class="col-md-12">
+               <div class="container">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
         <?= ABOUT_BG;?>
