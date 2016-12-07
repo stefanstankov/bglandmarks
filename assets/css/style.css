@@ -149,6 +149,7 @@ footer{
 }
 .btn-success:focus, .btn-success:hover {
     background-color:#79589F;
+    background-image: linear-gradient(to bottom,#79589F 0,#79589F 100%);
   }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
