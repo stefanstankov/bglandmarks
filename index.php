@@ -11,7 +11,7 @@
                <div class="col-md-12">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
-        <p class="text-left"><?= ABOUT_BG;?></p>
+        <?= ABOUT_BG;?>
       </div>
       </div>
       </div>
