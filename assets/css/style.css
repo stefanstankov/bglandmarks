@@ -139,8 +139,8 @@ footer{
   float: left;
 }
 .jumbotron {
-  padding-left: 0;
-  padding-right: 0;
+  margin-left: : 0!important;
+  margin-right: : 0!important;
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
