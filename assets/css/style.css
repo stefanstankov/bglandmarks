@@ -126,7 +126,7 @@ footer hr{
   min-height: 370px;
 }
 #custom_video{
-    min-height: 370px;
+    min-height: 370px!important;
   }
 footer{
   background-color: #e5e5e5;
