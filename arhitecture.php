@@ -6,7 +6,7 @@
       <h2><?= ARCHITECTURAL;?></h2>
         <div class="row">
 <div class="col-md-4">
-  <a class="link_color" href="mueseum.php">
+  <a class="link_color" href="museum.php">
   <div class="card">
       <img src="assets/img/museum.jpg" class="card-img-top" alt="Регионален исторически музей Кърджали" width="318" height="180">
       <div class="card-block">
