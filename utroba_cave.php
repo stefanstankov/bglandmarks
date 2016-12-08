@@ -44,7 +44,7 @@ ini_set('display_errors', 1);
           </div>
 					<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-16by9">
-  <iframe id="custom_video" class="embed-responsive-item" src="https://www.youtube.com/embed/ucQ0k-_69pY"></iframe>
+  <iframe width="560" height="315" id="custom_video" class="embed-responsive-item" src="https://www.youtube.com/embed/ucQ0k-_69pY"></iframe>
 </div>
       </div>
 							</div>
