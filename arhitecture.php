@@ -41,7 +41,7 @@
   </div>
   <div class="row">
   <div class="col-md-4">
-    <a class="link_color" href="devil_bride.php">
+    <a class="link_color" href="devil_bridge.php">
     <div class="card">
   <img src="assets/img/bridge.jpg" class="card-img-top" alt="Дяволксия мост" width="318" height="180">
   <div class="card-block">
