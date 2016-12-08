@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 				<div class="row">
 						<h2><?= MUSEUM;?></h2>
 					<hr/>
-				<div class="col-md-12">
+				<div class="col-md-8 col-md-offset-2">
 
 						<div class="flexslider">
 							<ul class="slides">
