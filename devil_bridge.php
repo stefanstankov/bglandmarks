@@ -31,7 +31,7 @@ ini_set('display_errors', 1);
 					<div class="col-md-12">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
- 								<p><?= BRIDGE_ARTICLE;?>"></p></a>
+ 								<p><?= BRIDGE_ARTICLE;?></p></a>
 	</div>
           </div>
 					</div>
