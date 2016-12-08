@@ -125,7 +125,9 @@ footer hr{
 #map {
   min-height: 370px;
 }
-
+.embed-responsive-item{
+    min-height: 370px;
+  }
 footer{
   background-color: #e5e5e5;
   color:#000;
