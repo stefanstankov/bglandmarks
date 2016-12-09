@@ -56,7 +56,7 @@ ini_set('display_errors', 1);
 			</ol>
 				</div>
 			</div>
-
+</div>
 			<script>
 	 function initMap() {
 		 var uluru = {lat: 41.715404, lng: 25.465534};
