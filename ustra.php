@@ -41,7 +41,7 @@ ini_set('display_errors', 1);
 					<div class="row">
 						<div class="col-md-6">
 						<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ucQ0k-_69pY"></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Sbyw1Y3AT0Y"></iframe>
 	</div>
 	      </div>
 	<div class="col-md-6">
@@ -53,8 +53,8 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 					<ol class="breadcrumb">
 				<li><strong>Линкове по темата</strong></li>
-				<li><a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></li>
-				<li> <a href="https://www.youtube.com/watch?v=8JwftffRd64"><i class="fa fa-youtube" aria-hidden="true"></i>Дяволски мост (видео)</a></li>
+				<li> <a href="https://bg.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%B0"><i class="fa fa-youtube" aria-hidden="true"></i>Крепост Устра</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Ustra"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Ustra fortress</a></li>
 			</ol>
 				</div>
 			</div>
