@@ -41,7 +41,7 @@ ini_set('display_errors', 1);
 					<div class="row">
 						<div class="col-md-6">
 						<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ucQ0k-_69pY"></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dn9alP8-bMU"></iframe>
 	</div>
 	      </div>
 				<div class="col-md-6">
@@ -54,6 +54,7 @@ ini_set('display_errors', 1);
 					<ol class="breadcrumb">
 				<li><strong>Линкове по темата</strong></li>
 				<li><a href="https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D1%84%D0%B5%D0%B9"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Орфей</a></li>
+				<li><a href="http://btvnovinite.bg/article/42312-Bronzova_statuya_na_Orfey_ukrasi_Kardzhali.html "></i>Бронзова статуя</a></li>
 			</ol>
 				</div>
 			</div>

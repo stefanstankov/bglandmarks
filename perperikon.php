@@ -38,7 +38,7 @@ ini_set('display_errors', 1);
 					<div class="row">
 						<div class="col-md-6">
 						<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ucQ0k-_69pY"></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9jn8lhrHcOQY"></iframe>
 	</div>
 	      </div>
 	<div class="col-md-6">
@@ -51,6 +51,7 @@ ini_set('display_errors', 1);
 					<ol class="breadcrumb">
 				<li><strong>Линкове по темата</strong></li>
 				<li><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%B5%D1%80%D0%B8%D0%BA%D0%BE%D0%BD"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Перперикон</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Perperikon"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Perperikon</a></li>
 				<li> <a href="https://www.google.com/maps/place/Perperikon/@41.7153451,25.4662332,3a,75y,59.27h,79.8t/data=!3m7!1e1!3m5!1s8wAuDEDxoB03g7UVc8O4Og!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3D8wAuDEDxoB03g7UVc8O4Og%26w%3D223%26h%3D75%26yaw%3D92%26pitch%3D0%26thumbfov%3D120%26ll%3D41.715345,25.466233!7i13312!8i6656!4m5!3m4!1s0x14ad68a5a12cfa65:0xd014c8df7117f93a!8m2!3d41.7154279!4d25.4656735!6m1!1e1"><i class="fa fa-map-pin"></i></i>Перперикон</a></li>
 			</ol>
 				</div>
