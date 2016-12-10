@@ -17,9 +17,7 @@
       <hr/>
         <h2><?= LOCATION;?></h2>
         <hr/>
-          <div class="row">    <div class="col-md-6">
-                <div id="map"></div>
-            </div>
+          <div class="row">
             <div class="col-md-6">
             <div class="flexslider">
               <ul class="slides">
@@ -58,6 +56,9 @@
                 </li>
               </ul>
             </div>
+            </div>
+            <div class="col-md-6">
+                <div id="map"></div>
             </div>
                 </div>
                 <hr/>
