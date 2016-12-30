@@ -41,7 +41,7 @@ ini_set('display_errors', 1);
 					<div class="row">
 						<div class="col-md-6">
 						<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=JdUSBtjT_es drone"></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JdUSBtjT_es"></iframe>
 	</div>
 	      </div>
 					<div class="col-md-6">
