@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 
 		<div class="section section-basic text-center article-color container">
 				<div class="row">
-					<h2><?= BRIDGE;?>"></h2>
+					<h2><?= BRIDGE;?></h2>
 			      <hr/>
 					<div class="col-md-8 col-md-offset-2">
 
