@@ -67,22 +67,22 @@
           <div class="row">
            <div class="col-md-4 ">
              <a class="link_color" href="utroba_cave.php">
-           <img src="assets/img/utroba_cave.jpg" class="card-img-top" alt=">Пещера утробата" width="318" height="180">
-             <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
+           <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
+             <h3><strong><?= UTROBA;?></strong></h3>
              <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </a>
           </div>
            <div class="col-md-4">
              <a class="link_color" href="dam_wall.php">
                  <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" width="318" height="180">
-                   <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
+                   <h3><strong><?= Kardzhali_Dam;?></strong></h3>
                    <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                    </a>
           </div>
            <div class="col-md-4">
              <a  class="link_color" href="ustra.php">
-               <img src="assets/img/ustra.jpg" class="card-img-top" alt="Крепостта Устра" width="318" height="180">
-                 <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
+               <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра" width="318" height="180">
+                 <h3><strong><?= USTRA;?></strong></h3>
                  <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                  </a>
            </div>
