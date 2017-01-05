@@ -9,10 +9,8 @@
           <div class="row">
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
-            <blockquote>
-        <p><h1><?= WELCOME;?></h1></p>
-        <footer><?= ABOUT_BG;?></footer>
-      </blockquote>
+        <h1><?= WELCOME;?></h1>
+        <?= ABOUT_BG;?>
       </div>
       </div>
       </div>
