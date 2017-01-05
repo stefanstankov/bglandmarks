@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-		<div class="section section-basic text-center article-color1 article-color container">
+		<div class="section section-basic text-center article-color article-color container">
       <h2><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
