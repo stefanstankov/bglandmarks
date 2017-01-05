@@ -25,7 +25,7 @@ define('STATUE', 'Паметник на Орфей');
 define('SWAN_VILLAGE', 'Езерата край село Лебед');
 define('STONE', 'Каммените гъби');
 define('USTRA', 'Средновековна крепост Устра');
-define('UTROBA', 'Пещера Утробата');
+define('UTROBA', '<blockquote><p>Пещера Утробата</p><footer>Кърджали</footer>');
 define('READ_MORE', 'Научи повече');
 define('MORE_INFO', 'Допълнителна информация');
 define('WELCOME', 'Добре дошли');
