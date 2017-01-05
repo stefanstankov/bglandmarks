@@ -5,7 +5,7 @@
 ?>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-      	<div class="section section-basic text-center article-color1 article-color container">
+      	<div class="section section-basic text-center article-color container">
           <div class="row">
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
@@ -67,23 +67,35 @@
           <div class="row">
            <div class="col-md-4 ">
              <a class="link_color" href="utroba_cave.php">
-           <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
-             <h3><strong><?= UTROBA;?></strong></h3>
+             <div class="card">
+           <img src="assets/img/utroba_cave.jpg" class="card-img-top" alt=">Пещера утробата" width="318" height="180">
+           <div class="card-block">
+             <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
              <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+             </div>
+           </div>
          </a>
           </div>
            <div class="col-md-4">
              <a class="link_color" href="dam_wall.php">
-                 <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" width="318" height="180">
-                   <h3><strong><?= Kardzhali_Dam;?></strong></h3>
+             <div class="card">
+                 <img src="assets/img/dam_wall.jpg" class="card-img-top" alt="язовирната стена Кърджали" width="318" height="180">
+                 <div class="card-block">
+                   <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
                    <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+                 </div>
+                   </div>
                    </a>
           </div>
            <div class="col-md-4">
              <a  class="link_color" href="ustra.php">
-               <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра" width="318" height="180">
-                 <h3><strong><?= USTRA;?></strong></h3>
+               <div class="card">
+               <img src="assets/img/ustra.jpg" class="card-img-top" alt="Крепостта Устра" width="318" height="180">
+               <div class="card-block">
+                 <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
                  <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+               </div>
+                 </div>
                  </a>
            </div>
          </div>
