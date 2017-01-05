@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color section-custom container">
-          <div class="row">
+          <div class="row section-custom ">
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
@@ -17,7 +17,7 @@
       <hr/>
         <h2><?= LOCATION;?></h2>
         <hr/>
-          <div class="row">
+          <div class="row section-custom ">
             <div class="col-md-6">
             <div class="flexslider">
               <ul class="slides">
@@ -64,7 +64,7 @@
                 <hr/>
                   <h2><?= EDITORS_CHOISE;?></h2>
                   <hr/>
-          <div class="row">
+          <div class="row section-custom ">
            <div class="col-md-4 ">
              <a class="link_color" href="utroba_cave.php">
              <div class="card">
