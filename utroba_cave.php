@@ -64,8 +64,14 @@ ini_set('display_errors', 1);
 					<tbody>
 						<tr>
 							<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
+						</tr>
+						<tr>
 							<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
+						</tr>
+							<tr>
 							<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
+						</tr>
+						<tr>
 							<td><a href="forest.php"><?= FOREST;?></a></td>
 					</tr>
 					</tbody>
