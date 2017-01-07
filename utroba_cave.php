@@ -55,11 +55,11 @@ ini_set('display_errors', 1);
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-				<h2>От категорията</h2>
+				<h2><?= FROM_CATEGORY;?></h2>
 				<table class="table">
 					<thead>
 						<tr>
-							<th>Име на статията</th>
+							<th><?= LANDMARK_NAME;?></th>
 						</tr>
 					</thead>
 					<tbody class="text-left">
