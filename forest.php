@@ -61,16 +61,16 @@ ini_set('display_errors', 1);
 				</thead>
 				<tbody class="text-left">
 					<tr>
-						<td><a href="utroba_cave.php"><?= STONE;?></a></td>
+						<td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
 					</tr>
 					<tr>
-						<td><a href="stone_mushrooms.php"><?= EAGLE_ROCKS;?></a></td>
+						<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
 					</tr>
 						<tr>
-						<td><a href="eagle_rocks.php"><?= SWAN_VILLAGE;?></a></td>
+						<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
 					</tr>
 					<tr>
-						<td><a href="swan_village.php"><?= FOREST;?></a></td>
+						<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
 				</tr>
 				</tbody>
 				</table>

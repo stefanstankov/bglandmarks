@@ -70,7 +70,7 @@ ini_set('display_errors', 1);
 					</thead>
 					<tbody class="text-left">
 						<tr>
-							<td><a href="utroba_cave.php"><?= STONE;?></a></td>
+							<td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
 						</tr>
 						<tr>
 							<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>

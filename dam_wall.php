@@ -70,13 +70,13 @@ ini_set('display_errors', 1);
 					</thead>
 					<tbody class="text-left">
 						<tr>
-							<td><a href="museum.php"><?= EAGLE_ROCKS;?></a></td>
+							<td><a href="museum.php"><?= MUSEUM;?></a></td>
 						</tr>
 							<tr>
-							<td><a href="statue.php"><?= SWAN_VILLAGE;?></a></td>
+							<td><a href="statue.php"><?= STATUE;?></a></td>
 						</tr>
 						<tr>
-							<td><a href="devil_bridge.php"><?= FOREST;?></a></td>
+							<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
 					</tr>
 					</tbody>
 					</table>

@@ -69,7 +69,7 @@ ini_set('display_errors', 1);
 					</thead>
 					<tbody class="text-left">
 						<tr>
-							<td><a href="perperikon.php"><?= FOREST;?></a></td>
+							<td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
 					</tr>
 					</tbody>
 					</table>

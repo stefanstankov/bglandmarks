@@ -67,7 +67,7 @@ ini_set('display_errors', 1);
 					</thead>
 					<tbody class="text-left">
 						<tr>
-							<td><a href="ustra.php"><?= FOREST;?></a></td>
+							<td><a href="ustra.php"><?= USTRA;?></a></td>
 					</tr>
 					</tbody>
 					</table>
