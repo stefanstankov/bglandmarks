@@ -61,6 +61,14 @@ ini_set('display_errors', 1);
 							<th>Име на статията</th>
 						</tr>
 					</thead>
+					<tbody>
+						<tr>
+							<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
+							<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
+							<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
+							<td><a href="forest.php"><?= FOREST;?></a></td>
+					</tr>
+					</tbody>
 					</table>
 			</div>
 </div>
