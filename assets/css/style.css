@@ -148,7 +148,7 @@ footer{
     padding-left: 0!important;
     padding-right: 0!important;
   }
-.footer-ul {padding-left:0px; margin-left:2px; float: right;}
+.footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
 .footer-ul i { margin-right:10px;}
