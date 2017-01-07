@@ -1,7 +1,7 @@
   <footer class="container">
     <div class="row">
-      <div class="col-md-4">
-        <ul class="footer-ul list-unstyled text-left float-right">
+      <div class="col-md-4 float-right">
+        <ul class="footer-ul list-unstyled text-left">
         <li><strong><h2><?= CONTACTS;?></h2></strong></li>
         <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
         <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
