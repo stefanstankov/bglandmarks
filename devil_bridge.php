@@ -55,6 +55,29 @@ ini_set('display_errors', 1);
 			</ol>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-md-12">
+				<h2><?= FROM_CATEGORY;?></h2>
+				<table class="table">
+					<thead>
+						<tr>
+							<th><?= LANDMARK_NAME;?></th>
+						</tr>
+					</thead>
+					<tbody class="text-left">
+						<tr>
+							<td><a href="museum.php"><?= EAGLE_ROCKS;?></a></td>
+						</tr>
+							<tr>
+							<td><a href="statue.php"><?= SWAN_VILLAGE;?></a></td>
+						</tr>
+						<tr>
+							<td><a href="dam_wall.php"><?= FOREST;?></a></td>
+					</tr>
+					</tbody>
+					</table>
+			</div>
+				</div>
 </div>
 			<script>
 	 function initMap() {

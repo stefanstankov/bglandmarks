@@ -50,6 +50,32 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 			</div>
+			<div class="row">
+			<div class="col-md-12">
+			<h2><?= FROM_CATEGORY;?></h2>
+			<table class="table">
+				<thead>
+					<tr>
+						<th><?= LANDMARK_NAME;?></th>
+					</tr>
+				</thead>
+				<tbody class="text-left">
+					<tr>
+						<td><a href="utroba_cave.php"><?= STONE;?></a></td>
+					</tr>
+					<tr>
+						<td><a href="stone_mushrooms.php"><?= EAGLE_ROCKS;?></a></td>
+					</tr>
+						<tr>
+						<td><a href="eagle_rocks.php"><?= SWAN_VILLAGE;?></a></td>
+					</tr>
+					<tr>
+						<td><a href="swan_village.php"><?= FOREST;?></a></td>
+				</tr>
+				</tbody>
+				</table>
+		</div>
+			</div>
 </div>
 			<script>
 	 function initMap() {
