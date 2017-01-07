@@ -53,6 +53,16 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 			</div>
+			<div class="container">
+				<h2>От категорията</h2>
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Име на статията</th>
+						</tr>
+					</thead>
+					</table>
+			</div>
 </div>
 			<script>
 	 function initMap() {
