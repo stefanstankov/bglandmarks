@@ -53,7 +53,8 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 			</div>
-			<div class="container">
+			<div class="row">
+				<div class="col-md-12">
 				<h2>От категорията</h2>
 				<table class="table">
 					<thead>
@@ -77,6 +78,7 @@ ini_set('display_errors', 1);
 					</tbody>
 					</table>
 			</div>
+				</div>
 </div>
 			<script>
 	 function initMap() {
