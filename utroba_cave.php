@@ -61,7 +61,7 @@ ini_set('display_errors', 1);
 							<th>Име на статията</th>
 						</tr>
 					</thead>
-					<tbody text-align="left">
+					<tbody class="text-left">
 						<tr>
 							<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
 						</tr>
