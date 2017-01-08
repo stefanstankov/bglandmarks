@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<h2><?= UTROBA;?></h2>
 			      <hr/>
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-md-8">
 
 							<div class="flexslider">
 							  <ul class="slides">
@@ -29,6 +29,9 @@ ini_set('display_errors', 1);
 							  </ul>
 							</div>
 </div>
+<div class="col-md-4">
+	<div id="weather"></div>
+		</div>
 					</div>
 						<div class="row">
 					<div class="col-md-12">
@@ -106,6 +109,27 @@ $(window).load(function() {
 		prevText: '<i class="fa fa-chevron-left" aria-hidden="true"></i>',           //String: Set the text for the "previous" directionNav item
 		nextText: '<i class="fa fa-chevron-right" aria-hidden="true"></i>'               //String: Set the text for the "next" directionNav item
 	});
+});
+
+</script>
+<script>
+$(document).ready(function() {
+  $.simpleWeather({
+    location: 'Kardzhali, BG',
+    woeid: '',
+    unit: 'c',
+    success: function(weather) {
+      html = '<h2><i class="icon-'+weather.code+'"></i> '+weather.temp+'&deg;'+weather.units.temp+'</h2>';
+      html += '<ul><li>'+weather.city+', '+weather.region+'</li>';
+      html += '<li class="currently">'+weather.currently+'</li>';
+      html += '<li>'+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+'</li></ul>';
+
+      $("#weather").html(html);
+    },
+    error: function(error) {
+      $("#weather").html('<p>'+error+'</p>');
+    }
+  });
 });
 
 </script>
