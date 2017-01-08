@@ -159,7 +159,7 @@ footer{
 @media only screen and (min-width : 992px) {
   .index-page{
 background-color: #79589f;
-  url("../img/gray-floral.png");
+  background-image: url("../img/gray-floral.png");
 }
 }
 @media (min-width: 992px) {
