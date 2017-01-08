@@ -158,7 +158,7 @@ footer{
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
-background-color: #4f009e;
+background-color: #79589F;
   background-image: url("../img/gray-floral.png");
 }
 }
