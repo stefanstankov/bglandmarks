@@ -178,6 +178,9 @@ footer{
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+  .blockquote {
+    margin:0px;
+  }
 .index-page {
     background: #fff;
   }
