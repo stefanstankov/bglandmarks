@@ -14,11 +14,9 @@
       </div>
       </div>
       </div>
-      <hr/>
-        <h2><?= LOCATION;?></h2>
-        <hr/>
           <div class="row">
             <div class="col-md-6">
+              <h2><?= RANDOM_PICS;?></h2>
             <div class="flexslider">
               <ul class="slides">
                 <li>
@@ -58,6 +56,7 @@
             </div>
             </div>
             <div class="col-md-6">
+              <h2><?= LOCATION;?></h2>
                 <div id="map"></div>
             </div>
                 </div>
