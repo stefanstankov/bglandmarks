@@ -56,6 +56,7 @@ ini_set('display_errors', 1);
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 				</div>
 			</div>
+			<div class="fb-share-button" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 			<div class="row">
 				<div class="col-md-12">
 				<h2><?= FROM_CATEGORY;?></h2>
@@ -113,24 +114,7 @@ $(window).load(function() {
 
 </script>
 <script>
-$(document).ready(function() {
-  $.simpleWeather({
-    location: '',
-    woeid: '837573',
-    unit: 'c',
-    success: function(weather) {
-      html = '<h2><i class="icon-'+weather.code+'"></i> '+weather.temp+'&deg;'+weather.units.temp+'</h2>';
-      html += '<ul><li>'+weather.city+', '+weather.region+'</li>';
-      html += '<li class="currently">'+weather.currently+'</li>';
-      html += '<li>'+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+'</li></ul>';
 
-      $("#weather").html(html);
-    },
-    error: function(error) {
-      $("#weather").html('<p>'+error+'</p>');
-    }
-  });
-});
 
 </script>
 
