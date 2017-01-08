@@ -101,7 +101,7 @@
      <div class="row">
      <div class="col-md-12">
      <table class="table">
-       <thead>
+       <thead class="text-center">
          <tr>
            <th><?= NATURAL;?></th>
            <th><?= ARCHITECTURAL;?></th>
@@ -122,13 +122,17 @@
        <tr>
            <td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
            <td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
+           <td></td>
        </tr>
        <tr>
            <td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
            <td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
+           <td></td>
        </tr>
        <tr>
            <td><a href="forest.php"><?= FOREST;?></a></td>
+           <td></td>
+           <td></td>
        </tr>
        </tbody>
        </table>
