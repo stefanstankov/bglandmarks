@@ -68,7 +68,7 @@
            <div class="col-md-4 ">
              <a class="link_color" href="utroba_cave.php">
              <div class="card">
-           <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата" width="318" height="180">
+           <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата">
            <div class="card-block">
              <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
              <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
@@ -79,7 +79,7 @@
            <div class="col-md-4">
              <a class="link_color" href="dam_wall.php">
              <div class="card">
-                 <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" width="318" height="180">
+                 <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" >
                  <div class="card-block">
                    <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
                    <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
@@ -90,7 +90,7 @@
            <div class="col-md-4">
              <a  class="link_color" href="ustra.php">
                <div class="card">
-               <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра" width="318" height="180">
+               <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра">
                <div class="card-block">
                  <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
                  <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
