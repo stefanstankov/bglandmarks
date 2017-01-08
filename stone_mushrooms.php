@@ -51,6 +51,7 @@ ini_set('display_errors', 1);
 						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
+					<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
           <ol class="breadcrumb">
         <li><strong>Линкове по темата</strong></li>
         <li><a href="https://en.wikipedia.org/wiki/The_Stone_Mushrooms "><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Каменните гъби</a></li>

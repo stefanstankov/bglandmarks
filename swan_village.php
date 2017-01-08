@@ -41,6 +41,7 @@ ini_set('display_errors', 1);
 						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
+					<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 					<ol class="breadcrumb">
         <li><strong>Линкове по темата</strong></li>
         <li><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8_%D0%B5%D0%B7%D0%B5%D1%80%D0%B0"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Езерата край с.Лебед</a></li>
