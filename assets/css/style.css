@@ -157,9 +157,6 @@ footer{
     background-color: #79589F!important;
     border-color:#35054d!important;
 }
-.th{
-  text-align: center;
-}
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
@@ -193,9 +190,6 @@ background-color: #49424d;
     padding-right: 0!important;
   }
   #map{margin-top: 10px;}
-}
-.th{
-  text-align: center;
 }
 @media (min-width: 768px) {
   /* Navbar positioning foo */
