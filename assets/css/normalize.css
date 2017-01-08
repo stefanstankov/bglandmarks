@@ -525,3 +525,9 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+@media only screen and (max-width : 768px) {
+  blockquote {
+    margin:0px;
+  }
+}
