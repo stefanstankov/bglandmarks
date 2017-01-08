@@ -115,8 +115,8 @@ $(window).load(function() {
 <script>
 $(document).ready(function() {
   $.simpleWeather({
-    location: 'Kardzhali, BG',
-    woeid: '',
+    location: '',
+    woeid: '837573',
     unit: 'c',
     success: function(weather) {
       html = '<h2><i class="icon-'+weather.code+'"></i> '+weather.temp+'&deg;'+weather.units.temp+'</h2>';
