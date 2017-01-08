@@ -151,6 +151,9 @@ footer{
     padding-left: 0!important;
     padding-right: 0!important;
   }
+  .btn-primary{
+    background: #79589F;
+  }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
