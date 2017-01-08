@@ -152,8 +152,8 @@ footer{
     background: #79589F;
     border-color:#35054d;
   }
-  .btn btn-primary :hover{
-    background: #79589F!important;
+  .btn-primary:hover {
+    background-color: #79589F;
   }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
