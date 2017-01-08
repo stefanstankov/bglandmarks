@@ -157,8 +157,8 @@ footer{
     border-color:#35054d;
   }
   .btn-primary:active {
-    background-color: #79589F;
-    border-color:#35054d;
+    background-color: #79589F!important;
+    border-color:#35054d!important;
 }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
