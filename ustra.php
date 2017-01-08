@@ -57,7 +57,7 @@ ini_set('display_errors', 1);
 			<div class="row">
 		<div class="col-md-12">
 			<ol class="breadcrumb">
-		<li><strong>Линкове по темата</strong></li>
+		<li><strong><?= LINKS;?></strong></li>
 		<li> <a href="https://bg.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%B0"><i class="fa fa-youtube" aria-hidden="true"></i>Крепост Устра</a></li>
 		<li><a href="https://en.wikipedia.org/wiki/Ustra"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Ustra fortress</a></li>
 	</ol>

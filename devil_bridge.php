@@ -49,13 +49,17 @@ ini_set('display_errors', 1);
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 					<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
-					<ol class="breadcrumb">
-				<li><strong>Линкове по темата</strong></li>
-				<li><a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></li>
-					<li><a href="https://en.wikipedia.org/wiki/Dyavolski_most"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>The Devil's Bridge</a></li>
-			</ol>
 				</div>
 			</div>
+			<div class="row">
+		<div class="col-md-12">
+			<ol class="breadcrumb">
+		<li><strong><?= LINKS;?></strong></li>
+		<li><a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Dyavolski_most"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>The Devil's Bridge</a></li>
+	</ol>
+		</div>
+	</div>
 			<div class="row">
 				<div class="col-md-12">
 				<h2><?= FROM_CATEGORY;?></h2>
