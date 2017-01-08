@@ -60,46 +60,6 @@
                 <div id="map"></div>
             </div>
                 </div>
-                <div class="row">
-                <div class="col-md-12">
-                <table class="table">
-                  <thead>
-                    <tr>
-                      <th><?= NATURAL;?></th>
-                      <th><?= ARCHITECTURAL;?></th>
-                      <th><?= HISTORICAL;?></th>
-                    </tr>
-                  </thead>
-                  <tbody class="text-left">
-                    <tr>
-                      <td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
-                      <td><a href="museum.php"><?= MUSEUM;?></a></td>
-                      <td><a href="ustra.php"><?= USTRA;?></a></td>
-                  </tr>
-                  <tr>
-                      <td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
-                      <td><a href="statue.php"><?= STATUE;?></a></td>
-                      <td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
-                  </tr>
-                  <tr>
-                      <td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
-                      <td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
-                      <td></td>
-                  </tr>
-                  <tr>
-                      <td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
-                      <td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
-                      <td></td>
-                  </tr>
-                  <tr>
-                      <td><a href="forest.php"><?= FOREST;?></a></td>
-                      <td></td>
-                      <td></td>
-                  </tr>
-                  </tbody>
-                  </table>
-              </div>
-                </div>
                 <hr/>
                   <h2><?= EDITORS_CHOISE;?></h2>
                   <hr/>
@@ -137,6 +97,46 @@
                  </div>
                  </a>
            </div>
+         </div>
+         <div class="row">
+         <div class="col-md-12">
+         <table class="table">
+           <thead>
+             <tr>
+               <th><?= NATURAL;?></th>
+               <th><?= ARCHITECTURAL;?></th>
+               <th><?= HISTORICAL;?></th>
+             </tr>
+           </thead>
+           <tbody class="text-left">
+             <tr>
+               <td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
+               <td><a href="museum.php"><?= MUSEUM;?></a></td>
+               <td><a href="ustra.php"><?= USTRA;?></a></td>
+           </tr>
+           <tr>
+               <td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
+               <td><a href="statue.php"><?= STATUE;?></a></td>
+               <td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
+           </tr>
+           <tr>
+               <td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
+               <td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
+               <td></td>
+           </tr>
+           <tr>
+               <td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
+               <td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
+               <td></td>
+           </tr>
+           <tr>
+               <td><a href="forest.php"><?= FOREST;?></a></td>
+               <td></td>
+               <td></td>
+           </tr>
+           </tbody>
+           </table>
+       </div>
          </div>
        </div>
        <script>
