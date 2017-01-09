@@ -167,6 +167,7 @@ footer{
    width: auto;
    margin: 0 auto;
    display: inline;
+   margin-right: 3px;
 
 
    /* probably not needed anymore, but doesn't hurt */
