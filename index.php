@@ -99,7 +99,7 @@
            </div>
          </div>
          <div class="row">
-<div class="col-md-12">
+<div class="col-md-12 hidden-xs">
 <div class = "table-responsive">
 <table class="table">
   <thead>
