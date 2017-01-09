@@ -105,7 +105,7 @@
 <div class = "table-responsive">
 <table class="table table-striped table-bordered">
   <thead>
-    <tr>
+    <tr class = "danger">
       <th><?= NATURAL;?></th>
       <th><?= ARCHITECTURAL;?></th>
       <th><?= HISTORICAL;?></th>
