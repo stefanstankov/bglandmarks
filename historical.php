@@ -8,7 +8,7 @@
         <div class="col-md-4">
           <a  class="link_color" href="ustra.php">
             <div class="card">
-            <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра" width="318" height="180">
+            <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра">
             <div class="card-block">
               <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
               <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
@@ -19,7 +19,7 @@
     	    <div class="col-md-4">
             <a class="link_color" href="perperikon.php">
               <div class="card">
-            <img src="assets/img/perperikon.jpg" class="img-responsive" alt="Перперикон" width="318" height="180">
+            <img src="assets/img/perperikon.jpg" class="img-responsive" alt="Перперикон">
             <div class="card-block">
               <h3 class="card-title"><strong><?= PERPERIKON;?></strong></h3>
               <p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
