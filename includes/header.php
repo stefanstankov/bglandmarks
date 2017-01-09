@@ -52,6 +52,7 @@ ini_set('display_errors', 1);
 							 <span class="icon-bar"></span>
 							 <span class="icon-bar"></span>
 						 </button>
+						 <img src="/assets/img/logo2.png"/>
 						 <a class="navbar-brand" href="http://www.bglandmarks.com">Bulgarian Landmarks</a>
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
