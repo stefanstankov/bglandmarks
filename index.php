@@ -110,29 +110,29 @@
   </thead>
   <tbody class="text-left">
     <tr>
-      <td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
-      <td><a href="museum.php"><?= MUSEUM;?></a></td>
-      <td><a href="ustra.php"><?= USTRA;?></a></td>
+      <td class="numeric"><a href="utroba_cave.php"><?= UTROBA;?></a></td>
+      <td class="numeric"><a href="museum.php"><?= MUSEUM;?></a></td>
+      <td class="numeric"><a href="ustra.php"><?= USTRA;?></a></td>
   </tr>
   <tr>
-      <td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
-      <td><a href="statue.php"><?= STATUE;?></a></td>
-      <td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
+      <td class="numeric"><a href="stone_mushrooms.php"><?= STONE;?></a></td>
+      <td class="numeric"><a href="statue.php"><?= STATUE;?></a></td>
+      <td class="numeric"><a href="perperikon.php"><?= PERPERIKON;?></a></td>
   </tr>
   <tr>
-      <td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
-      <td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
-      <td></td>
+      <td class="numeric"><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
+      <td class="numeric"><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
+      <td class="numeric"></td>
   </tr>
   <tr>
-      <td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
-      <td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
-      <td></td>
+      <td class="numeric"><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
+      <td class="numeric"><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
+      <td class="numeric"></td>
   </tr>
   <tr>
-      <td><a href="forest.php"><?= FOREST;?></a></td>
-      <td></td>
-      <td></td>
+      <td class="numeric"><a href="forest.php"><?= FOREST;?></a></td>
+      <td class="numeric"></td>
+      <td class="numeric"></td>
   </tr>
   </tbody>
   </table>
