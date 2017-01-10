@@ -78,3 +78,12 @@ ini_set('display_errors', 1);
 			 </nav>
 		 </div>
 	 </div>
+	 <div id="wrapper">
+<div id="sidebar-wrapper">
+<ul class="sidebar-nav">
+<li><a href=""></a>ffffff</li>
+<li><a href=""></a>ffffff</li>
+<li><a href=""></a>ffffff</li>
+<li><a href=""></a>ffffff</li>
+</ul>
+</div>
