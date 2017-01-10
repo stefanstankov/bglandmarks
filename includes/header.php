@@ -89,9 +89,3 @@ ini_set('display_errors', 1);
 </ul>
 </div>
 </div>
-<script>
-$("#menu-toggle").click(function(e)){
-e.preventDefault();
-$("wrapper").toggleClass("menuDisplayed")
-});
-</script>
