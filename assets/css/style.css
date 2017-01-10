@@ -172,11 +172,14 @@ footer{
 
    float :left;
    max-height: 33px;
+   margin-top: -3px;
 
 }
 
 .navbar-brand #nbt {
-float:right;
+      float: right;
+      padding-left: 7px;
+      padding-top: 5px;
 }
 
 
