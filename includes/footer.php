@@ -71,7 +71,7 @@
 
 $("#menu-toggle").on("click", function(e){
   e.preventDefault();
-  $("wrapper").toggleClass("menuDisplayed");
+  $("#wrapper").toggleClass("menuDisplayed");
 });
 
 
