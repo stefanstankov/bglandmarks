@@ -79,7 +79,7 @@ ini_set('display_errors', 1);
 			 </nav>
 		 </div>
 	 </div>
-	 <div id="wrapper">
+<div id="wrapper">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
 <li><a href=""></a>ffffff</li>
@@ -88,10 +88,10 @@ ini_set('display_errors', 1);
 <li><a href=""></a>ffffff</li>
 </ul>
 </div>
+</div>
 <script>
 $("#menu-toggle").click(function(e)){
 e.preventDefault();
 $("wrapper").toggleClass("menuDisplayed")
 }
 </script>
-</div>
