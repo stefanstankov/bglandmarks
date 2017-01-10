@@ -67,9 +67,13 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <script>
-$("#menu-toggle").click(function(e)){
-e.preventDefault();
-$("wrapper").toggleClass("menuDisplayed")
+
+
+$("#menu-toggle").on("click", function(e){
+  e.preventDefault();
+  $("wrapper").toggleClass("menuDisplayed");
 });
+
+
 </script>
 </html>
