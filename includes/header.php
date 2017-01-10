@@ -70,7 +70,7 @@ ini_set('display_errors', 1);
 								 </ul>
 							 </li>
 							 <li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
-							<li><a href="#" class="btn" id="menu-toggle">Menu</a></li>
+							<li><a href="#" class="btn hidden-xs" id="menu-toggle">Menu</a></li>
 							 <li><a href='?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
 							 	 <li><a href='?language=en'><img src="/assets/img/en_new.png"/></a></li>
 						 </ul>
@@ -79,7 +79,7 @@ ini_set('display_errors', 1);
 			 </nav>
 		 </div>
 	 </div>
-<div id="wrapper">
+<div id="wrapper hidden-xs">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
 <li><a href=""></a>ffffff</li>
