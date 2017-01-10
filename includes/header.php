@@ -79,7 +79,7 @@ ini_set('display_errors', 1);
 			 </nav>
 		 </div>
 	 </div>
-<div id="wrapper hidden-xs">
+<div id="wrapper" class="hidden-xs">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
 <li><a href=""></a>ffffff</li>
