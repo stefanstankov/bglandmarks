@@ -23,6 +23,9 @@ ini_set('display_errors', 1);
 							    <li>
 							    	<img src="/assets/img/bridge1.jpg"/>
 							    </li>
+									<li>
+							    	<img src="/assets/img/db.jpg"/>
+							    </li>
 							  </ul>
 							</div>
 	</div>
