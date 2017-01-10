@@ -217,8 +217,8 @@ line-height:40px;
 
 display:block;
 text-decoration:none;
-color:#ddd;
-
+color:#fff;
+padding-left: 50px;
 }
 
 #sidebar-nav li a:hover{
