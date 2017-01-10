@@ -8,20 +8,21 @@
   <p>
 	   <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
 	   <a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
+     <a class="fancybox" href="/assets/img/db.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/db.jpg" alt="" /></a>
 	  <a class="fancybox" href="/assets/img/eagle_rocks.jpg" data-fancybox-group="gallery" title="<?= EAGLE_ROCKS;?>"><img src="/assets/img/thumbs/eagle_rocks.jpg" alt="" /></a>
-    <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title="<?= EAGLE_ROCKS;?>"><img src="/assets/img/thumbs/eagle_rocks1.jpg" alt="" /></a>
     </p>
     <p>
+    <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title="<?= EAGLE_ROCKS;?>"><img src="/assets/img/thumbs/eagle_rocks1.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/eagle_rocks1.jpg" data-fancybox-group="gallery" title="<?= EAGLE_ROCKS;?>"><img src="/assets/img/thumbs/eagle_rocks2.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
     <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
-    <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
     </p>
     <p>
+  <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
   <a class="fancybox" href="/assets/img/main1.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/main1.jpg" alt="" /></a>
   <a class="fancybox" href="/assets/img/main2.jpg" data-fancybox-group="gallery" title="<?= FOREST;?>"><img src="/assets/img/thumbs/main2.jpg" alt="" /></a>
   <a class="fancybox" href="/assets/img/main3.jpg" data-fancybox-group="gallery" title="<?= FOREST;?>"><img src="/assets/img/thumbs/main3.jpg" alt="" /></a>
-  <a class="fancybox" href="/assets/img/main4.jpg" data-fancybox-group="gallery" title="<?= RILA;?>"><img src="/assets/img/thumbs/main4.jpg" alt="" /></a>
+
   </p>
   <p>
 <a class="fancybox" href="/assets/img/museum.jpg" data-fancybox-group="gallery" title="<?= MUSEUM;?>"><img src="/assets/img/thumbs/museum.jpg" alt="" /></a>
@@ -51,6 +52,7 @@
 <a class="fancybox" href="/assets/img/utroba_cave1.jpg" data-fancybox-group="gallery" title="<?= UTROBA;?>"><img src="/assets/img/thumbs/utroba_cave1.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/utroba_cave2.jpg" data-fancybox-group="gallery" title="<?= UTROBA;?>"><img src="/assets/img/thumbs/utroba_cave2.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/main.JPG" data-fancybox-group="gallery" title="<?= MELNIK;?>"><img src="/assets/img/thumbs/main.jpg" alt="" /></a>
+  <a class="fancybox" href="/assets/img/main4.jpg" data-fancybox-group="gallery" title="<?= RILA;?>"><img src="/assets/img/thumbs/main4.jpg" alt="" /></a>
 </p>
 
     </div>
