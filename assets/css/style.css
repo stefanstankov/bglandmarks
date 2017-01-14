@@ -204,7 +204,7 @@ z-index:1;
 position:absolute;
 width:0;
 height:90%;
-overflow-y:hidden;
+overflow-y:hidden!important;
 background: #e5e5e5;
 border: 2px solid #79589F;
 text-align: center;;
