@@ -83,19 +83,19 @@ ini_set('display_errors', 1);
 <div id="sidebar-wrapper">
 <ul class="list-group">
 <li class="list-group-item list-group-item-success"><?= NATURAL;?></li>
-<li class="list-group-item"><a href="utroba_cave.php"><?= UTROBA;?></a></li>
-<li class="list-group-item"><a href="stone_mushrooms.php"><?= STONE;?></a></li>
-<li class="list-group-item"><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
-<li class="list-group-item"><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
-<li class="list-group-item"><a href="forest.php"><?= FOREST;?></a></li>
+<li class="list-group-item custom-color"><a href="utroba_cave.php"><?= UTROBA;?></a></li>
+<li class="list-group-item custom-color"><a href="stone_mushrooms.php"><?= STONE;?></a></li>
+<li class="list-group-item custom-color"><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
+<li class="list-group-item custom-color"><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
+<li class="list-group-item custom-color"><a href="forest.php"><?= FOREST;?></a></li>
 <li class="list-group-item list-group-item-success"><?= ARCHITECTURAL;?></li>
-<li class="list-group-item"><a href="museum.php"><?= MUSEUM;?></a></li>
-<li class="list-group-item"><a href="statue.php"><?= STATUE;?></a></li>
-<li class="list-group-item"><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
-<li class="list-group-item"><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
+<li class="list-group-item custom-color"><a href="museum.php"><?= MUSEUM;?></a></li>
+<li class="list-group-item custom-color"><a href="statue.php"><?= STATUE;?></a></li>
+<li class="list-group-item custom-color"><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
+<li class="list-group-item custom-color"><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
 <li class="list-group-item list-group-item-success"><?= HISTORICAL;?></li>
-<li class="list-group-item"><a href="ustra.php"><?= USTRA;?></a></li>
-<li class="list-group-item"><a href="perperikon.php"><?= PERPERIKON;?></a></li>
+<li class="list-group-item custom-color"><a href="ustra.php"><?= USTRA;?></a></li>
+<li class="list-group-item custom-color"><a href="perperikon.php"><?= PERPERIKON;?></a></li>
 </ul>
 </div>
 </div>

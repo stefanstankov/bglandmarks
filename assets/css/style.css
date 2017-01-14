@@ -151,7 +151,6 @@ footer{
   }
   .list-group-item-success{
     background: #79589F;
-    border-color:#35054d;
     color: #fff;
   }
   .btn-primary:hover {
@@ -161,6 +160,9 @@ footer{
   .btn-primary:active {
     background-color: #79589F!important;
     border-color:#35054d!important;
+}
+.custom-color{
+background-color: #e5e5e5;
 }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
