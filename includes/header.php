@@ -79,7 +79,7 @@ ini_set('display_errors', 1);
 			 </nav>
 		 </div>
 	 </div>
-<div id="wrapper" class="hidden-xs">
+<div id="wrapper" class="hidden-xs custom-color">
 <div id="sidebar-wrapper">
 <ul class="list-group">
 <li class="list-group-item list-group-item-success"><?= NATURAL;?></li>
