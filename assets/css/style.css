@@ -193,18 +193,8 @@ overflow-y:hidden;
 background: #fff;
 border: 2px solid #79589F;
 text-align: center;
-display: block;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    display: none;
-    float: left;
-    min-width: 160px;
-    padding: 5px 0;
-    margin: 2px 0 0;
-    font-size: 14px;
-    text-align: left;
-    list-style: none;
+float:left;
+list-style:none;
 }
 
 
