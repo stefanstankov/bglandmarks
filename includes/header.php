@@ -80,8 +80,8 @@ ini_set('display_errors', 1);
 		 </div>
 	 </div>
 <div id="wrapper" class="hidden-xs custom-color">
-<div class="navbar-fixed-top" id="sidebar-wrapper">
-<ul class="list-group">
+<div id="sidebar-wrapper">
+<ul class="navbar-fixed-top list-group">
 <li class="list-group-item list-group-item-success"><?= NATURAL;?></li>
 <li class="list-group-item custom-color"><a href="utroba_cave.php"><?= UTROBA;?></a></li>
 <li class="list-group-item custom-color"><a href="stone_mushrooms.php"><?= STONE;?></a></li>
