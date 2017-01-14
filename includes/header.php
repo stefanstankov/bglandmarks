@@ -83,6 +83,7 @@ ini_set('display_errors', 1);
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
 <li class="dropdown-header text-center"><?= NATURAL;?></li>
+<hr>
 <li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
 <hr>
 <li><a href="stone_mushrooms.php"><?= STONE;?></a></li>
@@ -94,6 +95,7 @@ ini_set('display_errors', 1);
 <li><a href="forest.php"><?= FOREST;?></a></li>
 <hr>
 <li class="dropdown-header text-center"><?= ARCHITECTURAL;?></li>
+<hr>
 <li><a href="museum.php"><?= MUSEUM;?></a></li>
 <hr>
 <li><a href="statue.php"><?= STATUE;?></a></li>
@@ -103,9 +105,9 @@ ini_set('display_errors', 1);
 <li><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
 <hr>
 <li class="dropdown-header text-center"><?= HISTORICAL;?></li>
+<hr>
 <li><a href="ustra.php"><?= USTRA;?></a></li>
 <hr>
 <li><a href="perperikon.php"><?= PERPERIKON;?></a></li>
-<hr>
 </div>
 </div>
