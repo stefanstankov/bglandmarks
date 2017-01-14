@@ -184,9 +184,10 @@ footer{
 
 /* toggle menu*/
 
-.custom-h{
-  font-size:14px!important; 
+  li.active{
+  background-color: #e5e5e5;
   text-align: center solid black;
+  font-size: 14px;
 }
 #sidebar-wrapper{
 

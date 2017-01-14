@@ -82,7 +82,7 @@ ini_set('display_errors', 1);
 <div id="wrapper" class="hidden-xs">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
-<li class="dropdown-header custom-h"><?= NATURAL;?></li>
+<li class="active"><?= NATURAL;?></li>
 <hr>
 <li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
 <hr>
@@ -94,7 +94,7 @@ ini_set('display_errors', 1);
 <hr>
 <li><a href="forest.php"><?= FOREST;?></a></li>
 <hr>
-<li class="dropdown-header custom-h"><?= ARCHITECTURAL;?></li>
+<li class="active"><?= ARCHITECTURAL;?></li>
 <hr>
 <li><a href="museum.php"><?= MUSEUM;?></a></li>
 <hr>
@@ -104,7 +104,7 @@ ini_set('display_errors', 1);
 <hr>
 <li><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
 <hr>
-<li class="dropdown-header custom-h"><?= HISTORICAL;?></li>
+<li class="active"><?= HISTORICAL;?></li>
 <hr>
 <li><a href="ustra.php"><?= USTRA;?></a></li>
 <hr>
