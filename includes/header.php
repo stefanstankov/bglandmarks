@@ -82,7 +82,7 @@ ini_set('display_errors', 1);
 <div id="wrapper" class="hidden-xs">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
-<li class="active"><?= NATURAL;?></li>
+<li class="btn btn-primary"><?= NATURAL;?></li>
 <hr>
 <li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
 <hr>
