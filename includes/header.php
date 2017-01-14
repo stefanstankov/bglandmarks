@@ -1,7 +1,7 @@
 <?php
 session_start();
 if(!isset($_SESSION['language'])){
-		 $_SESSION['language'] = 'bg';
+		 $_SESSION['language'] = 'en';
 		}
 
 if(isset($_GET['language']) && ($_GET['language'] == 'en' || $_GET['language'] == 'bg')){
