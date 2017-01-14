@@ -149,6 +149,11 @@ footer{
     background: #79589F;
     border-color:#35054d;
   }
+  .list-group-item-success{
+    background: #79589F;
+    border-color:#35054d;
+    color: #fff;
+  }
   .btn-primary:hover {
     background-color: #79589F;
     border-color:#35054d;
