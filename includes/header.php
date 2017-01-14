@@ -81,33 +81,21 @@ ini_set('display_errors', 1);
 	 </div>
 <div id="wrapper" class="hidden-xs">
 <div id="sidebar-wrapper">
-<ul class="sidebar-nav">
+<ul class="list-group">
 <li class="list-group-item list-group-item-success"><?= NATURAL;?></li>
-<hr>
-<li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
-<hr>
-<li><a href="stone_mushrooms.php"><?= STONE;?></a></li>
-<hr>
-<li><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
-<hr>
-<li><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
-<hr>
-<li><a href="forest.php"><?= FOREST;?></a></li>
-<hr>
-<li class="active"><?= ARCHITECTURAL;?></li>
-<hr>
-<li><a href="museum.php"><?= MUSEUM;?></a></li>
-<hr>
-<li><a href="statue.php"><?= STATUE;?></a></li>
-<hr>
-<li><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
-<hr>
-<li><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
-<hr>
-<li class="active"><?= HISTORICAL;?></li>
-<hr>
-<li><a href="ustra.php"><?= USTRA;?></a></li>
-<hr>
-<li><a href="perperikon.php"><?= PERPERIKON;?></a></li>
+<li class="list-group-item"><a href="utroba_cave.php"><?= UTROBA;?></a></li>
+<li class="list-group-item"><a href="stone_mushrooms.php"><?= STONE;?></a></li>
+<li class="list-group-item"><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
+<li class="list-group-item"><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
+<li class="list-group-item"><a href="forest.php"><?= FOREST;?></a></li>
+<li class="list-group-item list-group-item-success"><?= ARCHITECTURAL;?></li>
+<li class="list-group-item"><a href="museum.php"><?= MUSEUM;?></a></li>
+<li class="list-group-item"><a href="statue.php"><?= STATUE;?></a></li>
+<li class="list-group-item"><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
+<li class="list-group-item"><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
+<li class="list-group-item list-group-item-success"><?= HISTORICAL;?></li>
+<li class="list-group-item"><a href="ustra.php"><?= USTRA;?></a></li>
+<li class="list-group-item"><a href="perperikon.php"><?= PERPERIKON;?></a></li>
+</ul>
 </div>
 </div>
