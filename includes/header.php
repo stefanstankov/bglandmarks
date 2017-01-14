@@ -82,10 +82,22 @@ ini_set('display_errors', 1);
 <div id="wrapper" class="hidden-xs">
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
-<li><a href=""></a>ffffff</li>
-<li><a href=""></a>ffffff</li>
-<li><a href=""></a>ffffff</li>
-<li><a href=""></a>ffffff</li>
-</ul>
+<li class="dropdown-header"><?= NATURAL;?></li>
+<li role="separator" class="divider"></li></ul>
+<li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
+<li><a href="stone_mushrooms.php"><?= STONE;?></a></li>
+<li><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
+<li><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
+<li><a href="forest.php"><?= FOREST;?></a></li>
+<li class="dropdown-header"><?= ARCHITECTURAL;?></li>
+<li role="separator" class="divider"></li></ul>
+<li><a href="museum.php"><?= MUSEUM;?></a></li>
+<li><a href="statue.php"><?= STATUE;?></a></li>
+<li><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
+<li><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
+<li class="dropdown-header"><?= HISTORICAL;?></li>
+<li role="separator" class="divider"></li></ul>
+<li><a href="ustra.php"><?= USTRA;?></a></li>
+<li><a href="perperikon.php"><?= PERPERIKON;?></a></li>
 </div>
 </div>
