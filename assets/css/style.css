@@ -167,19 +167,14 @@ background-color: #e5e5e5;
 .list-group li a{
   color:#000;
 }
+.list-group-item:first-child{
+  padding-top: -15px
+}
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
 .footer-ul i { margin-right:10px;}
 .navbar-brand>img {
-   /*max-height: 200%;
-   height: 200%;
-   width: auto;
-   margin: 0 auto;
-   display: inline;
-   margin-right: 6px;
-   padding-bottom: 10px; */
-
    float :left;
    max-height: 33px;
    margin-top: -3px;
@@ -205,6 +200,7 @@ position:absolute;
 width:0;
 height:90%;
 overflow-y:hidden!important;
+overflow-x:hidden!important;
 background: #e5e5e5;
 border: 2px solid #79589F;
 text-align: center;;
