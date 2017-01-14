@@ -214,11 +214,8 @@ line-height:40px;
 }
 
 #sidebar-nav li a{
-
-display:block;
-text-decoration:none;
-color:#FFFFFF;
-margin-left: 50px;
+line-height: 23px!important;
+color: #fff!important;
 }
 
 #sidebar-nav li a:hover{
