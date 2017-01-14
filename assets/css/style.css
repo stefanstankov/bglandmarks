@@ -204,19 +204,6 @@ width:250px;
 
 padding:0;
 list-style:none;
-
-}
-
-#sidebar-nav li{
-
-text-indent:20px;
-line-height:40px;
-
-}
-
-#sidebar-nav li a{
-line-height: 23px!important;
-color: #fff!important;
 display: block;
     position: absolute;
     top: 100%;
@@ -229,6 +216,18 @@ display: block;
     font-size: 14px;
     text-align: left;
     list-style: none;
+}
+
+#sidebar-nav li{
+
+text-indent:20px;
+line-height:40px;
+
+}
+
+#sidebar-nav li a{
+line-height: 23px!important;
+color: #fff!important;
 }
 
 #sidebar-nav li a:hover{
