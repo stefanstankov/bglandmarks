@@ -83,21 +83,32 @@ ini_set('display_errors', 1);
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
 <li class="dropdown-header"><?= NATURAL;?></li>
-<li role="separator" class="divider"></li>
+<hr>
 <li><a href="utroba_cave.php"><?= UTROBA;?></a></li>
+<hr>
 <li><a href="stone_mushrooms.php"><?= STONE;?></a></li>
+<hr>
 <li><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></li>
+<hr>
 <li><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></li>
+<hr>
 <li><a href="forest.php"><?= FOREST;?></a></li>
+<hr>
 <li class="dropdown-header"><?= ARCHITECTURAL;?></li>
-<li role="separator" class="divider"></li>
+<hr>
 <li><a href="museum.php"><?= MUSEUM;?></a></li>
+<hr>
 <li><a href="statue.php"><?= STATUE;?></a></li>
+<hr>
 <li><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></li>
+<hr>
 <li><a href="devil_bridge.php"><?= BRIDGE;?></a></li>
+<hr>
 <li class="dropdown-header"><?= HISTORICAL;?></li>
-<li role="separator" class="divider"></li>
+<hr>
 <li><a href="ustra.php"><?= USTRA;?></a></li>
+<hr>
 <li><a href="perperikon.php"><?= PERPERIKON;?></a></li>
+<hr>
 </div>
 </div>

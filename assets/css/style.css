@@ -192,9 +192,10 @@ height:100%;
 overflow-y:hidden;
 background: #fff;
 border: 2px solid #79589F;
-text-align: center;
+text-align: left;;
 float:left;
 list-style:none;
+font-size: 14px;
 }
 
 
