@@ -193,17 +193,6 @@ overflow-y:hidden;
 background: #fff;
 border: 2px solid #79589F;
 text-align: center;
-}
-
-
-#wrapper.menuDisplayed #sidebar-wrapper{
-width:250px;
-}
-
-#sidebar-nav{
-
-padding:0;
-list-style:none;
 display: block;
     position: absolute;
     top: 100%;
@@ -216,6 +205,18 @@ display: block;
     font-size: 14px;
     text-align: left;
     list-style: none;
+}
+
+
+#wrapper.menuDisplayed #sidebar-wrapper{
+width:250px;
+}
+
+#sidebar-nav{
+
+padding:0;
+list-style:none;
+
 }
 
 #sidebar-nav li{
