@@ -163,6 +163,7 @@ footer{
 }
 .custom-color{
 background-color: #e5e5e5;
+color: #000;
 }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;}
 .footer-ul li { line-height:29px;font-size:12px;}
