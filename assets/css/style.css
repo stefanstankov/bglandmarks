@@ -224,6 +224,7 @@ width:250px;
   .featurette-heading {
     margin-top: 120px;
   }
+  #sidebar-wrapper{height:120%;}
 }
 
 /* Small Devices, Tablets */
@@ -231,7 +232,6 @@ width:250px;
 .index-page {
     background: #fff;
   }
-  #sidebar-wrapper{height:120%;}
   #nbt{margin-top: -13px;}
   #nbt span {display: block; font-size: 15px;}
   .footer-ul {padding-left:0px; margin-left:2px;}
