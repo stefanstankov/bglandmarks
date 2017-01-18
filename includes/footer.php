@@ -79,10 +79,10 @@ $("#menu-toggle").on("click", function(e){
 <script>
 $(document).ready(function(){
   $("#demo").on("hide.bs.collapse", function(){
-    $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Open');
+    $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Read more');
   });
   $("#demo").on("show.bs.collapse", function(){
-    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Close');
+    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Read less');
   });
 });
 </script>
