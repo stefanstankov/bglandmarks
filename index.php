@@ -10,7 +10,7 @@
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
             <div class="custom-div"
-            <h3><?= WELCOME;?></h3>
+            <h1><?= WELCOME;?></h1>
         <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo">
     <span class="glyphicon glyphicon-collapse-down"></span>
   </button>
