@@ -255,9 +255,9 @@ width:250px;
 .index-page {
     background: #fff;
   }
-  .btn-success{margin-top:18px; border-color:none; }
-  .btn-success:hover {border-color:none;}
-  .btn-success:active {border-color:none;}
+  .btn-success{margin-top:18px; border:none; }
+  .btn-success:hover {border:none;}
+  .btn-success:active {border:none;}
   #nbt{margin-top: -13px;}
   #nbt span {display: block; font-size: 15px;}
   .footer-ul {padding-left:0px; margin-left:2px;}
