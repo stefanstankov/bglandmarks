@@ -11,9 +11,9 @@
           <div class="jumbotron">
 
             <h1 class="custom-div"><?= WELCOME;?></h1>
-        <button type="button" class="btn btn-success custom-div" data-toggle="collapse" data-target="#demo">
-    Show more<span class="glyphicon glyphicon-collapse-down"></span>
-  </button>
+            <a href="#" type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo">
+          <span class="glyphicon glyphicon-collapse-down"></span>
+     </a>
         <div id="demo" class="collapse">
         <?= ABOUT_BG;?>
         </div>
