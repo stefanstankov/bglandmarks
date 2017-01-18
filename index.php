@@ -10,7 +10,12 @@
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
         <h1><?= WELCOME;?></h1>
+        <div id="demo">
         <?= ABOUT_BG;?>
+        </div>
+        <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo">
+      <span class="glyphicon glyphicon-collapse-down"></span> Open
+    </button>
       </div>
       </div>
       </div>
@@ -129,5 +134,14 @@
        });
 
        </script>
-
+       <script>
+       $(document).ready(function(){
+         $("#demo").on("hide.bs.collapse", function(){
+           $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Open');
+         });
+         $("#demo").on("show.bs.collapse", function(){
+           $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Close');
+         });
+       });
+       </script>
             	<?php require 'includes/footer.php' ?>
