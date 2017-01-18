@@ -12,7 +12,7 @@
             <div class="custom-div">
             <h1><?= WELCOME;?></h1>
         <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo">
-    <span class="glyphicon glyphicon-collapse-down">Show more</span>
+    Show more<span class="glyphicon glyphicon-collapse-down"></span>
   </button>
         <div id="demo" class="collapse">
         <?= ABOUT_BG;?>
