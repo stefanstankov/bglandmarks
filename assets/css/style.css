@@ -162,17 +162,15 @@ footer{
     border-color:#35054d!important;
 }
 .btn-success{
-  background: #79589F!important;
-  border-color:#35054d;
+  background: #e5e5e5!important;
   margin-bottom: 25px;
+  color: #000;
 }
 .btn-success:hover {
-  background-color: #79589F!important;
-  border-color:#35054d;
+  background-color: #e5e5e5!important;
 }
 .btn-success:active {
-  background-color: #79589F!important;
-  border-color:#35054d!important;
+  background-color: #e5e5e5!important;
 }
 .custom-color{
 background-color: #e5e5e5;
