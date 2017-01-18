@@ -13,7 +13,7 @@
         <div id="demo" class="collapse">
         <?= ABOUT_BG;?>
         </div>
-          <p class="text-center"><a href="#" class="btn btn-primary" type="button" data-toggle="collapse" data-target="#demo">
+          <p class="text-center"><a href="#" class="btn btn-primary" role="button" data-toggle="collapse" data-target="#demo">
       <span class="glyphicon glyphicon-collapse-down"></span> Open
       </a></p>
       </div>
