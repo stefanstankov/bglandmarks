@@ -193,6 +193,10 @@ background-color: #e5e5e5;
 
 }
 
+.custom-div{
+  display: inline;
+}
+
 .navbar-brand #nbt {
       float: right;
       padding-left: 7px;
