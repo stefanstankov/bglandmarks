@@ -172,7 +172,7 @@ footer{
 }
 .btn-success:active {
   background-color: #e5e5e5!important;
-  color: #000;
+  color: #000!important;
 }
 .custom-color{
 background-color: #e5e5e5;
