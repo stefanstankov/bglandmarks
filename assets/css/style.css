@@ -165,17 +165,17 @@ footer{
   background: #e5e5e5!important;
   margin-bottom: 25px;
   color: #000;
-  border: #000;
+  border-color: #000;
 }
 .btn-success:hover {
   background-color: #e5e5e5!important;
   color: #000;
-  border: #000;
+  border-color: #000;
 }
 .btn-success:active {
   background-color: #e5e5e5!important;
   color: #000!important;
-  border: #000;
+  border-color: #000;
 }
 .custom-color{
 background-color: #e5e5e5;
