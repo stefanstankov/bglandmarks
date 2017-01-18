@@ -168,9 +168,11 @@ footer{
 }
 .btn-success:hover {
   background-color: #e5e5e5!important;
+  color: #000;
 }
 .btn-success:active {
   background-color: #e5e5e5!important;
+  color: #000;
 }
 .custom-color{
 background-color: #e5e5e5;
