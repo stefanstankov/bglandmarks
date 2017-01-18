@@ -162,11 +162,11 @@ footer{
     border-color:#35054d!important;
 }
 .btn-success{
-  background: #79589F;
+  background: #79589F!important;
   border-color:#35054d;
 }
 .btn-success:hover {
-  background-color: #79589F;
+  background-color: #79589F!important;
   border-color:#35054d;
 }
 .btn-success:active {
