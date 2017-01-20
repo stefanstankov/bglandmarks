@@ -146,16 +146,16 @@ footer{
     padding-right: 0!important;
   }
   .btn-primary{
-    background: #79589F;
-    border-color:#35054d;
+    background: #79589F!important;
+    border-color:#35054d!important;
   }
   .list-group-item-success{
     background: #79589F;
     color: #fff;
   }
   .btn-primary:hover {
-    background-color: #79589F;
-    border-color:#35054d;
+    background-color: #79589F!important;
+    border-color:#35054d!important;
   }
   .btn-primary:active {
     background-color: #79589F!important;
