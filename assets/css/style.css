@@ -165,10 +165,10 @@ footer{
     border-color:#35054d!important;
 }
 .btn-custom:hover {
-border-color: none;
+border-color: none!important;
 }
 .btn-custom:active{
-  border-color:none;
+  border-color:none!important;
 }
 .btn-success{
   background: #e5e5e5!important;
