@@ -170,7 +170,7 @@ border-color: none!important;
 .btn-custom:active{
   border-color:none!important;
 }
-.btn-custom: focus{
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn.focus:active, .btn:active:focus, .btn:focus{
   outline:none!important;
   border: none;
 }
