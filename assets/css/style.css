@@ -164,6 +164,12 @@ footer{
     background-color: #79589F!important;
     border-color:#35054d!important;
 }
+.btn-custom:hover {
+border: none;
+}
+.btn-custom:active{
+  border:none;
+}
 .btn-success{
   background: #e5e5e5!important;
   margin-bottom: 25px;
