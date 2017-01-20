@@ -171,7 +171,7 @@ border-color: none!important;
   border-color:none!important;
 }
 .btn-custom: focus{
-  border-color:none!important;
+  outline:none;
 }
 .btn-success{
   background: #e5e5e5!important;
