@@ -55,7 +55,7 @@ ini_set('display_errors', 1);
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
 						<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
-						<div class="fb-send" data-href="https://bglandmarks"></div>
+						<div class="fb-send" data-href="https://bglandmarks" data-layout="button_count"></div>
 				</div>
 			</div>
 			<div class="row">
