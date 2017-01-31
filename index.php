@@ -22,6 +22,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
+           <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/419e59b2c01b5129ada465c927fc0d84.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
         </div>
         </div>
           <div class="row">
