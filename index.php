@@ -20,6 +20,11 @@
       </div>
       </div>
       </div>
+      <div class="row">
+        <div class="col-md-12">
+          <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/43846cc373dc505d9b4883eef7963733.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+        </div>
+        </div>
           <div class="row">
             <div class="col-md-6">
               <h2><?= RANDOM_PICS;?></h2>
