@@ -11,6 +11,7 @@
           <div class="jumbotron">
 
             <h1 class="custom-div"><?= WELCOME;?></h1>
+            <br>
             <div class="row">
               <div class="col-md-6">
                  <?= ABOUT_BG;?>
@@ -22,52 +23,7 @@
       </div>
       </div>
       </div>
-          <div class="row">
-            <div class="col-md-6">
-              <h2><?= RANDOM_PICS;?></h2>
-            <div class="flexslider">
-              <ul class="slides">
-                <li>
-                  <img src="/assets/img/main.JPG"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main1.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main4.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main3.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/bridge.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/eagle_rocks.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/dam_wall.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/museum.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/perperikon.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/orfei.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/utroba_cave.jpg"/>
-                </li>
-              </ul>
-            </div>
-            </div>
-            <div class="col-md-6">
-              <h2><?= LOCATION;?></h2>
-                <div id="map"></div>
-            </div>
-                </div>
+
                 <hr/>
                   <h2><?= EDITORS_CHOISE;?></h2>
                   <hr/>
