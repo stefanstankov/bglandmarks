@@ -11,12 +11,14 @@
           <div class="jumbotron">
 
             <h1 class="custom-div"><?= WELCOME;?></h1>
-            <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
-          <span class="glyphicon glyphicon-info-sign"></span>
-     </a>
-        <div id="demo" class="collapse">
-        <?= ABOUT_BG;?>
-        </div>
+            <div class="row">
+              <div class="col-md-6">
+                 <?= ABOUT_BG;?>
+                    </div>
+                    <div class="col-md-6">
+                        <div id="map"></div>
+                          </div>
+              </div>
       </div>
       </div>
       </div>
