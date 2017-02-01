@@ -15,14 +15,8 @@
             <br/>
             <div class="row">
                     <div class="col-md-12">
-                      <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
-          <span class="glyphicon glyphicon-info-sign"></span>
-     </a>
-        <div id="demo" class="collapse">
-        <?= ABOUT_BG;?>
-          <div id="map"></div>
-        </div>
-                    
+                      <?= ABOUT_BG;?>
+                        <div id="map"></div>
 
                                 </div>
               </div>
