@@ -13,12 +13,12 @@
             <h1 class="custom-div"><?= WELCOME;?></h1>
             <br>
             <div class="row">
-              <div class="col-md-6">
-                 <?= ABOUT_BG;?>
-                    </div>
                     <div class="col-md-6">
                         <div id="map"></div>
                           </div>
+                          <div class="col-md-6">
+                             <?= ABOUT_BG;?>
+                                </div>
               </div>
       </div>
       </div>
