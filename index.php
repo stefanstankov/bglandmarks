@@ -14,10 +14,8 @@
             <br/>
             <br/>
             <div class="row">
-                    <div class="col-md-6">
-                        <div id="map"></div>
-                          </div>
-                          <div class="col-md-6">
+                    <div class="col-md-12">
+                        <div id="map"></div>        
                              <?= ABOUT_BG;?>
                                 </div>
               </div>
