@@ -32,7 +32,7 @@ define('WELCOME', 'Добре дошли');
 define('LOCATION', 'Местоположение');
 define('FROM_CATEGORY', 'От категорията');
 define('LANDMARK_NAME', 'Забележителности');
-define('RANDOM_PICS', 'От галерията');
+define('RANDOM_PICS', 'От YouTube');
 define('LINKS', 'Линкове по темата');
 define('INSTA', 'От страницата ни в инстаграм');
 define('QL', 'Бързи връзки');

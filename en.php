@@ -32,7 +32,7 @@ define('WELCOME', 'Welcome');
 define('LOCATION', 'Location');
 define('FROM_CATEGORY', 'From the category');
 define('LANDMARK_NAME', 'Landmarks');
-define('RANDOM_PICS', 'From gallery');
+define('RANDOM_PICS', 'From YouTube');
 define('LINKS', 'Links');
 define('QL', 'Quick Links');
 define('INSTA', 'From our instagram feed');
