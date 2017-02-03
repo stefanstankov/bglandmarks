@@ -23,43 +23,9 @@
           <div class="row">
             <div class="col-md-6">
               <h2><?= RANDOM_PICS;?></h2>
-            <div class="flexslider">
-              <ul class="slides">
-                <li>
-                  <img src="/assets/img/main.JPG"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main1.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main4.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/main3.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/bridge.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/eagle_rocks.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/dam_wall.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/museum.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/perperikon.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/orfei.jpg"/>
-                </li>
-                <li>
-                  <img src="/assets/img/utroba_cave.jpg"/>
-                </li>
-              </ul>
-            </div>
+              <div id="custom_video" class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
+        </div>
             </div>
             <div class="col-md-6">
               <h2><?= LOCATION;?></h2>
