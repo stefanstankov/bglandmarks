@@ -40,7 +40,7 @@
              <div class="card-container">
   <div class="card">
    <div class="side"><img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="Jimmy Eat World"></div>
-    <div class="side back"><img src="assets/img/utroba_cave1.jpg" class="img-responsive" alt="Jimmy Eat World"></div>
+    <div class="side back">Demo</div>
   </div>
 </div>
           </div>
