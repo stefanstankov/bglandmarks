@@ -259,7 +259,7 @@ width:250px;
 .card:hover {
   transform: rotateY(180deg);
 }
-.card .back {
+.back {
   background: #eaeaed;
   color: #0087cc;
   line-height: 150px;
