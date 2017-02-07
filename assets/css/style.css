@@ -258,7 +258,7 @@ width:250px;
   width: 150px;
 }
 .card {
-  position: absolute;
+  position: relative;;
   transform-style: preserve-3d;
   transition: all 1s ease-in-out;
 
