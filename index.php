@@ -40,7 +40,7 @@
              <a class="link_color" href="utroba_cave.php">
                     <div class="card">
                 <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата"></div>
-                  <div class="back"><img src="assets/img/utroba_cave1.jpg" alt="Jimmy Eat World"></div>
+                  <div class="back"><img src="assets/img/utroba_cave1.jpg" class="img-responsive" alt="Jimmy Eat World"></div>
                   </div>
                   <div class="card-block">
                     <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
