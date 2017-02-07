@@ -40,11 +40,11 @@
              <a class="link_color" href="utroba_cave.php">
                     <div class="card">
                   <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата">
+                  </div>
                   <div class="card-block">
                     <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
                     <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                     </div>
-                  </div>
                 </a>
           </div>
            <div class="col-md-3">
