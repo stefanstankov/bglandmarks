@@ -258,6 +258,7 @@ width:250px;
   width: 150px;
 }
 .card {
+  position: absolute;
   transform-style: preserve-3d;
   transition: all 1s ease-in-out;
 
@@ -280,6 +281,7 @@ width:250px;
   text-align: center;
   transform: rotateY(180deg);
 }
+
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
