@@ -51,10 +51,10 @@
              <a class="link_color" href="dam_wall.php">
              <div class="card">
                  <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" >
-                 <div class="card-block">
-                   <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
-                   <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                 </div>
+                   </div>
+                   <div class="card-block">
+                     <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
+                     <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                    </div>
                    </a>
           </div>
@@ -62,10 +62,10 @@
              <a  class="link_color" href="ustra.php">
                <div class="card">
                <img src="assets/img/ustra.jpg" class="img-responsive" alt="Крепостта Устра">
-               <div class="card-block">
-                 <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
-                 <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-               </div>
+                 </div>
+                 <div class="card-block">
+                   <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
+                   <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                  </div>
                  </a>
            </div>
@@ -73,10 +73,10 @@
              <a  class="link_color" href="stone_mushrooms.php">
                <div class="card">
                <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="Каменните гъби">
-               <div class="card-block">
-                 <h3 class="card-title"><strong><?= STONE;?></strong></h3>
-                 <p class="text-center"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-               </div>
+                 </div>
+                 <div class="card-block">
+                   <h3 class="card-title"><strong><?= STONE;?></strong></h3>
+                   <p class="text-center"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                  </div>
                  </a>
            </div>
