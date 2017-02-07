@@ -259,6 +259,14 @@ width:250px;
 .card:hover {
   transform: rotateY(180deg);
 }
+.card .side {
+  backface-visibility: hidden;
+  border-radius: 6px;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+}
 .back {
   background: #eaeaed;
   color: #0087cc;
