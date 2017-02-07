@@ -39,7 +39,7 @@
            <div class="col-md-3">
              <a class="link_color" href="utroba_cave.php">
                     <div class="card">
-                  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата">
+                <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата"></div>
                   <div class="back"><strong><?= UTROBA;?></strong></div>
                   </div>
                   <div class="card-block">
