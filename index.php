@@ -10,7 +10,7 @@
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
 
-            <h1 class="custom-div zoomIn"><?= WELCOME;?></h1>
+            <div class="zoomIn"><h1 class="custom-div"><?= WELCOME;?></h1></div>
             <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
           <span class="glyphicon glyphicon-info-sign"></span>
      </a>
