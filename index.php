@@ -39,8 +39,8 @@
            <div class="col-md-3">
              <a class="link_color" href="utroba_cave.php">
                     <div class="card">
-                <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt=">Пещера утробата"></div>
-                  <div class="back"><img src="assets/img/utroba_cave1.jpg" class="img-responsive" alt="Jimmy Eat World"></div>
+                <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
+                  <div class="back"><img src="assets/img/utroba_cave1.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
                   </div>
                   <div class="card-block">
                     <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
@@ -51,7 +51,8 @@
            <div class="col-md-3">
              <a class="link_color" href="dam_wall.php">
              <div class="card">
-                <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали" > </div>
+                <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
+                <div class="back"><img src="assets/img/dam_wall1.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>"></div>
                    </div>
                    <div class="card-block">
                      <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
