@@ -9,7 +9,6 @@
           <div class="row">
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
-            <div id="myclock"></div>
             <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
             <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
           <span class="glyphicon glyphicon-info-sign"></span>

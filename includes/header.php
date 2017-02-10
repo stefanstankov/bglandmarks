@@ -40,7 +40,7 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
 
-<body class="index-page" onload="Timerstart();>
+<body class="index-page">
 		<div class="navbar-wrapper">
 		 <div class="container custom-contss">
  		 	<nav class="navbar navbar-inverse navbar-static-top custom-navss">
