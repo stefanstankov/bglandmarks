@@ -87,4 +87,29 @@ $(document).ready(function(){
   });
 });
 </script>
+<script>
+var clock;
+
+function Timerstart(){
+clock = setInterval("DisplayTime();", 1000);
+}
+
+function DisplayTime(){
+
+var d = new Date();
+var CurrTime = (d.getHours()<10) ? "0" : "";
+CurrTime += d.getHours();
+CurrTime += (d.getMinutes() < 10) ? ":0" : ":";
+CurrTime += d.getMinutes();
+CurrTime += (d.getSeconds() < 10) ? ":0" : ":";
+CurrTime += d.getSeconds();
+document.getElementById("myclock").innerHTML = CurrTime;
+
+}
+
+function Timerstop(){
+clearInterval(clock);
+}
+
+</script>
 </html>

@@ -40,7 +40,7 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
 
-<body class="index-page">
+<body class="index-page" onload="Timerstart();>
 		<div class="navbar-wrapper">
 		 <div class="container custom-contss">
  		 	<nav class="navbar navbar-inverse navbar-static-top custom-navss">
@@ -73,6 +73,7 @@ ini_set('display_errors', 1);
 							<li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
 							 <li><a href='?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
 							 	 <li><a href='?language=en'><img src="/assets/img/en_new.png"/></a></li>
+								 <li id="myclock"></li>
 						 </ul>
 					 </div>
 				 </div>
