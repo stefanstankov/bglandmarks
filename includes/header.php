@@ -40,7 +40,7 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
 
-<body class="index-page" onUnload="aler('Do you want to close this page?');">
+<body class="index-page" onUnload="alert('Do you want to close this page?');">
 		<div class="navbar-wrapper">
 		 <div class="container custom-contss">
  		 	<nav class="navbar navbar-inverse navbar-static-top custom-navss">
