@@ -48,7 +48,7 @@
                 </a>
           </div>
            <div class="col-md-3">
-             <a class="link_color" href="dam_wall.php">
+             <a class="link_color" href="dam_wall.php" onMouseOver="alert('hello!');">
              <div class="card">
                 <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
                 <div class="back"><img src="assets/img/dam_wall1.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>"></div>
