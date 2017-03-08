@@ -56,11 +56,11 @@ ini_set('display_errors', 1);
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
 						 <ul class="nav navbar-nav navbar-right">
-							 <li><a>
+							 <li><a
 								<form action="" method="post">
 									<input type="text" name"search" placeholder="Search for landmarks" />
 									<input type="submit" value=">>" />
-							 </form>
+							 </form>>
 						 </a></li>
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
 							 <li class="dropdown">
