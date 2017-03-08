@@ -59,10 +59,9 @@ ini_set('display_errors', 1);
 							 <li class="custom-search">
 								<form action="" method="post">
 									<input type="text" name"search" placeholder="Search for landmarks" />
-									<a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
+									<a href="#" type="button" class="btn btn-custom">
 			          <span class="glyphicon glyphicon-search"></span>
 			     </a>
-									<input type="submit" value=">>" />
 							 </form>
 						 </li>
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
