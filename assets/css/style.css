@@ -275,9 +275,9 @@ width:250px;
   transform: rotateY(180deg);
 }
 
-.custom-search{
-
-
+.glyphicon glyphicon-search{
+  color: #000;
+  font-size: 24px;
 }
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
