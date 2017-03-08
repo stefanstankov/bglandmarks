@@ -14,7 +14,7 @@
           <span class="glyphicon glyphicon-info-sign"></span>
      </a>
       <form action="" method="post">
-        <input type="text" name"search" placeholder="Search for landmarks" />
+        <input type="text" class="custom-search" name"search" placeholder="Search for landmarks" />
         <a href="#" type="button" class="btn btn-custom">
       <span class="glyphicon glyphicon-search"></span>
  </a>
