@@ -58,7 +58,7 @@ ini_set('display_errors', 1);
 						 <ul class="nav navbar-nav navbar-right">
 							 <li class="custom-search">
 								<form action="" method="post">
-									<input type="text" name"search" placeholder="Search for landmarks" />
+									<input type="text" name"search" placeholder="Search for landmarks"><span class="glyphicon glyphicon glyphicon-search"></span></input>
 									<input type="submit" value=">>" />
 							 </form>
 						 </li>
