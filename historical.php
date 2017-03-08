@@ -3,6 +3,26 @@
 ?>
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color container">
+      <div class="row">
+           <div class="col-md-12 custom_jumbo">
+      <div class="jumbotron">
+        <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
+        <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
+      <span class="glyphicon glyphicon-info-sign"></span>
+ </a>
+  <form action="" method="post">
+    <input type="text" class="custom-search" name"search" placeholder="Search for landmarks" />
+    <a href="#" type="button" class="btn btn-custom">
+  <span class="glyphicon glyphicon-search"></span>
+</a>
+ </form>
+
+    <div id="demo" class="collapse">
+    <?= ABOUT_BG;?>
+    </div>
+  </div>
+  </div>
+  </div>
           <h2><?= HISTORICAL;?></h2>
               <div class="row">
         <div class="col-md-4">
