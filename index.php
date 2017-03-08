@@ -13,6 +13,13 @@
             <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
           <span class="glyphicon glyphicon-info-sign"></span>
      </a>
+      <form action="" method="post">
+        <input type="text" name"search" placeholder="Search for landmarks" />
+        <a href="#" type="button" class="btn btn-custom">
+      <span class="glyphicon glyphicon-search"></span>
+ </a>
+     </form>
+
         <div id="demo" class="collapse">
         <?= ABOUT_BG;?>
         </div>

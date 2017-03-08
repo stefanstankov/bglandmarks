@@ -56,14 +56,6 @@ ini_set('display_errors', 1);
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
 						 <ul class="nav navbar-nav navbar-right">
-							 <li class="custom-search">
-								<form action="" method="post">
-									<input type="text" name"search" placeholder="Search for landmarks" />
-									<a href="#" type="button" class="btn btn-custom">
-			          <span class="glyphicon glyphicon-search"></span>
-			     </a>
-							 </form>
-						 </li>
 							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
 							 <li class="dropdown">
 								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
