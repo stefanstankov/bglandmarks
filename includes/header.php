@@ -56,7 +56,7 @@ ini_set('display_errors', 1);
 					 </div>
 					 <div id="navbar" class="navbar-collapse collapse">
 						 <ul class="nav navbar-nav navbar-right">
-							 <li>
+							 <li class="custom-search">
 								<form action="" method="post">
 									<input type="text" name"search" placeholder="Search for landmarks" />
 									<input type="submit" value=">>" />
