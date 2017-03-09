@@ -327,6 +327,9 @@ width:250px;
   #searchBar{
       width: 200px;
   }
+  #searchBar{
+    border-right: none;
+  }
   .btn-custom{margin-top:13px; border:none;}
   .btn-custom:hover {border:none;}
   .btn-custom:active {border:none;}
