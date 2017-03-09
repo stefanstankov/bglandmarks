@@ -274,12 +274,6 @@ width:250px;
   text-align: center;
   transform: rotateY(180deg);
 }
-
-.glyphicon-search:before{
-  color: #000;
-  font-size: 24px;
-}
-
 #searchBar{
   border: 1px solid #000000;
   padding: 10px;
