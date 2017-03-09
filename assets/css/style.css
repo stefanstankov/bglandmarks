@@ -282,6 +282,28 @@ width:250px;
 .custom-search{
     font-size: 137%;
 }
+
+#searchBar{
+  border: 1px solid #000000;
+  padding: 10px;
+  outline: none;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#searchBtn{
+  border: 1px solid #000000;
+  padding: 10px;
+  background: #f1d829;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+
+}
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
