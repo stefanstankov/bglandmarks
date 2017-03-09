@@ -14,8 +14,7 @@
           <span class="glyphicon glyphicon-info-sign"></span>
      </a>
       <form action="" method="post">
-        <input type="text" id="searchBar" name"search" placeholder="Search for landmarks" />
-        <input type="submit" id="searchBtn" value="Go!" />
+        <input type="text" id="searchBar" name"search" placeholder="Search for landmarks" /><input type="submit" id="searchBtn" value="Go!" />
      </form>
 
         <div id="demo" class="collapse">
