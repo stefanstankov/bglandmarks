@@ -87,9 +87,11 @@ $(document).ready(function(){
   });
 
   $('input#searchBar').keyup(function () {
-              var str = $(this).val();
-              setTimeout(function(){ alert(str); }, 3000);
-          });
+            setTimeout(function(){
+			var str = $(this).val();
+			alert(str);
+			}, 3000);
+        });
 
 });
 </script>
