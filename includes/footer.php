@@ -85,6 +85,13 @@ $(document).ready(function(){
   $("#demo").on("show.bs.collapse", function(){
     $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Read less');
   });
+
+  $('input#searchBar').keyup(function () {
+              var str = $(this).val();
+              setTimeout(function(){ alert(str); }, 3000);
+          });
+
 });
 </script>
+
 </html>
