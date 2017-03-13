@@ -96,7 +96,8 @@ $(document).ready(function(){
 {
   if(landmarks[i].landmark.title == str)
   {
-    results = (results +'<hr>'+ landmarks[i].landmark.link);
+    the_lmrk = (landmarks[i].landmark.link);
+    results = (results +'<hr>'+ the_lmrk);
   }
 }}, 3000);
 
