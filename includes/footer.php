@@ -88,18 +88,24 @@ $(document).ready(function(){
   });
 
   $('input#searchBar').keyup(function () {
-    var rrr = "";
+
     if($('input#searchBar').val() != ''){
-              setTimeout(function(){var str = $('input#searchBar').val();
+              setTimeout(function(){
+				  var rrr = "";
+				  var str = $('input#searchBar').val();
               for(var i = 0; i < landmarks.length; i++)
 {
   if(landmarks[i].landmark.title == str)
   {
      rrr = (landmarks[i].landmark.link);
   }
-}}, 3000);
+}
 
 alert(rrr);
+
+}, 3000);
+
+
 }
           });
 });
