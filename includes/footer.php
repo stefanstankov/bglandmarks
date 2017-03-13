@@ -95,7 +95,7 @@ $(document).ready(function(){
   {
     alert(landmarks[i].landmark.link);
   } else{
-    aler('NQMA BRAT');
+    alert('NQMA BRAT');
   }
 }}, 3000);
           });
