@@ -57,6 +57,7 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="/assets/js/ie-emulation-modes-warning.js"></script>
 <script src="/assets/js/"></script>
+<script type="text/javascript" charset="UTF-8" src="landmarks.json">
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
