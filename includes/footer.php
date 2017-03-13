@@ -90,16 +90,17 @@ $(document).ready(function(){
   $('input#searchBar').keyup(function () {
 
     if($('input#searchBar').val() != ''){
+      var results='';
               setTimeout(function(){var str = $('input#searchBar').val();
               for(var i = 0; i < landmarks.length; i++)
 {
   if(landmarks[i].landmark.title == str)
   {
-    alert(landmarks[i].landmark.link);
-  } else{
-    alert('NQMA BRAT');
+    results = results +'<hr>'+ (landmarks[i].landmark.link);
   }
 }}, 3000);
+
+ $('body').append(results);
 }
           });
 });
