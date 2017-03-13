@@ -95,11 +95,11 @@ $(document).ready(function(){
 {
   if(landmarks[i].landmark.title == str)
   {
-    alert(landmarks[i].landmark.link);
-  } else{
-    alert('NQMA BRAT');
+    rrr += (landmarks[i].landmark.link);
   }
 }}, 3000);
+
+alert(rrr);
 }
           });
 });
