@@ -88,14 +88,14 @@ $(document).ready(function(){
   });
 
   $('input#searchBar').keyup(function () {
-
+    var rrr = "";
     if($('input#searchBar').val() != ''){
               setTimeout(function(){var str = $('input#searchBar').val();
               for(var i = 0; i < landmarks.length; i++)
 {
   if(landmarks[i].landmark.title == str)
   {
-    var rrr += (landmarks[i].landmark.link);
+     rrr += (landmarks[i].landmark.link);
   }
 }}, 3000);
 
