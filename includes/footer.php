@@ -95,7 +95,7 @@ $(document).ready(function(){
 {
   if(landmarks[i].landmark.title == str)
   {
-    rrr += (landmarks[i].landmark.link);
+    var rrr += (landmarks[i].landmark.link);
   }
 }}, 3000);
 
