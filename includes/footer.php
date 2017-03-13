@@ -88,11 +88,14 @@ $(document).ready(function(){
   });
 
   $('input#searchBar').keyup(function () {
-              setTimeout(function(){var str = $('input#searchBar').val(); for(var i = 0; i < landmarks.length; i++)
+              setTimeout(function(){var str = $('input#searchBar').val();
+              for(var i = 0; i < landmarks.length; i++)
 {
   if(landmarks[i].landmark.title == str)
   {
     alert(landmarks[i].landmark.link);
+  } else{
+    aler('NQMA BRAT');
   }
 }}, 3000);
           });
