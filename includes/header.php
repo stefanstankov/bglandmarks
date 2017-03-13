@@ -38,6 +38,7 @@ ini_set('display_errors', 1);
 	<link href="/assets/css/style.css" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/site.css" />
 	<link rel="stylesheet" href="assets/css/normalize.css" />
+	<link rel="stylesheet" href="landmarks.json" />
 </head>
 
 <body onunload="alert('Do you want to close this page?';)" class="index-page">

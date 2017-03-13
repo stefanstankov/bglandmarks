@@ -1,71 +1,72 @@
- {"landmarks":{
+ landmarks =
 
-"utroboa_cave":{
+ [
+
+{"landmark":{
 
 "title" : "Utroba Cave",
 "link" : "http://www.bglandmarks.com/utroba_cave.php"
 
-},
+}},
 
-"stone_mushrooms" :{
+{"landmark" :{
 
   "title" : "The Stone Mushrooms",
   "link" : "http://www.bglandmarks.com/stone_mushrooms.php"
-},
+}},
 
-"eagle_rocks" :{
+{"landmark" :{
 
   "title" : "Eagle Rocks",
   "link" : "http://www.bglandmarks.com/eagle_rocks.php"
-},
+}},
 
-"swan_village" :{
+{"landmark" :{
 
   "title" : "Swan Village",
   "link" : "http://www.bglandmarks.com/swan_village.php"
-},
+}},
 
-"petrified_forest" :{
+{"landmark" :{
 
   "title" : "The Petrified Forest",
   "link" : "http://www.bglandmarks.com/forest.php"
-},
+}},
 
-"museum" :{
+{"landmark" :{
 
   "title" : "Regional Museum of History, Kardzhali",
   "link" : "http://www.bglandmarks.com/forest.php"
-},
+}},
 
-"statue" :{
+{"landmark" :{
 
   "title" : "The Statue of Orpheus",
   "link" : "http://www.bglandmarks.com/statue.php"
-},
+}},
 
-"kardzhali_dam" :{
+{"landmark" :{
 
   "title" : "Kardzhali Dam",
   "link" : "http://www.bglandmarks.com/dam_wall.php"
-},
+}},
 
-"bridge" :{
+{"blandmark" :{
 
   "title" : "The Devil's Bridge",
   "link" : "http://www.bglandmarks.com/devil_bridge.php"
-},
+}},
 
-"ustra" :{
+{"landmark" :{
 
   "title" : "Ustra Medieval Fortress",
   "link" : "http://www.bglandmarks.com/ustra.php"
-},
+}},
 
-"perperikon" :{
+{"landmark" :{
 
   "title" : "Perperikon Archeological Complex",
   "link" : "http://www.bglandmarks.com/perperikon.php"
-}
+}}
 
- }
- }
+ ]
