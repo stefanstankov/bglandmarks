@@ -92,17 +92,19 @@ $(document).ready(function(){
     if($('input#searchBar').val() != ''){
       var results='';
               setTimeout(function(){var str = $('input#searchBar').val();
-              for(var i = 0; i < landmarks.length; i++)
+  for(var i = 0; i < landmarks.length; i++)
 {
   if(landmarks[i].landmark.title == str)
   {
-    the_lmrk = (landmarks[i].landmark.link);
-    results = (results +'<hr>'+ the_lmrk);
+    the_lmrk = landmarks[i].landmark.link;
+    results = results +'<hr>'+ the_lmrk;
   }
 }}, 3000);
 
  $('body').append(results);
 }
+
+
           });
 });
 </script>
