@@ -42,44 +42,42 @@ ini_set('display_errors', 1);
 </head>
 
 <body class="index-page">
-		<div class="navbar-wrapper">
-		 <div class="container custom-contss">
- 		 	<nav class="navbar navbar-inverse navbar-static-top custom-navss">
-				 <div class="container">
-					 <div class="navbar-header">
-						 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-							 <span class="sr-only">Toggle navigation</span>
-							 <span class="icon-bar"></span>
-							 <span class="icon-bar"></span>
-							 <span class="icon-bar"></span>
-						 </button>
-						 <a class="navbar-brand" href="http://www.bglandmarks.com"><img src="/assets/img/logo2.png"/><div id="nbt"><span>Bulgarian</span> <span>Landmarks</span></div></a>
-					 </div>
-					 <div id="navbar" class="navbar-collapse collapse">
-						 <ul class="nav navbar-nav navbar-right">
-							 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
-							 <li class="dropdown">
-								 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
-								 <ul class="dropdown-menu">
-									 <li class="dropdown-header"><?= LANDMARKS;?></li>
-									  <li role="separator" class="divider"></li>
-										<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><?= NATURAL;?></a></li>
-										<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><?= ARCHITECTURAL;?></a></li>
-										<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><?= HISTORICAL;?></a></li>
-									 <li role="separator" class="divider"></li>
-									 <li><a href="gallery.php"><?= GALLERY;?></a></li>
-								 </ul>
-							 </li>
-							<li><a href="#" class="btn hidden-xs" id="menu-toggle"><?= QL;?></a></li>
-							<li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
-							 <li><a href='?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
-							 	 <li><a href='?language=en'><img src="/assets/img/en_new.png"/></a></li>
+	<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			 <a class="navbar-brand" href="http://www.bglandmarks.com"><img src="/assets/img/logo2.png"/><div id="nbt"><span>Bulgarian</span> <span>Landmarks</span></div></a>
+		</div>
+		<div id="navbar" class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+					 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
+					 <li class="dropdown">
+						 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
+						 <ul class="dropdown-menu">
+							 <li class="dropdown-header"><?= LANDMARKS;?></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><?= NATURAL;?></a></li>
+								<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><?= ARCHITECTURAL;?></a></li>
+								<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><?= HISTORICAL;?></a></li>
+							 <li role="separator" class="divider"></li>
+							 <li><a href="gallery.php"><?= GALLERY;?></a></li>
 						 </ul>
-					 </div>
-				 </div>
-			 </nav>
-		 </div>
-	 </div>
+					 </li>
+					<li><a href="#" class="btn hidden-xs" id="menu-toggle"><?= QL;?></a></li>
+					<li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
+					 <li><a href='?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
+						 <li><a href='?language=en'><img src="/assets/img/en_new.png"/></a></li>
+				 </ul>
+				</li>
+			</ul>
+		</div><!--/.nav-collapse -->
+	</div>
+</nav>
 <div id="wrapper" class="hidden-xs custom-color">
 <div id="sidebar-wrapper">
 <ul class="list-group">
