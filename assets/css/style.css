@@ -72,8 +72,8 @@
 
 }
 
-.navbar-default li a {
-    color : #fff;
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
 }
 .article-color{
   background-color: #fff;
