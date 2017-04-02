@@ -10,7 +10,7 @@
       <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
       <li><a href="#">Back to top</a></li>
     </ul>
-    <ul class="footer-ul list-unstyled text-left">
+    <ul class="footer-ul list-unstyled text-left align-right">
     <li><strong><h2><?= CONTACTS;?></h2></strong></li>
     <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
     <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
