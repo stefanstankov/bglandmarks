@@ -55,7 +55,6 @@
              <a class="link_color" href="dam_wall.php">
              <div class="card">
                 <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
-                <div class="back"><img src="assets/img/dam_wall1.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>"></div>
                    </div>
                    <div class="card-block">
                      <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
@@ -67,7 +66,6 @@
              <a  class="link_color" href="ustra.php">
                <div class="card">
                <div class="side"><img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>"></div>
-               <div class="back"><img src="assets/img/ustra1.jpg" class="img-responsive" alt="<?= USTRA;?>"></div>
                  </div>
                  <div class="card-block">
                    <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
@@ -79,7 +77,6 @@
              <a  class="link_color" href="stone_mushrooms.php">
                <div class="card">
             <div class="side"><img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>"></div>
-            <div class="back"><img src="assets/img/stone_mushrooms2.jpg" class="img-responsive" alt="<?= STONE;?>"></div>
                  </div>
                  <div class="card-block">
                    <h3 class="card-title"><strong><?= STONE;?></strong></h3>
