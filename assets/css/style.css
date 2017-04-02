@@ -70,7 +70,7 @@
 .navbar-default{
   background-color:#79589F;
 }
-.navbar-inverse .navbar-nav > li > a{
+.navbar-default > li > a{
   color: #fff!important;
 }
 .navbar-inverse .navbar-brand{
