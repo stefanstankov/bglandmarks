@@ -171,7 +171,7 @@ background-color: #e5e5e5;
 .list-group-item:first-child{
   margin-top: -14px;
 }
-.footer-ul {padding-left:0px; margin-left:2px; float: left;}
+.footer-ul {padding-left:0px; margin-left:2px; float: left;margin-right: 40px;}
 .footer-ul li { line-height:29px;font-size:12px;}
 .footer-ul li a { color:#000;}
 .footer-ul i { margin-right:10px;}
