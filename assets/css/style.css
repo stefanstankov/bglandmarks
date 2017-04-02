@@ -201,6 +201,7 @@ background-color: #e5e5e5;
 }
 .navbar-nav>li>a:active{
   color : #fff!important;
+  background-color: #79589F!important;
 }
   li.active{
   text-align: center solid black;
