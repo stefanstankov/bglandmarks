@@ -199,7 +199,7 @@ background-color: #e5e5e5;
       padding-top: 5px;
 }
 
-#nbt:hover{
+#nbt span:hover{
     color: #fff;
 }
 
