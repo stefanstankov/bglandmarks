@@ -199,7 +199,9 @@ background-color: #e5e5e5;
 .navbar-nav>li>a:hover{
   color : #fff!important;
 }
-
+.navbar-nav>li>a:active{
+  color : #fff!important;
+}
   li.active{
   text-align: center solid black;
   font-size: 14px;
