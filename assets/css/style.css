@@ -279,7 +279,7 @@ width:250px;
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .index-page{
-  background-color: #49424d;
+  background-color: #fff;
 /*  background-image: url("../img/retina_wood.png");*/
 }
 }
