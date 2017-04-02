@@ -69,12 +69,7 @@
 }
 .navbar-default{
   background-color:#79589F;
-}
-.navbar-default > li > a{
-  color: #fff!important;
-}
-.navbar-inverse .navbar-brand{
-  color:#fff!important;
+  color : #fff;
 }
 
 .article-color{
