@@ -8,7 +8,7 @@
     <li><i class="fa fa-envelope"></i><?= MAIL;?>: bglandmarks@gmail.com</li>
       <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
     </ul>
-    <ul class="footer-ul list-unstyled text-left pull-right mobile-list">
+    <ul class="footer-ul list-unstyled text-left">
     <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
     <li><a href="#">Back to top</a></li>
   </ul>
