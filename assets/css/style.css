@@ -196,7 +196,9 @@ background-color: #e5e5e5;
     color: #fff;
 }
 
-/* toggle menu*/
+.navbar-default .navbar-brand :hover {
+    color: #fff;
+}
 
   li.active{
   text-align: center solid black;
