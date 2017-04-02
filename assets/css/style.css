@@ -202,7 +202,9 @@ background-color: #e5e5e5;
 #nbt span:hover{
     color: #fff;
 }
-
+#nbt span:focus{
+    color: #fff;
+}
 .navbar-default .navbar-brand {
     color: #fff;
 }
