@@ -9,6 +9,8 @@
       <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
       <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
     </ul>
+    <p class="pull-right">&copy; <strong class="co">Bulgarian Landmarks</strong></p>
+    <p class="pull-right"><a href="#">Back to top</a></p>
       </div>
       </div>
     </footer>
