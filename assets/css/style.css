@@ -196,8 +196,8 @@ background-color: #e5e5e5;
     color: #fff;
 }
 
-.navbar-default .navbar-brand li :hover {
-    color: #fff;
+.navbar-nav>li>a : hover{
+  color : #fff;
 }
 
   li.active{
