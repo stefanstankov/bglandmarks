@@ -79,10 +79,6 @@
   background-color: #fff;
 }
 
-footer hr{
-  font-size: 50px;
-  position: absolute;
-}
 
 #map {
   min-height: 370px;
@@ -93,7 +89,6 @@ footer hr{
 
 .footer {
   position: absolute;
-  bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
