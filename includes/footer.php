@@ -10,7 +10,7 @@
       <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
     </ul>
     <p class="pull-right">&copy; <strong class="co">Bulgarian Landmarks</strong></p>
-    <p class="pull-right"><a href="#">Back to top</a></p>
+    <p class="pull-right"><a href="#">Back to top</a></p><br>
       </div>
       </div>
     </footer>
