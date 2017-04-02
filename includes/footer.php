@@ -1,5 +1,6 @@
 <footer class="footer footer-color">
-  <div class="container footer-color">
+  <div class="cunteiner-fluid footer-color">
+  <div class="container ">
       <ul class="footer-ul list-unstyled text-left">
       <li><strong><h2><?= CONTACTS;?></h2></strong></li>
       <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
@@ -8,6 +9,7 @@
       <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
       <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
     </ul>
+      </div>
       </div>
     </footer>
 <!-- Sart Modal -->
