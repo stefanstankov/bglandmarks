@@ -1,5 +1,5 @@
-<footer class="footer">
-  <div class="container-fluid">
+<footer class="footer footer-color">
+  <div class="container footer-color">
       <ul class="footer-ul list-unstyled text-left">
       <li><strong><h2><?= CONTACTS;?></h2></strong></li>
       <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>

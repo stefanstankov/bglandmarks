@@ -92,10 +92,13 @@
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #e5e5e5;
   color:#000;
 }
 
+.footer-color{
+
+    background-color: #cdddeb;
+}
 .link_color{
   color: #000;
 }
