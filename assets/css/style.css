@@ -210,6 +210,10 @@ background-color: #e5e5e5;
   color : #fff!important;
   background-color: #79589F!important;
 }
+.navbar-nav>li>a:focus{
+  color : #fff!important;
+  background-color: #79589F!important;
+}
   li.active{
   text-align: center solid black;
   font-size: 14px;
