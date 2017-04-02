@@ -97,7 +97,7 @@
 
 .footer-color{
 
-    background-color: #cdddeb;
+    background-color: #fff;
 }
 .link_color{
   color: #000;
@@ -280,7 +280,7 @@ width:250px;
 @media only screen and (min-width : 992px) {
   .index-page{
   background-color: #49424d;
-  background-image: url("../img/retina_wood.png");
+/*  background-image: url("../img/retina_wood.png");*/
 }
 }
 @media (min-width: 992px) {
