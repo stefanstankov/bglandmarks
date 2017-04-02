@@ -59,43 +59,7 @@
   padding-bottom: 40px;
 
 }
-.navbar-wrapper {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 20;
-}
 
-/* Flip around the padding for proper display in narrow viewports */
-.navbar-wrapper > .container {
-  padding-right: 0;
-  padding-left: 0;
-}
-.navbar-wrapper .navbar {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-.navbar-wrapper .navbar .container {
-  width: auto;
-}
-
-  .navbar-wrapper .container {
-    padding-right: 15px;
-    padding-left: 15px;
-  }
-  .navbar-wrapper .navbar {
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-.navbar-nav li a {
-  line-height: 23px!important;
-}
-  /* The navbar becomes detached from the top, so we round the corners */
-  .navbar-wrapper .navbar {
-    border-radius: 4px;
-  }
   .featurette-heading {
     font-size: 50px;
   }
@@ -103,7 +67,7 @@
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
-nav .navbar.navbar-default.navbar-fixed-top{
+.navbar-default{
   background-color:#79589F;
 }
 .navbar-inverse .navbar-nav > li > a{
