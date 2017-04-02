@@ -288,7 +288,7 @@ width:250px;
   .btn-custom:active {border:none;}
   #nbt{margin-top: -13px;}
   #nbt span {display: block; font-size: 15px;}
-  .footer-ul {padding-left:0px; margin-left:2px; margin-right:40px;}
+  .footer-ul {padding-left:0px; margin-left:2px; margin-right:40px!important;}
   .footer-ul li { line-height:29px;font-size:12px; left: 0;}
   .footer-ul i { margin-right:10px;}
   .footer-ul li a { color:#000;}
