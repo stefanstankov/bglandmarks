@@ -18,6 +18,8 @@
      </form>
 
         <div id="demo" class="collapse">
+          <br>
+          <br>
           <table class="table table-striped table-responsive">
   <thead>
     <tr>
