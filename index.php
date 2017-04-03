@@ -10,9 +10,6 @@
                <div class="col-md-12 custom_jumbo">
           <div class="jumbotron">
             <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
-            <a href="#" type="button" class="btn btn-custom" data-toggle="collapse" data-target="#demo">
-          <span class="glyphicon glyphicon-info-sign"></span>
-     </a>
       <form action="" method="post">
         <input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
      </form>
