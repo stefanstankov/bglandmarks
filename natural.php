@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-		<div class="section section-basic text-center article-color container">
+		<div class="text-center container">
       <div class="jumbotron">
         <div class="container">
         <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
