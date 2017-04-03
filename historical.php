@@ -3,9 +3,8 @@
 ?>
    	<?php	require 'includes/header.php';?>
 		<div class="section section-basic text-center article-color container">
-      <div class="row">
-           <div class="col-md-12 custom_jumbo">
       <div class="jumbotron">
+        <div class="container">
         <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
   <form action="" method="post">
     <input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
@@ -53,7 +52,6 @@
 </tbody>
 </table>
     </div>
-  </div>
   </div>
   </div>
           <h2><?= HISTORICAL;?></h2>
