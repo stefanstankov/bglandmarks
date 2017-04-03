@@ -7,7 +7,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	<div class="section section-basic text-center article-color container">
           <div class="jumbotron">
-            <div class="container-fluid">
+            <div class="container-fluid jumbotron">
             <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
       <form action="" method="post">
         <input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
