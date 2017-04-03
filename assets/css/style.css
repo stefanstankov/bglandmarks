@@ -274,7 +274,7 @@ width:250px;
 
 }
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
-  text-align: center;
+  text-align: left;
 }
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
