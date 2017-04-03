@@ -78,6 +78,7 @@ ini_set('display_errors', 1);
 		</div><!--/.nav-collapse -->
 	</div>
 </nav>
+<!--
 <div id="wrapper" class="hidden-xs custom-color">
 <div id="sidebar-wrapper">
 <ul class="list-group">
@@ -98,3 +99,4 @@ ini_set('display_errors', 1);
 </ul>
 </div>
 </div>
+-->
