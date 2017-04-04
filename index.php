@@ -18,7 +18,8 @@
                 <div id="map"></div>
             </div>
                 </div>
-                <h2><?= EDITORS_CHOISE;?></h2>
+                </div>
+                <h2 class="text-center"><?= EDITORS_CHOISE;?></h2>
 <div class="container-fluid text-center cf-custom cf-custom-color">
    <div class="container">
 <div class="row">
@@ -91,7 +92,6 @@
             </div>
          <br>
          <br>
-</div>
        <script>
     function initMap() {
       var uluru = {lat: 42.697626, lng: 23.322284};
