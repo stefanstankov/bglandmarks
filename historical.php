@@ -4,7 +4,7 @@
    	<?php	require 'includes/header.php';?>
     <h2><?= HISTORICAL;?></h2>
 
-    	      <div class="container-fluid cf-color">
+    	      <div class="container-fluid cf-color text-center">
               <div class="container">
               <div class="row">
         <div class="col-md-7 pull-left">
@@ -24,7 +24,7 @@
         </div>
        <hr class="featurette-divider">
 
-         <div class="container-fluid">
+         <div class="container-fluid text-center">
            <div class="container">
      <div class="row">
       <div class="col-md-5">
