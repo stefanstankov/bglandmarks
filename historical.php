@@ -3,7 +3,7 @@
 ?>
    	<?php	require 'includes/header.php';?>
 
-    <h2 class="text-center"><?= HISTORICAL;?></h2>
+    <h1 class="text-center"><?= HISTORICAL;?></h1>
 
     	      <div class="container-fluid cf-color text-center">
               <div class="container">
