@@ -7,7 +7,7 @@
           <div class="row featurette">
                   <a class="link_color" href="perperikon.php">
                   <div class="col-md-7">
-                    <h2 class="featurette-heading"><span class="text-muted">Perperikon Archeological Complex / Археологически комплекс Перперикон</span></h2>
+                    <h4 class="featurette-heading"><span class="text-muted">Perperikon Archeological Complex / Археологически комплекс Перперикон</span></h2>
                     <p class="lead"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                   </div>
                   <div class="col-md-5">
@@ -20,7 +20,7 @@
 
                 <div class="row featurette">
                   <div class="col-md-7 col-md-push-5">
-                    <h2 class="featurette-heading"><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span></h2>
+                    <h4 class="featurette-heading"><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span></h2>
                     <p class="lead"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
                   </div>
                   <div class="col-md-5 col-md-pull-7">
