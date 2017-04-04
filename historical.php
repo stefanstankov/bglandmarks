@@ -2,7 +2,8 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-    <h2><?= HISTORICAL;?></h2>
+
+    <h2 class="text-center"><?= HISTORICAL;?></h2>
 
     	      <div class="container-fluid cf-color text-center">
               <div class="container">
