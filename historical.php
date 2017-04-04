@@ -12,7 +12,7 @@
         </div>
         <div class="col-md-5 custom-text">
      <a  class="link_color" href="ustra.php">
-    <h4><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><h4/>
+    <h4><strong><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><strong/><h4/>
   <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </a>
    </div>
@@ -21,7 +21,7 @@
   <div class="row">
   <div class="col-md-5 custom-text">
      <a  class="link_color" href="perperikon.php">
-    <h4><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><h4/>
+    <h4><strong><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><strong>/<h4/>
   <p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </a>
    </div>
