@@ -43,9 +43,7 @@
 .fa-home:before{
   margin-right: 5px!important;
 }
-.glyphicon-info-sign {
-    margin-bottom: 20px;
-}
+
  .co{
   padding-left: 5px;
 }
@@ -91,7 +89,6 @@
   }
 
 .footer {
-  border-top-color: #79589F;
   position: absolute;
   width: 100%;
   /* Set the fixed height of the footer here */
@@ -101,7 +98,8 @@
 
 .footer-color{
 
-    background-color: #f9f9f9;
+background-color: #000;
+
 }
 .link_color{
   color: #000;
@@ -171,10 +169,7 @@ buttons.less:13
 .custom-color{
 background-color: #e5e5e5;
 }
-.glyphicon-info-sign{
-  color: #000;
-  font-size: 24px;
-}
+
 .list-group li a{
   color:#000;
 }
@@ -183,7 +178,7 @@ background-color: #e5e5e5;
 }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;margin-right: 100px;}
 .footer-ul li { line-height:29px;font-size:12px;}
-.footer-ul li a { color:#000;}
+.footer-ul li a { color:#fff;}
 .footer-ul i { margin-right:10px;}
 .navbar-brand>img {
    float :left;
