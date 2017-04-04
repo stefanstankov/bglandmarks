@@ -5,7 +5,7 @@
 
     <h1 class="text-center"><?= HISTORICAL;?></h1>
 
-    	      <div class="container-fluid cf-color text-center">
+    	      <div class="container-fluid text-center">
               <div class="container">
               <div class="row">
         <div class="col-md-7 pull-left">
@@ -24,7 +24,7 @@
     </div>
         </div>
 
-         <div class="container-fluid text-center">
+         <div class="container-fluid cf-custom text-center">
            <div class="container">
      <div class="row">
       <div class="col-md-5">

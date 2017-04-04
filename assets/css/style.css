@@ -54,6 +54,7 @@
  }
 
 .index-page{
+  background-color: #f9f9f9;
   margin-top: 36px;
   padding-top: 20px;
   padding-bottom: 40px;
@@ -115,8 +116,7 @@ background-color: #000;
   background-color: #f9f9f9;
 }
 
-.cf-color{
-  background-color: #f9f9f9;
+.cf-custom{
   padding-top: 20px;
   padding-bottom: 15px;
 }
