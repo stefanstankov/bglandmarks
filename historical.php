@@ -5,7 +5,8 @@
     <h2><?= HISTORICAL;?></h2>
 
     	      <div class="container-fluid cf-color">
-              <div class="row conteiner">
+              <div class="container">
+              <div class="row">
         <div class="col-md-7 pull-left">
           <a class="link_color" href="perperikon.php">
           <img src="assets/img/perperikon.jpg" class="img-responsive" alt="Перперикон">
@@ -20,10 +21,12 @@
       </div>
     </div>
     </div>
+        </div>
        <hr class="featurette-divider">
 
          <div class="container-fluid">
-     <div class="row conteiner">
+           <div class="container">
+     <div class="row">
       <div class="col-md-5">
       </div>
         <div class="col-md-7 pull-right">
@@ -37,4 +40,5 @@
       </div>
     </div>
     </div>
+  </div>
         	<?php require 'includes/footer.php' ?>
