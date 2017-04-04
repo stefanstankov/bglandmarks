@@ -23,7 +23,6 @@
     </div>
     </div>
         </div>
-       <hr class="featurette-divider">
 
          <div class="container-fluid text-center">
            <div class="container">
