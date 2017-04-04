@@ -10,7 +10,7 @@
             <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
               </a>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 custom-text">
      <a  class="link_color" href="ustra.php">
     <h4><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><h4/>
   <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
@@ -19,7 +19,7 @@
 </div>
   <hr class="featurette-divider">
   <div class="row">
-  <div class="col-md-5">
+  <div class="col-md-5 custom-text">
      <a  class="link_color" href="perperikon.php">
     <h4><span class="text-muted">Ustra Medieval Fortress / Средновековна крепост Устра</span><h4/>
   <p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
