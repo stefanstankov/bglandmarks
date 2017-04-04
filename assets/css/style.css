@@ -120,6 +120,9 @@ background-color: #000;
   padding-top: 20px;
   padding-bottom: 15px;
 }
+.cf-custom-color{
+  background-color: #3ec7c2;
+}
   .custom_jumbo{
     padding-left: 0!important;
     padding-right: 0!important;

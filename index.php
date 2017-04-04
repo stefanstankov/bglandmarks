@@ -18,56 +18,57 @@
                 <div id="map"></div>
             </div>
                 </div>
-                <hr/>
-                  <h2><?= EDITORS_CHOISE;?></h2>
-                  <hr/>
-          <div class="row">
-           <div class="col-md-3">
-             <a class="link_color" href="utroba_cave.php">
-                    <div class="card">
-                <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
-                  </div>
-                  <div class="card-block">
-                    <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
-                    <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                    </div>
-                </a>
-          </div>
-           <div class="col-md-3">
-             <a class="link_color" href="dam_wall.php">
-             <div class="card">
-                <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
-                   </div>
-                   <div class="card-block">
-                     <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
-                     <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                   </div>
-                   </a>
-          </div>
-           <div class="col-md-3">
-             <a  class="link_color" href="ustra.php">
-               <div class="card">
-               <div class="side"><img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>"></div>
-                 </div>
-                 <div class="card-block">
-                   <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
-                   <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                 </div>
-                 </a>
-           </div>
-           <div class="col-md-3">
-             <a  class="link_color" href="stone_mushrooms.php">
-               <div class="card">
-            <div class="side"><img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>"></div>
-                 </div>
-                 <div class="card-block">
-                   <h3 class="card-title"><strong><?= STONE;?></strong></h3>
-                   <p class="text-center"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                 </div>
-                 </a>
-           </div>
+                <h2><?= EDITORS_CHOISE;?></h2>
+<div class="container-fluid text-center cf-custom cf-custom-color">
+   <div class="container">
+<div class="row">
+<div class="col-md-3">
+  <a class="link_color" href="utroba_cave.php">
+         <div class="card">
+     <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-circle img-responsive" alt="<?= UTROBA;?>"></div>
+       </div>
+       <div class="card-block">
+         <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
+         <p class="text-center"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </div>
-         <hr/>
+     </a>
+</div>
+<div class="col-md-3">
+  <a class="link_color" href="dam_wall.php">
+  <div class="card">
+     <div class="side"><img src="assets/img/dam_wall.jpg" class="img-circle img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
+        </div>
+        <div class="card-block">
+          <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
+          <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        </div>
+        </a>
+</div>
+<div class="col-md-3">
+  <a  class="link_color" href="ustra.php">
+    <div class="card">
+    <div class="side"><img src="assets/img/ustra.jpg" class="img-circle img-responsive" alt="<?= USTRA;?>"></div>
+      </div>
+      <div class="card-block">
+        <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
+        <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </div>
+      </a>
+</div>
+<div class="col-md-3">
+  <a  class="link_color" href="stone_mushrooms.php">
+    <div class="card">
+ <div class="side"><img src="assets/img/stone_mushrooms.jpg" class="img-circle img-responsive" alt="<?= STONE;?>"></div>
+      </div>
+      <div class="card-block">
+        <h3 class="card-title"><strong><?= STONE;?></strong></h3>
+        <p class="text-center"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </div>
+      </a>
+</div>
+</div>
+</div>
+</div>
            <h2><?= INSTA;?></h2>
            <hr/>
          <div class="row">
