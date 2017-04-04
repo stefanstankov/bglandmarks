@@ -70,7 +70,7 @@
 </div>
 </div>
 </div>
-           <h2><?= INSTA;?></h2>
+           <h2 class="text-center"><?= INSTA;?></h2>
            <hr/>
          <div class="row">
                <div class="col-md-3">
