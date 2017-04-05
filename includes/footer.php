@@ -2,7 +2,7 @@
   <div class="cunteiner-fluid footer-color">
   <div class="container ">
       <ul class="footer-ul-1 list-unstyled text-left">
-      <li><strong><h2><?= CONTACTS;?></h2></strong></li>
+      <li><strong><?= CONTACTS;?></strong></li>
       <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
       <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
     <li><i class="fa fa-envelope"></i><?= MAIL;?>: bglandmarks@gmail.com</li>

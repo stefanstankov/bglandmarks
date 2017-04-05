@@ -94,7 +94,8 @@
   position: absolute;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 40px;
+  padding-bottom: 20px;
   color:#fff;
 }
 
@@ -180,14 +181,10 @@ background-color: #e5e5e5;
 .list-group-item:first-child{
   margin-top: -14px;
 }
-.footer-ul-1 {padding-left:0px; margin-left:2px; float: left;margin-right: 100px;color:#fff;}
-.footer-ul-1 li { line-height:1.9;font-size:14px;color:#fff;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;display: inline;}
-.footer-ul-1 li a { color:#fff;}
-.footer-ul-1 li { margin-right:10px;}
-.footer-ul-2 {padding-left:0px; margin-left:2px; float: left;margin-right: 100px;color:#fff;font-family: 'Lato', sans-serif;}
-.footer-ul-2 li { line-height:1.9;font-size:14px;color:#fff;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;display: inline;}
-.footer-ul-2 li a { color:#fff;}
-.footer-ul-2 li { margin-right:10px;}
+.footer-ul {padding-left:0px; margin-left:2px; float: left;margin-right: 100px;color:#fff;}
+.footer-ul li { line-height:1.9;font-size:14px;color:#fff;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;display: inline;}
+.footer-ul li a { color:#fff;}
+.footer-ul li { margin-right:10px;}
 .navbar-brand>img {
    float :left;
    max-height: 33px;
@@ -308,14 +305,10 @@ width:250px;
   }
   #nbt{margin-top: -13px;}
   #nbt span {display: block; font-size: 15px;}
-  .footer-ul-1 {padding-left:0px; margin-left:2px; margin-right:40px!important;}
-  .footer-ul-1 li { line-height:29px;font-size:12px; left: 0;font-family: 'Lato', sans-serif;}
-  .footer-ul-1 i { margin-right:5px;}
-  .footer-ul-1 li a { color:#fff;}
-  .footer-ul-2 {padding-left:0px; margin-left:2px; margin-right:40px!important;}
-  .footer-ul-2 li { line-height:29px;font-size:12px; left: 0;font-family: 'Lato', sans-serif;}
-  .footer-ul-2 i { margin-right:5px;}
-  .footer-ul-2 li a { color:#fff;}
+  .footer-ul {padding-left:0px; margin-left:2px; margin-right:40px!important;}
+  .footer-ul li { line-height:29px;font-size:12px; left: 0;font-family: 'Lato', sans-serif;}
+  .footer-ul i { margin-right:5px;}
+  .footer-ul li a { color:#fff;}
   .navbar-nav li a{color:#fff!important;}
   .dropdown-header{color:#fff!important;}
   .custom_jumbo{
