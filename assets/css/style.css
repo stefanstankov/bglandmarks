@@ -185,9 +185,12 @@ background-color: #e5e5e5;
   margin-top: -14px;
 }
 .footer-ul {padding-left:0px; margin-left:2px; float: left;margin-right: 100px;color:#fff;}
-.footer-ul li { line-height:1.9;font-size:14px;color:#fff;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;display: inline;}
-.footer-ul li a { color:#fff;display: inline;}
+.footer-ul li { line-height:1.9;font-size:14px;color:#fff;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;}
+.footer-ul li a { color:#fff;}
 .footer-ul li { margin-right:10px;}
+.footer-ul-2 li a {
+  color:#fff;
+}
 .navbar-brand>img {
    float :left;
    max-height: 33px;
