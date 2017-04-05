@@ -3,7 +3,7 @@
   <div class="container ">
     <div class="row">
       <div class="col-sm-6">
-    <ul class="footer-ul-1 list-unstyled text-left">
+    <ul class="footer-ul-1 list-unstyled text-left list-inline ">
     <li><strong><h2><?= CONTACTS;?></h2></strong></li>
     <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
     <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
@@ -11,7 +11,7 @@
   </ul>
 </div>
   <div class="col-sm-6">
-  <ul class="footer-ul-2 list-unstyled text-left">
+  <ul class="footer-ul-2 list-unstyled text-left list-inline pull-right">
   <li><strong><h2>Follow</h2></strong></li>
   <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
   <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
