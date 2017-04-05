@@ -96,6 +96,7 @@
   /* Set the fixed height of the footer here */
   height: 40px;
   padding-bottom: 20px;
+  padding-top: 20px;
   color:#fff;
 }
 
@@ -315,6 +316,9 @@ width:250px;
   .footer-ul li { line-height:29px;font-size:12px; left: 0;font-family: 'Lato', sans-serif;}
   .footer-ul i { margin-right:5px;}
   .footer-ul li a { color:#fff;}
+  .footer-ul-2 li a {
+    color:#fff;
+  }
   .navbar-nav li a{color:#fff!important;}
   .dropdown-header{color:#fff!important;}
   .custom_jumbo{
