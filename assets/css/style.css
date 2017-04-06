@@ -7,17 +7,6 @@
   background: none;
 }
 
-.custom-contss  {
-  padding-left: 0;
-  padding-right: 0;
-  background-color:#79589F;
-}
-
-.custom-navss{
-  border-bottom: none !important;
-  margin-bottom: 0 !important;
-}
-
 .fa-wikipedia-w{
   padding-right: 5px;
   padding-left: 1px;
@@ -78,10 +67,6 @@
 .navbar-default .navbar-nav>li>a {
     color: #fff;
 }
-.article-color{
-  background-color: #fff;
-}
-
 
 #map {
   min-height: 370px;
