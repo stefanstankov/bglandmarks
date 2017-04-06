@@ -137,33 +137,6 @@ background-color: #f05759;
   outline:none!important;
   border: none;
 }
-.btn-success{
-  background: #e5e5e5!important;
-  margin-bottom: 25px;
-  color: #000;
-  border-color: #000;
-}
-.btn-success:hover {
-  background-color: #e5e5e5!important;
-  color: #000;
-  border-color: #000;
-}
-.btn-success:active {
-  background-color: #e5e5e5!important;
-  color: #000!important;
-  border-color: #000;
-}
-.btn-danger {
-    color: #fff;
-    background-color: #e5e5e5!important;
-    border-color:#e5e5e5!important;
-}
-buttons.less:13
-.b
-.custom-color{
-background-color: #e5e5e5;
-}
-
 .list-group li a{
   color:#000;
 }
