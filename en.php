@@ -2,11 +2,11 @@
 define('EDITORS_CHOISE', '<span class="text-color">Autor\'s choice</span>');
 define('HOME', 'Home');
 define('CATEGORIES', 'Categories');
-define('LANDMARKS', 'Landmarks');
-define('NATURAL', '<span class="text-color"Natural</span>');
+define('LANDMARKS', '<span class="text-color">Landmarks</span>');
+define('NATURAL', '<span class="text-color">Natural</span>');
 define('HISTORICAL', '<span class="text-color">Historical</span>');
 define('ARCHITECTURAL', '<span class="text-color">Arhitectural</span>');
-define('GALLERY', 'Gallery');
+define('GALLERY', '<span class="text-color">Gallery</span>');
 define('ABOUT_US', 'About us');
 define('CONTACTS', 'Contacts');
 define('COUNTRY', 'Bulgaria');
