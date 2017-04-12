@@ -33,8 +33,8 @@
          <div class="card">
      <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
        </div>
-       <div class="card-block">
-         <h3 class="card-title"><?= UTROBA;?></h3>
+       <div>
+         <h5><?= UTROBA;?></h5>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </div>
      </a>
