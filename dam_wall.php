@@ -27,17 +27,6 @@ ini_set('display_errors', 1);
 <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
 </p>
-
-					<div class="row">
-						<div class="col-md-6">
-						<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z8al6m-BATg"></iframe>
-	</div>
-	      </div>
-	<div class="col-md-6">
-		<div id="map"></div>
-</div>
-</div>
 						<div class="row">
 					<div class="col-md-12">
 					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
@@ -77,6 +66,16 @@ ini_set('display_errors', 1);
 					</table>
 			</div>
 				</div>
+				<div class="row">
+					<div class="col-md-6">
+					<div id="custom_video" class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z8al6m-BATg"></iframe>
+</div>
+			</div>
+<div class="col-md-6">
+	<div id="map"></div>
+</div>
+</div>
 </div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
