@@ -28,7 +28,7 @@ define('USTRA', 'Средновековна крепост Устра');
 define('UTROBA', 'Пещера Утробата');
 define('READ_MORE', 'Научи повече');
 define('MORE_INFO', 'Допълнителна информация');
-define('WELCOME', '<p class="welcome" Добре дошли</p>');
+define('WELCOME', '<p class="welcome text-muted" Добре дошли</p>');
 define('LOCATION', 'Местоположение');
 define('FROM_CATEGORY', 'От категорията');
 define('LANDMARK_NAME', 'Забележителности');
