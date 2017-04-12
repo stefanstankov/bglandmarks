@@ -34,7 +34,7 @@
      <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
        </div>
        <div class="card-block">
-         <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
+         <h3 class="card-title"><?= UTROBA;?></h3>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </div>
      </a>
@@ -45,7 +45,7 @@
      <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
         </div>
         <div class="card-block">
-          <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
+          <h3 class="card-title"><?= Kardzhali_Dam;?></h3>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </div>
         </a>
@@ -56,7 +56,7 @@
     <div class="side"><img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>"></div>
       </div>
       <div class="card-block">
-        <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
+        <h3 class="card-title"><?= USTRA;?></h3>
         <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </a>
@@ -67,7 +67,7 @@
  <div class="side"><img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>"></div>
       </div>
       <div class="card-block">
-        <h3 class="card-title"><strong><?= STONE;?></strong></h3>
+        <h3 class="card-title"><?= STONE;?></h3>
         <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </a>
