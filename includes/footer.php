@@ -1,4 +1,4 @@
-<footer class="footer footer-color">
+<footer class="footer footer-color navbar-fixed-bottom">
   <div class="cunteiner-fluid footer-color">
   <div class="container ">
     <div class="row">
