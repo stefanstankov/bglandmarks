@@ -1,4 +1,4 @@
-<footer class="footer footer-color">
+<footer class="footer footer-color clearfix">
 
   <div class="container ">
     <div class="row">
