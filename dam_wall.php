@@ -27,12 +27,6 @@ ini_set('display_errors', 1);
 <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
 </p>
-						<div class="row">
-					<div class="col-md-12">
-					<div class="fb-comments" data-width="100%" data-numposts="5"></div>
-					<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
-				</div>
-			</div>
 			<div class="row">
 				<div class="col-md-12">
 				<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
@@ -74,6 +68,12 @@ ini_set('display_errors', 1);
 	<li> <a href="https://en.wikipedia.org/wiki/Kardzhali_Reservoir"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Kardzhali Reservoir</a></li>
 	<li> <a href="http://socbg.com/2015/04/%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D1%80-%D0%BA%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0%D0%B9-%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%D1%82%D0%B0-%D0%B2%D0%BE%D0%B4.html">История на язовирната стена</a></li>
 </ol>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="fb-comments" data-width="100%" data-numposts="5"></div>
+<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
 </div>
