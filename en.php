@@ -31,7 +31,7 @@ define('MORE_INFO', 'More information');
 define('WELCOME', '<p class="welcome text-muted"> Welcome</p>');
 define('LOCATION', '<span class="text-color">Location</span>');
 define('FROM_CATEGORY', 'From the category');
-define('LANDMARK_NAME', 'Landmarks');
+define('LANDMARK_NAME', '<span class="text-color">Landmarks</span>');
 define('RANDOM_PICS', '<span class="text-color">From YouTube</span>');
 define('LINKS', 'Links');
 define('QL', 'Quick Links');

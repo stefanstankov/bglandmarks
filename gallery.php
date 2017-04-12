@@ -4,7 +4,7 @@
 ?>
   <link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
-  <div class="section section-basic text-center article-color container">
+  <div class="text-center container">
   <p>
 	   <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
 	   <a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
