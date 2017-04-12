@@ -30,42 +30,30 @@
 <div class="row">
 <div class="col-md-3">
   <a class="link_color" href="utroba_cave.php">
-<img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
+         <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
          <h5><?= UTROBA;?></h5>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
      </a>
 </div>
 <div class="col-md-3">
   <a class="link_color" href="dam_wall.php">
-  <div class="card">
-     <div class="side"><img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" > </div>
-        </div>
-        <div class="card-block">
-          <h3 class="card-title"><?= Kardzhali_Dam;?></h3>
+          <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
+          <h5 <?= Kardzhali_Dam;?></h5>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-        </div>
         </a>
 </div>
 <div class="col-md-3">
   <a  class="link_color" href="ustra.php">
-    <div class="card">
-    <div class="side"><img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>"></div>
-      </div>
-      <div class="card-block">
-        <h3 class="card-title"><?= USTRA;?></h3>
+    <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
+        <h5 <?= USTRA;?></h5>
         <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </div>
       </a>
 </div>
 <div class="col-md-3">
   <a  class="link_color" href="stone_mushrooms.php">
-    <div class="card">
- <div class="side"><img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>"></div>
-      </div>
-      <div class="card-block">
-        <h3 class="card-title"><?= STONE;?></h3>
+<img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
+        <h5 <?= STONE;?></h5>
         <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </div>
       </a>
 </div>
 </div>
