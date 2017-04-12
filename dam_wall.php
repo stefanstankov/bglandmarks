@@ -15,12 +15,33 @@ ini_set('display_errors', 1);
 
 
             <div class="row">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-md-6">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
  								<p><?= DAM_ARTICLE;?></p></a>
 	</div>
           </div>
+					<div class="col-md-6">
+						<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
+						<table class="table">
+							<thead>
+								<tr>
+									<th><?= LANDMARK_NAME;?></th>
+								</tr>
+							</thead>
+							<tbody class="text-left">
+								<tr>
+									<td><a href="museum.php"><?= MUSEUM;?></a></td>
+								</tr>
+									<tr>
+									<td><a href="statue.php"><?= STATUE;?></a></td>
+								</tr>
+								<tr>
+									<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
+							</tr>
+							</tbody>
+							</table>
+					</div>
 					</div>
 					<p>
 <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
@@ -29,25 +50,7 @@ ini_set('display_errors', 1);
 </p>
 			<div class="row">
 				<div class="col-md-12">
-				<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
-				<table class="table">
-					<thead>
-						<tr>
-							<th><?= LANDMARK_NAME;?></th>
-						</tr>
-					</thead>
-					<tbody class="text-left">
-						<tr>
-							<td><a href="museum.php"><?= MUSEUM;?></a></td>
-						</tr>
-							<tr>
-							<td><a href="statue.php"><?= STATUE;?></a></td>
-						</tr>
-						<tr>
-							<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
-					</tr>
-					</tbody>
-					</table>
+
 			</div>
 				</div>
 				<div class="row">
