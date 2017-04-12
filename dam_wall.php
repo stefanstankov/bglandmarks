@@ -95,17 +95,8 @@ ini_set('display_errors', 1);
  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
  </script>
 
-<script>
-
-$(window).load(function() {
-	$('.flexslider').flexslider({
-		animation: "slide",
-		prevText: '<i class="fa fa-chevron-left" aria-hidden="true"></i>',           //String: Set the text for the "previous" directionNav item
-		nextText: '<i class="fa fa-chevron-right" aria-hidden="true"></i>'               //String: Set the text for the "next" directionNav item
-	});
-});
-
-</script>
+ <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
+ <script type="text/javascript" src="/assets/js/jquery.fancybox.js"></script>
 
 
 				<?php require 'includes/footer.php'?>
