@@ -60,21 +60,7 @@ ini_set('display_errors', 1);
 <div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
-			<div class="row">
-				<div class="col-md-12">
 
-			</div>
-				</div>
-				<div class="row">
-					<div class="col-md-6">
-					<div id="custom_video" class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z8al6m-BATg"></iframe>
-</div>
-			</div>
-<div class="col-md-6">
-	<div id="map"></div>
-</div>
-</div>
 </div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
@@ -88,21 +74,3 @@ $(document).ready(function() {
 
 });
 </script>
-			<script>
-	 function initMap() {
-		 var uluru = {lat: 41.660233, lng: 25.284915};
-		 var map = new google.maps.Map(document.getElementById('map'), {
-			 zoom: 12,
-			 scrollwheel:false,
-			 center: uluru
-		 });
-		 var marker = new google.maps.Marker({
-			 position: uluru,
-			 map: map
-		 });
-	 }
- </script>
-
- <script async defer
- src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
- </script>
