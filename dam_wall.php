@@ -13,11 +13,13 @@ ini_set('display_errors', 1);
 
 					<h2><?= Kardzhali_Dam;?></h2>
 			      <hr/>
+						<div class="container">
 						<p>
  <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall.jpg" alt="" /></a>
  <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall1.jpg" alt="" /></a>
  <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall2.jpg" alt="" /></a>
 </p>
+</div>
             <div class="row">
 					<div class="col-md-12">
 						<div class="panel">
@@ -96,8 +98,10 @@ ini_set('display_errors', 1);
  </script>
 
 				<?php require 'includes/footer.php'?>
+
 				<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
 				<script type="text/javascript" src="/assets/js/jquery.fancybox.js"></script>
+
 				<script type="text/javascript">
 				$(document).ready(function() {
 
