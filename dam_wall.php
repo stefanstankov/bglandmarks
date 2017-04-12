@@ -4,14 +4,16 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 	$pageTitle = 'Начало';
-	require 'includes/header.php'
 ?>
-
+<?php require 'includes/header.php' ?>
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 	<h2 class="text-center><?= Kardzhali_Dam;?></h2>
 		<hr/>
 		<div class="text-center container">
+
+
+
 						<p>
  <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall.jpg" alt="" /></a>
  <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall1.jpg" alt="" /></a>
