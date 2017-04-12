@@ -125,8 +125,7 @@ ini_set('display_errors', 1);
 </div>
 </div>
 <div class="container about-container">
-<p><h1 class="weclome"><?= WELCOME;?></h1></p>
-<p class="aboutbg">
+<?= WELCOME;?>
 <?=ABOUT_BG;?>
 </p>
 </div>
