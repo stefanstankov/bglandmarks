@@ -15,13 +15,13 @@ ini_set('display_errors', 1);
 
 
             <div class="row">
-					<div class="col-md-10">
+					<div class="col-md-9">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
  								<p><?= DAM_ARTICLE;?></p></a>
 	</div>
           </div>
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
 						<table class="table">
 							<thead>
@@ -56,6 +56,9 @@ ini_set('display_errors', 1);
 									</tr>
 									<tr>
 										<td><a href="http://socbg.com/2015/04/%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D1%80-%D0%BA%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0%D0%B9-%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0%D1%82%D0%B0-%D0%B2%D0%BE%D0%B4.html">История на язовирната стена</a></td>
+								</tr>
+								<tr>
+									<td><a href="https://www.youtube.com/embed/z8al6m-BATg"><i class="fa fa-youtube" aria-hidden="true"></i><?= Kardzhali_Dam;?></a></td>
 								</tr>
 								</tbody>
 								</table>
