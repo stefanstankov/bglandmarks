@@ -15,13 +15,13 @@ ini_set('display_errors', 1);
 
 
             <div class="row">
-					<div class="col-md-8">
+					<div class="col-md-10">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
  								<p><?= DAM_ARTICLE;?></p></a>
 	</div>
           </div>
-					<div class="col-md-4">
+					<div class="col-md-2">
 						<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
 						<table class="table">
 							<thead>
