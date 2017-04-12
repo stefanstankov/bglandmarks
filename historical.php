@@ -5,7 +5,7 @@
 
 
 
-    	      <div class="container text-center">
+    	      <div class="container text-center about-container welcome">
     <h1 class="text-center"><?= HISTORICAL;?></h1>
     <div class="row">
 <div class="col-md-4">
