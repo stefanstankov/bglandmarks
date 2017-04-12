@@ -76,7 +76,6 @@ ini_set('display_errors', 1);
 </nav>
 <div class="jumbotron">
   <div class="container">
-  <h1 class="custom-div bounceInDown"><?= WELCOME;?></h1>
 <form action="" method="post">
 <input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
 </form>
@@ -124,4 +123,10 @@ ini_set('display_errors', 1);
 </table>
 </div>
 </div>
+</div>
+<div class="container">
+<p><h1><?= WELCOME;?></h1></p>
+<p>
+<?=ABOUT_BG;?>
+</p>
 </div>
