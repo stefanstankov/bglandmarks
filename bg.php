@@ -31,6 +31,7 @@ define('MORE_INFO', 'Допълнителна информация');
 define('WELCOME', '<p class="welcome text-muted" Добре дошли</p>');
 define('LOCATION', '<span class="text-color">Местоположение</span>');
 define('FROM_CATEGORY', 'От категорията');
+define('FROM_YOUTUBE', 'От YouTube');
 define('LANDMARK_NAME', '<span class="text-color">Забележителности</span>');
 define('RANDOM_PICS', '<span class="text-color">От YouTube</span>');
 define('LINKS', 'Линкове по темата');

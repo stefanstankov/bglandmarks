@@ -38,21 +38,21 @@
 <div class="col-md-3">
   <a class="link_color" href="dam_wall.php">
           <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
-          <h5> <?= Kardzhali_Dam;?></h5>
+          <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </a>
 </div>
 <div class="col-md-3">
   <a  class="link_color" href="ustra.php">
     <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
-        <h5> <?= USTRA;?></h5>
+        <h5> <span class="text-color"><?= USTRA;?></span></h5>
         <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </a>
 </div>
 <div class="col-md-3">
   <a  class="link_color" href="stone_mushrooms.php">
 <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
-        <h5> <?= STONE;?></h5>
+        <h5> <span class="text-color"><?= STONE;?></span></h5>
         <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </a>
 </div>
