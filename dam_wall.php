@@ -13,22 +13,11 @@ ini_set('display_errors', 1);
 				<div class="row">
 					<h2><?= Kardzhali_Dam;?></h2>
 			      <hr/>
-					<div class="col-md-8 col-md-offset-2">
-
-							<div class="flexslider">
-							  <ul class="slides">
-							    <li>
-							    	<img src="/assets/img/dam_wall.jpg"/>
-							    </li>
-									<li>
-							    	<img src="/assets/img/dam_wall1.jpg"/>
-							    </li>
-									<li>
-							    	<img src="/assets/img/dam_wall2.jpg"/>
-							    </li>
-							  </ul>
-							</div>
-	</div>
+						<p>
+ <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall.jpg" alt="" /></a>
+ <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall1.jpg" alt="" /></a>
+ <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall2.jpg" alt="" /></a>
+</p>
 					</div>
             <div class="row">
 					<div class="col-md-12">
