@@ -1,5 +1,5 @@
 <footer class="footer footer-color">
-  <div class="cunteiner-fluid footer-color">
+
   <div class="container ">
     <div class="row">
       <div class="col-sm-6">
@@ -22,7 +22,7 @@
 </div>
 </div>
       </div>
-      </div>
+
     </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
