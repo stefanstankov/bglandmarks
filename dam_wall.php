@@ -8,11 +8,11 @@ ini_set('display_errors', 1);
 <?php require 'includes/header.php' ?>
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
-	<h2 class="text-center><?= Kardzhali_Dam;?></h2>
-		<hr/>
+
 		<div class="text-center container">
 
-
+					<h2><?= Kardzhali_Dam;?></h2>
+			      <hr/>
 
 						<p>
  <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/dam_wall.jpg" alt="" /></a>
