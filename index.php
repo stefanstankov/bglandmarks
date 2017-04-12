@@ -35,7 +35,7 @@
        </div>
        <div class="card-block">
          <h3 class="card-title"><strong><?= UTROBA;?></strong></h3>
-         <p class="text-center "><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+         <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
          </div>
      </a>
 </div>
@@ -46,7 +46,7 @@
         </div>
         <div class="card-block">
           <h3 class="card-title"><strong><?= Kardzhali_Dam;?></strong></h3>
-          <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+          <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </div>
         </a>
 </div>
@@ -57,7 +57,7 @@
       </div>
       <div class="card-block">
         <h3 class="card-title"><strong><?= USTRA;?></strong></h3>
-        <p class="text-center"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </a>
 </div>
@@ -68,7 +68,7 @@
       </div>
       <div class="card-block">
         <h3 class="card-title"><strong><?= STONE;?></strong></h3>
-        <p class="text-center"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </a>
 </div>
