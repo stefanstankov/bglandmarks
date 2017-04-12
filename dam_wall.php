@@ -11,9 +11,7 @@ ini_set('display_errors', 1);
 
 		<div class="text-center container">
 
-					<h2><?= Kardzhali_Dam;?></h2>
-			      <hr/>
-
+					<h2><span class="text-color"><?= Kardzhali_Dam;?></span></h2>
 						<p>
  <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
  <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
