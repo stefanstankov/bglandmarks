@@ -12,19 +12,22 @@ ini_set('display_errors', 1);
 		<div class="text-center container">
 
 					<h2><span class="text-color"><?= Kardzhali_Dam;?></span></h2>
-						<p>
- <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
- <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
- <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
-</p>
+
 
             <div class="row">
-					<div class="col-md-12">
+					<div class="col-md-8">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
  								<p><?= DAM_ARTICLE;?></p></a>
 	</div>
           </div>
+					<div class="col-md-4">
+						<p>
+ <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
+ <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
+ <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
+</p>
+					</div>
 					</div>
 					<div class="row">
 						<div class="col-md-6">
@@ -54,7 +57,7 @@ ini_set('display_errors', 1);
 	</div>
 			<div class="row">
 				<div class="col-md-12">
-				<h2><?= FROM_CATEGORY;?></h2>
+				<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
 				<table class="table">
 					<thead>
 						<tr>
