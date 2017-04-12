@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-    	      <div class="container text-center about-container">
+    	      <div class="container text-center group-container">
     <h1 class="welcome"><?= HISTORICAL;?></h1>
     <div class="row">
 <div class="col-md-4">
