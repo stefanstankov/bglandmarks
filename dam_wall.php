@@ -78,6 +78,7 @@ ini_set('display_errors', 1);
 			</div>
 				</div>
 </div>
+<?php require 'includes/footer.php'?>
 			<script>
 	 function initMap() {
 		 var uluru = {lat: 41.660233, lng: 25.284915};
@@ -97,7 +98,7 @@ ini_set('display_errors', 1);
  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
  </script>
 
-				<?php require 'includes/footer.php'?>
+
 
 				<script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
 				<script type="text/javascript" src="/assets/js/jquery.fancybox.js"></script>
