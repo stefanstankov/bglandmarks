@@ -2,8 +2,8 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-		<div class="text-center container about-container welcome">
-      <h2><?= NATURAL;?></h2>
+		<div class="text-center container about-container">
+      <h2 class="welcome"><?= NATURAL;?></h2>
         <div class="row">
     <div class="col-md-4">
       <a class="link_color" href="utroba_cave.php">

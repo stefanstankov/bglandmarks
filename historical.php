@@ -2,11 +2,8 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-
-
-
-    	      <div class="container text-center about-container welcome">
-    <h1 class="text-center"><?= HISTORICAL;?></h1>
+    	      <div class="container text-center about-container">
+    <h1 class="welcome"><?= HISTORICAL;?></h1>
     <div class="row">
 <div class="col-md-4">
 <a class="link_color" href="perperikon.php">
