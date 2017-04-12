@@ -3,7 +3,6 @@
  		require 'includes/header.php';
 ?>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
 
   <div class="section section-basic text-center article-color container">
   <p>
