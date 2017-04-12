@@ -1,27 +1,27 @@
 <footer class="footer footer-color clearfix">
 
-  <div class="container ">
-    <div class="row">
-      <div class="col-sm-6">
-    <ul class="footer-ul-1 list-unstyled text-left list-inline ">
-    <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
-    <small class="text-muted white">|</small>
-    <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
-    <small class="text-muted white">|</small>
-  <li><i class="fa fa-envelope"></i><?= MAIL;?>: bglandmarks@gmail.com</li>
-  </ul>
+<div class="container ">
+  <div class="row">
+    <div class="col-sm-6">
+     <ul class="footer-ul-1 list-unstyled text-left list-inline ">
+      <li><i class="fa fa-map-pin"></i><?= COUNTRY;?></li>
+      <small class="text-muted white">|</small>
+      <li><i class="fa fa-phone"></i> <?= PHONE;?>: +359 899 001 504</li>
+      <small class="text-muted white">|</small>
+      <li><i class="fa fa-envelope"></i><?= MAIL;?>: bglandmarks@gmail.com</li>
+    </ul>
+    </div>
+    <div class="col-sm-6">
+    <ul class="footer-ul-2 list-unstyled text-left list-inline pull-right">
+      <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
+      <small class="text-muted white">|</small>
+      <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
+      <small class="text-muted white">|</small>
+      <li><a href="#">Back to top</a></li>
+    </ul>
+    </div>
+ </div>
 </div>
-  <div class="col-sm-6">
-  <ul class="footer-ul-2 list-unstyled text-left list-inline pull-right">
-  <li><i class="fa fa-instagram"></i><a href="https://www.instagram.com/bglandmarks"><?= INSTAGRAM;?></a></li>
-  <small class="text-muted white">|</small>
-  <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
-  <small class="text-muted white">|</small>
-  <li><a href="#">Back to top</a></li>
-</ul>
-</div>
-</div>
-      </div>
 
     </footer>
 <!-- Sart Modal -->
