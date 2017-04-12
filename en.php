@@ -12,7 +12,7 @@ define('CONTACTS', 'Contacts');
 define('COUNTRY', 'Bulgaria');
 define('PHONE', 'Phone');
 define('MAIL', 'E-mail');
-define('INSTAGRAM', '<p class="text-color">Follow us on Instagram</p>');
+define('INSTAGRAM', 'Follow us on Instagram');
 define('BRIDGE', 'The Devil\'s Bridge');
 define('EAGLE_ROCKS', 'Thracian Cult Complex (Eagle Rocks)');
 define('Kardzhali_Dam', 'Kardzhali Dam');
