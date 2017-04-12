@@ -17,7 +17,6 @@
     <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="Каменните гъби">
       <h5><?= STONE;?></h5>
       <p class="text-center"><a  href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-    </div>
   </a>
   </div>
 <div class="col-md-4">
@@ -27,8 +26,7 @@
       <p class="text-center"><a  href="eagle_rocks.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
   </div>
   </a>
-  </div>
-  </div>
+      </div>
   <div class="row">
     <a class="link_color" href="swan_village.php">
   <div class="col-md-4">
@@ -37,7 +35,6 @@
         <p class="text-center"><a href="swan_village.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
       </a>
-    </div>
     <div class="col-md-4">
       <a class="link_color" href="forest.php">
         <img src="assets/img/main3.jpg" class="img-responsive" alt=<?= FOREST;?>>
