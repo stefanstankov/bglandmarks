@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
  		require 'includes/header.php';
 ?>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
   <div class="section section-basic text-center article-color container">
   <p>
