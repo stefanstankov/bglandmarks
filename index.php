@@ -30,13 +30,9 @@
 <div class="row">
 <div class="col-md-3">
   <a class="link_color" href="utroba_cave.php">
-         <div class="card">
-     <div class="side">  <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>"></div>
-       </div>
-       <div>
+<img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
          <h5><?= UTROBA;?></h5>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-         </div>
      </a>
 </div>
 <div class="col-md-3">
