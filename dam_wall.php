@@ -16,8 +16,8 @@ ini_set('display_errors', 1);
 					<div class="col-md-12">
 	<div id="map"></div>
 </div>
-					<br>
-					<br>
+					</br>
+				</br>
             <div class="row">
 					<div class="col-md-9">
 						<div class="panel">
