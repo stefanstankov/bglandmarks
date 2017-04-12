@@ -41,10 +41,10 @@ ini_set('display_errors', 1);
 							</tr>
 							</tbody>
 							</table>
-							table class="table">
+							<table class="table">
 								<thead>
 									<tr>
-										<th>strong><?= LINKS;?></strong></th>
+										<th><span class="text-color"><?= LINKS;?></span></th>
 									</tr>
 								</thead>
 								<tbody class="text-left">
