@@ -5,6 +5,11 @@
 ?>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<div class="container about-container">
+<?= WELCOME;?>
+<?=ABOUT_BG;?>
+</p>
+</div>
       	<div class="container text-center .cf-custom">
           <div class="row">
             <div class="col-md-6">
