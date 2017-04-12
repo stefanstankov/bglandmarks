@@ -13,6 +13,9 @@ ini_set('display_errors', 1);
 
 					<h2><span class="text-color"><?= Kardzhali_Dam;?></span></h2>
 
+					<div class="col-md-12">
+	<div id="map"></div>
+</div>
 
             <div class="row">
 					<div class="col-md-9">
@@ -99,3 +102,22 @@ $(document).ready(function() {
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+	 function initMap() {
+		 var uluru = {lat: 41.660233, lng: 25.284915};
+		 var map = new google.maps.Map(document.getElementById('map'), {
+			 zoom: 12,
+			 scrollwheel:false,
+			 center: uluru
+		 });
+		 var marker = new google.maps.Marker({
+			 position: uluru,
+			 map: map
+		 });
+	 }
+ </script>
+
+ <script async defer
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZI11DMzBzMJ2xcqjf4oBTk7mhYmwEZ8c&callback=initMap">
+ </script>
