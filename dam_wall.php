@@ -41,7 +41,7 @@ ini_set('display_errors', 1);
 							</tr>
 							</tbody>
 							</table>
-							<ul list-unstyled text-left>
+							<ul class="list-unstyled text-left">
 							<li><strong><?= LINKS;?></strong></li>
 							<li><a href="https://bg.wikipedia.org/wiki/%D0%9A%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8_(%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D1%80)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Кърджали (язовир)</a></li>
 								<li> <a href="https://en.wikipedia.org/wiki/Kardzhali_Reservoir"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Kardzhali Reservoir</a></li>
