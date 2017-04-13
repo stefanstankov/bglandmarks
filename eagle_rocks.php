@@ -72,7 +72,7 @@ ini_set('display_errors', 1);
 <div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
-
+</div>
 </div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>

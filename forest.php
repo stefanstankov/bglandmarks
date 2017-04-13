@@ -64,6 +64,7 @@ ini_set('display_errors', 1);
 </div>
 
 </div>
+</div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.fancybox.js"></script>
