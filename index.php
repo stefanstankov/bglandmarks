@@ -37,7 +37,7 @@
     </div>
     <div class="col-sm-3">
       <div class="thumbnail">
-        <img src="ssets/img/dam_wall.jpg" alt="New York" width="400" height="300">
+        <img src="asets/img/dam_wall.jpg" alt="New York" width="400" height="300">
         <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
