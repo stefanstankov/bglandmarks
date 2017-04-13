@@ -32,11 +32,11 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
         <i class="material-icons">clear</i>
       </button>
-        <h4 class="modal-title"><?= ABOUT_US;?></h4>
+        <h4 class="modal-title"><span class="welcome"><?= ABOUT_US;?></span></h4>
       </div>
       <div class="modal-body">
         <p>
-          <?= ABOUT_US_MESSAGE;?>
+          <span class="text-color1"><?= ABOUT_US_MESSAGE;?></span>
         </p>
       </div>
       <div class="modal-footer">
