@@ -32,7 +32,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
         <i class="material-icons">clear</i>
       </button>
-        <h4 class="modal-title"><span class="welcome"><?= ABOUT_US;?></span></h4>
+        <h4 class="modal-title"><span class="about-custom"><?= ABOUT_US;?></span></h4>
       </div>
       <div class="modal-body">
         <p>
