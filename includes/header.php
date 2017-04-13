@@ -60,7 +60,7 @@ ini_set('display_errors', 1);
 					 <li class="dropdown">
 						 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
 						 <ul class="dropdown-menu">
-							 <li class="dropdown-header"><span class="text-color1"><?= LANDMARKS;?></span></li>
+							 <li class="dropdown-header"><strong><span class="text-color1"><?= LANDMARKS;?></span></strong></li>
 								<li role="separator" class="divider"></li>
 								<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><span class="text-color"><?= NATURAL;?></span></a></li>
 								<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><span class="text-color"><?= ARCHITECTURAL;?></span></a></li>
