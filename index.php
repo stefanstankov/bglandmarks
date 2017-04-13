@@ -45,7 +45,7 @@
                            </div>
                </div>
                </div>
-                <h2>What our customers say</h2>
+                <h2 class="text-center text-color1">What our customers say</h2>
                 <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
                   <!-- Indicators -->
                   <ol class="carousel-indicators">
