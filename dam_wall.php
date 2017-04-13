@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 
 		<div class="text-center container">
 
-					<h2><span class="text-color"><?= Kardzhali_Dam;?></span></h2>
+					<h2><span class="text-color1"><?= Kardzhali_Dam;?></span></h2>
 
 					<div class="col-md-12">
 	<div id="map"></div>

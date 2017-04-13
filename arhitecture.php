@@ -3,7 +3,7 @@
 ?>
 <?php	require 'includes/header.php';?>
 		<div class="text-center container group-container">
-      <h2 class="text-color"><?= ARCHITECTURAL;?></h2>
+      <h2 class="text-color1"><?= ARCHITECTURAL;?></h2>
         <div class="row">
 <div class="col-md-4">
   <a class="link_color" href="museum.php">
