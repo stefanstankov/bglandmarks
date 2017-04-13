@@ -46,24 +46,6 @@ ini_set('display_errors', 1);
 						</tr>
 						</tbody>
 						</table>
-						<table class="table">
-							<thead>
-								<tr>
-									<th><span class="text-color"><?= LINKS;?></span></th>
-								</tr>
-							</thead>
-							<tbody class="text-left">
-								<tr>
-									<td><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8_%D0%B3%D1%8A%D0%B1%D0%B8_(%D0%91%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BB%D0%B0%D1%81%D1%82)"><i class="fa fa-youtube" aria-hidden="true"></i><?= STONE;?></a></td>
-								</tr>
-								<tr>
-									<td><a href="https://www.youtube.com/embed/JdUSBtjT_es"><i class="fa fa-youtube" aria-hidden="true"></i><?= STONE;?></a></td>
-								</tr>
-								<tr>
-									<td><a href="https://en.wikipedia.org/wiki/The_Stone_Mushrooms"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= STONE;?></a></td>
-								</tr>
-							</tbody>
-							</table>
 				</div>
 				</div>
 				<p class="text-left">
