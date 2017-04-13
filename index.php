@@ -26,7 +26,7 @@
                 </div>
                 <!-- Container (Portfolio Section) -->
 <div id="portfolio" class="container-fluid text-center bg-grey">
-<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>br>
+<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2><br>
   <div class="row text-center slideanim">
     <div class="col-sm-4">
       <div class="thumbnail">
