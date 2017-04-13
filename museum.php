@@ -55,16 +55,18 @@ ini_set('display_errors', 1);
 										<td><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9,_%D0%9A%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Регионален исторически музей Кърджали</a></td>
 									</tr>
 										<tr>
-										<td><a href="http://www.kardjali.bg/en/?pid=6,12 ">Regional Museum of History, Kardzhali</a></li>
-			<li> <a href="http://www.rim-kardzhali.bg/">Официален сайт</a></td>
+										<td><a href="http://www.kardjali.bg/en/?pid=6,12 "><?= MUSEUM;?></a></td>
+											</tr>
+											<tr>
+										<a href="http://www.rim-kardzhali.bg/"><?= MUSEUM;?></a></td>
 									</tr>
 								</tbody>
 								</table>
 					</div>
 					</div>
 					<p class="text-left">
-<a class="fancybox" href="/assets/img/museum.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/museum.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/museum1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/museum1.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/museum.jpg" data-fancybox-group="gallery" title="<?= MUSEUM;?>"><img src="/assets/img/thumbs/museum.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/museum1.jpg" data-fancybox-group="gallery" title="<?= MUSEUM;?>"><img src="/assets/img/thumbs/museum1.jpg" alt="" /></a>
 </p>
 <div class="row">
 <div class="col-md-12">

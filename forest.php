@@ -39,7 +39,7 @@ ini_set('display_errors', 1);
 								<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
 							</tr>
 							<tr>
-								<td><<a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></a></td>
+								<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></a></td>
 						</tr>
 						<tr>
 								<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
