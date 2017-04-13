@@ -3,7 +3,7 @@
 ?>
 <?php	require 'includes/header.php';?>
 		<div class="text-center container group-container">
-      <h2 class="text-color1"><?= NATURAL;?></h2>
+      <h1><span class="text-color1"><?= NATURAL;?></span></h1>
         <div class="row">
     <div class="col-md-4">
       <a class="link_color" href="utroba_cave.php">
