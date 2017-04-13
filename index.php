@@ -10,20 +10,41 @@
 <?=ABOUT_BG;?>
 </p>
 </div>
-      	<div class="container text-center .cf-custom">
-          <div class="row">
-            <div class="col-md-6">
-              <h2 class="text-color1"><?= FROM_YOUTUBE;?></h2>
-              <div id="custom_video" class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
-        </div>
-            </div>
-            <div class="col-md-6">
-              <h2 class="text-color1"><?= LOCATION;?></h2>
-                <div id="map"></div>
-            </div>
-                </div>
-              </div>
+<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
+<div class="container-fluid text-center cf-custom cf-custom-colorddd">
+   <div class="container">
+<div class="row">
+<div class="col-md-3">
+  <a class="link_color" href="utroba_cave.php">
+         <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
+         <h5><span class="text-color"><?= UTROBA;?></span></h5>
+         <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+     </a>
+</div>
+<div class="col-md-3">
+  <a class="link_color" href="dam_wall.php">
+          <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
+          <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
+          <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+        </a>
+</div>
+<div class="col-md-3">
+  <a  class="link_color" href="ustra.php">
+    <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
+        <h5> <span class="text-color"><?= USTRA;?></span></h5>
+        <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </a>
+</div>
+<div class="col-md-3">
+  <a  class="link_color" href="stone_mushrooms.php">
+<img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
+        <h5> <span class="text-color"><?= STONE;?></span></h5>
+        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </a>
+</div>
+</div>
+</div>
+</div>
               <h2 class="text-center text-color1"><?= INSTA;?></h2>
               <div class="container .cf-custom">
             <div class="row">
@@ -81,42 +102,21 @@
                     <span class="sr-only">Next</span>
                   </a>
                 </div>
-                <!-- Container (Portfolio Section) -->
-                <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
-                <div class="container-fluid text-center cf-custom cf-custom-colorddd">
-                   <div class="container">
-                <div class="row">
-                <div class="col-md-3">
-                  <a class="link_color" href="utroba_cave.php">
-                         <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
-                         <h5><span class="text-color"><?= UTROBA;?></span></h5>
-                         <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                     </a>
+
+                <div class="container text-center .cf-custom">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <h2 class="text-color1"><?= FROM_YOUTUBE;?></h2>
+                      <div id="custom_video" class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
                 </div>
-                <div class="col-md-3">
-                  <a class="link_color" href="dam_wall.php">
-                          <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
-                          <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
-                          <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                        </a>
-                </div>
-                <div class="col-md-3">
-                  <a  class="link_color" href="ustra.php">
-                    <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
-                        <h5> <span class="text-color"><?= USTRA;?></span></h5>
-                        <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                      </a>
-                </div>
-                <div class="col-md-3">
-                  <a  class="link_color" href="stone_mushrooms.php">
-                <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
-                        <h5> <span class="text-color"><?= STONE;?></span></h5>
-                        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-                      </a>
-                </div>
-                </div>
-                </div>
-                </div>
+                    </div>
+                    <div class="col-md-6">
+                      <h2 class="text-color1"><?= LOCATION;?></h2>
+                        <div id="map"></div>
+                    </div>
+                        </div>
+                      </div>
          <br>
          <br>
        <script>
