@@ -58,7 +58,7 @@ ini_set('display_errors', 1);
 										<td><a href="http://www.kardjali.bg/en/?pid=6,12 "><?= MUSEUM;?></a></td>
 											</tr>
 											<tr>
-										<a href="http://www.rim-kardzhali.bg/"><?= MUSEUM;?></a></td>
+										<td><a href="http://www.rim-kardzhali.bg/"><?= MUSEUM;?></a></td>
 									</tr>
 								</tbody>
 								</table>
