@@ -24,6 +24,7 @@ ini_set('display_errors', 1);
 	<meta name="discription" content="This is a website for Bulgarian landmarks / Това уеб сайт за български забележителности">
 	<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/logo.png">
 	<link rel="icon" type="image/png" href="/assets/img/logo1.png">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto:300&amp;subset=cyrillic" rel="stylesheet">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<title><?php echo $pageTitle; ?> - Bulgarian Landmarks</title>
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
