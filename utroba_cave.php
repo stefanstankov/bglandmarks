@@ -19,12 +19,12 @@ ini_set('display_errors', 1);
 					<div class="row">
 				<div class="col-md-9">
 					<div class="panel">
-						<div class="panel-heading alert-danger"><h3><?=MORE_INFO;?></h3></div>
+						<div class="panel-heading alert-danger"><h3 class="text-color1"><?=MORE_INFO;?></h3></div>
 							<p><?= UTROBA_ARTICLE;?></p></a>
 </div>
 				</div>
 				<div class="col-md-3">
-					<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
+					<h2><span class="text-color1"><?= FROM_CATEGORY;?></span></h2>
 					<table class="table">
 						<thead>
 							<tr>
@@ -49,7 +49,7 @@ ini_set('display_errors', 1);
 						<table class="table">
 							<thead>
 								<tr>
-									<th><span class="text-color"><?= LINKS;?></span></th>
+									<th><span class="text-color1"><?= LINKS;?></span></th>
 								</tr>
 							</thead>
 							<tbody class="text-left">

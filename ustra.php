@@ -24,7 +24,7 @@ ini_set('display_errors', 1);
 </div>
 				</div>
 				<div class="col-md-3">
-					<h2><span class="text-color"><?= FROM_CATEGORY;?></span></h2>
+					<h2><span class="text-color1"><?= FROM_CATEGORY;?></span></h2>
 					<table class="table">
 						<thead>
 							<tr>
@@ -40,7 +40,7 @@ ini_set('display_errors', 1);
 						<table class="table">
 							<thead>
 								<tr>
-									<th><span class="text-color"><?= LINKS;?></span></th>
+									<th><span class="text-color1"><?= LINKS;?></span></th>
 								</tr>
 							</thead>
 							<tbody class="text-left">

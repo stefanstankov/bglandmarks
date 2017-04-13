@@ -3,7 +3,7 @@
 ?>
    	<?php	require 'includes/header.php';?>
     	      <div class="container text-center group-container">
-    <h1 class="text-color"><?= HISTORICAL;?></h1>
+    <h1 class="text-color1"><?= HISTORICAL;?></h1>
     <div class="row">
 <div class="col-md-4">
 <a class="link_color" href="perperikon.php">
