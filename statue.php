@@ -33,7 +33,7 @@ ini_set('display_errors', 1);
 							</thead>
 							<tbody class="text-left">
 								<tr>
-									<td><<a href="museum.php"><?= MUSEUM;?></a></td>
+									<td><a href="museum.php"><?= MUSEUM;?></a></td>
 							</tr>
 							<tr>
 									<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
@@ -58,9 +58,9 @@ ini_set('display_errors', 1);
 					</div>
 					</div>
 					<p class="text-left">
-<a class="fancybox" href="/assets/img/orfei.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/orfei.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/statue1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/statue1.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/statue2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/statue2.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/orfei.jpg" data-fancybox-group="gallery" title="<?= STATUE;?>"><img src="/assets/img/thumbs/orfei.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/statue1.jpg" data-fancybox-group="gallery" title="<?= STATUE;?>"><img src="/assets/img/thumbs/statue1.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/statue2.jpg" data-fancybox-group="gallery" title="<?= STATUE;?>"><img src="/assets/img/thumbs/statue2.jpg" alt="" /></a>
 </p>
 <div class="row">
 <div class="col-md-12">

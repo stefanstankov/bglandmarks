@@ -39,7 +39,7 @@ ini_set('display_errors', 1);
 								<td><a href="statue.php"><?= STATUE;?></a></td>
 							</tr>
 							<tr>
-								<td><<a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
+								<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
 						</tr>
 						</tbody>
 						</table>
@@ -51,19 +51,19 @@ ini_set('display_errors', 1);
 							</thead>
 							<tbody class="text-left">
 								<tr>
-									<td><a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Дяволски мост (Община Ардино)</a></td>
+									<td><a href="https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%90%D1%80%D0%B4%D0%B8%D0%BD%D0%BE)"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= BRIDGE_ARTICLE;?></a></td>
 								</tr>
 									<tr>
-									<td><a href="https://en.wikipedia.org/wiki/Dyavolski_most"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>The Devil's Bridge</a></td>
+									<td><a href="https://en.wikipedia.org/wiki/Dyavolski_most"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= BRIDGE_ARTICLE;?></a></td>
 								</tr>
 							</tbody>
 							</table>
 				</div>
 				</div>
 				<p class="text-left">
-<a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/db.jpg.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/db.jpg.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE_ARTICLE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE_ARTICLE;?>"><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
+<a class="fancybox" href="/assets/img/db.jpg.jpg" data-fancybox-group="gallery" title="<?= BRIDGE_ARTICLE;?>"><img src="/assets/img/thumbs/db.jpg.jpg" alt="" /></a>
 </p>
 <div class="row">
 <div class="col-md-12">
