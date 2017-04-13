@@ -88,21 +88,21 @@
     <div class="col-sm-4">
       <div class="thumbnail">
         <img src="assets/img/utroba_cave.jpg" alt="Paris" width="400" height="300">
-       <h5><span class="text-color"><?= UTROBA;?></span></h5>
+       <h3><span class="text-color"><?= UTROBA;?></span></h3>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
         <img src="assets/img/dam_wall.jpg" alt="New York" width="400" height="300">
-        <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
+        <h3><span class="text-color"> <?= Kardzhali_Dam;?></span></h3>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
 	 <div class="col-sm-4">
       <div class="thumbnail">
         <img src="assets/img/stone_mushrooms.jpg" alt="San Francisco" width="400" height="300">
-        <h5> <span class="text-color"><?= STONE;?></span></h5>
+        <h3> <span class="text-color"><?= STONE;?></span></h3>
         <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </div>
     </div>
