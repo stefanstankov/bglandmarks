@@ -2,11 +2,11 @@
 define('EDITORS_CHOISE', '<span class="text-color1">Избрани от редактора<span class="text-color">');
 define('HOME', 'Начало');
 define('CATEGORIES', 'Категории');
-define('LANDMARKS', '<span class="text-color">Забележителности</span>');
-define('NATURAL', '<span class="text-color">Природни</span>');
-define('HISTORICAL', '<span class="text-color">Исторически</span>');
-define('ARCHITECTURAL', '<span class="text-color">Архитектурни</span>');
-define('GALLERY', '<span class="text-color">Галерия</span>');
+define('LANDMARKS', 'Забележителности');
+define('NATURAL', 'Природни');
+define('HISTORICAL', 'Исторически');
+define('ARCHITECTURAL', 'Архитектурни');
+define('GALLERY', 'Галерия');
 define('ABOUT_US', 'За нас');
 define('CONTACTS', 'Контакти');
 define('COUNTRY', 'България');

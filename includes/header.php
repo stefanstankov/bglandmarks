@@ -62,11 +62,11 @@ ini_set('display_errors', 1);
 						 <ul class="dropdown-menu">
 							 <li class="dropdown-header"><?= LANDMARKS;?></li>
 								<li role="separator" class="divider"></li>
-								<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><?= NATURAL;?></a></li>
-								<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><?= ARCHITECTURAL;?></a></li>
-								<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><?= HISTORICAL;?></a></li>
+								<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><span class="text-color"><?= NATURAL;?></span></a></li>
+								<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><span class="text-color"><?= ARCHITECTURAL;?></span></a></li>
+								<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><span class="text-color"><?= HISTORICAL;?></span></a></li>
 							 <li role="separator" class="divider"></li>
-							 <li><a href="gallery.php"><?= GALLERY;?></a></li>
+							 <li><a href="gallery.php"><span class="text-color"><?= GALLERY;?></span></a></li>
 						 </ul>
 					 </li>
 					<li><a href="#" class="btn hidden-xs" id="menu-toggle" data-toggle="collapse" data-target="#demo"><?= QL;?></a></li>

@@ -49,7 +49,7 @@ ini_set('display_errors', 1);
 						<table class="table">
 							<thead>
 								<tr>
-									<th><span class="text-color"><?= LINKS;?></span></th>
+									<th><span class="text-color1"><?= LINKS;?></span></th>
 								</tr>
 							</thead>
 							<tbody class="text-left">
