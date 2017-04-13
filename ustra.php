@@ -45,13 +45,13 @@ ini_set('display_errors', 1);
 							</thead>
 							<tbody class="text-left">
 								<tr>
-									<td><a href="https://www.youtube.com/embed/Sbyw1Y3AT0Y"><i class="fa fa-youtube" aria-hidden="true"></i><?= STONE;?></a></td>
+									<td><a href="https://www.youtube.com/embed/Sbyw1Y3AT0Y"><i class="fa fa-youtube" aria-hidden="true"></i><?= USTRA;?></a></td>
 								</tr>
 								<tr>
-									<td><a href="https://bg.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%B0"><i class="fa fa-youtube" aria-hidden="true"></i><?= STONE;?></a></td>
+									<td><a href="https://bg.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%B0"><i class="fa fa-youtube" aria-hidden="true"></i><?= USTRA;?></a></td>
 								</tr>
 								<tr>
-									<td><a href="https://en.wikipedia.org/wiki/Ustra"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= STONE;?></a></td>
+									<td><a href="https://en.wikipedia.org/wiki/Ustra"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= USTRA;?></a></td>
 								</tr>
 							</tbody>
 							</table>
