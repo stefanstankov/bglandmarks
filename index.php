@@ -13,18 +13,18 @@
       	<div class="container text-center .cf-custom">
           <div class="row">
             <div class="col-md-6">
-              <h2><?= RANDOM_PICS;?></h2>
+              <h2 class="text-color1"><?= RANDOM_PICS;?></h2>
               <div id="custom_video" class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
         </div>
             </div>
             <div class="col-md-6">
-              <h2><?= LOCATION;?></h2>
+              <h2 class="text-color1"><?= LOCATION;?></h2>
                 <div id="map"></div>
             </div>
                 </div>
                 </div>
-                <h2 class="text-center"><?= EDITORS_CHOISE;?></h2>
+                <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
 <div class="container-fluid text-center cf-custom cf-custom-colorddd">
    <div class="container">
 <div class="row">
@@ -59,7 +59,7 @@
 </div>
 </div>
 </div>
-           <h2 class="text-center"><?= INSTA;?></h2>
+           <h2 class="text-center text-color1"><?= INSTA;?></h2>
            <div class="container .cf-custom">
          <div class="row">
                <div class="col-md-3">
