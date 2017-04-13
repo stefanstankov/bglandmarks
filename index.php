@@ -45,7 +45,7 @@
                            </div>
                </div>
                </div>
-                <h2 class="text-center text-color1">What our customers say</h2>
+                <h2 class="text-center text-color1">Where are these places ?</h2>
                 <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
                   <!-- Indicators -->
                   <ol class="carousel-indicators">
@@ -57,13 +57,13 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                      <h4>"This company is the best. I am so happy with the result!"<br><span>Michael Roe, Vice President, Comment Box</span></h4>
+                      <h4>Rila<br><span>Rila is a mountain range in southwestern Bulgaria and the highest mountain range of Bulgaria and the Balkans</span></h4>
                     </div>
                     <div class="item">
-                      <h4>"One word... WOW!!"<br><span>John Doe, Salesman, Rep Inc</span></h4>
+                      <h4>Rila lake"<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h4>
                     </div>
                     <div class="item">
-                      <h4>"Could I... BE any more happy with this company?"<br><span>Chandler Bing, Actor, FriendsAlot</span></h4>
+                      <h4>Melnik<br><span>Melnik is a town in Blagoevgrad Province, southwestern Bulgaria, in the southwestern Pirin Mountains</span></h4>
                     </div>
                   </div>
 
