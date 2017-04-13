@@ -82,7 +82,7 @@ ini_set('display_errors', 1);
 <div class="jumbotron">
   <div class="container">
 <form action="" method="post">
-<input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
+<input type="text" id="searchBar" name="search" placeholder= <span class="text-color1">"Search for landmarks..."</span> /><input type="submit" id="searchBtn" value=<span class="text-color1">"Go!"</span> />
 </form>
 
 <div id="demo" class="collapse">
