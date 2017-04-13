@@ -91,9 +91,9 @@ ini_set('display_errors', 1);
 <thead>
 <tr>
 <th>#</th>
-<th>Natural</th>
-<th>Arhitectural</th>
-<th>Historical</th>
+<th><span class="text-color">Natural</span></th>
+<th><span class="text-color">Arhitectural</span></th>
+<th><span class="text-color">Historical</span></th>
 </tr>
 </thead>
 <tbody>
