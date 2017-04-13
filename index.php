@@ -61,7 +61,7 @@
                       <h3>Rila<br><span>Rila is a mountain range in southwestern Bulgaria and the highest mountain range of Bulgaria and the Balkans</span></h3>
                     </div>
                     <div class="item">
-                      <h4>Rila lakes<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h3>
+                      <h3>Rila lakes<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h3>
                     </div>
                     <div class="item">
                       <h3>Pirin<br><span>The Pirin Mountains are a mountain range in southwestern Bulgaria, with Vihren (2,914 m high) the highest peak</span></h3>
@@ -82,34 +82,41 @@
                   </a>
                 </div>
                 <!-- Container (Portfolio Section) -->
-<div id="portfolio" class="container-fluid text-center bg-grey">
-<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2><br>
-  <div class="row text-center slideanim">
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="assets/img/utroba_cave.jpg" alt="Paris" width="400" height="300">
-       <h3><span class="text-color"><?= UTROBA;?></span></h3>
-         <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="assets/img/dam_wall.jpg" alt="New York" width="400" height="300">
-        <h3><span class="text-color"> <?= Kardzhali_Dam;?></span></h3>
-          <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </div>
-    </div>
-	 <div class="col-sm-4">
-      <div class="thumbnail">
-        <img src="assets/img/stone_mushrooms.jpg" alt="San Francisco" width="400" height="300">
-        <h3> <span class="text-color"><?= STONE;?></span></h3>
-        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </div>
-    </div>
-  </div><br>
-
-
-</div>
+                <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
+                <div class="container-fluid text-center cf-custom cf-custom-colorddd">
+                   <div class="container">
+                <div class="row">
+                <div class="col-md-3">
+                  <a class="link_color" href="utroba_cave.php">
+                         <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
+                         <h5><span class="text-color"><?= UTROBA;?></span></h5>
+                         <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+                     </a>
+                </div>
+                <div class="col-md-3">
+                  <a class="link_color" href="dam_wall.php">
+                          <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
+                          <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
+                          <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+                        </a>
+                </div>
+                <div class="col-md-3">
+                  <a  class="link_color" href="ustra.php">
+                    <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
+                        <h5> <span class="text-color"><?= USTRA;?></span></h5>
+                        <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+                      </a>
+                </div>
+                <div class="col-md-3">
+                  <a  class="link_color" href="stone_mushrooms.php">
+                <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
+                        <h5> <span class="text-color"><?= STONE;?></span></h5>
+                        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+                      </a>
+                </div>
+                </div>
+                </div>
+                </div>
          <br>
          <br>
        <script>
