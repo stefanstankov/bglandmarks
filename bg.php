@@ -1,5 +1,5 @@
 <?php
-define('EDITORS_CHOISE', '<span class="text-color">Избрани от редактора<span class="text-color">');
+define('EDITORS_CHOISE', '<span class="text-color1">Избрани от редактора<span class="text-color">');
 define('HOME', 'Начало');
 define('CATEGORIES', 'Категории');
 define('LANDMARKS', '<span class="text-color">Забележителности</span>');
@@ -29,13 +29,13 @@ define('UTROBA', 'Пещера Утробата');
 define('READ_MORE', 'Научи повече');
 define('MORE_INFO', 'Допълнителна информация');
 define('WELCOME', '<p class="welcome text-muted" Добре дошли</p>');
-define('LOCATION', '<span class="text-color">Местоположение</span>');
+define('LOCATION', '<span class="text-color1">Местоположение</span>');
 define('FROM_CATEGORY', 'От категорията');
 define('FROM_YOUTUBE', 'От YouTube');
-define('LANDMARK_NAME', '<span class="text-color">Забележителности</span>');
-define('RANDOM_PICS', '<span class="text-color">От YouTube</span>');
+define('LANDMARK_NAME', '<span class="text-color1">Забележителности</span>');
+define('RANDOM_PICS', '<span class="text-color1">От YouTube</span>');
 define('LINKS', 'Линкове по темата');
-define('INSTA', '<span class="text-color">От страницата ни в инстаграм</span>');
+define('INSTA', '<span class="text-color1">От страницата ни в инстаграм</span>');
 define('QL', 'Бързи връзки');
 define('ABOUT_US_MESSAGE', 'Сайта е в процес на разработка. Моля всеки, който иска да помогне да ни изпрати снимки на забележителностите от района, в който живее. Благодарим Ви!');
 define('ABOUT_BG', '<p class="text-left aboutbg"><strong>Република България</strong> е държава в Югоизточна Европа, в източната част на Балканския полуостров и заема 23% от неговата територия. Граничи на север с Румъния; на запад със Сърбия и Република Македония; на юг с Гърция и на югоизток с Турция. На изток, по протежение на бреговата ивица, страната се мие от водите на Черно море.</p> <p class="text-left aboutbg">Със своите почти 111 хил. km² площ и 7,153 милиона души, България се подрежда на 11-о и 16-о място съответно по площ и по население в Европейския съюз.</p>');

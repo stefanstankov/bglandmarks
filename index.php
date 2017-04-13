@@ -13,7 +13,7 @@
       	<div class="container text-center .cf-custom">
           <div class="row">
             <div class="col-md-6">
-              <h2 class="text-color1"><?= RANDOM_PICS;?></h2>
+              <h2 class="text-color1"><?= FROM_YOUTUBE;?></h2>
               <div id="custom_video" class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
         </div>

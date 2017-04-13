@@ -1,8 +1,8 @@
 <?php
-define('EDITORS_CHOISE', '<span class="text-color">Autor\'s choice</span>');
+define('EDITORS_CHOISE', '<span class="text-color1">Autor\'s choice</span>');
 define('HOME', 'Home');
 define('CATEGORIES', 'Categories');
-define('LANDMARKS', '<span class="text-color">Landmarks</span>');
+define('LANDMARKS', '<span class="text-color1">Landmarks</span>');
 define('NATURAL', '<span class="text-color">Natural</span>');
 define('HISTORICAL', '<span class="text-color">Historical</span>');
 define('ARCHITECTURAL', '<span class="text-color">Arhitectural</span>');
@@ -29,14 +29,13 @@ define('UTROBA', 'Utroba Cave (The Womb Cave)');
 define('READ_MORE', 'Read more');
 define('MORE_INFO', 'More information');
 define('WELCOME', '<p class="welcome text-muted"> Welcome</p>');
-define('LOCATION', '<span class="text-color">Location</span>');
+define('LOCATION', '<span class="text-color1">Location</span>');
 define('FROM_CATEGORY', 'From the category');
-define('FROM_YOUTUBE', 'From YouTube');
-define('LANDMARK_NAME', '<span class="text-color">Landmarks</span>');
-define('RANDOM_PICS', '<span class="text-color">From YouTube</span>');
+define('FROM_YOUTUBE', '<span class="text-color1">From YouTube</span>');
+define('LANDMARK_NAME', '<span class="text-color1">Landmarks</span>');
 define('LINKS', 'Links');
 define('QL', 'Quick Links');
-define('INSTA', '<span class="text-color">From our instagram feed</span>');
+define('INSTA', '<span class="text-color1">From our instagram feed</span>');
 define('ABOUT_US_MESSAGE', 'This site is under development. Please anyone who wants to help send us pictures of the landmarks of the area in which he lives. Thank you!');
 define('ABOUT_BG', '<p class="text-left aboutbg"><strong>Republic of Bulgaria</strong> is a country in southeastern Europe , in the eastern part of the Balkan Peninsula and occupies 23% of its territory. Bordered on the north by Romania ; on the west by Serbia and Macedonia ; south to Greece and to the southeast of Turkey . To the east, along the coastline, the country is washed by the waters of the Black Sea .</p> <p class="text-left aboutbg">With almost 111 thousand. Km² respectively area and 7.153 million people, Bulgaria ranks 11th and 16th place respectively in area and population in the European Union</p></blockquote>');
 define('PERPERIKON_ARTICLE', '<blockquote class="text-color"><p class="text-left">Monument of national importance</p>
