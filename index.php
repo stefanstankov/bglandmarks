@@ -52,6 +52,7 @@
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
                     <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
                   </ol>
 
                   <!-- Wrapper for slides -->
@@ -60,7 +61,7 @@
                       <h4>Rila<br><span>Rila is a mountain range in southwestern Bulgaria and the highest mountain range of Bulgaria and the Balkans</span></h4>
                     </div>
                     <div class="item">
-                      <h4>Rila lake<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h4>
+                      <h4>Rila lakes<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h4>
                     </div>
                     <div class="item">
                       <h4>Pirin<br><span>The Pirin Mountains are a mountain range in southwestern Bulgaria, with Vihren (2,914 m high) the highest peak</span></h4>
