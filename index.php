@@ -66,6 +66,7 @@
                            </div>
                </div>
                </div>
+               <div class="container about-container">
                 <h2 class="text-center text-color1">Where are these places ?</h2>
                 <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
                   <!-- Indicators -->
@@ -102,7 +103,7 @@
                     <span class="sr-only">Next</span>
                   </a>
                 </div>
-
+              </div>
                 <div class="container text-center .cf-custom">
                   <div class="row">
                     <div class="col-md-6">
