@@ -52,7 +52,7 @@ ini_set('display_errors', 1);
 								</thead>
 								<tbody class="text-left">
 									<tr>
-										<td><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9,_%D0%9A%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i>Регионален исторически музей Кърджали</a></td>
+										<td><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9,_%D0%9A%D1%8A%D1%80%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= MUSEUM;?></a></td>
 									</tr>
 										<tr>
 										<td><a href="http://www.kardjali.bg/en/?pid=6,12 "><?= MUSEUM;?></a></td>
@@ -71,9 +71,9 @@ ini_set('display_errors', 1);
 <div class="row">
 <div class="col-md-12">
 <div class="fb-comments pull-left" data-href="http://www.bglandmarks.com/museum.php" data-numposts="5"></div>
+</div>
 <div class="col-md-12">
 <div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
-</div>
 </div>
 
 </div>
