@@ -17,7 +17,7 @@
       <small class="text-muted white">|</small>
       <li>&copy; <strong class="co">Bulgarian Landmarks</strong></li>
       <small class="text-muted white">|</small>
-      <li><a href="#">Back to top <span class="glyphicon glyphicon-chevron-up"></span></a></li>
+      <li><a href="#">Back to top <span class="glyphicon glyphicon-circle-arrow-up"></span></a></li>
     </ul>
     </div>
  </div>
