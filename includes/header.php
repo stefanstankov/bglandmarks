@@ -43,12 +43,7 @@ ini_set('display_errors', 1);
 </head>
 
 <body class="index-page">
-	<div class="container-fluid about-container">
-	<span class="text-color1"><?= WELCOME;?></span>
-	<?=ABOUT_BG;?>
-	</p>
-	</div>
-	<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
+	<nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
