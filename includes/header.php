@@ -43,7 +43,7 @@ ini_set('display_errors', 1);
 </head>
 
 <body class="index-page">
-	<nav class="navbar navbar-default navbar-fixed-top">
+	<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
