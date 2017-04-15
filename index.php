@@ -11,7 +11,7 @@
 </p>
 </div>
 <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
-<div class="container-fluid text-center cf-custom cf-custom-colorddd">
+<div class="container-fluid text-center cf-custom">
    <div class="container">
 <div class="row">
 <div class="col-md-3">
@@ -66,7 +66,7 @@
                            </div>
                </div>
                </div>
-               <div class="container about-container">
+               <div class="container abo">
                 <h2 class="text-center text-color1">Where are these places ?</h2>
                 <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
                   <!-- Indicators -->
