@@ -45,7 +45,7 @@
 </div>
 </div>
 </div>
-              <h2 class="text-center text-color1"><?= INSTA;?></h2>
+              <h2 class="text-center text-color1 cf-custom"><?= INSTA;?></h2>
               <div class="container .cf-custom">
             <div class="row">
                   <div class="col-md-3">
