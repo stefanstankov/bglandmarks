@@ -5,8 +5,8 @@
 ?>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<div class="container about-container">
-<span class="animated fadeInUp text-color1"><?= WELCOME;?></span>
+<div class="animated fadeInUp container about-container">
+<span class="text-color1"><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
 </p>
 </div>
