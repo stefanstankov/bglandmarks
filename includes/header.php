@@ -42,7 +42,7 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
 
-<body class="index-page animated fadeInUp">
+<body class="animated fadeInUp index-page ">
 	<nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
