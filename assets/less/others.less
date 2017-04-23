@@ -1,15 +1,28 @@
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
 @keyframes fadeInUp {
-  0%   { opacity: 0; }
-  100% { opacity: 1; }
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
 }
 
 .fadeInUp {
-    animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
 }
-.animated {
-    animation-duration: 1s;
-    animation-fill-mode: both;
-}
+
  .carousel-control.right, .carousel-control.left {
      background-image: none;
      color: #f4511e;
