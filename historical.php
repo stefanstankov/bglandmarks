@@ -2,9 +2,13 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-    	      <div class="animated fadeInUp container text-center group-container">
-    <h1><span class="text-color1"><?= HISTORICAL;?></h1>
-    <div class="row">
+    <div class="animated fadeInUp text-center">
+      <div class="container">
+        <div class="panel panel-default panel-article">
+          <div class="panel-heading">
+    <h1><span class="text-color1"><?= HISTORICAL;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h1>
+      </div>
+<div class="panel-body row">
 <div class="col-md-4">
 <a class="link_color" href="perperikon.php">
 <img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
@@ -22,4 +26,5 @@
 </div>
 </div>
     </div>
+      </div>
         	<?php require 'includes/footer.php' ?>
