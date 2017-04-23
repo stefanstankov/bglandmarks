@@ -5,15 +5,16 @@
 ?>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<div class="animated fadeInUp container about-container">
+<div class="animated fadeInUp container about-container text-justify">
 <span class="text-color1"><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
 </p>
 </div>
-<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
-<div class="container-fluid text-center cf-custom">
+
+<div class="animated fadeInUp  container-fluid text-center cf-custom">
    <div class="container">
 <div class="row">
+<div class="col-md-12"><h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2></div>
 <div class="col-md-3">
   <a class="link_color" href="utroba_cave.php">
          <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">

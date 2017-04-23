@@ -66,16 +66,21 @@ ini_set('display_errors', 1);
 							</table>
 				</div>
 				</div>
+				<div class="row">
+					<div class="col-md-12">
 				<p class="text-left">
-<a class="fancybox" href="/assets/img/stone_mushrooms.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/stone_mushrooms1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms1.jpg" alt="" /></a>
-<a class="fancybox" href="/assets/img/stone_mushrooms2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms2.jpg" alt="" /></a>
-</p>
+					<a class="fancybox" href="/assets/img/stone_mushrooms.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms.jpg" alt="" /></a>
+					<a class="fancybox" href="/assets/img/stone_mushrooms1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms1.jpg" alt="" /></a>
+					<a class="fancybox" href="/assets/img/stone_mushrooms2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms2.jpg" alt="" /></a>
+				</p>
+			</div>
+		</div>
 <div class="row">
 <div class="col-md-12">
-<div class="fb-comments pull-left" data-href="http://www.bglandmarks.com/stone_mushrooms.php" data-numposts="5"></div>
+	<div class="fb-comments" data-width="100%" data-href="http://www.bglandmarks.com/stone_mushrooms.php" data-numposts="5"></div>
+</div>
 <div class="col-md-12">
-<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
+	<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
 </div>
