@@ -9,19 +9,20 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
-		<div class="text-center container">
-
-					<h2><span class="text-color1"><?= Kardzhali_Dam;?></span></h2>
-
-					<div class="col-md-12">
-	<div id="map"></div>
+	<div class="container">
+		<div class="panel panel-default panel-article">
+			<div class="panel-heading">
+					<h2><span class="text-color1"><?= Kardzhali_Dam;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h2>
 </div>
-            <div class="row">
+<div class="panel-body row">
+					<div class="col-md-12">
+							<div id="map"></div>
+					</div>
 					<div class="col-md-9">
 						<div class="panel">
 							<div class="panel-heading alert-danger"><h3 class="text-color1"><?=MORE_INFO;?></h3></div>
  								<p><?= DAM_ARTICLE;?></p></a>
-	</div>
+							</div>
           </div>
 					<div class="col-md-3">
 						<h2><span class="text-color1"><?= FROM_CATEGORY;?></span></h2>
@@ -65,21 +66,19 @@ ini_set('display_errors', 1);
 								</tbody>
 								</table>
 					</div>
-					</div>
+
+						<div class="col-md-12">
 					<p class="text-left">
 <a class="fancybox" href="/assets/img/dam_wall.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/dam_wall1.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall1.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/dam_wall2.jpg" data-fancybox-group="gallery" title="<?= Kardzhali_Dam;?>"><img src="/assets/img/thumbs/dam_wall2.jpg" alt="" /></a>
 </p>
-<div class="row">
-<div class="col-md-12">
-<div class="fb-comments pull-left" data-href="http://www.bglandmarks.com/dam_wall.php" data-numposts="5"></div>
-</div>
-<div class="col-md-12">
-<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
-
+<div class="panel-footer">
+<div class="fb-comments" data-width="100%" data-href="http://www.bglandmarks.com/dam_wall.php" data-numposts="5"></div>
+</div>
+</div>
 </div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>

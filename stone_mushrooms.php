@@ -19,7 +19,6 @@ ini_set('display_errors', 1);
 					<div id="map"></div>
 				</div>
 					<div class="col-md-9">
-
 						<div class="panel-heading alert-danger"><h3 class="text-color1"><?=MORE_INFO;?></h3></div>
 							<p><?= MUSHROOMS_ARTICLE;?></p>
 					</div>

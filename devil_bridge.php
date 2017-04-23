@@ -9,14 +9,15 @@ ini_set('display_errors', 1);
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
-	<div class="text-center container">
-
+<div class="container">
+	<div class="panel panel-default panel-article">
+		<div class="panel-heading">
 				<h2><span class="text-color1"><?= BRIDGE;?></span></h2>
-
+				</div>
+				<div class="panel-body row">
 				<div class="col-md-12">
 <div id="map"></div>
 </div>
-					<div class="row">
 				<div class="col-md-9">
 					<div class="panel">
 						<div class="panel-heading alert-danger"><h3 class="text-color1"><?=MORE_INFO;?></h3></div>
@@ -58,7 +59,6 @@ ini_set('display_errors', 1);
 								</tr>
 							</tbody>
 							</table>
-				</div>
 				</div>
 				<p class="text-left">
 <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
