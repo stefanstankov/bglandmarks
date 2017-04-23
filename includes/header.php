@@ -41,8 +41,11 @@ ini_set('display_errors', 1);
   <link rel="stylesheet" href="assets/css/site.css" />
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
-
-<body class="index-page ">
+<?php if ($_SERVER['REQUEST_URI'] == '/') { ?>
+<body class="index-page index">
+	<?php } else { ?>
+		<body class="index-page">
+	<?php } ?>
 	<nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
@@ -52,11 +55,11 @@ ini_set('display_errors', 1);
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			 <a class="navbar-brand" href="http://www.bglandmarks.com"><img src="/assets/img/logo2.png"/><div id="nbt"><span>Bulgarian</span> <span>Landmarks</span></div></a>
+			 <a class="navbar-brand" href="/"><img src="/assets/img/logo2.png"/><div id="nbt"><span>Bulgarian</span> <span>Landmarks</span></div></a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-					 <li><a class="active" href="http://www.bglandmarks.com"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
+					 <li><a class="active" href="/"><i aria-hidden="true" class="fa fa-home"></i><?= HOME;?></a></li>
 					 <li class="dropdown">
 						 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= CATEGORIES;?><span class="caret"></span></a>
 						 <ul class="dropdown-menu">
@@ -81,12 +84,13 @@ ini_set('display_errors', 1);
 </nav>
 <div class="jumbotron">
   <div class="container">
-<form action="" method="post">
-<input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
-</form>
+
 
 <div id="demo" class="collapse">
 <br>
+<form action="" method="post">
+<input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
+</form>
 <br>
 <table class="table table-striped table-responsive">
 <thead>
