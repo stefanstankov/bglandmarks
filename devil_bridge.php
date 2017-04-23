@@ -12,7 +12,7 @@ ini_set('display_errors', 1);
 <div class="container">
 	<div class="panel panel-default panel-article">
 		<div class="panel-heading">
-				<h2><span class="text-color1"><?= BRIDGE;?></span></h2>
+				<h2><span class="text-color1"><?= BRIDGE;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h2>
 				</div>
 				<div class="panel-body row">
 				<div class="col-md-12">
@@ -60,20 +60,18 @@ ini_set('display_errors', 1);
 							</tbody>
 							</table>
 				</div>
+						<div class="col-md-12">
 				<p class="text-left">
 <a class="fancybox" href="/assets/img/bridge.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/bridge1.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/bridge1.jpg" alt="" /></a>
 <a class="fancybox" href="/assets/img/db.jpg.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/db.jpg.jpg" alt="" /></a>
 </p>
-<div class="row">
-<div class="col-md-12">
-<div class="fb-comments pull-left" data-href="http://www.bglandmarks.com/devil_bridge.php" data-numposts="5"></div>
-</div>
-<div class="col-md-12">
-<div class="fb-share-button pull-left" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
 </div>
 </div>
-
+<div class="panel-footer">
+	<div class="fb-comments" data-width="100%" data-href="http://www.bglandmarks.com/devil_bridge.php" data-numposts="5"></div>
+</div>
+</div>
 </div>
 <?php require 'includes/footer.php' ?>
 <script type="text/javascript" src="/assets/js/jquery-1.10.1.min.js"></script>

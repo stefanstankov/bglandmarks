@@ -71,15 +71,11 @@ ini_set('display_errors', 1);
 						<a class="fancybox" href="/assets/img/stone_mushrooms2.jpg" data-fancybox-group="gallery" title="<?= BRIDGE;?>"><img src="/assets/img/thumbs/stone_mushrooms2.jpg" alt="" /></a>
 					</p>
 				</div>
-
 			</div>
 			<div class="panel-footer">
 					<div class="fb-comments" data-width="100%" data-href="http://www.bglandmarks.com/stone_mushrooms.php" data-numposts="5"></div>
 			</div>
 		</div>
-
-
-
 </div>
 
 <?php require 'includes/footer.php' ?>
