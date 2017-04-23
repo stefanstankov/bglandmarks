@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-    	      <div class="container text-center group-container">
+    	      <div class="animated fadeInUp container text-center group-container">
     <h1><span class="text-color1"><?= HISTORICAL;?></h1>
     <div class="row">
 <div class="col-md-4">

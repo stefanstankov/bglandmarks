@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-		<div class="text-center container group-container">
+		<div class="animated fadeInUp text-center container group-container">
       <h1><span class="text-color1"><?= ARCHITECTURAL;?></h1>
         <div class="row">
 <div class="col-md-4">
