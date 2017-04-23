@@ -99,7 +99,7 @@ define('MUSHROOMS_ARTICLE', '<blockquote class="text-color"><p class="text-left"
 signs and information boards. There are regular buses Kardzhali - Haskovo through Beli Plast.</p>
 <p class="text-left"><strong>Description of site</strong> - The stone mushrooms are symmetrical rock pieces shaped as natural mushrooms, with pink stumps and greenish hoods. The height of the stumps and the width of the cap is 2,5m. They are shaped from volcanic rhyolitic tuffs. The tuffs which have shaped the stone mushrooms are the result of an intense
 underwater volcanic activity dating back to the Paleogene. After the sea retreated and the sea bottom rose up, erosion began. The lower pink layer turned out to be softer and more easily succumbed to the effects of sun, wind and rain. The upper green layer contained strong minerals, mostly volcanic glass and took more time to
-weather. So it took thousands of years to shape this wonderful combination of unique shapes and colors.</p>		<div class="col-md-12 text-left">
+weather. So it took thousands of years to shape this wonderful combination of unique shapes and colors.</p>		<div class="col-md-12">
       <div class="fb-share-button" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
     </div></blockquote>');
 define('UTROBA_ARTICLE', '<blockquote class="text-color"><p class="text-left"><strong>Location</strong> - it is situated in the rocky area of Tangradak Kaya, close to to Nenkovo village, 20 kilometres away from Kardzhali.</p>
