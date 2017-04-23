@@ -69,7 +69,6 @@
                <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
                            </div>
                </div>
-               </div>
                <div class="panel-footer">
                <div class="container abo">
                 <h2 class="text-center text-color1">Where are these places ?</h2>
