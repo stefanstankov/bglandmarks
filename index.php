@@ -45,7 +45,7 @@
 </div>
 </div>
 </div>
-<div class="container">
+<div class="animated fadeInUp container">
   <div class="panel panel-default panel-article">
     <div class="panel-heading">
               <h2 class="text-center text-color1"><?= INSTA;?></h2>
