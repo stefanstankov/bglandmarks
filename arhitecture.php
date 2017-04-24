@@ -23,6 +23,13 @@
         <p class="text-center"><a href="statue.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </a>
     </div>
+    <div class="col-md-4 pull-left">
+      <a class="link_color" href="devil_bridge.php">
+    <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост">
+      <h5><span class="text-color"><?= BRIDGE;?></span></h5>
+      <p class="text-center"><a href="devil_bridge.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      </a>
+      </div>
 <div class="col-md-4">
   <a class="link_color" href="dam_wall.php">
       <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали">
@@ -30,13 +37,8 @@
         <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </a>
     </div>
-  <div class="col-md-4">
-    <a class="link_color" href="devil_bridge.php">
-  <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост">
-    <h5><span class="text-color"><?= BRIDGE;?></span></h5>
-    <p class="text-center"><a href="devil_bridge.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-    </a>
-    </div>
+
+</div>
 </div>
 </div>
 </div>

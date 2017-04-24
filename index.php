@@ -8,9 +8,7 @@
 <div class="animated fadeInUp container about-container text-justify">
 <span class="text-color1"><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
-</p>
 </div>
-
 <div class="animated fadeInUp  container-fluid text-center cf-custom">
    <div class="container">
 <div class="row">
