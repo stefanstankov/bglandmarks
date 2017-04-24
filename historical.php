@@ -2,7 +2,8 @@
   	$pageTitle = 'Начало';
 ?>
    	<?php	require 'includes/header.php';?>
-    <div class="animated fadeInUp text-center">
+    <div class="view">
+    <div class="animated fadeInUp text-center flex-center">
       <div class="container">
         <div class="panel panel-default panel-article">
           <div class="panel-heading">
@@ -26,5 +27,6 @@
 </div>
 </div>
     </div>
+      </div>
       </div>
         	<?php require 'includes/footer.php' ?>
