@@ -17,21 +17,21 @@
 <div class="col-md-3">
   <a class="link_color" href="utroba_cave.php">
          <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
-         <h5><span class="text-color"><?= UTROBA;?></span></h5>
+         <h5><span class="text-center text-color"><?= UTROBA;?></span></h5>
          <p class="text-center text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
      </a>
 </div>
 <div class="col-md-3">
   <a class="link_color" href="dam_wall.php">
           <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
-          <h5><span class="text-color"> <?= Kardzhali_Dam;?></span></h5>
+          <h5><span class="text-center text-color"> <?= Kardzhali_Dam;?></span></h5>
           <p class="text-center text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
         </a>
 </div>
 <div class="col-md-3">
   <a  class="link_color" href="ustra.php">
     <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
-        <h5> <span class="text-color"><?= USTRA;?></span></h5>
+        <h5> <span class="text-center text-color"><?= USTRA;?></span></h5>
         <p class="text-center text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
       </a>
 </div>
