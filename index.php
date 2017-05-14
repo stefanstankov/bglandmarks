@@ -9,7 +9,7 @@
 <div class="animated fadeInUp container text-justify">
     <div class="panel panel-default panel-article">
       <div class="custom-p-footer panel-body row">
-<span class="text-color1"><?= WELCOME;?></span>
+<span class="text-color1 "><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
 </div>
  <div class="custom-p-footer panel-footer row text-center">
@@ -111,15 +111,17 @@
               </div>
               </div>
                 <div class="container text-center .cf-custom">
-                  <div class="row">
-                    <div class="col-md-6">
-                      <h2 class="text-color1"><?= FROM_YOUTUBE;?></h2>
+              <!--  <div class="row">
+                    <div class="col-md-12">
+                      <h2 class="text-color2"><?= FROM_YOUTUBE;?></h2>
                       <div id="custom_video" class="embed-responsive embed-responsive-16by9">
               <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obr8jGZhAEU"></iframe>
                 </div>
                     </div>
-                    <div class="col-md-6">
-                      <h2 class="text-color1"><?= LOCATION;?></h2>
+                    </div> -->
+                      <div class="row">
+                    <div class="col-md-12">
+                      <h2 class="text-color2"><?= LOCATION;?></h2>
                         <div id="map"></div>
                     </div>
                         </div>

@@ -32,7 +32,7 @@
   cursor: default;
   overflow: hidden;
   position: relative;
-  
+
 }
  .carousel-control.right, .carousel-control.left {
      background-image: none;
@@ -64,7 +64,10 @@
 .text-color1 {
   font-family: 'Roboto Slab', serif;
 }
-
+.text-color2{
+  .text-color1;
+  color: #fff;
+}
 .about-container{
 background-color: #fff;
 border-radius: 25px;
@@ -107,11 +110,14 @@ padding-top: 30px;
 
 
 .index-page{
-  background-color: #FAFAD2;
+  background: #948E99;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #2E1437, #948E99);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #2E1437, #948E99); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+height: 100vh;
   margin-top: 36px;
   padding-top: 20px;
-  padding-bottom: 40px;
-
 }
 
   .featurette-heading {
@@ -233,4 +239,5 @@ padding-top: 30px;
 
 .index-page.index {
     background-color: #f9f9f9;
+    height: 100vh;
 }

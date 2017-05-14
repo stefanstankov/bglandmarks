@@ -16,7 +16,7 @@ ini_set('display_errors', 1);
 			</div>
 			<div class="panel-body row">
 				<div class="col-md-12">
-					<div id="map"></div>
+					<div class="animated bounce" id="map"></div>
 				</div>
 				<div class="col-md-9">
 					<div class="panel">
