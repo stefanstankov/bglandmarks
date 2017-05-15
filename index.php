@@ -19,63 +19,55 @@
 </div>
 </div>
 </div>
-<div class="animated fadeInUp container">
-  <div class="panel panel-default panel-article">
-    <div class="panel-heading">
-          <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
-          </div>
-          <div class="panel-body row">
-          <div class="col-md-3">
-            <a class="link_color nounderline" href="utroba_cave.php">
-          <div class="panel panel-default">
-            <div class="panel-body panel-boyd-c">
-              <img class="img-responsive center-block" src="assets/img/utroba_cave.jpg">
-              </div>
-              <div class="panel-footer text-center">
-                <h5><span class="text-color"><?= UTROBA;?></span></h5>
-                </div>
-          </div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+  <div class="zodiac-box">
+    <a class="nounderline" href="dam_wall.php">
+     <div class="box-icon">
+       <span class="fa fa-university custom-glyphicon"></span>
+     </div>
+     <br>
+    <div class="info">
+      <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>">
+      <br>
+      <a class="btn btn-block btn-primary btn-round" href="dam_wall.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= Kardzhali_Dam;?> </a>
+    </div>
+    </a>
+   </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="zodiac-box">
+      <a class="nounderline" href="perperikon.php">
+       <div class="box-icon">
+         <span class="glyphicon glyphicon-tower custom-glyphicon"></span>
+       </div>
+       <br>
+      <div class="info">
+        <img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
+        <br>
+        <a class="btn btn-block btn-primary btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= PERPERIKON;?> </a>
+      </div>
+      </a>
+     </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+      <div class="zodiac-box">
+        <a class="nounderline" href="stone_mushrooms.php">
+         <div class="box-icon">
+           <span class="fa fa-tree custom-glyphicon"></span>
+         </div>
+         <br>
+        <div class="info">
+          <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
+          <br>
+          <a class="btn btn-block btn-primary btn-round" href="stone_mushrooms.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= STONE;?> </a>
+        </div>
         </a>
-          </div>
-          <div class="col-md-3">
-            <a class="link_color nounderline" href="dam_wall.php">
-            <div class="panel panel-default">
-            <div class="panel-body panel-boyd-c">
-              <img class="img-responsive center-block" src="assets/img/dam_wall.jpg">
-              </div>
-              <div class="panel-footer text-center">
-                <h5><span class="text-color"><?= Kardzhali_Dam;?></span></h5>
-                </div>
-            </div>
-            </a>
-          </div>
-          <div class="col-md-3">
-            <a class="link_color nounderline" href="ustra.php">
-            <div class="panel panel-default">
-            <div class="panel-body panel-boyd-c">
-              <img class="img-responsive center-block" src="assets/img/ustra.jpg">
-              </div>
-              <div class="panel-footer text-center">
-                <h5><span class="text-color"><?= USTRA;?></span></h5>
-                </div>
-            </div>
-            </a>
-          </div>
-          <div class="col-md-3">
-            <a class="link_color nounderline" href="stone_mushrooms.php">
-            <div class="panel panel-default">
-            <div class="panel-body panel-boyd-c">
-              <img class="img-responsive center-block" src="assets/img/stone_mushrooms.jpg">
-              </div>
-              <div class="panel-footer text-center">
-                <h5><span class="text-color"><?= STONE;?></span></h5>
-                </div>
-            </div>
-            </a>
-          </div>
-        </div>
-        </div>
-        </div>
+       </div>
+      </div>
+  </div>
+  </div>
 <div class="animated fadeInUp container">
   <div class="panel panel-default panel-article">
     <div class="panel-heading">

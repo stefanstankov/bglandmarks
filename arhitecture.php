@@ -11,34 +11,67 @@
       <h1><span class="text-color1"><?= ARCHITECTURAL;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h1>
             </div>
         <div class="panel-body row">
-<div class="col-md-4">
-  <a class="link_color" href="museum.php">
-      <img src="assets/img/museum.jpg" class="img-responsive" alt="Регионален исторически музей Кърджали">
-        <h5><span class="text-color"><?= MUSEUM;?></span></h5>
-        <p class="text-center"><a href="museum.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-        </a>
-    </div>
-<div class="col-md-4">
-  <a class="link_color" href="statue.php">
-      <img src="assets/img/orfei.jpg" class="img-responsive" alt="Статуята на Орфей">
-        <h5><span class="text-color"><?= STATUE;?></span></h5>
-        <p class="text-center"><a href="statue.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-        </a>
-    </div>
-    <div class="col-md-4 pull-left">
-      <a class="link_color" href="devil_bridge.php">
-    <img src="assets/img/bridge.jpg" class="img-responsive" alt="Дяволксия мост">
-      <h5><span class="text-color"><?= BRIDGE;?></span></h5>
-      <p class="text-center"><a href="devil_bridge.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </a>
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          	<div class="zodiac-box">
+          	  <a class="nounderline" href="museum.php">
+          		 <div class="box-icon">
+          			 <span class="fa fa-university custom-glyphicon"></span>
+          		 </div>
+               <br>
+          		<div class="info">
+          			<img src="assets/img/museum.jpg" class="img-responsive" alt="<?= MUSEUM;?>">
+                <br>
+          			<a class="btn btn-block btn-primary btn-round" href="museum.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= MUSEUM;?> </a>
+          		</div>
+              </a>
+          	 </div>
+          </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+      	<div class="zodiac-box">
+      	  <a class="nounderline" href="statue.php">
+      		 <div class="box-icon">
+      			 <span class="fa fa-university custom-glyphicon"></span>
+      		 </div>
+           <br>
+      		<div class="info">
+      			<img src="assets/img/orfei.jpg" class="img-responsive" alt="<?= STATUE;?>">
+            <br>
+      			<a class="btn btn-block btn-primary btn-round" href="statue.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= STATUE;?> </a>
+      		</div>
+          </a>
+      	 </div>
       </div>
-<div class="col-md-4">
-  <a class="link_color" href="dam_wall.php">
-      <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="язовирната стена Кърджали">
-        <h5><span class="text-color"><?= Kardzhali_Dam;?></span></h5>
-        <p class="text-center"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    	<div class="zodiac-box">
+    	  <a class="nounderline" href="devil_bridge.php">
+    		 <div class="box-icon">
+    			 <span class="fa fa-university custom-glyphicon"></span>
+    		 </div>
+         <br>
+    		<div class="info">
+    			<img src="assets/img/bridge.jpg" class="img-responsive" alt="<?= BRIDGE;?>">
+          <br>
+    			<a class="btn btn-block btn-primary btn-round" href="devil_bridge.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= BRIDGE;?> </a>
+    		</div>
         </a>
+    	 </div>
     </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+      	<div class="zodiac-box">
+      	  <a class="nounderline" href="dam_wall.php">
+      		 <div class="box-icon">
+      			 <span class="fa fa-university custom-glyphicon"></span>
+      		 </div>
+           <br>
+      		<div class="info">
+      			<img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>">
+            <br>
+      			<a class="btn btn-block btn-primary btn-round" href="dam_wall.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= Kardzhali_Dam;?> </a>
+      		</div>
+          </a>
+      	 </div>
+      </div>
     </div>
 </div>
 </div>
