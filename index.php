@@ -9,7 +9,7 @@
 <div class="animated fadeInUp container text-justify">
   <div class="row">
     <div class="col-md-12">
-  <img src="assets/img/snow1.jpg" class="img-responsive">
+  <img src="/assets/img/snow1.JPG" class="img-responsive">
 </div>
 </div>
     <div class="panel panel-default panel-article">
