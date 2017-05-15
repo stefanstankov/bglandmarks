@@ -12,7 +12,7 @@
   <img src="/assets/img/snow1.JPG" class="img-responsive">
 </div>
 </div>
-    <div class="panel panel-default panel-article">
+    <div class="panel panel1 panel-default panel-article">
       <div class="custom-p-footer panel-body row">
 <span class="text-color1 "><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
