@@ -10,7 +10,7 @@ ini_set('display_errors', 1);
 <link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
 <div class="container">
-	<div class="panel panel-default panel-article">
+	<div class="panel panel-default panel-article panel1 ">
 		<div class="panel-heading">
 				<h2><span class="text-color1"><?= BRIDGE;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h2>
 				</div>
