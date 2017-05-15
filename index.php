@@ -117,10 +117,10 @@
                       <h4>Rila<br><span>Rila is a mountain range in southwestern Bulgaria and the highest mountain range of Bulgaria and the Balkans</span></h4>
                     </div>
                     <div class="item">
-                      <h4>Rila lakes<br><span>The Seven Rila Lakes are a group of lakes of glacial origin, situated in the northwestern Rila Mountains in Bulgaria.</span></h4>
+                      <h4>Rila lakes<br><span>The Seven Rila Lakes are situated in the northwestern Rila Mountains in Bulgaria.</span></h4>
                     </div>
                     <div class="item">
-                      <h4>Pirin<br><span>The Pirin Mountains are a mountain range in southwestern Bulgaria, with Vihren (2,914 m high) the highest peak</span></h4>
+                      <h4>Pirin<br><span>The Pirin Mountains are a mountain range in southwestern Bulgaria, with Vihren the highest peak</span></h4>
                     </div>
                     <div class="item">
                       <h4>Melnik<br><span>Melnik is a town in Blagoevgrad Province, southwestern Bulgaria, in the southwestern Pirin Mountains</span></h4>
