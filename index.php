@@ -21,7 +21,6 @@
 <h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
 <div class="col-md-3">
   <a class="link_color" href="utroba_cave.php">
-         <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>">
          <h5><span class="text-color"><?= UTROBA;?></span></h5>
          <p class="text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
      </a>
