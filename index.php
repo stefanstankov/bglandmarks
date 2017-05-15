@@ -17,45 +17,69 @@
 <span class="text-color1 "><?= WELCOME;?></span>
 <?=ABOUT_BG;?>
 </div>
- <div class="custom-p-footer panel-footer row text-center">
-<h2 class="text-center text-color1"><?= EDITORS_CHOISE;?></h2>
-<div class="col-md-3">
-  <a class="link_color" href="utroba_cave.php">
-    <img src="assets/img/utroba_cave.jpg" class="img-responsive" alt="<?= UTROBA;?>" >
-         <h5><span class="text-color"><?= UTROBA;?></span></h5>
-         <p class="text-color"><a href="utroba_cave.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-     </a>
-</div>
-<div class="col-md-3">
-  <a class="link_color" href="dam_wall.php">
-          <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>" >
-          <h5><span class="text-center text-color"> <?= Kardzhali_Dam;?></span></h5>
-          <p class="text-color"><a href="dam_wall.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-        </a>
-</div>
-<div class="col-md-3">
-  <a  class="link_color" href="ustra.php">
-    <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
-        <h5> <span class="text-center text-color"><?= USTRA;?></span></h5>
-        <p class="text-color"><a href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </a>
-</div>
-<div class="col-md-3">
-  <a  class="link_color" href="stone_mushrooms.php">
-<img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
-        <h5> <span class="text-color"><?= STONE;?></span></h5>
-        <p class="text-center text-color"><a href="stone_mushrooms.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-      </a>
 </div>
 </div>
+<div class="container">
+<div class="row">
+  <div class="col-md-3">
+    <a class="link_color" href="utroba_cave.php">
+  <div class="panel panel-default">
+    <div class="panel-body panel-boyd-c">
+      <img class="img-responsive center-block" src="assets/img/utroba_cave.jpg">
+      </div>
+      <div class="panel-footer text-center">
+        <h5><span class="text-color"><?= UTROBA;?></span></h5>
+        </div>
+  </div>
+</a>
+  </div>
+  <div class="col-md-3">
+    <a class="link_color" href="dam_wall.php">
+    <div class="panel panel-default">
+    <div class="panel-body panel-boyd-c">
+      <img class="img-responsive center-block" src="assets/img/dam_wall.jpg">
+      </div>
+      <div class="panel-footer text-center">
+        <h5><span class="text-color"><?= Kardzhali_Dam;?></span></h5>
+        </div>
+    </div>
+    </a>
+  </div>
+  <div class="col-md-3">
+    <a class="link_color" href="ustra.php">
+    <div class="panel panel-default">
+    <div class="panel-body panel-boyd-c">
+      <img class="img-responsive center-block" src="assets/img/ustra.jpg">
+      </div>
+      <div class="panel-footer text-center">
+        <h5><span class="text-color"><?= USTRA;?></span></h5>
+        </div>
+    </div>
+    </a>
+  </div>
+  <div class="col-md-3">
+    <a class="link_color" href="stone_mushrooms.php">
+    <div class="panel panel-default">
+    <div class="panel-body panel-boyd-c">
+      <img class="img-responsive center-block" src="assets/img/stone_mushrooms.jpg">
+      </div>
+      <div class="panel-footer text-center">
+        <h5><span class="text-color"><?= STONE;?></span></h5>
+        </div>
+    </div>
+    </a>
+  </div>
 </div>
 </div>
 <div class="animated fadeInUp container">
+  <div class="row">
+    <div class="col-md-12">
+  <img src="/assets/img/kj1.jpg" class="img-responsive">
+</div>
+</div>
   <div class="panel panel-default panel-article">
-    <div class="panel-heading">
-              <h2 class="text-center text-color1"><?= INSTA;?></h2>
-            </div>
           <div class="panel-body row">
+            <h2 class="text-center text-color1"><?= INSTA;?></h2>
                   <div class="col-md-3">
                     <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BQAgGMRj1JQ/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Rila Mountain</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Снимка, публикувана от Stefan Stankov (@bglandmarks) на <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-02-02T11:39:01+00:00">%месец %-ден %година в %-часа:%минути%сутрин/вечер ST</time></p></div></blockquote>
     <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
