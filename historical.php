@@ -20,7 +20,7 @@
   		<div class="info">
   			<img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
         <br>
-  			<a class="btn btn-block btn-primary btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= PERPERIKON;?> </a>
+  			<a class="btn btn-block btn-primary btn-round" href="perperikon.php"><?= PERPERIKON;?> </a>
   		</div>
       </a>
   	 </div>
