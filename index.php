@@ -26,7 +26,7 @@
           </div>
           <div class="panel-body row">
           <div class="col-md-3">
-            <a class="link_color" href="utroba_cave.php">
+            <a class="link_color nounderline" href="utroba_cave.php">
           <div class="panel panel-default">
             <div class="panel-body panel-boyd-c">
               <img class="img-responsive center-block" src="assets/img/utroba_cave.jpg">
@@ -38,7 +38,7 @@
         </a>
           </div>
           <div class="col-md-3">
-            <a class="link_color" href="dam_wall.php">
+            <a class="link_color nounderline" href="dam_wall.php">
             <div class="panel panel-default">
             <div class="panel-body panel-boyd-c">
               <img class="img-responsive center-block" src="assets/img/dam_wall.jpg">
@@ -50,7 +50,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="link_color" href="ustra.php">
+            <a class="link_color nounderline" href="ustra.php">
             <div class="panel panel-default">
             <div class="panel-body panel-boyd-c">
               <img class="img-responsive center-block" src="assets/img/ustra.jpg">
@@ -62,7 +62,7 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a class="link_color" href="stone_mushrooms.php">
+            <a class="link_color nounderline" href="stone_mushrooms.php">
             <div class="panel panel-default">
             <div class="panel-body panel-boyd-c">
               <img class="img-responsive center-block" src="assets/img/stone_mushrooms.jpg">

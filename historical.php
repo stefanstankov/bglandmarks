@@ -10,20 +10,36 @@
     <h1><span class="text-color1"><?= HISTORICAL;?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h1>
       </div>
 <div class="panel-body row">
-<div class="col-md-4">
-<a class="link_color" href="perperikon.php">
-<img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
-<h5><span class="text-color"><?= PERPERIKON;?></span></h5>
-<p class="text-center"><a href="perperikon.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-</a>
-</div>
-<div class="col-md-4">
-<a class="link_color" href="ustra.php">
-<img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
-<h5><span class="text-color"><?= USTRA;?></span></h5>
-<p class="text-center"><a  href="ustra.php" class="btn btn-primary" role="button"><?= READ_MORE;?></a></p>
-</div>
-</a>
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+  	<div class="zodiac-box">
+  	  <a class="nounderline" href="perperikon.php">
+  		 <div class="box-icon">
+  			 <span class="glyphicon glyphicon-tower custom-glyphicon"></span>
+  		 </div>
+       <br>
+  		<div class="info">
+  			<img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
+        <br>
+  			<a class="btn btn-block btn-primary btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= PERPERIKON;?> </a>
+  		</div>
+      </a>
+  	 </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="zodiac-box">
+      <a class="nounderline" href="ustra.php">
+       <div class="box-icon">
+         <span class="glyphicon glyphicon-tower custom-glyphicon"></span>
+       </div>
+       <br>
+      <div class="info">
+        <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
+        <br>
+        <a class="btn btn-block btn-primary btn-round" href="ustra.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= USTRA;?> </a>
+      </div>
+      </a>
+     </div>
+  </div>
 </div>
 </div>
     </div>
