@@ -88,9 +88,6 @@ ini_set('display_errors', 1);
 
 <div id="demo" class="collapse">
 <br>
-<form action="" method="post">
-<input type="text" id="searchBar" name="search" placeholder="Search for landmarks..."/><input type="submit" id="searchBtn" value="Go!" />
-</form>
 <br>
 <table class="table table-striped table-responsive">
 <thead>
