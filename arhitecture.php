@@ -2,7 +2,6 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-
   <div class="view">
 		<div class="animated fadeInUp text-center flex-center">
       <div class="container">
