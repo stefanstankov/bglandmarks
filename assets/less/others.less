@@ -17,33 +17,37 @@
     width: 100px;
     margin-top: -61px;
 }
-.box-icon span {
-  color: #404040;
+.box-icon span{
+  color: #000;
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
 	border-radius: 50%;
-	background: #fff;
 	border: 1px solid #ccc;
+  background:#fff;
     }
+
+    .box-icon-aaa{
+      background: #EECDA3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #EF629F, #EECDA3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #EF629F, #EECDA3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+      color: #fff;
+    }
+
+    .box-icon-h{
+      background: #403B4A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+      color: #fff;
+    }
+
 .box-icon span:hover {
      -webkit-transform: translateY(-5px);
      -moz-transform: translateY(-5px);
       transform: translateY(-5px);
      }
-
-.info h4 {
-    font-size: 26px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-family:@main-color;
-}
-.info > p {
-    color: #717171;
-    font-size: 16px;
-    padding-top: 10px;
-    text-align: justify;
-}
 
 .panel1{
 margin-bottom: 100px;
@@ -175,7 +179,6 @@ padding-top: 30px;
 
 
 .index-page{
-  background-color: #ffe6e6;
   margin-top: 36px;
   padding-top: 20px;
 }
