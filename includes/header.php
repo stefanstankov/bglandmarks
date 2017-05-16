@@ -41,11 +41,7 @@ ini_set('display_errors', 1);
   <link rel="stylesheet" href="assets/css/site.css" />
 	<link rel="stylesheet" href="assets/css/normalize.css" />
 </head>
-<?php if ($_SERVER['REQUEST_URI'] == '/') { ?>
-<body class="index-page index">
-	<?php } else { ?>
-		<body class="index-page">
-	<?php } ?>
+<body class="index-page">
 	<nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
