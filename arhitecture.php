@@ -2,7 +2,7 @@
   	$pageTitle = 'Начало';
 ?>
 <?php	require 'includes/header.php';?>
-  <div class="view">
+  <div class="view panell">
 		<div class="animated fadeInUp text-center flex-center">
       <div class="container">
         <div class="panel panel-default panel-article">
