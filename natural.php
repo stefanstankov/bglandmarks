@@ -12,9 +12,9 @@
       </div>
         <div class="panel-body row">
           <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-        	<div class="zodiac-box grow">
+        	<div class="zodiac-box">
         	  <a class="nounderline" href="utroba_cave.php">
-        		 <div class="box-icon">
+        		 <div class="box-icon grow">
         			 <span class="fa fa-tree custom-glyphicon box-icon-a"></span>
         		 </div>
              <br>
@@ -27,9 +27,9 @@
         	 </div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          	<div class="zodiac-box grow">
+          	<div class="zodiac-box">
           	  <a class="nounderline" href="stone_mushrooms.php">
-          		 <div class="box-icon">
+          		 <div class="box-icon grow">
           			 <span class="fa fa-tree custom-glyphicon box-icon-a"></span>
           		 </div>
                <br>
@@ -42,9 +42,9 @@
           	 </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          	<div class="zodiac-box grow">
+          	<div class="zodiac-box">
           	  <a class="nounderline" href="eagle_rocks.php">
-          		 <div class="box-icon">
+          		 <div class="box-icon grow">
           			 <span class="fa fa-tree custom-glyphicon box-icon-a"></span>
           		 </div>
                <br>

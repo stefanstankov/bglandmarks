@@ -28,7 +28,7 @@
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
       	<div class="zodiac-box grow">
       	  <a class="nounderline" href="statue.php">
-      		 <div class="box-icon">
+      		 <div class="box-icon grow">
       			 <span class="fa fa-university custom-glyphicon box-icon-a"></span>
       		 </div>
            <br>
@@ -43,7 +43,7 @@
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
     	<div class="zodiac-box grow">
     	  <a class="nounderline" href="devil_bridge.php">
-    		 <div class="box-icon">
+    		 <div class="box-icon grow">
     			 <span class="fa fa-university custom-glyphicon box-icon-a"></span>
     		 </div>
          <br>

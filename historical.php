@@ -26,9 +26,9 @@
   	 </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="zodiac-box grow">
+    <div class="zodiac-box">
       <a class="nounderline" href="ustra.php">
-       <div class="box-icon">
+       <div class="box-icon grow">
          <span class="glyphicon glyphicon-tower custom-glyphicon box-icon-a"></span>
        </div>
        <br>
