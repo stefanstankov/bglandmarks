@@ -24,14 +24,14 @@
 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
   <div class="zodiac-box">
     <a class="nounderline" href="dam_wall.php">
-     <div class="box-icon ">
+     <div class="box-icon grow ">
        <span class="fa fa-university custom-glyphicon box-icon-a"></span>
      </div>
      <br>
     <div class="info">
       <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>">
       <br>
-      <a class="btn btn-block box-icon-h btn-round" href="dam_wall.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= Kardzhali_Dam;?> </a>
+      <a class="btn btn-block box-icon-h btn-round" href="dam_wall.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= Kardzhali_Dam;?> </a>
     </div>
     </a>
    </div>
@@ -39,20 +39,20 @@
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
     <div class="zodiac-box">
       <a class="nounderline" href="perperikon.php">
-       <div class="box-icon">
+       <div class="box-icon grow">
          <span class="glyphicon glyphicon-tower custom-glyphicon box-icon-a"></span>
        </div>
        <br>
       <div class="info">
         <img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
         <br>
-        <a class="btn btn-block box-icon-h btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= PERPERIKON;?> </a>
+        <a class="btn btn-block box-icon-h btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= PERPERIKON;?> </a>
       </div>
       </a>
      </div>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-      <div class="zodiac-box">
+      <div class="zodiac-box grow">
         <a class="nounderline" href="stone_mushrooms.php">
          <div class="box-icon">
            <span class="fa fa-tree custom-glyphicon box-icon-a"></span>
@@ -61,7 +61,7 @@
         <div class="info">
           <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
           <br>
-          <a class="btn btn-block box-icon-h btn-round" href="stone_mushrooms.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= STONE;?> </a>
+          <a class="btn btn-block box-icon-h btn-round" href="stone_mushrooms.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= STONE;?> </a>
         </div>
         </a>
        </div>

@@ -13,20 +13,20 @@
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
   	<div class="zodiac-box">
   	  <a class="nounderline" href="perperikon.php">
-  		 <div class="box-icon">
+  		 <div class="box-icon grow">
   			 <span class="glyphicon glyphicon-tower custom-glyphicon box-icon-a"></span>
   		 </div>
        <br>
   		<div class="info">
   			<img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
         <br>
-  			<a class="btn btn-block box-icon-h btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= PERPERIKON;?> </a>
+  			<a class="btn btn-block box-icon-h btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= PERPERIKON;?> </a>
   		</div>
       </a>
   	 </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="zodiac-box">
+    <div class="zodiac-box grow">
       <a class="nounderline" href="ustra.php">
        <div class="box-icon">
          <span class="glyphicon glyphicon-tower custom-glyphicon box-icon-a"></span>
@@ -35,7 +35,7 @@
       <div class="info">
         <img src="assets/img/ustra.jpg" class="img-responsive" alt="<?= USTRA;?>">
         <br>
-        <a class="btn btn-block box-icon-h btn-round" href="ustra.php"><i class="fa fa-arrow-right" aria-hidden="true"></i><?= USTRA;?> </a>
+        <a class="btn btn-block box-icon-h btn-round" href="ustra.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= USTRA;?> </a>
       </div>
       </a>
      </div>
