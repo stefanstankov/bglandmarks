@@ -45,6 +45,28 @@
     </div>
   </div>
 </div>
+<div class="modal fade" id="admin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content log-modal">
+      <div class="modal-header text-center">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+      </button>
+        <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
+      </div>
+      <div class="modal-body text-center">
+        <p>
+          <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred">Username</span></i><input type="text" class="form-input">
+        </p>
+        <p>
+          <i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1">Password</span></i><input type="password"class="form-input">
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?></button>
+      </div>
+    </div>
+  </div>
+</div>
 <!--  End Modal -->
 </div>
 </body>
