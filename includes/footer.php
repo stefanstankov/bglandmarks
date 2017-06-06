@@ -40,7 +40,7 @@
         </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-danger btn-simple btn-simple-custom" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-danger btn-simple" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -48,18 +48,18 @@
 <div class="modal fade" id="admin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content ">
-      <div class="modal-header text-center">
+      <div class="modal-header log-modal text-center">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+          <i class="material-icons">clear</i>
       </button>
         <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
       </div>
-      <div class="modal-body text-center">
-        <p>
-          <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred">Username</span></i><input type="text" class="form-input">
-        </p>
-        <p>
-          <i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1">Password</span></i><input type="password"class="form-input">
-        </p>
+      <div class="modal-body">
+   <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred">Username</span></i>
+   <input type="text" placeholder="Enter Username" name="uname" required>
+
+  <i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1">Password</span></i>
+   <input type="password" placeholder="Enter Password" name="psw" required>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?><i class="fa fa-paw" aria-hidden="true"></i>
