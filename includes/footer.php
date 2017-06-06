@@ -54,14 +54,14 @@
       </button>
         <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
       </div>
-      <div class="modal-body">
+      <div class="modal-body log-modal1">
    <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred">Username</span></i>
    <input type="text" placeholder="Enter Username" name="uname" required>
 
   <i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1">Password</span></i>
    <input type="password" placeholder="Enter Password" name="psw" required>
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer log-modal1">
         <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?><i class="fa fa-paw" aria-hidden="true"></i>
 
         </button>
