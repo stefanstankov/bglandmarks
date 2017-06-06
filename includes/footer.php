@@ -49,9 +49,7 @@
   <div class="modal-dialog">
     <div class="modal-content ">
       <div class="modal-header log-modal text-center">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-          <i class="fa fa-window-close-o" aria-hidden="true"></i>
-
+      <span class="pull-right"><a class="text-color1" href='/'><i class="fa fa-times custom-glyphicon2" aria-hidden="true"></i></a></span>
       </button>
         <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
       </div>
