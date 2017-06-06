@@ -37,6 +37,8 @@ define('LINKS', 'Links');
 define('QL', 'Quick Links');
 define('ADMIN', 'Administrator');
 define('LOGIN', 'Sign in');
+define('USERNAME', 'Username:');
+define('PASSWORD', 'Password:');
 define('INSTA', '<span class="text-color1">From our instagram feed</span>');
 define('ABOUT_US_MESSAGE', 'This site is under development. Please anyone who wants to help send us pictures of the landmarks of the area in which he lives. Thank you!');
 define('ABOUT_BG', '<p class="aboutbg">Republic of Bulgaria is a country in southeastern Europe , in the eastern part of the Balkan Peninsula and occupies 23% of its territory. Bordered on the north by Romania ; on the west by Serbia and Macedonia ; south to Greece and to the southeast of Turkey . To the east, along the coastline, the country is washed by the waters of the Black Sea .</p> <p class="text-left aboutbg">With almost 111 thousand km² respectively area and 7.153 million people, Bulgaria ranks 11th and 16th place respectively in area and population in the European Union</p></blockquote>');
