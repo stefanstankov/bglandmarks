@@ -62,7 +62,9 @@
         </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?></button>
+        <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?><i class="fa fa-paw" aria-hidden="true"></i>
+
+        </button>
       </div>
     </div>
   </div>
