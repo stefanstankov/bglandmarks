@@ -40,14 +40,14 @@
         </p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-danger btn-simple" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-danger btn-simple btn-simple-custom" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
 <div class="modal fade" id="admin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
-    <div class="modal-content log-modal">
+    <div class="modal-content ">
       <div class="modal-header text-center">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
       </button>
