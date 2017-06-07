@@ -32,14 +32,13 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
 	<!-- CSS Files -->
 
-	<link rel="stylesheet" href="assets/css/animate.css" />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" href="/assets/css/animate.css" />
+	<link rel="stylesheet" href="/assets/bootstrap/dist/css/bootstrap.min.css">
 	<link href="/assets/css/app.css" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/css/site.css" />
-	<link rel="stylesheet" href="assets/css/normalize.css" />
+  <link rel="stylesheet" href="/assets/css/site.css" />
+	<link rel="stylesheet" href="/assets/css/normalize.css" />
 </head>
 <body class="index-page">
 	<nav class="navbar navbar-default navbar-fixed-top">

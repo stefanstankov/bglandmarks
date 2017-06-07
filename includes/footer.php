@@ -30,7 +30,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-        <i class="material-icons">clear</i>
+        <i class="material-icons">close</i>
       </button>
         <h4 class="modal-title"><span class="about-custom"><?= ABOUT_US;?></span></h4>
       </div>
@@ -49,7 +49,8 @@
   <div class="modal-dialog">
     <div class="modal-content ">
       <div class="modal-header log-modal text-center">
-      <span class="pull-right"><a class="text-color1" href='/'><i class="fa fa-times custom-glyphicon2" aria-hidden="true"></i></a></span>
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+  <span class="pull-right"><i class="fa fa-times custom-glyphicon2" aria-hidden="true"></i></span>
       </button>
         <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
       </div>
@@ -72,11 +73,11 @@
 </div>
 <!--  End Modal -->
 </div>
+<div id="fb-root"></div>
 </body>
-<!--   Core JS Files   -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="/assets/bootstrap/dist/js/jquery.min.js"></script>
+<script src="/assets/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="/assets/js/material.min.js"></script>
 
 <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
@@ -87,16 +88,15 @@
 
 <!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
 <script src="/assets/js/material-kit.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
  <script src="/assets/js/pushy.min.js"></script>
- <script src="/assets/js/libs/jquery.min.js"></script>
+
 <script src="/assets/js/jquery.flexslider-min.js"></script>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <script src="/assets/js/ie-emulation-modes-warning.js"></script>
 <script src="/assets/js/"></script>
 <script type="text/javascript" charset="UTF-8" src="landmarks.json">
 
-<div id="fb-root"></div>
+
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -118,10 +118,10 @@ $("#menu-toggle").on("click", function(e){
 <script>
 $(document).ready(function(){
   $("#demo").on("hide.bs.collapse", function(){
-    $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Read more');
+      $(".btn").html('<?= QL;?>');
   });
   $("#demo").on("show.bs.collapse", function(){
-    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Read less');
+    $(".btn").html('<?= QL;?>');
   });
 
   $('input#searchBar').keyup(function () {
