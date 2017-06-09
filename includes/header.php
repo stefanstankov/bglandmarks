@@ -80,8 +80,6 @@ ini_set('display_errors', 1);
 </nav>
 <div class="jumbotron">
   <div class="container">
-
-
 <div id="demo" class="collapse">
 <br>
 <br>
