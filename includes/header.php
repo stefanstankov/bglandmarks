@@ -33,7 +33,6 @@ ini_set('display_errors', 1);
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
 	<!-- CSS Files -->
-
 	<link rel="stylesheet" href="/assets/css/animate.css" />
 	<link rel="stylesheet" href="/assets/bootstrap/dist/css/bootstrap.min.css">
 	<link href="/assets/css/app.css" rel="stylesheet" />
