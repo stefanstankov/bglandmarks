@@ -81,44 +81,44 @@ ini_set('display_errors', 1);
 <div id="demo" class="collapse">
 <br>
 <br>
-<table class="table table-striped table-responsive">
-<thead>
-<tr>
-<th>#</th>
-<th><span class="text-color1">Natural</span></th>
-<th><span class="text-color1">Arhitectural</span></th>
-<th><span class="text-color1">Historical</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row">1</th>
-<td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
-<td><a href="museum.php"><?= MUSEUM;?></a></td>
-<td><a href="ustra.php"><?= USTRA;?></a></td>
-</tr>
-<tr>
-<th scope="row">2</th>
-<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
-<td><a href="statue.php"><?= STATUE;?></a></td>
-<td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
-</tr>
-<tr>
-<th scope="row">3</th>
-<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
-<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
-</tr>
-<tr>
-<th scope="row">4</th>
-<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
-<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
-</tr>
-<tr>
-<th scope="row">5</th>
-<td><a href="forest.php"><?= FOREST;?></a></a></td>
-</tr>
-</tbody>
-</table>
+	<table class="table table-striped table-responsive">
+	<thead>
+	<tr>
+	<th>#</th>
+	<th><span class="text-color1">Natural</span></th>
+	<th><span class="text-color1">Arhitectural</span></th>
+	<th><span class="text-color1">Historical</span></th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+	<th scope="row">1</th>
+	<td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
+	<td><a href="museum.php"><?= MUSEUM;?></a></td>
+	<td><a href="ustra.php"><?= USTRA;?></a></td>
+	</tr>
+	<tr>
+	<th scope="row">2</th>
+	<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
+	<td><a href="statue.php"><?= STATUE;?></a></td>
+	<td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
+	</tr>
+	<tr>
+	<th scope="row">3</th>
+	<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
+	<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
+	</tr>
+	<tr>
+	<th scope="row">4</th>
+	<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
+	<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
+	</tr>
+	<tr>
+	<th scope="row">5</th>
+	<td><a href="forest.php"><?= FOREST;?></a></a></td>
+	</tr>
+	</tbody>
+	</table>
 </div>
 </div>
 </div>
