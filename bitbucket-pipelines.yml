@@ -12,4 +12,5 @@ pipelines:
   default:
     - step:
         script: # Modify the commands below to build your repository.
+          - chmod +x heroku-deploy.sh
           - ./heroku-deploy.sh
