@@ -17,7 +17,6 @@ ini_set('display_errors', 1);
 ?>
 <!doctype html>
 <html lang="bg">
-
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
