@@ -77,9 +77,6 @@ ini_set('display_errors', 1);
 	</div>
 </nav>
 
-<h1>TEST</h1>
-
-
 <div class="jumbotron">
   <div class="container">
 <div id="demo" class="collapse">
