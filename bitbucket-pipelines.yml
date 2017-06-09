@@ -10,5 +10,5 @@ pipelines:
     master:
       - step:
           script: # Modify the commands below to build your repository.
-            - "[[ ! -s \"$(git rev-parse --git-dir)/shallow\" ]] || git fetch --unshallow"
+           
             - git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
