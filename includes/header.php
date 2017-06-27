@@ -11,9 +11,7 @@ $_SESSION['language'] = $_GET['language'];
 if(isset($_SESSION['language'])){
 include($_SESSION['language'].'.php');
 }
-//* TODO remove debug infoo after deployment */
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+
 ?>
 <!doctype html>
 <html lang="bg">
@@ -25,7 +23,7 @@ ini_set('display_errors', 1);
 	<link rel="icon" type="image/png" href="/assets/img/favicon.ico">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto:300&amp;subset=cyrillic" rel="stylesheet">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<title><?php echo $pageTitle; ?> - Bulgarian Landmarks</title>
+	<title> Bulgarian Landmarks</title>
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 	<!--     Fonts and icons     -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />

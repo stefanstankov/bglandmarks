@@ -1,5 +1,4 @@
 <footer class="footer footer-color clearfix">
-
 <div class="container ">
   <div class="row">
     <div class="col-sm-6">
@@ -45,32 +44,32 @@
     </div>
   </div>
 </div>
+
+<form method="POST" action="admin.php">
 <div class="modal fade" id="admin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content ">
-      <div class="modal-header log-modal text-center">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-  <span class="pull-right"><i class="fa fa-times custom-glyphicon2" aria-hidden="true"></i></span>
-      </button>
-        <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
-      </div>
-      <div class="modal-body">
-        <form method="post" action="login.php">
-   <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred"><?=USERNAME;?></span></i>
-   <input type="text" placeholder="Enter Username" name="uname" required>
-
-  <i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1"><?= PASSWORD;?></span></i>
-   <input type="password" placeholder="Enter Password" name="psw" required>
- </form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-simple btn-simple-custom" data-dismiss="modal"><?= LOGIN;?><i class="fa fa-paw" aria-hidden="true"></i>
-
-        </button>
-      </div>
+<div class="modal-dialog">
+<div class="modal-content ">
+<div class="modal-header log-modal text-center">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+<span class="pull-right"><i class="fa fa-times custom-glyphicon2" aria-hidden="true"></i></span>
+</button>
+<h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
+</div>
+<div class="modal-body">
+<i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred"><?=USERNAME;?></span></i>
+<input type="text" placeholder="Enter Username" name="username" required>
+<i class="fa fa-lock custom-glyphicon1" aria-hidden="true"><span class="cred1"><?= PASSWORD;?></span></i>
+<input type="password" placeholder="Enter Password" name="password" required>
+</div>
+<div class="modal-footer">
+<button type="submit" class="btn btn-simple btn-simple-custom"><?= LOGIN;?><i class="fa fa-paw" aria-hidden="true"></i>
+</button>
+</div>
+</form>
     </div>
   </div>
 </div>
+ </form>
 <!--  End Modal -->
 </div>
 <div id="fb-root"></div>
