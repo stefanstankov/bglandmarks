@@ -55,7 +55,7 @@
         <h4 class="modal-title"><span class="admin-modal"><?= ADMIN;?></span></h4>
       </div>
       <div class="modal-body">
-        <form>
+        <form method="post" action="login.php">
    <i class="fa fa-user-o custom-glyphicon1" aria-hidden="true"><span class="cred"><?=USERNAME;?></span></i>
    <input type="text" placeholder="Enter Username" name="uname" required>
 
