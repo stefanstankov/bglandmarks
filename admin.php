@@ -28,7 +28,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
  <?php require 'includes/header.php' ?>
 
 
-<h2 class="text-center"> Welcome to admin page !!!! </h2>
+<h2 id="adminpage" class="text-center"> Welcome to admin page !!!! </h2>
 
 
  <?php require 'includes/footer.php' ?>
