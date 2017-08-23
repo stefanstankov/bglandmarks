@@ -15,7 +15,7 @@ include($_SESSION['language'].'.php');
 }
 
 
-$db = dataBase::init();
+$db =  dataBase::init();
 
 	$lang = $_SESSION['language'];
 	$query = 'select * from CATEGORIES where lang="'.$lang.'";';
