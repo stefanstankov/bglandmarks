@@ -49,15 +49,22 @@ $pageTitle = $row['title'];
 								</tr>
 							</thead>
 							<tbody class="text-left">
+
+                <?php
+                  $lang = $_SESSION['language'];
+
+                  $query = 'select * from landmarks where category='.$row['category'].' and lang="'.$lang.'" limit 3;';
+                  $posts = $db->query($query);
+                  $related = $posts->fetchAll(PDO::FETCH_ASSOC);
+                  foreach($related as $rPost) {
+                ?>
 								<tr>
-									<td><a href="museum.php"><?= MUSEUM;?></a></td>
+									<td><a href="/post.php?post=<?=$rPost['post_id']?>"><?= $rPost['title']; ?></a></td>
 								</tr>
-									<tr>
-									<td><a href="statue.php"><?= STATUE;?></a></td>
-								</tr>
-								<tr>
-									<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
-							</tr>
+                <?php } ?>
+
+
+
 							</tbody>
 							</table>
 							<table class="table">
