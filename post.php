@@ -67,18 +67,6 @@ $pageTitle = $row['title'];
 
 							</tbody>
 							</table>
-							<table class="table">
-								<thead>
-									<tr>
-										<th><span class="text-color1"><?= LINKS;?></span></th>
-									</tr>
-								</thead>
-								<tbody class="text-left">
-										<tr>
-										<td><a href="https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D0%B8_%D1%81%D0%BA%D0%B0%D0%BB%D0%B8"><i class="fa fa-wikipedia-w" aria-hidden="true"></i><?= EAGLE_ROCKS;?></a></td>
-									</tr>
-								</tbody>
-								</table>
 					</div>
 
 					<div class="col-md-12">
