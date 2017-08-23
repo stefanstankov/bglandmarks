@@ -13,17 +13,19 @@ $_SESSION['language'] = $_GET['language'];
 if(isset($_SESSION['language'])){
 include($_SESSION['language'].'.php');
 }
-
-
 $db =  dataBase::init();
 
+try {
 	$lang = $_SESSION['language'];
 	$query = 'select * from CATEGORIES where lang="'.$lang.'";';
 	$row = $db->query($query);
 	$categories = $row->fetchAll(PDO::FETCH_ASSOC);
-	if(!$categories) {
-		http_response_code(404);
-	}
+} catch(Exception $e) {
+	echo $e;
+}
+
+
+
 
 
 ?>
