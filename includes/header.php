@@ -1,4 +1,6 @@
 <?php
+include_once 'classes/dataBase.php';
+
 session_start();
 if(!isset($_SESSION['language'])){
 		 $_SESSION['language'] = 'en';
@@ -11,6 +13,18 @@ $_SESSION['language'] = $_GET['language'];
 if(isset($_SESSION['language'])){
 include($_SESSION['language'].'.php');
 }
+
+
+$db = dataBase::init();
+
+	$lang = $_SESSION['language'];
+	$query = 'select * from CATEGORIES where lang="'.$lang.'";';
+	$row = $db->query($query);
+	$categories = $row->fetchAll(PDO::FETCH_ASSOC);
+	if(!$categories) {
+		http_response_code(404);
+	}
+
 
 ?>
 <!doctype html>
@@ -56,9 +70,13 @@ include($_SESSION['language'].'.php');
 						 <ul class="dropdown-menu">
 							 <li class="dropdown-header"><span class="text-color1"><?= LANDMARKS;?></span></li>
 								<li role="separator" class="divider"></li>
-								<li><a href="natural.php"><i class="fa fa-tree" aria-hidden="true"></i><span class="text-color"><?= NATURAL;?></span></a></li>
-								<li><a href="arhitecture.php"><i class="fa fa-university" aria-hidden="true"></i><span class="text-color"><?= ARCHITECTURAL;?></span></a></li>
-								<li><a href="historical.php"><span class="glyphicon glyphicon-tower " aria-hidden="true"></span><span class="text-color"><?= HISTORICAL;?></span></a></li>
+								<?php foreach($categories as $category) { ?>
+									<li><a href="/category.php?category=<?=$category['cat_id']?>" ><i class="fa <?=$category['icon']?>" aria-hidden="true"></i><span class="text-color"><?= $category['title'];?></span></a></li>
+								<?php	} ?>
+
+
+
+
 							 <li role="separator" class="divider"></li>
 							 <li><a href="gallery.php"><span class="text-color"><?= GALLERY;?></span></a></li>
 						 </ul>

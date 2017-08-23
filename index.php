@@ -2,6 +2,40 @@
   	$pageTitle = 'Начало';
 
  		require 'includes/header.php';
+    include_once 'classes/dataBase.php';
+    $db = dataBase::init();
+
+      $lang = $_SESSION['language'];
+
+    try {
+      $query = "select value from settings where name='structureCreated'";
+      $settings = $db->query($query);
+      $row = $settings->fetch(PDO::FETCH_ASSOC);
+      $settingsCreated = $row['value'];
+
+    } catch(Exception $e) {
+      $settingsCreated = "false";
+      echo "Tables not created\n";
+    }
+
+    if($settingsCreated != "true") {
+      echo "Initialising";
+      $db->initDb();
+      echo "Tables created";
+    }
+
+
+    try {
+      $cats = array();
+      $query = 'select * from categories where lang="'.$lang.'";';
+      $categories = $db->query($query);
+      $cats = $categories->fetchAll(PDO::FETCH_ASSOC);
+    } catch(Exception $e) {
+          exit($e);
+    }
+
+
+
 ?>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -21,51 +55,41 @@
 </div>
 <div class="container">
 <div class="row">
-<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-  <div class="zodiac-box">
-    <a class="nounderline" href="dam_wall.php">
-     <div class="box-icon grow ">
-       <span class="fa fa-university custom-glyphicon box-icon-a"></span>
-     </div>
-     <br>
-    <div class="info">
-      <img src="assets/img/dam_wall.jpg" class="img-responsive" alt="<?= Kardzhali_Dam;?>">
-      <br>
-      <a class="btn btn-block box-icon-h btn-round" href="dam_wall.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= Kardzhali_Dam;?> </a>
-    </div>
-    </a>
-   </div>
-  </div>
+
+
+<?php foreach($cats as $cat) {
+
+  try {
+    $query = 'select * from landmarks where lang="'.$lang.'" and category="'.$cat['cat_id'].'";';
+    $postsQuery = $db->query($query);
+    $post = $postsQuery->fetch(PDO::FETCH_ASSOC);
+  } catch(Exception $e) {
+        exit($e);
+  }
+
+   ?>
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
     <div class="zodiac-box">
-      <a class="nounderline" href="perperikon.php">
-       <div class="box-icon grow">
-         <span class="glyphicon glyphicon-tower custom-glyphicon box-icon-a"></span>
+      <a class="nounderline" href="/post.php?post=<?=$post["post_id"]; ?>">
+       <div class="box-icon grow ">
+         <span class="fa <?=$cat['icon'] ?> custom-glyphicon box-icon-a"></span>
        </div>
        <br>
       <div class="info">
-        <img src="assets/img/perperikon.jpg" class="img-responsive" alt="<?= PERPERIKON;?>">
+        <?php $image = explode(",",$post['image']); ?>
+
+        <img src="assets/img/<?=$image[0] ?>" class="img-responsive" alt="<?= ucwords($post['title']); ?>">
         <br>
-        <a class="btn btn-block box-icon-h btn-round" href="perperikon.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= PERPERIKON;?> </a>
+        <a class="btn btn-block box-icon-h btn-round" href="/post.php?post=<?=$post["post_id"]; ?>"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= ucwords($post['title']); ?> </a>
       </div>
       </a>
      </div>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-      <div class="zodiac-box grow">
-        <a class="nounderline" href="stone_mushrooms.php">
-         <div class="box-icon grow">
-           <span class="fa fa-tree custom-glyphicon box-icon-a"></span>
-         </div>
-         <br>
-        <div class="info">
-          <img src="assets/img/stone_mushrooms.jpg" class="img-responsive" alt="<?= STONE;?>">
-          <br>
-          <a class="btn btn-block box-icon-h btn-round" href="stone_mushrooms.php"><i class="fa fa-arrow-right" aria-hidden="true"></i> <?= STONE;?> </a>
-        </div>
-        </a>
-       </div>
-      </div>
+<?php } ?>
+
+
+
+
   </div>
   </div>
 <div class="animated fadeInUp container">
