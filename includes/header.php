@@ -77,8 +77,6 @@ try {
 								<?php	} ?>
 
 
-
-
 							 <li role="separator" class="divider"></li>
 							 <li><a href="gallery.php"><span class="text-color"><?= GALLERY;?></span></a></li>
 						 </ul>
@@ -100,44 +98,33 @@ try {
 <div id="demo" class="collapse">
 <br>
 <br>
-	<table class="table table-striped table-responsive">
-	<thead>
-	<tr>
-	<th>#</th>
-	<th><span class="text-color1">Natural</span></th>
-	<th><span class="text-color1">Arhitectural</span></th>
-	<th><span class="text-color1">Historical</span></th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-	<th scope="row">1</th>
-	<td><a href="utroba_cave.php"><?= UTROBA;?></a></td>
-	<td><a href="museum.php"><?= MUSEUM;?></a></td>
-	<td><a href="ustra.php"><?= USTRA;?></a></td>
-	</tr>
-	<tr>
-	<th scope="row">2</th>
-	<td><a href="stone_mushrooms.php"><?= STONE;?></a></td>
-	<td><a href="statue.php"><?= STATUE;?></a></td>
-	<td><a href="perperikon.php"><?= PERPERIKON;?></a></td>
-	</tr>
-	<tr>
-	<th scope="row">3</th>
-	<td><a href="eagle_rocks.php"><?= EAGLE_ROCKS;?></a></td>
-	<td><a href="dam_wall.php"><?= Kardzhali_Dam;?></a></td>
-	</tr>
-	<tr>
-	<th scope="row">4</th>
-	<td><a href="swan_village.php"><?= SWAN_VILLAGE;?></a></td>
-	<td><a href="devil_bridge.php"><?= BRIDGE;?></a></td>
-	</tr>
-	<tr>
-	<th scope="row">5</th>
-	<td><a href="forest.php"><?= FOREST;?></a></a></td>
-	</tr>
-	</tbody>
-	</table>
+<div class="row">
+
+	<?php foreach($categories as $category) { ?>
+<div class="col-md-4"><span class="text-color1"><?=$category['title'] ?></span></div>
+
+	<?php } ?>
+
+
+	<?php foreach($categories as $category) {
+		try {
+			$query = 'select * from landmarks where lang="'.$lang.'" and category="'.$category['cat_id'].'" limit 3;';
+			$postsQuery = $db->query($query);
+			$post = $postsQuery->fetchAll(PDO::FETCH_ASSOC);
+		} catch(Exception $e) {
+					exit($e);
+		}
+		echo '<div class="col-md-4"><ul class="list-unstyled">';
+	 foreach($post as $p) { ?>
+
+		<li class=""><a href="/post.php?post=<?=$p['post_id']?>"><?= $p['title']; ?></a></li>
+	<?php } ?>
+	</ul>
+	</div>
+
+	<?php } ?>
+
+
 </div>
 </div>
 </div>

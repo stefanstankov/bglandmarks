@@ -63,8 +63,6 @@ $pageTitle = $row['title'];
 								</tr>
                 <?php } ?>
 
-
-
 							</tbody>
 							</table>
 					</div>
