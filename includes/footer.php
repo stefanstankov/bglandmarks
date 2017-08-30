@@ -117,10 +117,10 @@ $("#menu-toggle").on("click", function(e){
 <script>
 $(document).ready(function(){
   $("#demo").on("hide.bs.collapse", function(){
-      $(".btn").html('<?= QL;?>');
+      $(".custombtn").html('<?= QL;?>');
   });
   $("#demo").on("show.bs.collapse", function(){
-    $(".btn").html('<?= QL;?>');
+    $(".custombtn").html('<?= QL;?>');
   });
 
   $('input#searchBar').keyup(function () {
