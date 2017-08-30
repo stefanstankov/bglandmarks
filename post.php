@@ -48,7 +48,7 @@ $pageTitle = $row['title'];
 									<th><?= LANDMARK_NAME;?></th>
 								</tr>
 							</thead>
-							<tbody class="text-left">
+							<tbody class="text-left ">
 
                 <?php
                   $lang = $_SESSION['language'];
@@ -59,7 +59,7 @@ $pageTitle = $row['title'];
                   foreach($related as $rPost) {
                 ?>
 								<tr>
-									<td><a href="/post.php?post=<?=$rPost['post_id']?>"><?= $rPost['title']; ?></a></td>
+									<td><a class="text-color" href="/post.php?post=<?=$rPost['post_id']?>"><?= $rPost['title']; ?></a></td>
 								</tr>
                 <?php } ?>
 
