@@ -117,7 +117,7 @@ try {
 		echo '<div class="col-md-4"><ul class="list-unstyled">';
 	 foreach($post as $p) { ?>
 
-		<li class=""><a href="/post.php?post=<?=$p['post_id']?>"><?= $p['title']; ?></a></li>
+		<li class="quicklinks"><a href="/post.php?post=<?=$p['post_id']?>"><?= $p['title']; ?></a></li>
 	<?php } ?>
 	</ul>
 	</div>
