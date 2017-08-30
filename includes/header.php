@@ -81,7 +81,7 @@ try {
 							 <li><a href="gallery.php"><span class="text-color"><?= GALLERY;?></span></a></li>
 						 </ul>
 					 </li>
-					<li><a href="#" class="btn hidden-xs" id="menu-toggle" data-toggle="collapse" data-target="#demo"><?= QL;?></a></li>
+					<!--<li><a href="#" class="btn hidden-xs" id="menu-toggle" data-toggle="collapse" data-target="#demo"><?= QL;?></a></li>-->
 					<li><a href="#" data-toggle="modal" data-target="#aboutus"><?= ABOUT_US;?></a></li>
 					<li><a href="#" data-toggle="modal" data-target="#admin"><?= ADMIN;?></a></li>
 					 <li><a href='?language=bg'><img src="/assets/img/bg_new.png"/></a></li>
@@ -92,7 +92,7 @@ try {
 		</div><!--/.nav-collapse -->
 	</div>
 </nav>
-
+  <!--
 <div class="jumbotron">
   <div class="container">
 <div id="demo" class="collapse">
@@ -128,3 +128,4 @@ try {
 </div>
 </div>
 </div>
+-->
