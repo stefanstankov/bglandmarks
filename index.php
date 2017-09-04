@@ -44,7 +44,7 @@
   <div class="container cw">
    <div class="row">
      <div class="col-md-12">
-   <h1 style="background-color:rgba(0,0,0,.3);" class="cw text-color1"><?= WELCOME;?></h1>
+   <h1 sstyle="background-color:rgba(0,0,0,.3);" class="cw text-color1"><?= WELCOME;?></h1>
  </div>
  </div>
  </div>
