@@ -25,7 +25,7 @@
     </footer>
 <!-- Sart Modal -->
 <div class="modal fade" id="aboutus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
+  <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
@@ -47,7 +47,7 @@
 
 <form method="POST" action="admin.php">
 <div class="modal fade" id="admin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
+<div class="modal-dialog" role="document">
 <div class="modal-content ">
 <div class="modal-header log-modal text-center">
 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
@@ -66,11 +66,10 @@
 </button>
 </div>
 </form>
-    </div>
-  </div>
-</div>
- </form>
+
 <!--  End Modal -->
+</div>
+</div>
 </div>
 <div id="fb-root"></div>
 </body>
