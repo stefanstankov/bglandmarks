@@ -28,7 +28,7 @@ define('USTRA', 'Ustra Medieval Fortress');
 define('UTROBA', 'Utroba Cave (The Womb Cave)');
 define('READ_MORE', 'Read more');
 define('MORE_INFO', 'More information');
-define('WELCOME', '<p class="welcome text-muted"> Welcome</p>');
+define('WELCOME', 'Welcome');
 define('LOCATION', '<span class="text-color1">Location</span>');
 define('FROM_CATEGORY', 'From the category');
 define('FROM_YOUTUBE', '<span class="text-color1">From YouTube</span>');
