@@ -41,7 +41,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <div class="animated fadeInUp container text-justify">
-<<<<<<< HEAD
   <div class="row cdiv">
      <div class="col-md-12">
    <img src="/assets/img/snow1.JPG" class="img-responsive">
@@ -50,8 +49,6 @@
   <br>
   <br>
   <br>
-=======
->>>>>>> parent of 55383f6... msg
   <div class="container cw">
    <div class="row">
      <div class="col-md-12">
