@@ -42,21 +42,22 @@
 
 
 <div class="animated fadeInUp container text-justify">
+  <div class="container">
   <div class="row cdiv">
      <div class="col-md-12">
    <img src="/assets/img/snow1.JPG" class="img-responsive">
  </div>
   </div>
-  <div class="container cw">
-   <div class="row">
-     <div class="col-md-12">
-   <h1 sstyle="background-color:rgba(0,0,0,.3);" class="cw text-color1"><?= WELCOME;?></h1>
+    </div>
+  <br>
+  <div class="container">
+        <div class="panel panel-default panel-article">
+          <div class="panel-heading cw">
+   <h1 class="cw text-color1"><?= WELCOME;?></h1>
   </div>
-  </div>
-  </div>
-    <div class="panel panel-default panel-article">
       <div class="custom-p-footer panel-body row">
 <?=ABOUT_BG;?>
+</div>
 </div>
 </div>
 </div>
