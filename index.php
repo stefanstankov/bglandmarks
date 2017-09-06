@@ -181,10 +181,7 @@
                           </div>
                               </div>
                             </div>
-
-         <br>
-         <br>
-         </div>
+ </div>
        <script>
     function initMap() {
       var uluru = {lat:42.697626, lng: 23.322284};
