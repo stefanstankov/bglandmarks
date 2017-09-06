@@ -43,13 +43,7 @@
 <br>
 <br>
 <div class="animated fadeInUp container text-justify">
-  <div class="container">
-  <div class="row cdiv">
-     <div class="col-md-12">
-   <img src="/assets/img/snow1.JPG" class="img-responsive">
- </div>
-  </div>
-    </div>
+
   <br>
   <div class="container">
         <div class="panel panel-default panel-article">
