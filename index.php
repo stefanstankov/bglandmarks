@@ -100,6 +100,7 @@
 
   </div>
   </div>
+  <div class="container-fluid backgr">
 <div class="animated fadeInUp container">
   <div class="panel panel-default panel-article">
     <div class="panel-heading">
@@ -161,6 +162,7 @@
                     <span class="sr-only">Next</span>
                   </a>
                 </div>
+              </div>
               </div>
               </div>
               </div>
