@@ -40,7 +40,7 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<div class="container-fluid backgr hidden-xs">
+
 <div class="animated fadeInUp container text-justify">
   <div class="row cdiv">
      <div class="col-md-12">
@@ -98,8 +98,6 @@
 <?php } ?>
   </div>
   </div>
-  </div>
-  <div class="container-fluid backgr1 hidden-xs">
     <br>
     <br>
     <br>
@@ -188,7 +186,6 @@
 
          <br>
          <br>
-         </div>
        <script>
     function initMap() {
       var uluru = {lat:42.697626, lng: 23.322284};

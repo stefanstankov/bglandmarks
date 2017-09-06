@@ -26,7 +26,7 @@
           exit($e);
     }
 ?>
-<div class="container-fluid backgr">
+
     <div class="view">
     <div class="animated fadeInUp text-center flex-center">
       <div class="container">
@@ -61,5 +61,4 @@
     </div>
       </div>
       </div>
-          </div>
         	<?php require 'includes/footer.php' ?>
