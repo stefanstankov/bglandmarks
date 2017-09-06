@@ -93,7 +93,7 @@ try {
 	</div>
 </nav>
 
-<div class="jumbotron">
+<div class="jumbotron quicklinks">
   <div class="container">
 <div id="demo" class="collapse">
 <br>

@@ -46,6 +46,9 @@
    <img src="/assets/img/snow1.JPG" class="img-responsive">
  </div>
   </div>
+  <br>
+  <br>
+  <br>
   <div class="container cw">
    <div class="row">
      <div class="col-md-12">
@@ -59,7 +62,9 @@
 </div>
 </div>
 </div>
-
+<br>
+<br>
+<br>
 <div class="container">
 <div class="row">
 
