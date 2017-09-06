@@ -99,7 +99,7 @@
   </div>
   </div>
   </div>
-  <div style="background-color:#4867aa;" class="container-fluid">
+  <div class="container-fluid backgr1">
     <br>
     <br>
     <br>
