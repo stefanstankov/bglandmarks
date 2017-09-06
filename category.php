@@ -26,7 +26,8 @@
           exit($e);
     }
 ?>
-
+    <br>
+    <br>
     <div class="view">
     <div class="animated fadeInUp text-center flex-center">
       <div class="container">
