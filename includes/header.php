@@ -97,6 +97,8 @@ try {
 <div id="demo" class="collapse">
 <br>
 <br>
+<br>
+<br>
 <div class="row">
 
 	<?php foreach($categories as $category) { ?>

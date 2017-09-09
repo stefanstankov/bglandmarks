@@ -40,28 +40,27 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<br>
-<br>
+<div style="background-color:#07080a" class="container-fluid">
 <div class="animated fadeInUp container text-justify">
-  <div class="container">
-  <div class="row cdiv">
-     <div class="col-md-12">
-   <img src="/assets/img/snow1.JPG" class="img-responsive">
- </div>
-  </div>
-    </div>
-  <br>
-  <div class="container">
-        <div class="panel panel-default panel-article">
-          <div class="panel-heading cw">
-   <h1 class="cw text-color1"><?= WELCOME;?></h1>
-  </div>
-      <div class="custom-p-footer panel-body row">
+  <div class="container about-container aboutbg cdiv">
+  <div class="row">
+    <div class="col-md-12 aboutbg">
+      <img src="/assets/img/snow1.JPG" class="img-responsive">
+      <br>
+      <h1 class="cw text-color1"><?=WELCOME;?></h1>
+      <br>
 <?=ABOUT_BG;?>
 </div>
 </div>
 </div>
 </div>
+<br>
+<br>
+<br>
+</div>
+    <br>
+    <br>
+    <br>
 <div class="container">
 <div class="row">
 
@@ -101,6 +100,9 @@
 
   </div>
   </div>
+  <br>
+  <br>
+  <br>
 <div class="animated fadeInUp container">
   <div class="panel panel-default panel-article">
     <div class="panel-heading">
@@ -182,6 +184,7 @@
                           </div>
                               </div>
                             </div>
+
          <br>
          <br>
        <script>
