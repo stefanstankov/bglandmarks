@@ -40,27 +40,23 @@
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<div style="background-color:#07080a" class="container-fluid">
+
 <div class="animated fadeInUp container text-justify">
   <div class="container about-container aboutbg cdiv">
   <div class="row">
     <div class="col-md-12 aboutbg">
-      <img src="/assets/img/snow1.JPG" class="img-responsive">
-      <br>
       <h1 class="cw text-color1"><?=WELCOME;?></h1>
       <br>
 <?=ABOUT_BG;?>
-</div>
-</div>
+      <br>
+      <img src="/assets/img/snow1.JPG" class="img-responsive">
 </div>
 </div>
 <br>
 <br>
 <br>
 </div>
-    <br>
-    <br>
-    <br>
+</div>
 <div class="container">
 <div class="row">
 
