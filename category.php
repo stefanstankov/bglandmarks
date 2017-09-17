@@ -26,13 +26,10 @@
           exit($e);
     }
 ?>
-
-    
-    <div class="view">
-    <div class="animated fadeInUp text-center flex-center">
-      <div class="container panel1">
-        <div class="panel panel-default panel-article">
-          <div class="panel-heading">
+    <div class="animated fadeInUp text-center">
+      <div class="container">
+        <div class="panel panel-default panel-article panel1">
+          <div class="panel-heading ">
     <h1><span class="text-color1"><?=$category['title']?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h1>
       </div>
 <div class="panel-body row">
@@ -62,6 +59,4 @@
 </div>
     </div>
       </div>
-      </div>
-
         	<?php require 'includes/footer.php' ?>

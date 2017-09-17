@@ -25,9 +25,8 @@ $pageTitle = $row['title'];
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" type="text/css" href="/assets/css/app.css" media="screen" />
 
-<div style="background-color:#07080a" class="container-fluid">
-	<div class="container panel1">
-		<div class="panel panel-default panel-article">
+	<div class="container">
+		<div class="panel panel-default panel-article panel1">
 			<div class="panel-heading">
 					<h2><span class="text-color1"><?= $row['title']?></span><span class="pull-right"><a class="text-color1" href="javascript:history.go(-1)"><i class="fa fa-times" aria-hidden="true"></i></a></span></h2>
 				</div>
@@ -78,7 +77,6 @@ $pageTitle = $row['title'];
           </div>
 <div class="panel-footer">
 	<div class="fb-comments" data-width="100%" data-href="http://www.bglandmarks.com/eagle_rocks.php" data-numposts="5"></div>
-</div>
 </div>
 </div>
 </div>
